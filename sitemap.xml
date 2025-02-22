@@ -1,55 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/CONTRIBUTING.html</loc>
-    <lastmod>2025-02-10T15:46:23.163Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/SECURITY.html</loc>
+    <lastmod>2025-02-22T10:43:54.523Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/README.template.html</loc>
-    <lastmod>2025-02-10T15:46:23.164Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/team.html</loc>
+    <lastmod>2025-02-22T10:43:54.771Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/CHANGELOG.html</loc>
-    <lastmod>2025-02-10T15:46:23.163Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/research-data/handbuch/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/CODE_OF_CONDUCT.html</loc>
-    <lastmod>2025-02-10T15:46:23.163Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/research-data/geodata/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/project-management/communication.html</loc>
-    <lastmod>2025-02-10T15:46:23.166Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/rdm-public-history/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.771Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/project-management/people.html</loc>
-    <lastmod>2025-02-10T15:46:23.166Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/boundary-objects/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/SECURITY.html</loc>
-    <lastmod>2025-02-10T15:46:23.164Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/workshop-halle/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.771Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/project-management/tools.html</loc>
-    <lastmod>2025-02-10T15:46:23.166Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/hag-vortragszyklus-2024/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.771Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/project-management/project-report.html</loc>
-    <lastmod>2025-02-10T15:46:23.166Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/digital-longevity/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/LICENSE-CCBY.html</loc>
-    <lastmod>2025-02-10T15:46:23.164Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/hag-vortragszyklus-2025/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.771Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/report.html</loc>
-    <lastmod>2025-02-10T15:46:23.166Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/dariah-talk-2022/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/LICENSE-AGPL.html</loc>
-    <lastmod>2025-02-10T15:46:23.163Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/coding/portal/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO_NAME/index.html</loc>
-    <lastmod>2025-02-10T15:46:23.165Z</lastmod>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/coding/ord-template/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/digital-history/awesome-digital-history/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/products.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.768Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/TODO.html</loc>
+    <lastmod>2025-02-22T10:43:54.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/LICENSE-CCBY.html</loc>
+    <lastmod>2025-02-22T10:43:54.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/CONTRIBUTING.html</loc>
+    <lastmod>2025-02-22T10:43:54.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/LICENSE-AGPL.html</loc>
+    <lastmod>2025-02-22T10:43:54.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/CHANGELOG.html</loc>
+    <lastmod>2025-02-22T10:43:54.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/about.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/digital-history/digital-history-network/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/digital-history/digihistch24/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/coding/plattform/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/coding/workflow/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/coffee-lecture-bern/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/dhch-rom/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/dariah-poster-2022/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/doing-digital-public-history/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.771Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/fast-prototyping/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.771Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/dariah-talk-2023/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/talks-posters/workshop-digigw/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.771Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/research-data/plots/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/research-data/datenpublikation/index.html</loc>
+    <lastmod>2025-02-22T10:43:54.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/CODE_OF_CONDUCT.html</loc>
+    <lastmod>2025-02-22T10:43:54.523Z</lastmod>
   </url>
 </urlset>
