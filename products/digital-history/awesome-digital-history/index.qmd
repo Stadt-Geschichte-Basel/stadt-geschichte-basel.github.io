@@ -6,7 +6,7 @@ author:
     orcid: 0000-0002-1367-1618
     affiliation: Universität Basel
 date-modified: 2024-03-14
-categories: Other
+categories: Publikation
 lang: de
 citation:
   type: standard

@@ -4,6 +4,7 @@ subtitle: 'Historical Research, Digital Literacy and Algorithmic Criticism'
 categories:
 - Veranstaltung
 - Publikation
+- Community
 author:
   - name: Jérôme Baudry
     orcid: 0000-0002-9949-0681

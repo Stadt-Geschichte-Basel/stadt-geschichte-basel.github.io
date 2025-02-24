@@ -1,6 +1,6 @@
 ---
 title: Digital History Network Switzerland
-categories: 'Other'
+categories: Community
 date-modified: last-modified
 lang: de
 citation:
