@@ -28,9 +28,9 @@ Der Vortrag fand im Rahmen der Internal Lecture Series vom Research and Infrastr
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
-<iframe src="/assets/files/230621-Moritz_Mähr-RISE_internal_lecture.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Research Data Management and Public History">
+<iframe src="/assets/files/230621-Moritz_Maehr-RISE_internal_lecture.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Research Data Management and Public History">
 
-This browser does not support PDFs. Please download the PDF <a href="/assets/files/230621-Moritz_Mähr-RISE_internal_lecture.pdf">download the PDF</a> to view it.
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/230621-Moritz_Maehr-RISE_internal_lecture.pdf">download the PDF</a> to view it.
 
 </iframe>
 :::

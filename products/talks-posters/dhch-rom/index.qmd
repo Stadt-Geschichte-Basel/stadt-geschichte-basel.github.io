@@ -32,9 +32,9 @@ Der Vortrag fand im Rahmen der Veranstaltung [DHCH@ISR: Digital Humanities Metho
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
-<iframe src="/assets/files/20220615-Moritz_Mähr-RDM_in_public_history.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Research Data Management in (Public) History">
+<iframe src="/assets/files/20220615-Moritz_Maehr-RDM_in_public_history.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Research Data Management in (Public) History">
 
-This browser does not support PDFs. Please download the PDF <a href="/assets/files/20220615-Moritz_Mähr-RDM_in_public_history.pdf">download the PDF</a> to view it.
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/20220615-Moritz_Maehr-RDM_in_public_history.pdf">download the PDF</a> to view it.
 
 </iframe>
 :::

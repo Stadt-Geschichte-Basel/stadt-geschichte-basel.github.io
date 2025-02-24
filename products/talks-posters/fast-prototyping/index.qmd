@@ -30,9 +30,9 @@ Der Lightning Talk fand im Rahmen eines [RSE Meetups](https://rse.ethz.ch/) an d
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
-<iframe src="/assets/files/20240604-Moritz_Mähr-RSE_Meetup_Lighting_Talk.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Fast Prototyping: CollectionBuilder's Minimal Computing Approach to Open-Source Collections and Exhibits">
+<iframe src="/assets/files/20240604-Moritz_Maehr-RSE_Meetup_Lighting_Talk.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Fast Prototyping: CollectionBuilder's Minimal Computing Approach to Open-Source Collections and Exhibits">
 
-This browser does not support PDFs. Please download the PDF <a href="/assets/files/20240604-Moritz_Mähr-RSE_Meetup_Lighting_Talk.pdf">download the PDF</a> to view it.
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/20240604-Moritz_Maehr-RSE_Meetup_Lighting_Talk.pdf">download the PDF</a> to view it.
 
 </iframe>
 :::
