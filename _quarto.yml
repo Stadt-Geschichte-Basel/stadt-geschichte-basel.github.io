@@ -43,6 +43,7 @@ format:
   html:
     toc: true
     theme: cosmo
+    link-external-newwindow: true
     code-copy: true
     code-overflow: wrap
     css: styles.css
