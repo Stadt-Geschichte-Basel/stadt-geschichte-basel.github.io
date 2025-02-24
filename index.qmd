@@ -25,4 +25,4 @@ Von unserem Team erarbeitete Lösungen bieten wir als Good-Practice-Beispiele zu
 
 ## Stadt.Geschichte.Basel
 
-Wir sind ein interdisziplinäres [Forschungsprojekt](https://stadtgeschichtebasel.ch), das sich der umfassenden Erforschung und Dokumentation der langen Geschichte von Basel widmet. Über 70 Forscher\*innen und Mitarbeiter\*innen aus verschiedenen Ländern untersuchen die Geschichte Basels von den ersten Siedlungsspuren bis heute. Unser Ziel ist es, einen bedeutenden Beitrag zur Erforschung und Dokumentation der Geschichte von Basel zu leisten und gleichzeitig die Vergangenheit auf zeitgemässe Weise zugänglich zu machen.
+Wir sind ein interdisziplinäres [Forschungsprojekt](/products/about.qmd), das sich der umfassenden Erforschung und Dokumentation der langen Geschichte von Basel widmet. Über 70 Forscher\*innen und Mitarbeiter\*innen aus verschiedenen Ländern untersuchen die Geschichte Basels von den ersten Siedlungsspuren bis heute. Unser Ziel ist es, einen bedeutenden Beitrag zur Erforschung und Dokumentation der Geschichte von Basel zu leisten und gleichzeitig die Vergangenheit auf zeitgemässe Weise zugänglich zu machen.
