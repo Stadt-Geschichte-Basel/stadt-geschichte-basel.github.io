@@ -21,11 +21,14 @@ other-links:
   - text: 'Veranstaltungswebsite'
     icon: house
     href: 'https://www.lhlt.mpg.de/events/36152/3251077/'
+  - text: 'Videoaufzeichnung'
+    icon: camera-reels
+    href: 'https://www.youtube.com/watch?v=6JO7y0MIpsA'
 ---
 
 ## Vortrag
 
-Der Vortrag fand im Rahmen des Seminars [Legal History Meets Digital Humanities](https://www.lhlt.mpg.de/events/36152/3251077/) des Max-Planck-Instituts für Rechtsgeschichte und Rechtstheorie statt, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.10368874).
+Der Vortrag fand im Rahmen des Seminars [Legal History Meets Digital Humanities](https://www.lhlt.mpg.de/events/36152/3251077/) des Max-Planck-Instituts für Rechtsgeschichte und Rechtstheorie statt, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.10368874). Ein Videomitschnitt ist [auf YouTube verfügbar](https://www.youtube.com/watch?v=6JO7y0MIpsA).
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
