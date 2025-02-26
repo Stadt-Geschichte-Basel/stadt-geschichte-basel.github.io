@@ -9,6 +9,7 @@ author:
   orcid: 0000-0002-1367-1618
 date: April 2022
 date-modified: December 2022
+date-format: "MMMM YYYY"
 lang: de-CH
 ---
 
@@ -28,7 +29,7 @@ Ziel des digitalen Projekts ist die Entwicklung eines **Online-Portals** zur Bas
 
 Das Konzept gliedert sich in zwei Hauptarbeitspakete:
 
-## 1. Sammlung, Aufbereitung und Sicherung der Forschungsdaten
+#### 1. Sammlung, Aufbereitung und Sicherung der Forschungsdaten
 
 - **Sammlung und Aufbereitung**  
   - **Bilddatenmanagement:** Erfassung und Verwaltung von Bildmaterial mit Omeka.  
@@ -43,7 +44,7 @@ Das Konzept gliedert sich in zwei Hauptarbeitspakete:
 - **Vermittlung der Forschungsdaten**  
   - Forschungsdaten werden in einer öffentlichen Plattform bereitgestellt.  
 
-## 2. Showcases: Digitale Vermittlungsformate
+#### 2. Showcases: Digitale Vermittlungsformate
 
 Neben der Forschungsdatenaufbereitung werden verschiedene **digitale Vermittlungsformate** entwickelt:
 
@@ -99,7 +100,7 @@ Der Zwischenbericht dokumentiert den aktuellen Stand der digitalen Umsetzung von
 
 ### 1.1 Sammlung und Aufbereitung
 
-- **Erhebung der Arbeitsweise & Bedürfnisse der Autor*innen** durch Umfragen.
+- **Erhebung der Arbeitsweise & Bedürfnisse der Autor\*innen** durch Umfragen.
 - **Data Stewards (Forschungsdatenmanager)** eingestellt, die an Weiterbildungen teilnehmen und Workshops anbieten.
 - **Integration in Lehre:** Praktika für Studierende in "Europäischer Geschichte in globaler Perspektive" und "Digital Humanities".
 - **Technische Konsolidierung:** Migration von E-Mail und Blog zu neuen Plattformen (hypotheses.org, Cloudflare, Universität Bern).
