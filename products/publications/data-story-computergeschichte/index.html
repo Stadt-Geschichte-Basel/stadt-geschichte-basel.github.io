@@ -5,11 +5,11 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
 
-<meta name="author" content="Moritz Mähr">
+<meta name="author" content="Cristina Wildisen-Münch">
 <meta name="author" content="Nico Görlich">
-<meta name="author" content="Moritz Twente">
+<meta name="author" content="Moritz Mähr">
 
-<title>Forschungsdatenplattform – stadt-geschichte-basel.github.io</title>
+<title>Das Kontrollbüro und die Wundermaschine – stadt-geschichte-basel.github.io</title>
 <style>code{white-space:pre-wrap}span.smallcaps{font-variant:small-caps}div.columns{gap:min(4vw,1.5em);display:flex}div.column{flex:auto;overflow-x:auto}div.hanging-indent{text-indent:-1.5em;margin-left:1.5em}ul.task-list{list-style:none}ul.task-list li input[type=checkbox]{vertical-align:middle;width:.8em;margin:0 .8em .2em -1em}</style>
 
 
@@ -20,8 +20,8 @@
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../products/coding/portal/index.html" rel="next">
-<link href="../../../products/products.html" rel="prev">
+<link href="../../../products/publications/handbuch/index.html" rel="next">
+<link href="../../../products/publications/data-story-juedisches_basel/index.html" rel="prev">
 <link href="../../../favicon.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -59,19 +59,16 @@
     "search-label": "Suchen"
   }
 }</script>
-<script src="../../../site_libs/quarto-diagram/mermaid.min.js"></script>
-<script src="../../../site_libs/quarto-diagram/mermaid-init.js"></script>
-<link href="../../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../../../styles.css">
-<meta property="og:title" content="Forschungsdatenplattform – stadt-geschichte-basel.github.io">
-<meta property="og:description" content="forschung.stadtgeschichtebasel.ch">
-<meta property="og:image" content="https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/coding/plattform/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<meta property="og:title" content="Das Kontrollbüro und die Wundermaschine – stadt-geschichte-basel.github.io">
+<meta property="og:description" content="Wie Basel-Stadt in den 1960er Jahren das Einwohnermeldewesen digitalisierte">
+<meta property="og:image" content="https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/publications/data-story-computergeschichte/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
 <meta property="og:site_name" content="stadt-geschichte-basel.github.io">
-<meta name="twitter:title" content="Forschungsdatenplattform – stadt-geschichte-basel.github.io">
-<meta name="twitter:description" content="forschung.stadtgeschichtebasel.ch">
-<meta name="twitter:image" content="https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/coding/plattform/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<meta name="twitter:title" content="Das Kontrollbüro und die Wundermaschine – stadt-geschichte-basel.github.io">
+<meta name="twitter:description" content="Wie Basel-Stadt in den 1960er Jahren das Einwohnermeldewesen digitalisierte">
+<meta name="twitter:image" content="https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/publications/data-story-computergeschichte/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -121,7 +118,7 @@
 ">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../products/products.html">Produkte</a></li><li class="breadcrumb-item"><a href="../../../products/coding/plattform/index.html">Coding</a></li><li class="breadcrumb-item"><a href="../../../products/coding/plattform/index.html">Forschungsdatenplattform</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../products/products.html">Produkte</a></li><li class="breadcrumb-item"><a href="../../../products/publications/data-story-juedisches_basel/index.html">Publications</a></li><li class="breadcrumb-item"><a href="../../../products/publications/data-story-computergeschichte/index.html">Das Kontrollbüro und die Wundermaschine</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="window.quartoToggleHeadroom&&window.quartoToggleHeadroom();
 ">      
         </a>
@@ -151,16 +148,16 @@
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section show depth1">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false">
  <span class="menu-text">Coding</span></a>
-          <a class="text-start sidebar-item-toggle" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+          <a class="text-start collapsed sidebar-item-toggle" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../products/coding/plattform/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../products/coding/plattform/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Forschungsdatenplattform</span></a>
   </div>
 </li>
@@ -232,13 +229,13 @@
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
  <span class="menu-text">Publications</span></a>
-          <a class="text-start collapsed sidebar-item-toggle" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="text-start sidebar-item-toggle" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth2">  
+      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../products/publications/data-story-juedisches_basel/index.html" class="sidebar-item-text sidebar-link">
@@ -247,7 +244,7 @@
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../products/publications/data-story-computergeschichte/index.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../products/publications/data-story-computergeschichte/index.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Das Kontrollbüro und die Wundermaschine</span></a>
   </div>
 </li>
@@ -395,19 +392,26 @@
     <h2 id="toc-title">Auf dieser Seite</h2>
    
   <ul>
-  <li><a href="#plattform" id="toc-plattform" class="nav-link active" data-scroll-target="#plattform">Plattform</a></li>
-  <li><a href="#datenmodell" id="toc-datenmodell" class="nav-link" data-scroll-target="#datenmodell">Datenmodell</a></li>
+  <li><a href="#hintergrund-der-geschichte" id="toc-hintergrund-der-geschichte" class="nav-link active" data-scroll-target="#hintergrund-der-geschichte">Hintergrund der Geschichte</a></li>
+  <li><a href="#schlüsselmomente-der-data-story" id="toc-schlüsselmomente-der-data-story" class="nav-link" data-scroll-target="#schlüsselmomente-der-data-story">Schlüsselmomente der Data Story</a></li>
+  <li><a href="#digitale-vermittlung-umsetzung-der-data-story" id="toc-digitale-vermittlung-umsetzung-der-data-story" class="nav-link" data-scroll-target="#digitale-vermittlung-umsetzung-der-data-story">Digitale Vermittlung: Umsetzung der Data Story</a></li>
+  <li><a href="#bedeutung-für-das-forschungsdatenmanagement" id="toc-bedeutung-für-das-forschungsdatenmanagement" class="nav-link" data-scroll-target="#bedeutung-für-das-forschungsdatenmanagement">Bedeutung für das Forschungsdatenmanagement</a></li>
+  <li><a href="#autorinnen-entwicklung" id="toc-autorinnen-entwicklung" class="nav-link" data-scroll-target="#autorinnen-entwicklung">Autor*innen &amp; Entwicklung</a></li>
+  <li><a href="#fazit" id="toc-fazit" class="nav-link" data-scroll-target="#fazit">Fazit</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/edit/main/products/coding/plattform/index.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="quarto-other-links"><h2>Weitere Links</h2><ul><li><a href="https://forschung.stadtgeschichtebasel.ch/"><i class="bi bi-house"></i>Website</a></li></ul></div><div class="quarto-code-links"><h2>Code-Links</h2><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch/"><i class="bi bi-github"></i>GitHub Repository</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/edit/main/products/publications/data-story-computergeschichte/index.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div><div class="quarto-other-links"><h2>Weitere Links</h2><ul><li><a href="https://storymaps.arcgis.com/stories/6be823309a7b4254aa27b5486703b68b"><i class="bi bi-house"></i>Interaktive Data Story</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="default quarto-title-block"><nav class="quarto-page-breadcrumbs d-lg-block d-none quarto-title-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../products/products.html">Produkte</a></li><li class="breadcrumb-item"><a href="../../../products/coding/plattform/index.html">Coding</a></li><li class="breadcrumb-item"><a href="../../../products/coding/plattform/index.html">Forschungsdatenplattform</a></li></ol></nav>
+<header id="title-block-header" class="default quarto-title-block"><nav class="quarto-page-breadcrumbs d-lg-block d-none quarto-title-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../products/products.html">Produkte</a></li><li class="breadcrumb-item"><a href="../../../products/publications/data-story-juedisches_basel/index.html">Publications</a></li><li class="breadcrumb-item"><a href="../../../products/publications/data-story-computergeschichte/index.html">Das Kontrollbüro und die Wundermaschine</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Forschungsdatenplattform</h1>
-<p class="lead subtitle">forschung.stadtgeschichtebasel.ch</p>
-</div>
+<h1 class="title">Das Kontrollbüro und die Wundermaschine</h1>
+<p class="lead subtitle">Wie Basel-Stadt in den 1960er Jahren das Einwohnermeldewesen digitalisierte</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">Publikation</div>
+  </div>
+  </div>
 
 
 <div class="quarto-title-meta-author">
@@ -415,7 +419,7 @@
   <div class="quarto-title-meta-heading">Zugehörigkeit</div>
   
     <div class="quarto-title-meta-contents">
-    <p class="author">Moritz Mähr <a href="mailto:moritz.maehr@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0002-1367-1618" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
+    <p class="author">Cristina Wildisen-Münch <a href="https://orcid.org/0000-0003-3885-248X" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -431,7 +435,7 @@
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author">Moritz Twente <a href="mailto:mtwente@protonmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0009-0005-7187-9774" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
+    <p class="author">Moritz Mähr <a href="mailto:moritz.maehr@gmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0002-1367-1618" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
@@ -443,13 +447,13 @@
 <div class="quarto-title-meta">
 
       
-  
     <div>
-    <div class="quarto-title-meta-heading">Geändert</div>
+    <div class="quarto-title-meta-heading">Veröffentlichungsdatum</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">26. Februar 2025</p>
+      <p class="date">7. Juni 2022</p>
     </div>
   </div>
+  
     
   </div>
   
@@ -458,56 +462,90 @@
 </header>
 
 
-<section id="plattform" class="level2">
-<h2 class="anchored" data-anchor-id="plattform">Plattform</h2>
-<p>Die <a href="https://forschung.stadtgeschichtebasel.ch/">Forschungsdatenplattform von Stadt.Geschichte.Basel</a> ist eine öffentlich zugängliche digitale Ressource, die darauf abzielt, nachnutzbare Quellen und Daten zur Geschichte der Stadt Basel bereitzustellen. Sie ermöglicht es Forschenden, Studierenden und der interessierten Öffentlichkeit, auf eine Vielzahl von historischen Materialien zuzugreifen, darunter narrative Quellen, historische Texte, Bilder, Karten und audiovisuelle Medien. Diese Vielfalt fördert eine tiefere Auseinandersetzung mit den historischen Themen und unterstützt interdisziplinäre Forschung. Die Plattform befindet sich derzeit in der Testphase und wird kontinuierlich erweitert, mit einem geplanten Abschluss des Projekts Ende 2025. Die Datenaufbereitung erfolgt gemäss dem <a href="../../../products/publications/handbuch/index.html">“Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten”</a>, um eine inklusive und respektvolle Darstellung sicherzustellen.</p>
-<p>Das zugehörige GitHub-Repository (https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch/) enthält den Quellcode der Plattform und bietet Einblicke in die technische Umsetzung. Es basiert auf dem “CollectionBuilder-CSV”-Framework und ist unter der MIT-Lizenz veröffentlicht, was die offene Weiterentwicklung und Anpassung durch die Community ermöglicht. Interessierte Entwickler*innen und Forschende können hier den Code einsehen, Beiträge leisten oder die Struktur für eigene Projekte adaptieren.</p>
-<p>Insgesamt dient die Forschungsdatenplattform als wertvolles Werkzeug, um die reichhaltige Geschichte Basels zugänglich zu machen und den offenen Austausch von Wissen zu fördern.</p>
+<div class="callout callout-note callout-style-default callout-titled">
+<div class="d-flex align-content-center callout-header">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Hinweis
+</div>
+</div>
+<div class="callout-body callout-body-container">
+<p>Beim folgenden Text handelt es sich um eine Zusammenfassung der Data Story “Das Kontrollbüro und die Wundermaschine” (2022). Die vollständige Geschichte ist als <a href="https://storymaps.arcgis.com/stories/6be823309a7b4254aa27b5486703b68b">interaktive Online-Geschichte</a> verfügbar.</p>
+</div>
+</div>
+<p>Die Data Story <strong>“Das Kontrollbüro und die Wundermaschine”</strong> wurde vom <strong>Forschungsdatenmanagement- und Public-History-Team</strong> von <strong>Stadt.Geschichte.Basel</strong> für Workshops und das Online-Portal entwickelt. Sie thematisiert die Einführung der elektronischen Datenverarbeitung in der Verwaltung des Kantons Basel-Stadt und zeigt deren Auswirkungen auf das Einwohnermeldewesen und die frühe Digitalisierung des Staates.</p>
+<section id="hintergrund-der-geschichte" class="level2">
+<h2 class="anchored" data-anchor-id="hintergrund-der-geschichte">Hintergrund der Geschichte</h2>
+<p>Ende der <strong>1960er Jahre</strong> hielt der <strong>Computer</strong> Einzug in die Basler Verwaltung. Inspiriert von utopischen Zukunftsvisionen sollte die sogenannte “Wundermaschine” die Verwaltung effizienter machen. In dieser Zeit begannen das <strong>Kontrollbüro</strong> (heute Einwohneramt) und die <strong>Zentralstelle für elektronische Datenverarbeitung (ZED)</strong>, die analogen <strong>Einwohnerregister zu digitalisieren</strong>. Ziel war es, die über <strong>200.000 Einwohner*innen</strong> des Kantons digital zu erfassen und eine moderne, vernetzte Verwaltung aufzubauen.</p>
+<p>Diese Digitalisierung brachte tiefgreifende Veränderungen mit sich:</p>
+<ul>
+<li><strong>Effizienzsteigerung</strong>: Behördliche Prozesse wurden automatisiert.</li>
+<li><strong>Datenverwaltung</strong>: Neue zentrale Datenbanken entstanden.</li>
+<li><strong>Politische Diskussionen</strong>: Die Kontrolle über digitale Daten führte zu Debatten über Datenschutz und Bürgerrechte.</li>
+</ul>
 </section>
-<section id="datenmodell" class="level2">
-<h2 class="anchored" data-anchor-id="datenmodell">Datenmodell</h2>
-<p>Metadaten für die auf der Forschungsdatenplattform vorgestellten Elemente werden gemäss einem Datenmodell bereitgestellt, das vom Team für Forschungdatenmanagement der Stadt.Geschichte.Basel entwickelt wurde, um den Anforderungen der vielfältigen im Projekt verwendeten Quellen gerecht zu werden. Das Datenmodell (und der anschliessende Annotationsprozess) folgen dem Handbuch zur Erstellung diskriminerungsfreier Metadaten für historische Quellen und Forschungsdaten, das ebenfalls von Stadt.Geschichte.Basel entwickelt wurde.</p>
-<p>Die folgende Grafik veranschaulicht das Datenmodell mit Metadatenfeldern für ein Beispiel-Metadatenobjekt <code>sgb01313</code>, das ein untergeordnetes Medienobjekt <code>m01313</code> hat. Wenn ein Metadatenobjekt mehr als ein untergeordnetes Medienobjekt hat, werden die id-Nummern der untergeordneten Objekte fortlaufend nummeriert: <code>m01313_1</code>, <code>m01313_2</code> usw.</p>
-<div class="cell" data-layout-align="default">
-<div class="cell-output-display">
-<div>
-<p></p><figure class="figure"><p></p>
-<div>
-<pre class="mermaid mermaid-js">classDiagram
-direction LR
-    class metadata {
-        id (sgb01313)
-        title
-        [subject;subject]
-        description
-        temporal
-        [isPartOf;isPartOf] (Data DOIs)
-    }
-    class media {
-        id (m01313)
-        title
-        [subject;subject] (keywords from GenderOpen Index)
-        description
-        [creator] (incl. link to Wikidata)
-        [publisher] (incl. link to Wikidata)
-        date
-        temporal
-        type
-        format
-        extent
-        [source] (Source and catalogue link)
-        language (ISO 639-2 code)
-        [relation] (internal links to other items, link to GitHub, further information)
-        rights
-        license
-    }
-    metadata "n" --&gt; "m" media
-</pre>
-</div>
-<p></p></figure><p></p>
-</div>
-</div>
-</div>
+<section id="schlüsselmomente-der-data-story" class="level2">
+<h2 class="anchored" data-anchor-id="schlüsselmomente-der-data-story">Schlüsselmomente der Data Story</h2>
+<ol type="1">
+<li><strong>Die Expo 1964 als Wendepunkt</strong>
+<ul>
+<li>Auf der Schweizer Landesausstellung stellte <strong>IBM</strong> einen Grossrechner zur Verfügung, um die “Swissness” der Besucher*innen anhand von Fragebögen auszuwerten.<br>
+</li>
+<li>Der Einsatz eines Computers in einer öffentlichen Befragung war eine Sensation und machte die Technologie greifbarer.</li>
+</ul></li>
+<li><strong>Erste Computer in der Basler Verwaltung</strong>
+<ul>
+<li><strong>1969</strong> begann Basel-Stadt als erster Schweizer Kanton, das <strong>Einwohnerregister digital zu erfassen</strong>.<br>
+</li>
+<li>Die Verwaltung erhoffte sich eine effizientere Bearbeitung von Einwohnermeldungen, Bewilligungen und statistischen Erhebungen.</li>
+</ul></li>
+<li><strong>Die “Revolution” im Kontrollbüro (1973)</strong>
+<ul>
+<li>Einführung von <strong>26 Bildschirmterminals</strong> und <strong>14 Schnelldruckern</strong>.<br>
+</li>
+<li>Die Arbeitsabläufe veränderten sich fundamental, Personal musste umgeschult werden.<br>
+</li>
+<li>Suchvorgänge wurden schneller und Verwaltungsdokumente konnten in Sekunden gedruckt werden.</li>
+</ul></li>
+<li><strong>Die neue Macht der Datenbanken</strong>
+<ul>
+<li>Eine zentrale <strong>Verwaltungsdatenbank</strong> ermöglichte Vernetzung zwischen Behörden.<br>
+</li>
+<li>Behörden definierten, welche Daten gespeichert und genutzt wurden.<br>
+</li>
+<li>Die Diskussion über Datenschutz begann – führte letztlich 1997 zum <strong>ersten Schweizer Datenschutzgesetz</strong>.</li>
+</ul></li>
+</ol>
+</section>
+<section id="digitale-vermittlung-umsetzung-der-data-story" class="level2">
+<h2 class="anchored" data-anchor-id="digitale-vermittlung-umsetzung-der-data-story">Digitale Vermittlung: Umsetzung der Data Story</h2>
+<p>Die Data Story wurde als <strong>interaktive Online-Geschichte</strong> konzipiert und verwendet:</p>
+<ul>
+<li><strong>Visualisierte Daten</strong>: Historische Statistiken über Bevölkerung, Migration und Verwaltungsausgaben.</li>
+<li><strong>Interaktive Karten</strong>: Georeferenzierte Darstellungen der Verwaltungsstandorte.</li>
+<li><strong>Audiovisuelle Inhalte</strong>: Archivfotos, computergestützte Verwaltungssysteme, Musik (z. B. France Galls “Der Computer Nr. 3” als kultureller Verweis).</li>
+</ul>
+</section>
+<section id="bedeutung-für-das-forschungsdatenmanagement" class="level2">
+<h2 class="anchored" data-anchor-id="bedeutung-für-das-forschungsdatenmanagement">Bedeutung für das Forschungsdatenmanagement</h2>
+<p>Die Data Story zeigt beispielhaft, wie historische <strong>Forschungsdaten in narrative digitale Formate</strong> überführt werden können. Sie dient als Modell für zukünftige digitale Vermittlungsprojekte und kombiniert <strong>Datenvisualisierung, interaktives Storytelling und historische Forschung</strong>.</p>
+<p>Die Ergebnisse fliessen in die <strong>digitale Plattform von Stadt.Geschichte.Basel</strong> ein und werden in Workshops zu <strong>Data Storytelling</strong> als Best-Practice-Beispiel verwendet.</p>
+</section>
+<section id="autorinnen-entwicklung" class="level2">
+<h2 class="anchored" data-anchor-id="autorinnen-entwicklung">Autor*innen &amp; Entwicklung</h2>
+<p>Die Data Story wurde von:</p>
+<ul>
+<li><strong>Cristina Münch</strong> (Bilddaten &amp; Literaturverwaltung)</li>
+<li><strong>Nico Görlich</strong> (Geodaten &amp; Statistik)</li>
+<li><strong>Moritz Mähr</strong> (Forschungsdatenmanagement &amp; digitale Vermittlung)</li>
+</ul>
+<p>entwickelt und in Workshops an der Universität Basel getestet.</p>
+</section>
+<section id="fazit" class="level2">
+<h2 class="anchored" data-anchor-id="fazit">Fazit</h2>
+<p>“Das Kontrollbüro und die Wundermaschine” erzählt eine Schlüsselgeschichte der <strong>frühen Digitalisierung in der Schweiz</strong>. Sie zeigt, wie Technologie die Verwaltung veränderte, welche neuen Möglichkeiten entstanden – und welche gesellschaftlichen Herausforderungen damit verbunden waren.</p>
 
 
 </section>
@@ -518,13 +556,13 @@ direction LR
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../products/products.html" class="pagination-link" aria-label="Produkte">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Produkte</span>
+      <a href="../../../products/publications/data-story-juedisches_basel/index.html" class="pagination-link" aria-label="Das jüdische Basel 1850–1914">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Das jüdische Basel 1850–1914</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../products/coding/portal/index.html" class="pagination-link" aria-label="Portal">
-        <span class="nav-page-text">Portal</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../../products/publications/handbuch/index.html" class="pagination-link" aria-label="Handbuch für diskriminerungsfreie Metadaten">
+        <span class="nav-page-text">Handbuch für diskriminerungsfreie Metadaten</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -533,4 +571,4 @@ direction LR
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-md-none d-sm-block"><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/edit/main/products/coding/plattform/index.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-md-none d-sm-block"><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/edit/main/products/publications/data-story-computergeschichte/index.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></div></div></footer></body></html>

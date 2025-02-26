@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
     "listing": "/products/products.html",
     "items": [
       "/products/talks-posters/hag-vortragszyklus-2025/index.html",
@@ -16,21 +20,20 @@
       "/products/talks-posters/dariah-poster-2022/index.html",
       "/products/talks-posters/dariah-talk-2022/index.html",
       "/products/talks-posters/dhch-rom/index.html",
-      "/products/digital-history/awesome-digital-history/index.html",
-      "/products/digital-history/digital-history-network/index.html",
-      "/products/digital-history/digihistch24/index.html",
       "/products/coding/portal/index.html",
       "/products/coding/ord-template/index.html",
       "/products/coding/plattform/index.html",
-      "/products/coding/workflow/index.html",
+      "/products/digital-history/awesome-digital-history/index.html",
+      "/products/digital-history/digital-history-network/index.html",
+      "/products/digital-history/digihistch24/index.html",
+      "/products/interna/workflow/index.html",
+      "/products/interna/digitalkonzept/index.html",
+      "/products/publications/data-story-computergeschichte/index.html",
+      "/products/publications/data-story-juedisches_basel/index.html",
+      "/products/publications/handbuch/index.html",
       "/products/research-data/datenpublikation/index.html",
       "/products/research-data/plots/index.html",
-      "/products/research-data/geodata/index.html",
-      "/products/research-data/handbuch/index.html"
+      "/products/research-data/geodata/index.html"
     ]
-  },
-  {
-    "listing": "/index.html",
-    "items": []
   }
 ]

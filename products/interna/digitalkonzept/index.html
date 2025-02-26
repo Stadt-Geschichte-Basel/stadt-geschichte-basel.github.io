@@ -1,17 +1,13 @@
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH" xml:lang="de-CH"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
 
-<meta name="author" content="Nico Görlich">
 <meta name="author" content="Moritz Mähr">
-<meta name="author" content="Cristina Münch">
-<meta name="author" content="Moritz Twente">
-<meta name="author" content="Noëlle Schnegg">
 
-<title>Datenpublikation – stadt-geschichte-basel.github.io</title>
+<title>Konzepts “Stadt.Geschichte.Basel digital” – stadt-geschichte-basel.github.io</title>
 <style>code{white-space:pre-wrap}span.smallcaps{font-variant:small-caps}div.columns{gap:min(4vw,1.5em);display:flex}div.column{flex:auto;overflow-x:auto}div.hanging-indent{text-indent:-1.5em;margin-left:1.5em}ul.task-list{list-style:none}ul.task-list li input[type=checkbox]{vertical-align:middle;width:.8em;margin:0 .8em .2em -1em}</style>
 
 
@@ -22,8 +18,8 @@
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../products/research-data/geodata/index.html" rel="next">
-<link href="../../../products/research-data/plots/index.html" rel="prev">
+<link href="../../../products/publications/data-story-juedisches_basel/index.html" rel="next">
+<link href="../../../products/interna/workflow/index.html" rel="prev">
 <link href="../../../favicon.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -64,13 +60,13 @@
 
 
 <link rel="stylesheet" href="../../../styles.css">
-<meta property="og:title" content="Datenpublikation – stadt-geschichte-basel.github.io">
-<meta property="og:description" content="">
-<meta property="og:image" content="https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/research-data/datenpublikation/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<meta property="og:title" content="Konzepts “Stadt.Geschichte.Basel digital” – stadt-geschichte-basel.github.io">
+<meta property="og:description" content="Und Zwischenbericht">
+<meta property="og:image" content="https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/interna/digitalkonzept/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
 <meta property="og:site_name" content="stadt-geschichte-basel.github.io">
-<meta name="twitter:title" content="Datenpublikation – stadt-geschichte-basel.github.io">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/research-data/datenpublikation/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
+<meta name="twitter:title" content="Konzepts “Stadt.Geschichte.Basel digital” – stadt-geschichte-basel.github.io">
+<meta name="twitter:description" content="Und Zwischenbericht">
+<meta name="twitter:image" content="https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/products/interna/digitalkonzept/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -120,7 +116,7 @@
 ">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../products/products.html">Produkte</a></li><li class="breadcrumb-item"><a href="../../../products/research-data/plots/index.html">Research Data</a></li><li class="breadcrumb-item"><a href="../../../products/research-data/datenpublikation/index.html">Datenpublikation</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../products/products.html">Produkte</a></li><li class="breadcrumb-item"><a href="../../../products/interna/workflow/index.html">Interna</a></li><li class="breadcrumb-item"><a href="../../../products/interna/digitalkonzept/index.html">Konzepts “Stadt.Geschichte.Basel digital”</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="window.quartoToggleHeadroom&&window.quartoToggleHeadroom();
 ">      
         </a>
@@ -208,13 +204,13 @@
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
  <span class="menu-text">Interna</span></a>
-          <a class="text-start collapsed sidebar-item-toggle" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
+          <a class="text-start sidebar-item-toggle" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2">  
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../products/interna/workflow/index.html" class="sidebar-item-text sidebar-link">
@@ -223,7 +219,7 @@
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../products/interna/digitalkonzept/index.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../products/interna/digitalkonzept/index.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Konzepts “Stadt.Geschichte.Basel digital”</span></a>
   </div>
 </li>
@@ -260,13 +256,13 @@
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false">
  <span class="menu-text">Research Data</span></a>
-          <a class="text-start sidebar-item-toggle" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Abschnitt umschalten">
+          <a class="text-start collapsed sidebar-item-toggle" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="false" aria-label="Abschnitt umschalten">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth2">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../products/research-data/plots/index.html" class="sidebar-item-text sidebar-link">
@@ -275,7 +271,7 @@
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../products/research-data/datenpublikation/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../products/research-data/datenpublikation/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Datenpublikation</span></a>
   </div>
 </li>
@@ -394,61 +390,59 @@
     <h2 id="toc-title">Auf dieser Seite</h2>
    
   <ul>
-  <li><a href="#datenpublikation" id="toc-datenpublikation" class="nav-link active" data-scroll-target="#datenpublikation">Datenpublikation</a></li>
+  <li><a href="#zusammenfassung-des-konzepts-stadt.geschichte.basel-digital-april-2022" id="toc-zusammenfassung-des-konzepts-stadt.geschichte.basel-digital-april-2022" class="nav-link active" data-scroll-target="#zusammenfassung-des-konzepts-stadt.geschichte.basel-digital-april-2022">Zusammenfassung des Konzepts “Stadt.Geschichte.Basel digital” (April 2022)</a>
+  <ul class="collapse">
+  <li><a href="#einleitung" id="toc-einleitung" class="nav-link" data-scroll-target="#einleitung">Einleitung</a></li>
+  <li><a href="#zentrale-arbeitspakete" id="toc-zentrale-arbeitspakete" class="nav-link" data-scroll-target="#zentrale-arbeitspakete">Zentrale Arbeitspakete</a></li>
+  </ul></li>
+  <li><a href="#sammlung-aufbereitung-und-sicherung-der-forschungsdaten" id="toc-sammlung-aufbereitung-und-sicherung-der-forschungsdaten" class="nav-link" data-scroll-target="#sammlung-aufbereitung-und-sicherung-der-forschungsdaten">1. Sammlung, Aufbereitung und Sicherung der Forschungsdaten</a></li>
+  <li><a href="#showcases-digitale-vermittlungsformate" id="toc-showcases-digitale-vermittlungsformate" class="nav-link" data-scroll-target="#showcases-digitale-vermittlungsformate">2. Showcases: Digitale Vermittlungsformate</a>
+  <ul class="collapse">
+  <li><a href="#technische-und-methodische-grundsätze" id="toc-technische-und-methodische-grundsätze" class="nav-link" data-scroll-target="#technische-und-methodische-grundsätze">Technische und methodische Grundsätze</a></li>
+  <li><a href="#zeitplan-budget" id="toc-zeitplan-budget" class="nav-link" data-scroll-target="#zeitplan-budget">Zeitplan &amp; Budget</a></li>
+  </ul></li>
+  <li><a href="#beurteilung" id="toc-beurteilung" class="nav-link" data-scroll-target="#beurteilung">Beurteilung</a></li>
+  <li><a href="#zusammenfassung-des-zwischenberichts-stadt.geschichte.basel-digital-dezember-2022" id="toc-zusammenfassung-des-zwischenberichts-stadt.geschichte.basel-digital-dezember-2022" class="nav-link" data-scroll-target="#zusammenfassung-des-zwischenberichts-stadt.geschichte.basel-digital-dezember-2022">Zusammenfassung des Zwischenberichts “Stadt.Geschichte.Basel digital” (Dezember 2022)</a>
+  <ul class="collapse">
+  <li><a href="#einleitung-1" id="toc-einleitung-1" class="nav-link" data-scroll-target="#einleitung-1">Einleitung</a></li>
+  </ul></li>
+  <li><a href="#arbeitspaket-forschungsdaten" id="toc-arbeitspaket-forschungsdaten" class="nav-link" data-scroll-target="#arbeitspaket-forschungsdaten">1. Arbeitspaket: Forschungsdaten</a>
+  <ul class="collapse">
+  <li><a href="#sammlung-und-aufbereitung" id="toc-sammlung-und-aufbereitung" class="nav-link" data-scroll-target="#sammlung-und-aufbereitung">1.1 Sammlung und Aufbereitung</a></li>
+  <li><a href="#sicherung-der-forschungsdaten" id="toc-sicherung-der-forschungsdaten" class="nav-link" data-scroll-target="#sicherung-der-forschungsdaten">1.2 Sicherung der Forschungsdaten</a></li>
+  <li><a href="#vermittlung-der-forschungsdaten-über-die-plattform" id="toc-vermittlung-der-forschungsdaten-über-die-plattform" class="nav-link" data-scroll-target="#vermittlung-der-forschungsdaten-über-die-plattform">1.3 Vermittlung der Forschungsdaten über die Plattform</a></li>
+  </ul></li>
+  <li><a href="#arbeitspaket-showcases" id="toc-arbeitspaket-showcases" class="nav-link" data-scroll-target="#arbeitspaket-showcases">2. Arbeitspaket: Showcases</a>
+  <ul class="collapse">
+  <li><a href="#portal-stadtgeschichtebasel.ch" id="toc-portal-stadtgeschichtebasel.ch" class="nav-link" data-scroll-target="#portal-stadtgeschichtebasel.ch">2.1 Portal – stadtgeschichtebasel.ch</a></li>
+  <li><a href="#data-histories-showcase-2" id="toc-data-histories-showcase-2" class="nav-link" data-scroll-target="#data-histories-showcase-2">2.2 Data Histories (Showcase #2)</a></li>
+  <li><a href="#vermittlung-via-partner-showcase-3" id="toc-vermittlung-via-partner-showcase-3" class="nav-link" data-scroll-target="#vermittlung-via-partner-showcase-3">2.3 Vermittlung via Partner (Showcase #3)</a></li>
+  </ul></li>
+  <li><a href="#budget-personal" id="toc-budget-personal" class="nav-link" data-scroll-target="#budget-personal">Budget &amp; Personal</a></li>
+  <li><a href="#beurteilung-1" id="toc-beurteilung-1" class="nav-link" data-scroll-target="#beurteilung-1">Beurteilung</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/edit/main/products/research-data/datenpublikation/index.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/edit/main/products/interna/digitalkonzept/index.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="default quarto-title-block"><nav class="quarto-page-breadcrumbs d-lg-block d-none quarto-title-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../products/products.html">Produkte</a></li><li class="breadcrumb-item"><a href="../../../products/research-data/plots/index.html">Research Data</a></li><li class="breadcrumb-item"><a href="../../../products/research-data/datenpublikation/index.html">Datenpublikation</a></li></ol></nav>
+<header id="title-block-header" class="default quarto-title-block"><nav class="quarto-page-breadcrumbs d-lg-block d-none quarto-title-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../products/products.html">Produkte</a></li><li class="breadcrumb-item"><a href="../../../products/interna/workflow/index.html">Interna</a></li><li class="breadcrumb-item"><a href="../../../products/interna/digitalkonzept/index.html">Konzepts “Stadt.Geschichte.Basel digital”</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Datenpublikation</h1>
+<h1 class="title">Konzepts “Stadt.Geschichte.Basel digital”</h1>
+<p class="lead subtitle">Und Zwischenbericht</p>
 </div>
 
 
 <div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Autor:innen</div>
-  <div class="quarto-title-meta-heading">Zugehörigkeiten</div>
+  <div class="quarto-title-meta-heading">Autor:in</div>
+  <div class="quarto-title-meta-heading">Zugehörigkeit</div>
   
-    <div class="quarto-title-meta-contents">
-    <p class="author">Nico Görlich <a href="https://orcid.org/0000-0003-3860-1488" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Universität Basel
-          </p>
-      </div>
     <div class="quarto-title-meta-contents">
     <p class="author">Moritz Mähr <a href="mailto:moritz.maehr@unibas.ch" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0002-1367-1618" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
-            University of Basel
-          </p>
-      </div>
-    <div class="quarto-title-meta-contents">
-    <p class="author">Cristina Münch <a href="mailto:c.muench@unibas.ch" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0003-3885-248X" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
             Universität Basel
-          </p>
-      </div>
-    <div class="quarto-title-meta-contents">
-    <p class="author">Moritz Twente <a href="mailto:mtwente@protonmail.com" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0009-0005-7187-9774" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Universität Basel
-          </p>
-      </div>
-    <div class="quarto-title-meta-contents">
-    <p class="author">Noëlle Schnegg <a href="mailto:noelle.schnegg@unibas.ch" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0009-0008-5207-6652" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==" alt=""></a></p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            University of Basel
           </p>
       </div>
   </div>
@@ -456,11 +450,17 @@
 <div class="quarto-title-meta">
 
       
+    <div>
+    <div class="quarto-title-meta-heading">Veröffentlichungsdatum</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">1. April 2022</p>
+    </div>
+  </div>
   
     <div>
     <div class="quarto-title-meta-heading">Geändert</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">26. Februar 2025</p>
+      <p class="date-modified">1. Dezember 2022</p>
     </div>
   </div>
     
@@ -471,9 +471,244 @@
 </header>
 
 
-<section id="datenpublikation" class="level2">
-<h2 class="anchored" data-anchor-id="datenpublikation">Datenpublikation</h2>
-<p>Wir arbeite an der Publikation von Forschungsdaten und stellen diese in verschiedenen Formaten zur Verfügung. Unsere Forschungsdaten sind FAIR (Findable, Accessible, Interoperable, Reusable) und Open Access. Wir veröffentlichen unsere Forschungsdaten in geeigneten Repositorien (<a href="https://www.dasch.swiss/">DaSCH</a> und <a href="https://zenodo.org/communities/stadt-geschichte-basel/">ZENODO</a>) und stellen Metadaten zur Verfügung, um die Auffindbarkeit und Nachnutzung der Daten zu erleichtern bis Ende 2025.</p>
+<div class="callout callout-note callout-style-default callout-titled">
+<div class="d-flex align-content-center callout-header">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Hinweis
+</div>
+</div>
+<div class="callout-body callout-body-container">
+<p>Beim folgenden Text handelt es sich um eine Zusammenfassung des Konzepts “Stadt.Geschichte.Basel digital” (April 2022) und des Zwischenberichts (Dezember 2022). Die vollständigen Dokumente sind auf Anfrage erhältlich.</p>
+</div>
+</div>
+<section id="zusammenfassung-des-konzepts-stadt.geschichte.basel-digital-april-2022" class="level2">
+<h2 class="anchored" data-anchor-id="zusammenfassung-des-konzepts-stadt.geschichte.basel-digital-april-2022">Zusammenfassung des Konzepts “Stadt.Geschichte.Basel digital” (April 2022)</h2>
+<section id="einleitung" class="level3">
+<h3 class="anchored" data-anchor-id="einleitung">Einleitung</h3>
+<p>Das Konzept “Stadt.Geschichte.Basel digital” konkretisiert den digitalen Teil des Gesamtprojekts <strong>Stadt.Geschichte.Basel</strong>. Es basiert auf einem Auftrag des Kantons Basel-Stadt und wurde im Februar 2021 vom Herausgebergremium verabschiedet. Das Projekt soll in zwei Phasen umgesetzt werden, wobei die erste Phase (2021–2023) durch ein bewilligtes Budget gedeckt ist. Die zweite Phase wird aktuell konzipiert.</p>
+<p>Ziel des digitalen Projekts ist die Entwicklung eines <strong>Online-Portals</strong> zur Basler Stadtgeschichte mit offenen Forschungsdaten, digitalen Vermittlungsangeboten und innovativen Darstellungsformaten.</p>
+</section>
+<section id="zentrale-arbeitspakete" class="level3">
+<h3 class="anchored" data-anchor-id="zentrale-arbeitspakete">Zentrale Arbeitspakete</h3>
+<p>Das Konzept gliedert sich in zwei Hauptarbeitspakete:</p>
+</section>
+</section>
+<section id="sammlung-aufbereitung-und-sicherung-der-forschungsdaten" class="level2">
+<h2 class="anchored" data-anchor-id="sammlung-aufbereitung-und-sicherung-der-forschungsdaten">1. Sammlung, Aufbereitung und Sicherung der Forschungsdaten</h2>
+<ul>
+<li><strong>Sammlung und Aufbereitung</strong>
+<ul>
+<li><strong>Bilddatenmanagement:</strong> Erfassung und Verwaltung von Bildmaterial mit Omeka.<br>
+</li>
+<li><strong>Kartenmaterial:</strong> Erstellung interaktiver Karten mit ArcGIS Online.<br>
+</li>
+<li><strong>Literaturverwaltung:</strong> Nutzung einer Zotero-Bibliothek für Quellen.<br>
+</li>
+<li><strong>Tabellen:</strong> Strukturierte Erfassung historischer Daten.</li>
+</ul></li>
+<li><strong>Sicherung der Forschungsdaten</strong>
+<ul>
+<li>Speicherung in <strong>GitHub- und GitLab-Repositorien</strong> der Universität Basel.<br>
+</li>
+<li><strong>Langzeitarchivierung</strong> über <strong>Zenodo (CERN)</strong> und Nationalbibliothek.</li>
+</ul></li>
+<li><strong>Vermittlung der Forschungsdaten</strong>
+<ul>
+<li>Forschungsdaten werden in einer öffentlichen Plattform bereitgestellt.</li>
+</ul></li>
+</ul>
+</section>
+<section id="showcases-digitale-vermittlungsformate" class="level2">
+<h2 class="anchored" data-anchor-id="showcases-digitale-vermittlungsformate">2. Showcases: Digitale Vermittlungsformate</h2>
+<p>Neben der Forschungsdatenaufbereitung werden verschiedene <strong>digitale Vermittlungsformate</strong> entwickelt:</p>
+<ul>
+<li><strong>Showcase 1: Online-Portal</strong>
+<ul>
+<li>Das zentrale <strong>Portal</strong> bietet Zugang zu Stadtgeschichte, Datenbanken und Projektdokumentationen.<br>
+</li>
+<li>Technische Umsetzung: Flat-File CMS (Jekyll, Svelte) mit GitHub Pages.<br>
+</li>
+<li>Exemplarische Vorbilder: <a href="https://www.berlin.de/berlin-im-ueberblick/geschichte/">Berlin im Überblick</a>, <a href="https://www.geneve-int.ch/de/geschichte">Geschichte Genfs</a>.</li>
+</ul></li>
+<li><strong>Showcase 2: Data Histories (Data Storytelling)</strong>
+<ul>
+<li>Nutzung von <strong>ArcGIS StoryMaps</strong>, um Forschungsergebnisse narrativ mit interaktiven Daten zu verknüpfen.<br>
+</li>
+<li>Vorbilder: <a href="https://storymaps.arcgis.com/stories/0f58d49c566b486482b3e64e9e5f7ac9">Redlining Policies (USA)</a>, <a href="https://storymaps.arcgis.com/stories/a68973822394482d97c06e0e1b40ac59">Climate Change Maps</a>.</li>
+</ul></li>
+<li><strong>Showcase 3: Vermittlung über Partner</strong>
+<ul>
+<li><strong>Augmented Stadtrundgänge:</strong> QR-Codes für interaktive Stadtführungen.<br>
+</li>
+<li><strong>Podcast-Reihe:</strong> Interviews mit Autor*innen zur Basler Stadtgeschichte.<br>
+</li>
+<li><strong>Unterrichtseinheiten:</strong> Erstellung von Lehrmaterial für Schulen.</li>
+</ul></li>
+</ul>
+<section id="technische-und-methodische-grundsätze" class="level3">
+<h3 class="anchored" data-anchor-id="technische-und-methodische-grundsätze">Technische und methodische Grundsätze</h3>
+<p>Das Konzept folgt modernen <strong>wissenschaftlichen Standards</strong>:</p>
+<ul>
+<li><strong>FAIR-Prinzipien</strong> (Findable, Accessible, Interoperable, Reusable).<br>
+</li>
+<li><strong>Langzeitarchivierung und Open Access</strong> (SNF-Kriterien).<br>
+</li>
+<li><strong>Digitale Nachhaltigkeit und Minimal Computing</strong>.<br>
+</li>
+<li><strong>Einhaltung von Open-Science- und Open-Source-Standards</strong>.</li>
+</ul>
+</section>
+<section id="zeitplan-budget" class="level3">
+<h3 class="anchored" data-anchor-id="zeitplan-budget">Zeitplan &amp; Budget</h3>
+<ul>
+<li><strong>Projektphase 1 (2021–2023)</strong>: Entwicklung von Forschungsdaten-Plattform &amp; Showcases.<br>
+</li>
+<li><strong>Projektphase 2 (ab 2023)</strong>: Erweiterung &amp; kontinuierliche Aktualisierung.</li>
+</ul>
+<p>Wesentliche Kostenpunkte:</p>
+<ul>
+<li>Leitung, Datenmanagement, Schulungen.<br>
+</li>
+<li>Entwicklung von Portal und Vermittlungsangeboten.</li>
+</ul>
+</section>
+</section>
+<section id="beurteilung" class="level2">
+<h2 class="anchored" data-anchor-id="beurteilung">Beurteilung</h2>
+<p>“Stadt.Geschichte.Basel digital” verfolgt einen <strong>ganzheitlichen Ansatz</strong>, der Forschung, Technologie und öffentliche Vermittlung verbindet. Die Kombination aus <strong>offenen Forschungsdaten, digitalen Storytelling-Formaten und interaktiven Vermittlungsangeboten</strong> macht das Projekt zu einer innovativen digitalen Stadtgeschichte.</p>
+<hr>
+</section>
+<section id="zusammenfassung-des-zwischenberichts-stadt.geschichte.basel-digital-dezember-2022" class="level2">
+<h2 class="anchored" data-anchor-id="zusammenfassung-des-zwischenberichts-stadt.geschichte.basel-digital-dezember-2022">Zusammenfassung des Zwischenberichts “Stadt.Geschichte.Basel digital” (Dezember 2022)</h2>
+<section id="einleitung-1" class="level3">
+<h3 class="anchored" data-anchor-id="einleitung-1">Einleitung</h3>
+<p>Der Zwischenbericht dokumentiert den aktuellen Stand der digitalen Umsetzung von <strong>Stadt.Geschichte.Basel</strong> und konkretisiert die zweite Projektphase (April 2023 – Dezember 2025). Die festgelegten Arbeitspakete sowie die beteiligten internen und externen Anspruchsgruppen bleiben bestehen:</p>
+<ul>
+<li><strong>Arbeitspaket 1 (Forschungsdaten):</strong> Sammlung, Aufbereitung und Sicherung von Forschungsdaten durch Forscher*innen, Archive und Bibliotheken.</li>
+<li><strong>Arbeitspaket 2 (Showcases):</strong> Entwicklung digitaler Vermittlungsangebote für Schulen, Medien, Gedächtnisinstitutionen und die Öffentlichkeit.</li>
+</ul>
+</section>
+</section>
+<section id="arbeitspaket-forschungsdaten" class="level2">
+<h2 class="anchored" data-anchor-id="arbeitspaket-forschungsdaten">1. Arbeitspaket: Forschungsdaten</h2>
+<section id="sammlung-und-aufbereitung" class="level3">
+<h3 class="anchored" data-anchor-id="sammlung-und-aufbereitung">1.1 Sammlung und Aufbereitung</h3>
+<ul>
+<li>**Erhebung der Arbeitsweise &amp; Bedürfnisse der Autor*innen** durch Umfragen.</li>
+<li><strong>Data Stewards (Forschungsdatenmanager)</strong> eingestellt, die an Weiterbildungen teilnehmen und Workshops anbieten.</li>
+<li><strong>Integration in Lehre:</strong> Praktika für Studierende in “Europäischer Geschichte in globaler Perspektive” und “Digital Humanities”.</li>
+<li><strong>Technische Konsolidierung:</strong> Migration von E-Mail und Blog zu neuen Plattformen (hypotheses.org, Cloudflare, Universität Bern).</li>
+</ul>
+<p><strong>Spezifische Bereiche:</strong></p>
+<ul>
+<li><strong>Bilddaten:</strong> Omeka als Plattform für Bildarchivierung und Metadaten-Standardisierung.</li>
+<li><strong>Kartenmaterial:</strong> Nutzung von ArcGIS Online, Kooperation mit Basler Vermessungsamt (GVA).</li>
+<li><strong>Literaturverwaltung:</strong> Zotero als zentrales Tool, kontinuierliche Backups und angepasster Zitierstil.</li>
+<li><strong>Tabellen:</strong> Nutzung von Google Sheets, OpenRefine und Datasette zur strukturierten Datenerfassung.</li>
+</ul>
+</section>
+<section id="sicherung-der-forschungsdaten" class="level3">
+<h3 class="anchored" data-anchor-id="sicherung-der-forschungsdaten">1.2 Sicherung der Forschungsdaten</h3>
+<ul>
+<li><strong>Versionierung:</strong> Nutzung von <strong>GitHub &amp; GitLab</strong> für Forschungsdaten.</li>
+<li><strong>Langzeitarchivierung:</strong> Speicherung über <strong>Zenodo (CERN)</strong> und das Staatsarchiv Basel-Stadt.</li>
+<li><strong>Spezifische Plattformen für verschiedene Datentypen:</strong>
+<ul>
+<li>Bilder: Omeka<br>
+</li>
+<li>Karten: ArcGIS<br>
+</li>
+<li>Literatur: Zotero<br>
+</li>
+<li>Tabellen: Zenodo</li>
+</ul></li>
+</ul>
+</section>
+<section id="vermittlung-der-forschungsdaten-über-die-plattform" class="level3">
+<h3 class="anchored" data-anchor-id="vermittlung-der-forschungsdaten-über-die-plattform">1.3 Vermittlung der Forschungsdaten über die Plattform</h3>
+<ul>
+<li>Forschungsdaten werden auf <a href="https://forschung.stadtgeschichtebasel.ch/">forschung.stadtgeschichtebasel.ch</a> veröffentlicht.</li>
+<li>Inhalte werden im Vier-Augen-Prinzip geprüft, mit Metadaten versehen und zur Nachnutzung angeboten.</li>
+<li>Erweiterung der Plattform mit <strong>Bibliografie, Data Stories und Forschungsprojekten</strong>.</li>
+<li>Digitale Stadtrundgänge, Podcasts und interaktive Karten werden eingebunden.</li>
+</ul>
+</section>
+</section>
+<section id="arbeitspaket-showcases" class="level2">
+<h2 class="anchored" data-anchor-id="arbeitspaket-showcases">2. Arbeitspaket: Showcases</h2>
+<section id="portal-stadtgeschichtebasel.ch" class="level3">
+<h3 class="anchored" data-anchor-id="portal-stadtgeschichtebasel.ch">2.1 Portal – <a href="https://stadtgeschichtebasel.ch/">stadtgeschichtebasel.ch</a></h3>
+<ul>
+<li>Umsetzung einer <strong>Mobile-First-Strategie</strong> mit Fokus auf Nutzerfreundlichkeit.</li>
+<li>Erhebung der <strong>Bedürfnisse der Vermittlungspartner</strong> durch Umfragen.</li>
+<li>Entwicklung eines <strong>Prototyps</strong> mit Card Sorting und Wireframes.</li>
+<li>Integration von:
+<ul>
+<li><strong>Blog &amp; Newsletter</strong></li>
+<li><strong>Agenda &amp; Karte mit historischen Orten</strong></li>
+<li><strong>Zugang zu Data Stories, digitalen Stadtrundgängen und Podcasts</strong></li>
+</ul></li>
+</ul>
+</section>
+<section id="data-histories-showcase-2" class="level3">
+<h3 class="anchored" data-anchor-id="data-histories-showcase-2">2.2 Data Histories (Showcase #2)</h3>
+<ul>
+<li><strong>Evaluierung geeigneter Storytelling-Tools:</strong> ArcGIS StoryMap, StorylineJS, Juncture, CollectionBuilder.</li>
+<li><strong>Entwicklung erster Data Stories:</strong>
+<ul>
+<li>Digitalisierung der Basler Verwaltung ab 1960.<br>
+</li>
+<li>Betriebszählung im frühen 20. Jahrhundert.<br>
+</li>
+</ul></li>
+<li><strong>Best Practices für Data Storytelling</strong> werden erarbeitet und angewendet.</li>
+</ul>
+</section>
+<section id="vermittlung-via-partner-showcase-3" class="level3">
+<h3 class="anchored" data-anchor-id="vermittlung-via-partner-showcase-3">2.3 Vermittlung via Partner (Showcase #3)</h3>
+<ul>
+<li>Fokusgruppen mit Forschenden und Gedächtnisinstitutionen durchgeführt.</li>
+<li><strong>Erweiterung der Vermittlungskanäle:</strong>
+<ul>
+<li>Augmented Reality Stadtrundgänge<br>
+</li>
+<li>Podcasts mit Interviews zur Stadtgeschichte<br>
+</li>
+<li>Unterrichtseinheiten für Schulen<br>
+</li>
+</ul></li>
+<li><strong>Kooperationspartner</strong> wie Frauenstadtrundgang Basel oder Landesmuseum Zürich eingebunden.</li>
+</ul>
+</section>
+</section>
+<section id="budget-personal" class="level2">
+<h2 class="anchored" data-anchor-id="budget-personal">Budget &amp; Personal</h2>
+<ul>
+<li><strong>Verlängerung der Leitung “Digital” und der Data Steward Positionen bis 2025.</strong></li>
+<li><strong>Zusätzliche wissenschaftliche Hilfskräfte</strong> werden eingestellt.</li>
+<li><strong>Externe Aufträge für Showcases:</strong>
+<ul>
+<li><strong>Icona</strong>: Grafische Umsetzung des Portals.<br>
+</li>
+<li><strong>Kleiolab &amp; RISE</strong>: Entwicklung von Data Stories.<br>
+</li>
+<li><strong>EDV-Dienstleister</strong>: Hosting &amp; Infrastruktur.</li>
+</ul></li>
+</ul>
+</section>
+<section id="beurteilung-1" class="level2">
+<h2 class="anchored" data-anchor-id="beurteilung-1">Beurteilung</h2>
+<p>Das digitale Projekt <strong>“Stadt.Geschichte.Basel”</strong> hat grosse Fortschritte gemacht:</p>
+<ul>
+<li>Die Forschungsdaten sind systematisch erfasst, gesichert und öffentlich zugänglich.</li>
+<li>Das Online-Portal wird kontinuierlich verbessert, mit einer Mobile-First-Strategie.</li>
+<li>Neue Vermittlungsformate wie <strong>Data Stories, Podcasts und AR-Stadtrundgänge</strong> sind in Entwicklung.</li>
+<li>Die zweite Projektphase (2023–2025) fokussiert auf <strong>Verstetigung &amp; nachhaltige Integration</strong>.</li>
+</ul>
+<p>Das Projekt wird weiterhin <strong>interdisziplinär, partizipativ und datengetrieben</strong> umgesetzt, um die Stadtgeschichte Basels modern und interaktiv zu vermitteln.</p>
 
 
 </section>
@@ -484,13 +719,13 @@
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../products/research-data/plots/index.html" class="pagination-link" aria-label="Diagramme und Statistiken">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Diagramme und Statistiken</span>
+      <a href="../../../products/interna/workflow/index.html" class="pagination-link" aria-label="Code Management Workflow">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Code Management Workflow</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../products/research-data/geodata/index.html" class="pagination-link" aria-label="Geodaten">
-        <span class="nav-page-text">Geodaten</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../../products/publications/data-story-juedisches_basel/index.html" class="pagination-link" aria-label="Das jüdische Basel 1850–1914">
+        <span class="nav-page-text">Das jüdische Basel 1850–1914</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -499,4 +734,4 @@
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-md-none d-sm-block"><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/edit/main/products/research-data/datenpublikation/index.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-md-none d-sm-block"><ul><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/edit/main/products/interna/digitalkonzept/index.qmd" class="toc-action"><i class="bi bi-github"></i>Seite editieren</a></li><li><a href="https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose" class="toc-action"><i class="bi empty"></i>Problem melden</a></li></ul></div></div></div></footer></body></html>
