@@ -1,5 +1,5 @@
 ---
-title: 'Konzepts "Stadt.Geschichte.Basel digital"'
+title: 'Konzept "Stadt.Geschichte.Basel digital"'
 subtitle: Und Zwischenbericht
 category: Interna
 author: 
