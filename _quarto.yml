@@ -29,7 +29,7 @@ website:
       - text: Team
         href: team.qmd
       - text: Über
-        href: products/about.qmd
+        href: about.qmd
 
   sidebar:
     contents:

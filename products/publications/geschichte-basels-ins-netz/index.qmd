@@ -1,0 +1,38 @@
+---
+title: Die Geschichte von Basel ins Netz stellen
+subtitle: Beteiligung relevanter Anspruchsgruppen an der Entwicklung eines nachhaltigen und offenen Public-History-Portals
+category: Publikation
+author: 
+- name: Moritz Mähr
+  email: moritz.maehr@unibas.ch
+  affiliation: Universität Basel
+  orcid: 0000-0002-1367-1618
+date: 2024-05-01
+lang: de-DE
+doi: 10.14361/9783839469675-007
+other-links:
+  - text: HTML
+    icon: filetype-html
+    href: 'https://www.transcript-open.de/doi/10.14361/9783839469675-007?html#read-container'
+  - text: PDF
+    icon: filetype-pdf
+    href: '/assets/files/9783839469675-007.pdf'
+---
+
+::: {.callout-tip title="Kapitel anzeigen" icon="false" collapse="true"}
+<iframe src="/assets/files/9783839469675-007.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Die Geschichte von Basel ins Netz stellen">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/9783839469675-007.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
+
+Das Public-History-Portal **Stadt.Geschichte.Basel** wurde entwickelt, um die Stadtgeschichte Basels auf einer digitalen Plattform zugänglich zu machen. Der Artikel analysiert die methodischen und organisatorischen Herausforderungen eines solchen interdisziplinären Projekts und beschreibt die Einbindung relevanter Anspruchsgruppen mithilfe von **User-Centered Design (UCD)** und dem Konzept der **Trading Zones** nach Max Kemman.
+
+Da das Projekt sowohl eine **zehnbändige Buchreihe** als auch ein digitales Portal umfasst, wurde frühzeitig ein **iteratives und agiles Projektmanagement** etabliert. Die Planung orientierte sich an den Bedürfnissen von Forschenden, Museen, Archiven und Schulen. Erste Umfragen ergaben, dass Forschende primär an gedruckten Publikationen interessiert sind, während Vermittlungsinstitutionen **digitale Formate und Datenbanken** zwar als ergänzende, aber nicht primäre Arbeitsinstrumente betrachten.
+
+Basierend auf diesen Erkenntnissen wurde das **digitale Portal als nachhaltige, barrierefreie und wartungsarme Plattform** konzipiert. Es enthält **eine Forschungsdatenbank, interaktive Data Stories, eine Agenda, eine Bibliografie und digitale Stadtrundgänge**. Um eine enge Anbindung an bestehende Vermittlungsstrukturen zu gewährleisten, wurden **Kooperationsprogramme mit Museen, Archiven und Schulen** aufgebaut.
+
+Die Umsetzung erfolgt mit **geringer technischer Komplexität** unter Verwendung von Open-Source-Software, um langfristige Archivierung und Anpassungsfähigkeit zu gewährleisten. Die inhaltliche und technische Entwicklung wurde in enger Zusammenarbeit mit Nutzer*innen durchgeführt, wobei regelmäßige Workshops und Umfragen zur **kontinuierlichen Optimierung des Portals** beitragen. Zentrale Herausforderungen sind die Finanzierung über das Projektende hinaus und die nachhaltige Integration in das bestehende Vermittlungssystem.
+
+Das Projekt zeigt, dass digitale Geschichtsvermittlung nicht nur technologische, sondern auch **soziokulturelle und organisatorische Fragen** lösen muss. Ein nachhaltiges Digital-Humanities-Projekt erfordert **interdisziplinäre Kooperation, kontinuierliches Monitoring und eine flexible Anpassung an Nutzerbedürfnisse**.

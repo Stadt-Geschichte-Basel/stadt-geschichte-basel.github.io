@@ -1,0 +1,102 @@
+---
+title: Mit Bioarchäologie Geschichte schreiben
+subtitle: Die spätantike Gräbergruppe ‹Basel-Waisenhaus›
+author:
+  - name: Margaux L. C. Depaermentier
+    orcid: 0000-0002-1801-3358
+    affiliation: Universität Basel
+date: 9 January 2024
+categories: Publikation
+lang: de
+appendix-cite-as: display
+other-links:
+  - text: Interaktive Data Story
+    icon: house
+    href: 'https://storymaps.arcgis.com/stories/54d35e03bcdf4841b092d4c4906227e9'
+  - text: Druckansicht
+    icon: filetype-pdf
+    href: '/assets/files/20240109-Depaermentier_Bioarchaelogie.pdf'
+---
+
+::: callout-note
+Beim folgenden Text handelt es sich um eine Zusammenfassung der Data Story "Mit Bioarchäologie Geschichte schreiben" (2024). Die vollständige Geschichte ist als [interaktive Online-Geschichte](https://storymaps.arcgis.com/stories/54d35e03bcdf4841b092d4c4906227e9) oder als [PDF](/assets/files/20240109-Depaermentier_Bioarchaelogie.pdf) verfügbar.
+:::
+
+## Einleitung
+
+Die Data Story **"Mit Bioarchäologie Geschichte schreiben"** befasst sich mit der spätantiken Gräbergruppe **Basel-Waisenhaus**, die im Jahr 2010 bei Bauarbeiten entdeckt wurde. Diese Bestattungsstätte, die sich im rechtsrheinischen **Kleinbasel** befindet, wirft zahlreiche Fragen zur Besiedlung, Mobilität und sozialen Struktur der damaligen Bevölkerung auf.
+
+Das Projekt nutzt **bioarchäologische Methoden**, um neue Erkenntnisse über die dort bestatteten Personen zu gewinnen und traditionelle Annahmen über Migration und Ethnizität in der Spätantike kritisch zu hinterfragen.
+
+## Historischer Kontext
+
+- **3.–5. Jahrhundert n. Chr.:** Die römische Welt durchläuft tiefgreifende politische, wirtschaftliche und klimatische Veränderungen.\
+- **Um 260 n. Chr.:** Der **Limes** wird zurückgezogen, Basel liegt nun direkt an der Grenze des Römischen Reiches.\
+- **Spätantike (370–420 n. Chr.):** Das Gräberfeld Basel-Waisenhaus wird genutzt.\
+- **Traditionelle Annahme:** Bislang wurde vermutet, dass die hier Bestatteten aus einer Gruppe zugewanderter "Barbaren" (Alamannen, Donausueben) stammten.\
+- **Neues Forschungsziel:** Untersuchung der tatsächlichen Herkunft und Lebensweise der Bestatteten mittels bioarchäologischer Methoden.
+
+## Die Untersuchung der Gräbergruppe
+
+In der Data Story werden verschiedene wissenschaftliche Methoden vorgestellt, die für die Analyse der Gräbergruppe genutzt wurden:
+
+### 1. Anthropologie
+
+- Untersuchung der **Knochen und Zähne** zur Bestimmung von Geschlecht, Alter und gesundheitlichem Zustand.\
+- **Befund:**
+  - **11 Bestattete**: 6 Erwachsene (4 Frauen, 2 Männer) und 5 Kleinkinder.\
+  - Auffällig hohe Kindersterblichkeit.\
+  - Spuren harter körperlicher Arbeit und häufiger Bewegung.\
+  - Mann in **Grab 9 starb an einer schweren Schädelverletzung** (möglicherweise durch eine Axt oder ein Schwert verursacht).
+
+### 2. Archäologie
+
+- Gräber waren **einfach in die Erde gelegt**, keine Särge oder Grabkammern.\
+- **Beigaben:**
+  - Glasperlen und Glasgefäße in **zwei Kindergräbern** (Grab 1 und Grab 6).\
+  - Münze in **Grab 6**, möglicherweise ein "Charonspfennig".\
+- Bestattungspraktiken eher **spätrömisch als germanisch**.
+
+### 3. Radiokarbondatierung (14C-Analyse)
+
+- **Datierung des Gräberfelds:** 370–420 n. Chr., zeitgleich mit dem nahegelegenen spätrömischen **munimentum** (Militäranlage in Kleinbasel).\
+- Die archäologische Datierung der Beigaben bestätigte dieses Zeitfenster.
+
+### 4. Isotopenanalysen (Strontium und Sauerstoff)
+
+- Ziel: Herkunft und Mobilität der Bestatteten bestimmen.\
+- Ergebnis:
+  - **Mehrheit wurde in Basel geboren** oder kam in jungen Jahren dorthin.\
+  - **Mann aus Grab 9 und Frau aus Grab 5 kamen als Jugendliche oder Erwachsene aus der Umgebung nach Basel.**\
+  - Kein Nachweis einer großflächigen Migration.
+
+### 5. Genetische Analysen (aDNA)
+
+- Bestimmung der **biologischen Verwandtschaftsverhältnisse**.\
+- **Ergebnisse:**
+  - Kinder **0 und 1 waren Geschwister**.\
+  - Mann in **Grab 9 war wahrscheinlich ihr Onkel oder Großvater**.\
+  - Keine einheitliche ethnische Herkunft – genetische Diversität innerhalb der Gruppe.
+
+### 6. Stickstoff- und Kohlenstoffisotopenanalysen (Ernährung)
+
+- **Homogene Ernährungsgewohnheiten**, hoher Anteil tierischer Produkte.\
+- Stillmuster: Kinder wurden bis zu ihrem frühen Tod gestillt.\
+- Kind in **Grab 0 zeigte auffällige Isotopenwerte, möglicherweise aufgrund von Krankheit.**
+
+## Forschungsergebnisse & Schlussfolgerungen
+
+- Die Analyse zeigt, dass die Bestatteten **keine kürzlich Zugewanderten** waren, sondern **wahrscheinlich seit Generationen in Basel und Umgebung lebten**.\
+- Die Gräbergruppe repräsentiert **eine Familie oder eng verbundene Gemeinschaft**, die in der Spätantike in Kleinbasel ansässig war.\
+- Die Daten widerlegen das traditionelle **"Völkerwanderungsnarrativ"**, das pauschal von germanischen Migrantengruppen ausgeht.\
+- Stattdessen verweist die Untersuchung auf eine **kontinuierliche lokale Bevölkerung**, die sich flexibel an die politischen und wirtschaftlichen Gegebenheiten der Spätantike anpasste.
+
+## Bedeutung für die digitale Geschichtsforschung
+
+Die Data Story zeigt eindrucksvoll, wie interdisziplinäre Forschung – von **Archäologie, Anthropologie bis hin zu DNA-Analysen** – zur Neubewertung historischer Narrative beitragen kann. Sie dient als Best-Practice-Beispiel für die digitale Vermittlung von **Bioarchäologie und Stadtgeschichte**.
+
+Diese Forschung fließt in das **digitale Portal von Stadt.Geschichte.Basel** ein und wird in **Workshops zum Thema "Digitale Geschichte und Bioarchäologie"** als Modell für innovative digitale Wissensvermittlung genutzt.
+
+## Fazit
+
+Die Data Story "Mit Bioarchäologie Geschichte schreiben" bietet einen spannenden Einblick in die Geschichte der Basler Bevölkerung in der Spätantike. Sie zeigt, wie neue wissenschaftliche Methoden alte Annahmen in Frage stellen und zu einem besseren Verständnis der Vergangenheit beitragen können.

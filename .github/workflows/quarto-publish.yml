@@ -15,6 +15,55 @@ permissions:
   pages: write
 
 jobs:
+  lint:
+    name: Lint with Prettier
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Check for linting errors
+        run: npm run check
+
+  deadlinkcheck:
+    name: Deadlink Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # with:
+        # To install LaTeX to build PDF book outputs, uncomment below
+        # tinytex: true
+        # uncomment below and fill to pin a version
+        # version: SPECIFIC-QUARTO-VERSION-HERE
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Start static server to serve built site
+        run: |
+          cd _site
+          nohup python3 -m http.server 5528 &
+          sleep 3  # Give the server time to start
+
+      - name: Check for broken links
+        run: |
+          wget --spider --recursive http://localhost:5528/ || exit 1
+
   build-deploy:
     runs-on: ubuntu-latest
 

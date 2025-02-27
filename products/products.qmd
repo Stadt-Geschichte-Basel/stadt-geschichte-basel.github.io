@@ -4,7 +4,7 @@ lang: de
 listing:
   - id: talks-posters
     type: table
-    categories: true
+    categories: false
     contents:
       - talks-posters/*/index.qmd
     sort: "date desc"
@@ -23,7 +23,7 @@ listing:
     grid-columns: 2
   - id: digital-history
     type: grid
-    categories: true
+    categories: false
     contents: digital-history/*/index.qmd
     fields: [title]
   - id: interna
@@ -33,9 +33,9 @@ listing:
     fields: [title]
   - id: publications
     type: grid
-    categories: true
+    categories: false
     contents: publications/*/index.qmd
-    fields: [title]
+    fields: [title, subtitle]
   - id: research-data
     type: grid
     contents: [research-data/*/index.qmd]
@@ -43,19 +43,6 @@ listing:
     grid-columns: 2
 date-modified: last-modified
 ---
-
-```{=html}
-<!-- TO DO 
-noch in Produktkategorien einsortieren:
-
-- Data Stories
-- Zotero
-- DMP
-- SGB-Wiki
-- Fails dokumentieren
-
--->
-```
 
 ::: {#frontrow}
 :::

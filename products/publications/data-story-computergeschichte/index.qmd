@@ -20,14 +20,13 @@ other-links:
   - text: Interaktive Data Story
     icon: house
     href: 'https://storymaps.arcgis.com/stories/6be823309a7b4254aa27b5486703b68b'
-  # FIXME: Add PDF to ZENODO
-  # - text: Druckansicht
-  #   icon: filetype-pdf
-  #   href: '/assets/files/20220607_Das_Kontrollbüro_und_die_Wundermaschine.pdf'
+  - text: Druckansicht
+    icon: filetype-pdf
+    href: '/assets/files/20220607_Das_Kontrollbuero_und_die_Wundermaschine.pdf'
 ---
 
 ::: callout-note
-Beim folgenden Text handelt es sich um eine Zusammenfassung der Data Story "Das Kontrollbüro und die Wundermaschine" (2022). Die vollständige Geschichte ist als [interaktive Online-Geschichte](https://storymaps.arcgis.com/stories/6be823309a7b4254aa27b5486703b68b) verfügbar.
+Beim folgenden Text handelt es sich um eine Zusammenfassung der Data Story "Das Kontrollbüro und die Wundermaschine" (2022). Die vollständige Geschichte ist als [interaktive Online-Geschichte](https://storymaps.arcgis.com/stories/6be823309a7b4254aa27b5486703b68b) verfügbar oder als [PDF](/assets/files/20220607_Das_Kontrollbuero_und_die_Wundermaschine.pdf) verfügbar.
 :::
 
 Die Data Story **"Das Kontrollbüro und die Wundermaschine"** wurde vom **Forschungsdatenmanagement- und Public-History-Team** von **Stadt.Geschichte.Basel** für Workshops und das Online-Portal entwickelt. Sie thematisiert die Einführung der elektronischen Datenverarbeitung in der Verwaltung des Kantons Basel-Stadt und zeigt deren Auswirkungen auf das Einwohnermeldewesen und die frühe Digitalisierung des Staates.

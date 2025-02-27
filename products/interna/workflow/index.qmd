@@ -26,12 +26,12 @@ code-links:
 
 Das [GitHub-Repository von Stadt.Geschichte.Basel](https://github.com/Stadt-Geschichte-Basel/) dient als zentrale Plattform für die Entwicklung und Verwaltung der digitalen Projekte rund um die Basler Stadtgeschichte. Hier werden verschiedene Repositories gepflegt, darunter:
 
--   [stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch): Der Open-Source-Code des digitalen Portals von Stadt.Geschichte.Basel, entwickelt mit SvelteKit und gehostet auf Cloudflare Pages.
+- [stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch): Der Open-Source-Code des digitalen Portals von Stadt.Geschichte.Basel, entwickelt mit SvelteKit und gehostet auf Cloudflare Pages.
 
--   [forschung.stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch): Der Quellcode der Forschungsdatenplattform, basierend auf CollectionBuilder-CSV und gehostet auf GitHub Pages.
+- [forschung.stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch): Der Quellcode der Forschungsdatenplattform, basierend auf CollectionBuilder-CSV und gehostet auf GitHub Pages.
 
-Für die Zusammenarbeit setzt das Team auf einen Fork-and-Pull-Workflow. Externe Beitragende können das Repository forken, Änderungen vornehmen und anschliessend Pull Requests einreichen. Dieses Vorgehen ermöglicht eine kontrollierte Integration von Beiträgen und fördert eine offene Entwicklungskultur.
+Für die Zusammenarbeit setzt das Team auf einen [Fork-and-Pull-Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962) Externe Beitragende können das Repository forken, Änderungen vornehmen und anschliessend Pull Requests einreichen. Dieses Vorgehen ermöglicht eine kontrollierte Integration von Beiträgen und fördert eine offene Entwicklungskultur.
 
-Zusätzlich nutzt das Projekt GitHub Issues zur Verwaltung von Aufgaben und zur Nachverfolgung von Fehlern. Dies erleichtert die Kommunikation innerhalb des Teams und mit der Community, indem es eine transparente und strukturierte Plattform für Diskussionen und Problemlösungen bietet.
+Zusätzlich nutzt [GitHub Issues](https://docs.github.com/en/issues) und [Projects](<https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects>) zur Verwaltung von Aufgaben und zur Nachverfolgung von Fehlern. Dies erleichtert die Kommunikation innerhalb des Teams und mit der Community, indem es eine transparente und strukturierte Plattform für Diskussionen und Problemlösungen bietet.
 
 Durch diese Arbeitsweise wird sichergestellt, dass die Entwicklung der digitalen Angebote von Stadt.Geschichte.Basel effizient, kollaborativ und nachvollziehbar verläuft.
