@@ -18,9 +18,11 @@ author:
   email: mtwente@protonmail.com
 date: 2023-04-17
 lang: de-CH
+include-before-body:
+  text: '<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">'
 ---
 
-Mit dem Ziel, eine einheitliche visuelle und inhaltliche Darstellung von Stadt.Geschichte.Basel über alle Medien hinweg zu schaffen, wurden diese Gestaltungsgrundlagen als Corporate Identity festgelegt.
+Mit dem Ziel, eine einheitliche visuelle und inhaltliche Darstellung von Stadt.Geschichte.Basel über alle Medien hinweg zu schaffen, wurden folgende Gestaltungsgrundlagen als Corporate Identity festgelegt.
 
 ## Marke und Logo
 
@@ -62,7 +64,7 @@ Die offizielle Schriftmarke im Hochformat lautet:
 Das Logo ist eine überarbeitete Version des Schriftzugs mit leichten typografischen Anpassungen.
 :::
 
-::: {.g-col-6}
+::: {.g-col-6 .col-centered}
 <img src="/assets/img/logo.svg" style="filter: invert(1);" width="50%" alt="Logo">
 :::
 
@@ -70,13 +72,76 @@ Das Logo ist eine überarbeitete Version des Schriftzugs mit leichten typografis
 
 
 ## Schriftarten
-- **Überschriften**:  
-  - *[Euclid Circular A](https://www.swisstypefaces.com/fonts/euclid/)*  
-- **Lauftext**:  
-  - *[Practice](https://optimo.ch/typefaces/practice)* 
-- **Monospace-Schrift (Code/Technik)**:  
-  - *[Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)*  
 
+### Print
+
+::: {.grid}
+
+::: {.g-col-6}
+Für **Überschriften** wird die [Euclid Circular B](https://www.swisstypefaces.com/fonts/euclid) von Swiss Typefaces verwendet.
+:::
+
+::: {.g-col-6 .col-centered}
+![](/assets/img/euclid-sample_nano.svg){width=100%}
+:::
+
+::: {.g-col-6}
+**Lauftext** ist in [Practice](https://optimo.ch/typefaces/practice) von Optimo gesetzt. Als gemeinfreie Alternative kann [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) verwendet werden.
+
+:::
+
+::: {.g-col-6 .col-centered}
+![](/assets/img/practice-sample_nano.svg){width=100%}
+:::
+
+::: {.g-col-6}
+Als **Monospace-Schrift** (Code/Technik) wird [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) verwendet.
+:::
+
+::: {.g-col-6 .col-centered}
+<span style="font-family: 'Source Code Pro', monospace;">while franz.jagen(taxi) and taxi.ist_verwahrlost():
+    taxi.durchfahren("Basel")
+</span>
+:::
+
+:::
+
+### Online
+
+Auf dem von Stadt.Geschichte.Basel entwickelten [Portal](https://www.stadtgeschichtebasel.ch) und der [Forschungsdatenplattform](https://forschung.stadtgeschichtebasel.ch) wird für Überschriften und Lauftext durchgehend Euclid Circular B verwendet.
+
+---
+
+### Dokumenttypen & Vorlagen
+Das Projekt nutzt einheitliche **Formatvorlagen** für alle offiziellen Dokumente.  
+Folgende Formate sind definiert:
+
+#### Standard-Dokumente
+- **Berichte** (Bericht.docx)   
+- **Präsentationen (PowerPoint-Vorlage)**  
+
+#### Typografische Elemente
+Das Layout folgt festen **Strukturvorgaben**:
+- **Titel, Untertitel, Überschriften (H1–H4)**  
+- **Auszeichnungen** (kursiv, fett, fett & kursiv, durchgestrichen)  
+- **Listen** (nummeriert & unnummeriert)  
+- **Links** (Standard & externe URLs)  
+- **Abbildungen mit Bildunterschrift**  
+- **Tabellen mit Legenden**  
+- **Zitate & Bibliografien**  
+- **Monospace für Code oder technische Begriffe**  
+
+### Digitale Umsetzung & Barrierefreiheit
+- Die Webseite und digitalen Inhalte folgen **WCAG AA**-Richtlinien für Barrierefreiheit.  
+- Das Farbkonzept wurde mit **Kontrast-Checkern** überprüft.  
+- **Dark Mode** ist geplant, aber noch nicht umgesetzt.  
+- Web-Technologien nutzen **daisyUI & Bootstrap**, wobei Farbwerte flexibel anpassbar sind.  
+
+- **Tagline, Beschreibung und Schlüsselworte**: Noch festzulegen  
+- **Adresse**: Hirschgässlein 21, 4051 Basel  
+- **Webseite**: [stadtgeschichtebasel.ch](http://stadtgeschichtebasel.ch/)  
+- **E-Mail**: [info@stadtgeschichtebasel.ch](mailto:info@stadtgeschichtebasel.ch)
+- **Barrierefreiheit**: WCAG AA-Standard wird durchgängig gewährleistet  
 
 ## Farbkonzept
 Die Farbpalette ist barrierefrei (WCAG AA) und in **RGB & CMYK** definiert.  
@@ -100,36 +165,3 @@ Zusätzliche Farben für **Statusmeldungen**:
 - **Hintergrund (surface)**: `#666666` (Grau)  
 
 Für Karten- und Druckmedien gibt es eine erweiterte **19-Farben-Palette** mit spezifischen Schattierungen für verschiedene Themen.
-
-### Dokumenttypen & Vorlagen
-Das Projekt nutzt einheitliche **Formatvorlagen** für alle offiziellen Dokumente.  
-Folgende Formate sind definiert:
-
-#### Standard-Dokumente
-- **Berichte** (Bericht.docx)   
-- **Präsentationen (PowerPoint-Vorlage)**  
-
-
-### Typografische Elemente
-Das Layout folgt festen **Strukturvorgaben**:
-- **Titel, Untertitel, Überschriften (H1–H4)**  
-- **Auszeichnungen** (kursiv, fett, fett & kursiv, durchgestrichen)  
-- **Listen** (nummeriert & unnummeriert)  
-- **Links** (Standard & externe URLs)  
-- **Abbildungen mit Bildunterschrift**  
-- **Tabellen mit Legenden**  
-- **Zitate & Bibliografien**  
-- **Monospace für Code oder technische Begriffe**  
-
-
-### Digitale Umsetzung & Barrierefreiheit
-- Die Webseite und digitalen Inhalte folgen **WCAG AA**-Richtlinien für Barrierefreiheit.  
-- Das Farbkonzept wurde mit **Kontrast-Checkern** überprüft.  
-- **Dark Mode** ist geplant, aber noch nicht umgesetzt.  
-- Web-Technologien nutzen **daisyUI & Bootstrap**, wobei Farbwerte flexibel anpassbar sind.  
-
-- **Tagline, Beschreibung und Schlüsselworte**: Noch festzulegen  
-- **Adresse**: Hirschgässlein 21, 4051 Basel  
-- **Webseite**: [stadtgeschichtebasel.ch](http://stadtgeschichtebasel.ch/)  
-- **E-Mail**: [info@stadtgeschichtebasel.ch](mailto:info@stadtgeschichtebasel.ch)
-- **Barrierefreiheit**: WCAG AA-Standard wird durchgängig gewährleistet  

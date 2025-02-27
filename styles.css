@@ -121,3 +121,9 @@ h1 {
 .callout-header {
 	background-color: #ffe880 !important;
 }
+
+.col-centered {
+	float: none;
+	margin-top: auto;
+	margin-bottom: auto;
+}
