@@ -102,7 +102,7 @@ Als **Monospace-Schrift** (Code/Technik) wird [Source Code Pro](https://fonts.go
 
 :::
 
-Auf dem von Stadt.Geschichte.Basel entwickelten [Portal](https://www.stadtgeschichtebasel.ch) und der [Forschungsdatenplattform](https://forschung.stadtgeschichtebasel.ch) wird für Überschriften und Lauftext durchgehend Euclid Circular B verwendet.
+Auf dem von Stadt.Geschichte.Basel entwickelten [Portal](../../coding/portal/index.qmd) und der [Forschungsdatenplattform](../../coding/plattform/index.qmd) wird für Überschriften und Lauftext durchgehend Euclid Circular B verwendet.
 
 ## Dokumenttypen & Vorlagen
 Das Projekt nutzt einheitliche **Formatvorlagen** für alle offiziellen Dokumente. Standardisierte Formate sind für **Berichte** (.docx-Dateien) und **Präsentationen** (.pptx-Dateien) definiert.
@@ -124,34 +124,6 @@ Das Layout folgt festen **Strukturvorgaben**. In den Formatvorlagen sind folgend
 Die digitale Umsetzung des einheitlichen visuellen Auftritts basiert auf der Konzeption der Printprodukte, wird aber auf die von Stadt.Geschichte.Basel eingesetzten Toolkits, Frameworks etc. angepasst. Grundsätzlich gilt:
 
 - Inhalte sind barrierefrei zu gestalten ([Inklusive Gestaltung](../inklusive-gestaltung/index.qmd)). Der [WCAG AA-Standard](https://www.w3.org/WAI/WCAG2AA-Conformance) für **barrierefreie Webinhalte** wird durchgängig gewährleistet.
-- Digitale Angebote wie das [Portal](https://www.stadtgeschichtebasel.ch) sind nach dem Prinzip **Mobile First** gestaltet, werden also zunächst für kleine Bildschirme (z.B. Smartphones) konzipiert und anschliessend für grössere Formate umgesetzt.
-- Für Stadt.Geschichte.Basel [entwickelte digitale Produkte](../../products.qmd#coding) nutzen Web-Technologien wie **daisyUI** und **Bootstrap**, Toolkits mit responsivem Layout und flexibel anpassbaren Farbwerten.
-- Ein **Dark Mode** für Webangebote ist geplant, aber noch nicht umgesetzt.  
-
-### Farbkonzept digital
-
-Aufgrund unterschiedlicher inhaltlicher wie technischer Anforderungen an Print- und Webinhalte wurden zwei verschiedene Farbpaletten definiert. Die visuelle Gestaltung der Online-Angebote orientiert sich dabei farblich an dem Design der zehn Bände von Stadt.Geschichte.Basel. Darüberhinaus basiert das Farbkonzept für die digital angebotenen Produkte auf den 
-
-Die Farbpalette ist barrierefrei (WCAG AA) und in **RGB & CMYK** definiert.  
-Wichtig für **Webdesign, Grafiken und Karten**.
-
-**Hauptfarben:**
-- **Primärfarbe**:  
-  - HEX: `#3A1E3E` (Dunkles Lila)  
-  - RGB: `58, 30, 62`  
-- **Sekundärfarbe**:  
-  - HEX: `#FFE880` (Helles Gelb)  
-  - RGB: `255, 232, 128`  
-- **Tertiärfarbe**:  
-  - HEX: `#86BBD8` (Blau)  
-  - RGB: `134, 187, 216`  
-
-Zusätzliche Farben für **Statusmeldungen**:
-- **Erfolg (success)**: `#DBFE87` (Grün)  
-- **Warnung (warning)**: `#F6AE2D` (Orange)  
-- **Fehler (error)**: `#F63E02` (Rot)  
-- **Hintergrund (surface)**: `#666666` (Grau)  
-
-- Die farbliche Gestaltung wurde mit **Kontrast-Checkern** überprüft.  
-
-Für Karten- und Druckmedien gibt es eine erweiterte **19-Farben-Palette** mit spezifischen Schattierungen für verschiedene Themen.
+- Digitale Angebote wie das [Portal](../../coding/portal/index.qmd) sind nach dem Prinzip **Mobile First** gestaltet, werden also zunächst für kleine Bildschirme (z.B. Smartphones) konzipiert und anschliessend für grössere Formate umgesetzt.
+- Für Stadt.Geschichte.Basel entwickelte digitale Produkte nutzen Web-Technologien wie **daisyUI** und **Bootstrap**, Toolkits mit responsivem Layout und flexibel anpassbaren [Farbwerten](../farbkonzept/index.qmd).
+- Ein **Dark Mode** für Webangebote ist geplant, aber noch nicht umgesetzt.

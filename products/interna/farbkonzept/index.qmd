@@ -1,0 +1,181 @@
+---
+title: Farbkonzept
+category: Varianten für Print und Digital
+author: 
+- name: Cristina Münch
+  affiliation: Universität Basel
+  orcid: 0000-0003-3885-248X
+- name: Nico Görlich
+  affiliation: Universität Basel
+  orcid: 0000-0003-3860-1488
+- name: Moritz Mähr
+  email: moritz.maehr@unibas.ch
+  affiliation: Universität Basel
+  orcid: 0000-0002-1367-1618
+- name: Moritz Twente
+  affiliation: Universität Basel
+  orcid: 0009-0005-7187-9774
+  email: mtwente@protonmail.com
+date: 2023-04-17
+lang: de-CH
+---
+
+Aufgrund unterschiedlicher inhaltlicher wie technischer Anforderungen an Print- und Webinhalte wurden zwei verschiedene Farbpaletten definiert. Die visuelle Gestaltung der Online-Angebote setzt sich daher von den Printprodukten ab, bezieht sich dennoch farblich auf das Design der zehn Bände von Stadt.Geschichte.Basel.
+
+Darüber hinaus basiert das Farbkonzept für die digital angebotenen Produkte auf den eingesetzten Webtechnologien, d.h. auf vorgegebenen Gestaltungsprinzipien. Aus pragmatischen Gründen wurden diese in der Regel übernommen und nur geringfügig angepasst. So bleibt etwa die [in Bootstrap angelegte](https://getbootstrap.com/docs/5.3/customize/color/) Aufteilung in Primär-, Sekundär- und Tertiärfarben sowie weiteren Farben für Statusmeldungen erhalten, mit Blick auf die semantisch einheitliche Auszeichnung von Buttons, Badges etc. sind jedoch Anpassungen erfolgt.
+
+## Farbpalette digital
+
+Die Basis für die Konzeption einer Farbpalette für digitale Anwendungen stellt das allen zehn Bänden der Stadt.Geschichte.Basel als Grundfarbe für das Buchcover dienende Violett dar.
+
+::: {.callout-tip title="Farbwerte-Konfiguration für Tailwind/PostCSS" icon="false" collapse="true"}
+```{.css}
+/* =~= src/app.postcss =~= */
+
+:root {
+	/* =~= Theme Properties =~= */
+	--theme-font-family-base: 'Euclid Circular B', sans-serif;
+	--theme-font-family-heading: 'Euclid Circular B', sans-serif;
+	--theme-font-color-base: 0 0 0;
+	--theme-font-color-dark: 255 255 255;
+	--theme-rounded-base: 4px;
+	--theme-rounded-container: 8px;
+	--theme-border-base: 2px;
+
+	/* =~= Theme On-X Colors =~= */
+	--on-primary: 255 255 255;
+	--on-secondary: 0 0 0;
+	--on-tertiary: 0 0 0;
+	--on-success: 0 0 0;
+	--on-warning: 0 0 0;
+	--on-error: 0 0 0;
+	--on-surface: 255 255 255;
+
+	/* =~= Theme Colors  =~= */
+	/* primary | #3A1E3E */
+	--color-primary-50: 225 221 226;
+	--color-primary-100: 216 210 216;
+	--color-primary-200: 206 199 207;
+	--color-primary-300: 176 165 178;
+	--color-primary-400: 117 98 120;
+	--color-primary-500: 58 30 62;
+	--color-primary-600: 52 27 56;
+	--color-primary-700: 44 23 47;
+	--color-primary-800: 35 18 37;
+	--color-primary-900: 28 15 30;
+
+	/* secondary | #FFE880 */
+	--color-secondary-50: 255 252 236;
+	--color-secondary-100: 255 250 230;
+	--color-secondary-200: 255 249 223;
+	--color-secondary-300: 255 246 204;
+	--color-secondary-400: 255 239 166;
+	--color-secondary-500: 255 232 128;
+	--color-secondary-600: 230 209 115;
+	--color-secondary-700: 191 174 96;
+	--color-secondary-800: 153 139 77;
+	--color-secondary-900: 125 114 63;
+
+	/* tertiary | #86BBD8 */
+	--color-tertiary-50: 237 245 249;
+	--color-tertiary-100: 231 241 247;
+	--color-tertiary-200: 225 238 245;
+	--color-tertiary-300: 207 228 239;
+	--color-tertiary-400: 170 207 228;
+	--color-tertiary-500: 134 187 216;
+	--color-tertiary-600: 121 168 194;
+	--color-tertiary-700: 101 140 162;
+	--color-tertiary-800: 80 112 130;
+	--color-tertiary-900: 66 92 106;
+
+	/* success | #DBFE87 */
+	--color-success-50: 250 255 237;
+	--color-success-100: 248 255 231;
+	--color-success-200: 246 255 225;
+	--color-success-300: 241 255 207;
+	--color-success-400: 230 254 171;
+	--color-success-500: 219 254 135;
+	--color-success-600: 197 229 122;
+	--color-success-700: 164 191 101;
+	--color-success-800: 131 152 81;
+	--color-success-900: 107 124 66;
+
+	/* warning | #F6AE2D */
+	--color-warning-50: 254 243 224;
+	--color-warning-100: 253 239 213;
+	--color-warning-200: 253 235 203;
+	--color-warning-300: 251 223 171;
+	--color-warning-400: 249 198 108;
+	--color-warning-500: 246 174 45;
+	--color-warning-600: 221 157 41;
+	--color-warning-700: 185 131 34;
+	--color-warning-800: 148 104 27;
+	--color-warning-900: 121 85 22;
+
+	/* error | #F63E02 */
+	--color-error-50: 254 226 217;
+	--color-error-100: 253 216 204;
+	--color-error-200: 253 207 192;
+	--color-error-300: 251 178 154;
+	--color-error-400: 249 120 7;
+	--color-error-500: 246 62 2;
+	--color-error-600: 221 56 2;
+	--color-error-700: 185 47 2;
+	--color-error-800: 148 37 1;
+	--color-error-900: 121 30 1;
+
+	/* surface | #666666 */
+	--color-surface-50: 232 232 232;
+	--color-surface-100: 224 224 224;
+	--color-surface-200: 217 217 217;
+	--color-surface-300: 194 194 194;
+	--color-surface-400: 148 148 148;
+	--color-surface-500: 102 102 102;
+	--color-surface-600: 92 92 92;
+	--color-surface-700: 77 77 77;
+	--color-surface-800: 61 61 61;
+	--color-surface-900: 50 50 50;
+}
+```
+:::
+
+darauf aufbauend: Palette für CB
+
+| color_class | color   |
+|-------------|---------|
+| primary     | #3a1e3e |
+| secondary   | #ffe880 |
+| success     | #dbfe87 |
+| info        | #86bbd8 |
+| warning     | #f6ae2d |
+| danger      | #f63e02 |
+| light       | #ffe880 |
+| dark        | #3a1e3e |
+
+: Farbwerte für CollectionBuilder {.hover .sm}
+
+### Print
+
+Die Farbpalette ist barrierefrei (WCAG AA) und in **RGB & CMYK** definiert.  
+Wichtig für **Webdesign, Grafiken und Karten**.
+
+**Hauptfarben:**
+- **Primärfarbe**:  
+  - HEX: `#3A1E3E` (Dunkles Lila)  
+  - RGB: `58, 30, 62`  
+- **Sekundärfarbe**:  
+  - HEX: `#FFE880` (Helles Gelb)  
+  - RGB: `255, 232, 128`  
+- **Tertiärfarbe**:  
+  - HEX: `#86BBD8` (Blau)  
+  - RGB: `134, 187, 216`  
+
+Zusätzliche Farben für **Statusmeldungen**:
+- **Erfolg (success)**: `#DBFE87` (Grün)  
+- **Warnung (warning)**: `#F6AE2D` (Orange)  
+- **Fehler (error)**: `#F63E02` (Rot)  
+- **Hintergrund (surface)**: `#666666` (Grau)  
+
+- Die farbliche Gestaltung wurde mit **Kontrast-Checkern** überprüft.  
+
+Für Karten- und Druckmedien gibt es eine erweiterte **19-Farben-Palette** mit spezifischen Schattierungen für verschiedene Themen.
