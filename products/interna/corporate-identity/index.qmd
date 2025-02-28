@@ -70,80 +70,68 @@ Das Logo ist eine überarbeitete Version des Schriftzugs mit leichten typografis
 
 :::
 
-
 ## Schriftarten
-
-### Print
 
 ::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 Für **Überschriften** wird die [Euclid Circular B](https://www.swisstypefaces.com/fonts/euclid) von Swiss Typefaces verwendet.
 :::
 
-::: {.g-col-6 .col-centered}
+::: {.g-col-12 .g-col-md-6 .col-centered}
 ![](/assets/img/euclid-sample_nano.svg){width=100%}
 :::
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 **Lauftext** ist in [Practice](https://optimo.ch/typefaces/practice) von Optimo gesetzt. Als gemeinfreie Alternative kann [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro) verwendet werden.
 
 :::
 
-::: {.g-col-6 .col-centered}
+::: {.g-col-12 .g-col-md-6 .col-centered}
 ![](/assets/img/practice-sample_nano.svg){width=100%}
 :::
 
-::: {.g-col-6}
+::: {.g-col-12 .g-col-md-6}
 Als **Monospace-Schrift** (Code/Technik) wird [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) verwendet.
 :::
 
-::: {.g-col-6 .col-centered}
-<span style="font-family: 'Source Code Pro', monospace;">while franz.jagen(taxi) and taxi.ist_verwahrlost():
-    taxi.durchfahren("Basel")
-</span>
+::: {.g-col-12 .g-col-md-6 .col-centered}
+<span style="font-family: 'Source Code Pro', monospace;">while (franz.sitzt(taxi) && taxi.istVerwahrlost()) {  
+    taxi.jagt_durch("Basel"); } </span>
 :::
 
 :::
-
-### Online
 
 Auf dem von Stadt.Geschichte.Basel entwickelten [Portal](https://www.stadtgeschichtebasel.ch) und der [Forschungsdatenplattform](https://forschung.stadtgeschichtebasel.ch) wird für Überschriften und Lauftext durchgehend Euclid Circular B verwendet.
 
----
+## Dokumenttypen & Vorlagen
+Das Projekt nutzt einheitliche **Formatvorlagen** für alle offiziellen Dokumente. Standardisierte Formate sind für **Berichte** (.docx-Dateien) und **Präsentationen** (.pptx-Dateien) definiert.
 
-### Dokumenttypen & Vorlagen
-Das Projekt nutzt einheitliche **Formatvorlagen** für alle offiziellen Dokumente.  
-Folgende Formate sind definiert:
+### Typografische Elemente
+Das Layout folgt festen **Strukturvorgaben**. In den Formatvorlagen sind folgende Elemente festgesetzt:
 
-#### Standard-Dokumente
-- **Berichte** (Bericht.docx)   
-- **Präsentationen (PowerPoint-Vorlage)**  
-
-#### Typografische Elemente
-Das Layout folgt festen **Strukturvorgaben**:
-- **Titel, Untertitel, Überschriften (H1–H4)**  
-- **Auszeichnungen** (kursiv, fett, fett & kursiv, durchgestrichen)  
-- **Listen** (nummeriert & unnummeriert)  
-- **Links** (Standard & externe URLs)  
+-  **Titel, Untertitel, Überschriften** (H1–H4)
+- **Auszeichnungen** (kursiv, fett, fett und kursiv, durchgestrichen)  
+- **Listen** (nummeriert und unnummeriert)  
+- **Links** (Standard und externe URLs)  
 - **Abbildungen mit Bildunterschrift**  
 - **Tabellen mit Legenden**  
-- **Zitate & Bibliografien**  
-- **Monospace für Code oder technische Begriffe**  
+- **Zitate und Bibliografien**  
+- **Monospace** für Code oder technische Begriffe
 
-### Digitale Umsetzung & Barrierefreiheit
-- Die Webseite und digitalen Inhalte folgen **WCAG AA**-Richtlinien für Barrierefreiheit.  
-- Das Farbkonzept wurde mit **Kontrast-Checkern** überprüft.  
-- **Dark Mode** ist geplant, aber noch nicht umgesetzt.  
-- Web-Technologien nutzen **daisyUI & Bootstrap**, wobei Farbwerte flexibel anpassbar sind.  
+## Digitale Umsetzung
 
-- **Tagline, Beschreibung und Schlüsselworte**: Noch festzulegen  
-- **Adresse**: Hirschgässlein 21, 4051 Basel  
-- **Webseite**: [stadtgeschichtebasel.ch](http://stadtgeschichtebasel.ch/)  
-- **E-Mail**: [info@stadtgeschichtebasel.ch](mailto:info@stadtgeschichtebasel.ch)
-- **Barrierefreiheit**: WCAG AA-Standard wird durchgängig gewährleistet  
+Die digitale Umsetzung des einheitlichen visuellen Auftritts basiert auf der Konzeption der Printprodukte, wird aber auf die von Stadt.Geschichte.Basel eingesetzten Toolkits, Frameworks etc. angepasst. Grundsätzlich gilt:
 
-## Farbkonzept
+- Inhalte sind barrierefrei zu gestalten ([Inklusive Gestaltung](../inklusive-gestaltung/index.qmd)). Der [WCAG AA-Standard](https://www.w3.org/WAI/WCAG2AA-Conformance) für **barrierefreie Webinhalte** wird durchgängig gewährleistet.
+- Digitale Angebote wie das [Portal](https://www.stadtgeschichtebasel.ch) sind nach dem Prinzip **Mobile First** gestaltet, werden also zunächst für kleine Bildschirme (z.B. Smartphones) konzipiert und anschliessend für grössere Formate umgesetzt.
+- Für Stadt.Geschichte.Basel [entwickelte digitale Produkte](../../products.qmd#coding) nutzen Web-Technologien wie **daisyUI** und **Bootstrap**, Toolkits mit responsivem Layout und flexibel anpassbaren Farbwerten.
+- Ein **Dark Mode** für Webangebote ist geplant, aber noch nicht umgesetzt.  
+
+### Farbkonzept digital
+
+Aufgrund unterschiedlicher inhaltlicher wie technischer Anforderungen an Print- und Webinhalte wurden zwei verschiedene Farbpaletten definiert. Die visuelle Gestaltung der Online-Angebote orientiert sich dabei farblich an dem Design der zehn Bände von Stadt.Geschichte.Basel. Darüberhinaus basiert das Farbkonzept für die digital angebotenen Produkte auf den 
+
 Die Farbpalette ist barrierefrei (WCAG AA) und in **RGB & CMYK** definiert.  
 Wichtig für **Webdesign, Grafiken und Karten**.
 
@@ -163,5 +151,7 @@ Zusätzliche Farben für **Statusmeldungen**:
 - **Warnung (warning)**: `#F6AE2D` (Orange)  
 - **Fehler (error)**: `#F63E02` (Rot)  
 - **Hintergrund (surface)**: `#666666` (Grau)  
+
+- Die farbliche Gestaltung wurde mit **Kontrast-Checkern** überprüft.  
 
 Für Karten- und Druckmedien gibt es eine erweiterte **19-Farben-Palette** mit spezifischen Schattierungen für verschiedene Themen.
