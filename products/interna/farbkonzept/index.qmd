@@ -20,13 +20,15 @@ date: 2023-04-17
 lang: de-CH
 ---
 
-Aufgrund unterschiedlicher inhaltlicher wie technischer Anforderungen an Print- und Webinhalte wurden zwei verschiedene Farbpaletten definiert. Die visuelle Gestaltung der Online-Angebote setzt sich daher von den Printprodukten ab, bezieht sich dennoch farblich auf das Design der zehn Bände von Stadt.Geschichte.Basel.
+Aufgrund unterschiedlicher inhaltlicher wie technischer Anforderungen an Print- und Webinhalte wurden zwei verschiedene Farbpaletten definiert. Die visuelle Gestaltung der Online-Angebote setzt sich daher von den Printprodukten ab, bezieht sich dennoch farblich auf deren Design.
 
-Darüber hinaus basiert das Farbkonzept für die digital angebotenen Produkte auf den eingesetzten Webtechnologien, d.h. auf vorgegebenen Gestaltungsprinzipien. Aus pragmatischen Gründen wurden diese in der Regel übernommen und nur geringfügig angepasst. So bleibt etwa die [in Bootstrap angelegte](https://getbootstrap.com/docs/5.3/customize/color/) Aufteilung in Primär-, Sekundär- und Tertiärfarben sowie weiteren Farben für Statusmeldungen erhalten, mit Blick auf die semantisch einheitliche Auszeichnung von Buttons, Badges etc. sind jedoch Anpassungen erfolgt.
+Darüber hinaus basiert das Farbkonzept für die digital angebotenen Produkte auf den jeweils eingesetzten Webtechnologien, d.h. auf vorgegebenen Gestaltungsprinzipien. Aus pragmatischen Gründen wurden diese in der Regel übernommen und nur geringfügig angepasst. So bleibt etwa die [in Bootstrap angelegte](https://getbootstrap.com/docs/5.3/customize/color/) Aufteilung in Primär-, Sekundär- und Tertiärfarben sowie weiteren Farben für Statusmeldungen erhalten, mit Blick auf die semantisch einheitliche Auszeichnung von Buttons, Badges etc. sind jedoch Anpassungen erfolgt.
 
 ## Farbpalette digital
 
-Die Basis für die Konzeption einer Farbpalette für digitale Anwendungen stellt das allen zehn Bänden der Stadt.Geschichte.Basel als Grundfarbe für das Buchcover dienende Violett dar.
+Die Basis für die Konzeption einer Farbpalette für digitale Anwendungen stellt das Violett dar, das allen zehn Bänden der Stadt.Geschichte.Basel als Grundfarbe dient.
+
+Die Farbdefinition des Portals enthält sieben Farben, die über einen RGB-Wert identifizierbar sind. Darüber hinaus sind noch jeweils neun weitere farbliche [Abstufungen](https://tailwindcss.com/docs/colors) vordefiniert. Diese sind als formatierte Liste hinterlegt:
 
 ::: {.callout-tip title="Farbwerte-Konfiguration für Tailwind/PostCSS" icon="false" collapse="true"}
 ```{.css}
@@ -139,43 +141,43 @@ Die Basis für die Konzeption einer Farbpalette für digitale Anwendungen stellt
 ```
 :::
 
-darauf aufbauend: Palette für CB
+### Forschungsdatenplattform
 
-| color_class | color   |
-|-------------|---------|
-| primary     | #3a1e3e |
-| secondary   | #ffe880 |
-| success     | #dbfe87 |
-| info        | #86bbd8 |
-| warning     | #f6ae2d |
-| danger      | #f63e02 |
-| light       | #ffe880 |
-| dark        | #3a1e3e |
+Die [Forschungsdatenplattform](../../coding/plattform/index.qmd) basiert auf CollectionBuilder, das als Erweiterung von [Bootstrap Sass](https://getbootstrap.com/docs/5.3/customize/sass/) die Definition von angepassten Farbwerten [über eine csv-Datei](https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch/blob/4ec9db74fd76450e45c766f50c73137354028be9/_data/config-theme-colors.csv?plain=1#L1) mit HEX-Werten (siehe @tbl-cbcolours) erlaubt. Die verschiedenen Farben können mit den entsprechenden CSS-Klassen für Texte, Hintergrundflächen sowie Flächen und Umrandungen von Buttons angewendet werden.
 
-: Farbwerte für CollectionBuilder {.hover .sm}
 
-### Print
+| Rolle     | Farbe        | HEX     | RGB         | Beispiel   |
+|-----------|-------------|---------|-------------|----------|
+| primary   | Violett      | #3a1e3e | 58 30 62    | <span style="display:block; width:30%; background-color:#3a1e3e; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| secondary | Gelb         | #ffe880 | 255 232 128 | <span style="display:block; width:30%; background-color:#ffe880; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| success   | Limettengrün     | #dbfe87 | 134 187 216 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| info      | Hellblau | #86bbd8 | 219 254 135 | <span style="display:block; width:30%; background-color:#86bbd8; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| warning   | Orange       | #f6ae2d | 246 174 45  | <span style="display:block; width:30%; background-color:#f6ae2d; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| danger    | Hellrot      | #f63e02 | 246 62 2    | <span style="display:block; width:30%; background-color:#f63e02; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| light     | Gelb         | #ffe880 | 255 232 128 | <span style="display:block; width:30%; background-color:#ffe880; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| dark      | Violett      | #3a1e3e | 58 30 62    | <span style="display:block; width:30%; background-color:#3a1e3e; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| text      | Schwarz      | #191919 | 25 25 25    | <span style="display:block; width:30%; background-color:#191919; border:1px solid #000; aspect-ratio:1/1;"></span> |
+
+: Farbwerte für CollectionBuilder {#tbl-cbcolours .hover .sm .col-centered}
+
+#### Kontrastwerte
+
+Die Farbpalette der Forschungsdatenplattform wurde mit Kontrastcheckern überprüft, um eine barrierefreie Gestaltung [zu gewährleisten](../inklusive-gestaltung/index.qmd). Die Erfüllung des Standards ist zwar nicht in jeder Farbkombination gegeben (siehe @tbl-cbcontrast). Das spielt aber praktisch keine Rolle, da der überwältigende Teil der Anwendungen mit Primär- und Sekundärfarbe umgesetzt wird und die weiteren Farben nur in Ausnahmefällen zur Anwendung kommen.
+
+|              | text                                                                              | primary                                                                           | secondary                                                                         | success                                                                           | info                                                                              | warning                                                                           | danger                                                                            |
+|--------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| bg-primary   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=3A1E3E) |                                                                                   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=3A1E3E)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=3A1E3E) |
+| bg-secondary | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=FFE880)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=FFE880)  |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=FFE880) |
+| bg-success   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=DBFE87)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=DBFE87)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=DBFE87) |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=DBFE87) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=DBFE87) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=DBFE87) |
+| bg-info      | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=86BBD8)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=87BBD8)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=87BBD8) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=87BBD8) |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=87BBD8) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=87BBD8) |
+| bg-warning   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=F6AE2D)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=F6AE2D)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=F6AE2D) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=F6AE2D) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=F6AE2D) |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=F6AE2D) |
+| bg-danger    | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=F63E02) |                                                                                   |
+
+: Kontrast-Check für Text vor farbigem Hintergrund {#tbl-cbcontrast .hover .sm}
+
+## Farbpalette Print
 
 Die Farbpalette ist barrierefrei (WCAG AA) und in **RGB & CMYK** definiert.  
 Wichtig für **Webdesign, Grafiken und Karten**.
-
-**Hauptfarben:**
-- **Primärfarbe**:  
-  - HEX: `#3A1E3E` (Dunkles Lila)  
-  - RGB: `58, 30, 62`  
-- **Sekundärfarbe**:  
-  - HEX: `#FFE880` (Helles Gelb)  
-  - RGB: `255, 232, 128`  
-- **Tertiärfarbe**:  
-  - HEX: `#86BBD8` (Blau)  
-  - RGB: `134, 187, 216`  
-
-Zusätzliche Farben für **Statusmeldungen**:
-- **Erfolg (success)**: `#DBFE87` (Grün)  
-- **Warnung (warning)**: `#F6AE2D` (Orange)  
-- **Fehler (error)**: `#F63E02` (Rot)  
-- **Hintergrund (surface)**: `#666666` (Grau)  
-
-- Die farbliche Gestaltung wurde mit **Kontrast-Checkern** überprüft.  
 
 Für Karten- und Druckmedien gibt es eine erweiterte **19-Farben-Palette** mit spezifischen Schattierungen für verschiedene Themen.
