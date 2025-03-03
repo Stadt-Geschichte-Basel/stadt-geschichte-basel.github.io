@@ -21,7 +21,7 @@ date: 2023-04-17
 lang: de-CH
 ---
 
-Die Basis für die Konzeption einer Farbpalette für digitale Anwendungen stellt das Violett dar, das allen zehn Bänden der Stadt.Geschichte.Basel als Hintergrundfarbe des Buchcovers dient. Die visuelle Gestaltung der Online-Angebote setzt sich daher von den Printprodukten ab, bezieht sich dennoch farblich auf deren Design.
+Die Basis für die Konzeption einer Farbpalette für digitale Anwendungen stellt das Violett dar, das allen zehn Bänden der Stadt.Geschichte.Basel als Hintergrundfarbe des Buchcovers dient. Die visuelle Gestaltung der Online-Angebote setzt sich daher von den Printprodukten ab, bezieht sich dennoch farblich auf deren Design und die [Corporate Identity von Stadt.Geschichte.Basel](../corporate-identity/index.qmd).
 
 - Die gewählten Farben müssen für Nutzer\*innen mit visuellen Einschränkungen zugänglich sein ([Inklusive Gestaltung](../inklusive-gestaltung/index.qmd)).
 - Sie müssen online sowie im Druck für Grafiken und Karten eingesetzt werden können. Sie müssen daher sowohl im RGB-, als auch im CMYK-Farbraum existieren.
@@ -39,11 +39,11 @@ Die Farbdefinition für das Portal enthält sieben Farben, die über einen RGB-W
 
 
 | Rolle     | Farbe        | HEX     | RGB         | Vorschau |
-|-----------|--------------|---------|-------------|----------|
+|-----------|--------------|---------|-------------|:----------|
 | primary   | Violett      | #3a1e3e | 58 30 62    | <span style="display:block; width:30%; background-color:#3a1e3e; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | secondary | Gelb         | #ffe880 | 255 232 128 | <span style="display:block; width:30%; background-color:#ffe880; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | tertiary  | Hellblau     | #86bbd8 | 219 254 135 | <span style="display:block; width:30%; background-color:#86bbd8; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| success   | Limettengrün | #dbfe87 | 134 187 216 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| success   | Hellgrün | #dbfe87 | 134 187 216 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | warning   | Orange       | #f6ae2d | 246 174 45  | <span style="display:block; width:30%; background-color:#f6ae2d; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | error     | Hellrot      | #f63e02 | 246 62 2    | <span style="display:block; width:30%; background-color:#f63e02; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | surface   | Grau         | #666666 | 102 102 102 | <span style="display:block; width:30%; background-color:#666666; border:1px solid #000; aspect-ratio:1/1;"></span>         |
@@ -54,7 +54,7 @@ Die Farbdefinition für das Portal enthält sieben Farben, die über einen RGB-W
 
 Die Farbwerte für das Portal werden [via PostCSS](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch/blob/5e829a2b25935cd5c3631e540574e72d247c4f5d/src/app.postcss) eingebunden.
 
-::: {.callout-tip title="Farbwerte-Konfiguration für Tailwind/PostCSS" icon="false" collapse="true"}
+::: {.callout-tip title="Farbwerte-Konfiguration zum Kopieren für Tailwind/PostCSS" icon="false" collapse="true"}
 ```{.css}
 /* =~= src/app.postcss =~= */
 
@@ -167,7 +167,7 @@ Die Farbwerte für das Portal werden [via PostCSS](https://github.com/Stadt-Gesc
 
 #### Kontrastwerte
 
-Die Farbpalette für das Portal wurde mit Kontrastcheckern überprüft, um eine barrierefreie Gestaltung [zu gewährleisten](../inklusive-gestaltung/index.qmd). Die Erfüllung des Standards ist zwar nicht in jeder Farbkombination gegeben (siehe @tbl-sgbcontrast). Das spielt aber praktisch keine Rolle, da der überwältigende Teil der Anwendungen mit Abstufungen der Primärfarbe umgesetzt wird und die weiteren Farben nur in Ausnahmefällen zur Anwendung kommen.
+Die Farbpalette für das Portal wurde mit Kontrastcheckern überprüft, um eine barrierefreie Gestaltung [zu gewährleisten](../inklusive-gestaltung/index.qmd). Die Erfüllung des WCAG-Standards ist zwar nicht in jeder Farbkombination gegeben (siehe @tbl-sgbcontrast). Das spielt aber praktisch keine Rolle, da der überwältigende Teil der Anwendungen mit Abstufungen der Primärfarbe umgesetzt wird und die weiteren Farben nur in Ausnahmefällen zur Anwendung kommen.
 
 |              | text                                                                              | primary                                                                           | secondary                                                                         | tertiary                                                                          | success                                                                           | warning                                                                           | error                                                                             |
 |--------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -187,10 +187,10 @@ Die [Forschungsdatenplattform](../../coding/plattform/index.qmd) basiert auf Col
 
 
 | Rolle     | Farbe        | HEX     | RGB         | Vorschau   |
-|-----------|-------------|---------|-------------|----------|
+|-----------|-------------|---------|-------------|:----------|
 | primary   | Violett      | #3a1e3e | 58 30 62    | <span style="display:block; width:30%; background-color:#3a1e3e; border:1px solid #000; aspect-ratio:1/1;"></span> |
 | secondary | Gelb         | #ffe880 | 255 232 128 | <span style="display:block; width:30%; background-color:#ffe880; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| success   | Limettengrün     | #dbfe87 | 134 187 216 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| success   | Hellgrün     | #dbfe87 | 134 187 216 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span> |
 | info      | Hellblau | #86bbd8 | 219 254 135 | <span style="display:block; width:30%; background-color:#86bbd8; border:1px solid #000; aspect-ratio:1/1;"></span> |
 | warning   | Orange       | #f6ae2d | 246 174 45  | <span style="display:block; width:30%; background-color:#f6ae2d; border:1px solid #000; aspect-ratio:1/1;"></span> |
 | danger    | Hellrot      | #f63e02 | 246 62 2    | <span style="display:block; width:30%; background-color:#f63e02; border:1px solid #000; aspect-ratio:1/1;"></span> |
@@ -202,7 +202,7 @@ Die [Forschungsdatenplattform](../../coding/plattform/index.qmd) basiert auf Col
 
 Die definierte Farbpalette für CollectionBuilder wird [über eine csv-Datei](https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch/blob/4ec9db74fd76450e45c766f50c73137354028be9/_data/config-theme-colors.csv?plain=1) eingebunden.
 
-::: {.callout-tip title="Farbwerte-Konfiguration (CSV) für CollectionBuilder" icon="false" collapse="true"}
+::: {.callout-tip title="Farbwerte-Konfiguration (CSV) zum Kopieren für CollectionBuilder" icon="false" collapse="true"}
 ```{.html}
 color_class,color
 primary,#3a1e3e
@@ -218,7 +218,7 @@ dark,#3a1e3e
 
 #### Kontrastwerte
 
-Die Farbpalette der Forschungsdatenplattform wurde mit Kontrastcheckern überprüft, um eine barrierefreie Gestaltung [zu gewährleisten](../inklusive-gestaltung/index.qmd). Die Erfüllung des Standards ist zwar nicht in jeder Farbkombination gegeben (siehe @tbl-cbcontrast). Das spielt aber praktisch keine Rolle, da der überwältigende Teil der Anwendungen mit Primär- und Sekundärfarbe umgesetzt wird und die weiteren Farben nur in Ausnahmefällen zur Anwendung kommen.
+Die Farbpalette der Forschungsdatenplattform wurde mit Kontrastcheckern überprüft, um eine barrierefreie Gestaltung [zu gewährleisten](../inklusive-gestaltung/index.qmd). Die Erfüllung des WCAG-Standards ist zwar nicht in jeder Farbkombination gegeben (siehe @tbl-cbcontrast). Das spielt aber praktisch keine Rolle, da der überwältigende Teil der Anwendungen mit Primär- und Sekundärfarbe umgesetzt wird und die weiteren Farben nur in Ausnahmefällen zur Anwendung kommen.
 
 |              | text                                                                              | primary                                                                           | secondary                                                                         | success                                                                           | info                                                                              | warning                                                                           | danger                                                                            |
 |--------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
@@ -235,14 +235,16 @@ Die Farbpalette der Forschungsdatenplattform wurde mit Kontrastcheckern überpr�
 
 ## Farbpalette Print
 
-Für die zehn Bände der Stadt.Geschichte.Basel hat das Team für Forschungsdatenmanagement rund 120 Grafiken -- hauptsächlich [Karten](../../research-data/geodata/index.qmd) und [Diagramme](../../research-data/plots/index.qmd) -- bearbeitet bzw. erstellt. In Bezug auf die farbliche Gestaltung bestand neben den bereits genannten Anforderungen zusätzlich noch der Anspruch, eine über alle Bücher hinweg erkennbar zusammenhängende Formensprache zu finden. Dies stellte sich jedoch u.a. aufgrund der Vielzahl an Abbildungstypen (Landkarten, Balkendiagramme, Netzwerkvisualisierungen, etc.), wegen fachspezifisch unterschiedlicher Konventionen zum Einsatz wissenschaftlicher Visualisierungen oder wegen fachlich bedingter Differenzen in Genauigkeit und Vollständigkeit von Grundlagendaten als schwieriges Unterfangen dar.
+Für die zehn Bände der Stadt.Geschichte.Basel hat das Team für Forschungsdatenmanagement über 100 Grafiken -- hauptsächlich [Karten](../../research-data/geodata/index.qmd) und [Diagramme](../../research-data/plots/index.qmd) -- bearbeitet bzw. erstellt. In Bezug auf die farbliche Gestaltung bestand neben den bereits genannten Anforderungen zusätzlich noch der Anspruch, eine über alle Bände hinweg erkennbar zusammenhängende Formensprache zu finden. Dies stellte sich jedoch u.a. aufgrund der Vielzahl an Abbildungstypen (Landkarten, Balkendiagramme, Netzwerkvisualisierungen, etc.), wegen disziplinenspezifisch unterschiedlicher Konventionen zum Einsatz wissenschaftlicher Visualisierungen oder wegen fachlich bedingter Differenzen in Genauigkeit und Vollständigkeit von Grundlagendaten als schwieriges Unterfangen dar.
 
 Der ursprüngliche Ansatz, eine Farbpalette aus bereits vorhandenen Good-Practice-Beispielen für barrierefreie Farbgestaltung auszuwählen, konnte daher nicht direkt umgesetzt werden. Weiterhin hat sich nach der Bearbeitung der ersten Datensätze schnell gezeigt, dass sich die zu visualisierenden Daten untereinander auch strukturell zu stark voneinander unterschieden, um eine universell anwendbare Grundlage zu verwenden (z.B. Anforderungen an Visualisierung diskreter Daten gegenüber kontinuierlicher Daten).
 
-Als Grundlage für die Gestaltung der wissenschaftlichen Abbildungen für die Printprodukte von Stadt.Geschichte.Basel wurde eine Farbpalette -- in zwei Varianten, mit je 23 bzw. 14 Farben -- ausgewählt. Das [Discrete Rainbow Colour Scheme 19](https://sronpersonalpages.nl/~pault/#fig:scheme_rainbow_discrete) ist für Farbenblinde "reasonably clear" [@tol_sequential_2022], sofern die Farbwerte nicht interpoliert werden. Für die [Grafikerstellung in R](../../research-data/plots/index.qmd) ist die Palette auch im Package khroma [verfügbar](https://packages.tesselle.org/khroma/articles/tol.html#rainbow) [@frerebeau_paul_2025].
+Als Grundlage für die Gestaltung der wissenschaftlichen Abbildungen für die Printprodukte von Stadt.Geschichte.Basel wurde eine Farbpalette -- in zwei Varianten, mit je 23 bzw. 14 Farben zzgl. einem Grauwert -- ausgewählt. Das [Discrete Rainbow Colour Scheme 19](https://sronpersonalpages.nl/~pault/#fig:scheme_rainbow_discrete) von Paul Tol ist für Farbenblinde "reasonably clear" [@tol_sequential_2022], sofern die Farbwerte nicht interpoliert werden. Für die [Grafikerstellung in R](../../research-data/plots/index.qmd) ist die Palette auch im Package khroma [verfügbar](https://packages.tesselle.org/khroma/articles/tol.html#rainbow) [@frerebeau_paul_2025].
+
+### Discrete Rainbow Color Scheme 19 (mit 23+1 Farben)
 
 | Farbe     | Nr. | CMYK  | HEX | RGB    | Vorschau   |
-|-----------|-----|------------|----------|-------------|----------|
+|-----------|-----|------------|----------|-------------|:----------|
 | Off-White | 1   | 8 6 0 2    | #e8ecfb  | 232 236 251 | <span style="display:block; width:30%; background-color:#e8ecfb; border:1px solid #000; aspect-ratio:1/1;"></span> |
 | Lila      | 2   | 4 10 0 11  | #d9cce3  | 217 204 227 | <span style="display:block; width:30%; background-color:#d9cce3; border:1px solid #000; aspect-ratio:1/1;"></span> |
 |           | 4   | 0 15 0 20  | #caaccb  | 202 172 203 | <span style="display:block; width:30%; background-color:#caaccb; border:1px solid #000; aspect-ratio:1/1;"></span> |
@@ -268,4 +270,81 @@ Als Grundlage für die Gestaltung der wissenschaftlichen Abbildungen für die Pr
 |           | 29  | 0 68 85 74 | #42150a  | 66 21 10    | <span style="display:block; width:30%; background-color:#42150a; border:1px solid #000; aspect-ratio:1/1;"></span> |
 | Grau      | 30  | 0 0 0 53   | #777777  | 119 119 119 | <span style="display:block; width:30%; background-color:#777777; border:1px solid #000; aspect-ratio:1/1;"></span> |
 
-: Farbpalette für Printprodukte mit 23 Farben [@tol_sequential_2022] {#tbl-sgbprint23 .hover .sm .col-centered}
+: Farbpalette für Printprodukte mit 23 Farben und Grau [nach @tol_sequential_2022] {#tbl-sgbprint23 .hover .sm .col-centered}
+
+::: {.callout-tip title="Farbwerte-Konfiguration (CSV mit 23+1 Farben) zum Kopieren für Print-Anwendungen" icon="false" collapse="true"}
+```{.html}
+Nummer,CMYK,HEX,RGB
+1,"8 6 0 2",#e8ecfb,"232 236 251"
+2,"4 10 0 11",#d9cce3,"217 204 227"
+4,"0 15 0 20",#caaccb,"202 172 203"
+5,"0 24 3 27",#ba8db4,"186 141 180"
+7,"0 35 7 33",#aa6f9e,"170 111 158"
+8,"0 48 11 40",#994f88,"153 79 136"
+9,"0 66 16 47",#882e72,"136 46 114"
+10,"86 43 0 31",#1965b0,"25 101 176"
+11,"65 35 0 25",#437dbf,"67 125 191"
+13,"53 28 0 19",#6195cf,"97 149 207"
+14,"45 21 0 13",#7bafde,"123 175 222"
+15,"56 0 43 30",#4eb265,"78 178 101"
+16,"28 0 33 21",#90c987,"144 201 135"
+17,"10 0 24 12",#cae0ab,"202 224 171"
+18,"0 3 65 3",#f7f056,"247 240 86"
+19,"0 18 72 3",#f7cb45,"247 203 69"
+21,"0 32 78 4",#f4a736,"244 167 54"
+23,"0 46 84 7",#ee8026,"238 128 38"
+25,"0 63 90 10",#e65518,"230 85 24"
+26,"0 98 95 14",#dc050c,"220 5 12"
+27,"0 86 92 35",#a5170e,"165 23 14"
+28,"0 78 88 55",#72190e,"114 25 14"
+29,"0 68 85 74",#42150a,"66 21 10"
+30,"0 0 0 53",#777777,"119 119 119"
+```
+:::
+
+### Discrete Rainbow Color Scheme 19 (mit 14+1 Farben)
+
+| Farbe  | Nr. | CMYK       | HEX     | RGB         | Vorschau |
+|--------|-----|------------|---------|-------------|:----------|
+| Lila   | 3   | 3 13 0 16  | #d1bbd7 | 209 198 215 | <span style="display:block; width:30%; background-color:#d1bbd7; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+|        | 6   | 0 32 6 32  | #ae76a3 | 174 118 163 | <span style="display:block; width:30%; background-color:#ae76a3; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+|        | 9   | 0 66 16 47 | #882e72 | 136 46 114  | <span style="display:block; width:30%; background-color:#882e72; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| Blau   | 10  | 86 43 0 31 | #1965b0 | 25 101 176  | <span style="display:block; width:30%; background-color:#1965b0; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+|        | 12  | 59 31 0 22 | #5289c7 | 82 137 199  | <span style="display:block; width:30%; background-color:#5289c7; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+|        | 14  | 45 21 0 13 | #7bafde | 123 175 222 | <span style="display:block; width:30%; background-color:#7bafde; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| Grün   | 15  | 56 0 43 30 | #4eb265 | 78 178 101  | <span style="display:block; width:30%; background-color:#4eb265; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+|        | 16  | 28 0 33 21 | #90c987 | 144 201 135 | <span style="display:block; width:30%; background-color:#90c987; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+|        | 17  | 10 0 24 12 | #cae0ab | 202 224 171 | <span style="display:block; width:30%; background-color:#cae0ab; border:1px solid #000; aspect-ratio:1/1;"></span>        |
+| Gelb   | 18  | 0 3 65 3   | #f7f056 | 247 240 86  | <span style="display:block; width:30%; background-color:#f7f056; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| Orange | 20  | 0 22 74 4  | #f6c141 | 246 193 65  | <span style="display:block; width:30%; background-color:#f6c141; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+|        | 22  | 0 39 81 5  | #f1932d | 241 147 45  | <span style="display:block; width:30%; background-color:#f1932d; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| Rot    | 24  | 0 59 88 9  | #e8601c | 232 96 28   | <span style="display:block; width:30%; background-color:#e8601c; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+|        | 26  | 0 98 95 14 | #dc050c | 220 5 12    | <span style="display:block; width:30%; background-color:#dc050c; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| Grau   | 30  | 0 0 0 53   | #777777 | 119 119 119 | <span style="display:block; width:30%; background-color:#777777; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+
+: Farbpalette für Printprodukte mit 14 Farben und Grau [nach @tol_sequential_2022] {#tbl-sgbprint14 .hover .sm .col-centered}
+
+::: {.callout-tip title="Farbwerte-Konfiguration (CSV mit 14+1 Farben) zum Kopieren für Print-Anwendungen" icon="false" collapse="true"}
+```{.html}
+Nummer,CMYK,HEX,RGB
+3,"3 13 0 16",#d1bbd7,"209 198 215"
+6,"0 32 6 32",#ae76a3,"174 118 163"
+9,"0 66 16 47",#882e72,"136 46 114"
+10,"86 43 0 31",#1965b0,"25 101 176"
+12,"59 31 0 22",#5289c7,"82 137 199"
+14,"45 21 0 13",#7bafde,"123 175 222"
+15,"56 0 43 30",#4eb265,"78 178 101"
+16,"28 0 33 21",#90c987,"144 201 135"
+17,"10 0 24 12",#cae0ab,"202 224 171"
+18,"0 3 65 3",#f7f056,"247 240 86"
+20,"0 22 74 4",#f6c141,"246 193 65"
+22,"0 39 81 5",#f1932d,"241 147 45"
+24,"0 59 88 9",#e8601c,"232 96 28"
+26,"0 98 95 14",#dc050c,"220 5 12"
+30,"0 0 0 53",#777777,"119 119 119"
+```
+:::
+
+### Anwendung
+
+Dieses Farbschema ist in beiden Varianten für die Verwendung in Print-Produkten geeignet und erfüllt die Anforderungen an eine für Farbenblinde erkennbare Farbpalette. Für Abbildungen, in denen gewisse Farbtöne z.B. aufgrund ästhetischer Ansprüche oder inhaltlicher Assoziationen unerwünscht sind, können einzelne Farbwerte ausgelassen werden. Für diese Fälle empfiehlt @tol_sequential_2022, die von ihm [bereitgestellte Übersicht möglicher Subsets](https://sronpersonalpages.nl/~pault/#fig:scheme_rainbow_discrete_all) der Farbpalette zu verwenden. Auf diese Weise kann eine für farbenblinde geeignete, druckfähige Farbpalette mit bis zu 23 Farbwerten generiert werden.

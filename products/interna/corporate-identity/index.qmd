@@ -125,5 +125,5 @@ Die digitale Umsetzung des einheitlichen visuellen Auftritts basiert auf der Kon
 
 - Inhalte sind barrierefrei zu gestalten ([Inklusive Gestaltung](../inklusive-gestaltung/index.qmd)). Der [WCAG AA-Standard](https://www.w3.org/WAI/WCAG2AA-Conformance) für **barrierefreie Webinhalte** wird durchgängig gewährleistet.
 - Digitale Angebote wie das [Portal](../../coding/portal/index.qmd) sind nach dem Prinzip **Mobile First** gestaltet, werden also zunächst für kleine Bildschirme (z.B. Smartphones) konzipiert und anschliessend für grössere Formate umgesetzt.
-- Für Stadt.Geschichte.Basel entwickelte digitale Produkte nutzen Web-Technologien wie **daisyUI** und **Bootstrap**, Toolkits mit responsivem Layout und flexibel anpassbaren [Farbwerten](../farbkonzept/index.qmd).
+- Für Stadt.Geschichte.Basel entwickelte digitale Produkte nutzen Web-Technologien wie **Tailwind CSS** und **Bootstrap**, Toolkits mit responsivem Layout und flexibel anpassbaren [Farbwerten](../farbkonzept/index.qmd).
 - Ein **Dark Mode** für Webangebote ist geplant, aber noch nicht umgesetzt.
