@@ -1,0 +1,30 @@
+---
+title: Q&A with Moritz Mähr, Stadt.Geschichte.Basel and cb-translate
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel, Universität Bern
+  - name: Julia Stone
+    orcid: 0009-0005-9709-1811
+    affiliation: CollectionBuilder, University of Idaho Library
+date: 2024-04-22
+categories: Publikation
+lang: de
+other-links:
+  - text: Q&A-Post
+    icon: house
+    href: 'https://collectionbuilder.github.io/2024-04-22-cb-moritz-mahr/'
+code-links:
+  - href: 'https://github.com/CollectionBuilder/cb-translate/'
+    text: GitHub Repository
+    icon: github
+---
+
+::: callout-note
+Im Rahmen der Reihe *Project Spotlight Q&A series* hat Julia Stone, CollectionBuilder Community Liaison, Moritz Mähr interviewt. Das vollständige Q&A ist [im CollectionBuilder-Blog verfügbar](https://collectionbuilder.github.io/2024-04-22-cb-moritz-mahr/). 
+:::
+
+## Abstract
+
+In diesem Blog-Post spricht Moritz Mähr, Associate Researcher in Digital Humanities an der Universität Bern und Projektleiter an der Universität Basel, über die [Nutzung von CollectionBuilder im Projekt Stadt.Geschichte.Basel](../../coding/plattform/index.qmd) und seine Beiträge zur Entwicklung des [cb-translate-Templates](https://github.com/CollectionBuilder/cb-translate). Das Projekt Stadt.Geschichte.Basel erforscht die umfangreiche Geschichte Basels von den Anfängen bis zur Gegenwart und nutzt dabei CollectionBuilder, um eine wachsende Sammlung von Quellen auf ihrer Website zugänglich zu machen. Mähr beschreibt auch die Herausforderungen bei der Lokalisierung von CollectionBuilder für nicht-englischsprachige Nutzer und die Implementierung von Übersetzungen für Spanisch und Deutsch im Template cb-translate. Er betont die Vorteile von CollectionBuilder, wie die Einfachheit und die Nutzung bewährter Technologien, und plant, das Template weiterzuentwickeln sowie [Workshops durchzuführen](../../talks-posters/workshop-halle/index.qmd), um weitere Projekte zur Nutzung von CollectionBuilder zu ermutigen.

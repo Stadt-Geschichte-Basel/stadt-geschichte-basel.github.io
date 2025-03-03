@@ -1,0 +1,28 @@
+---
+title: New Urban History am Beispiel von Basel
+subtitle: Analog und Digital
+author:
+  - name: Patrick Kury
+    orcid: 0000-0002-6876-2875
+    affiliation: Universität Luzern, Universität Basel
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel, Universität Bern
+date: 2023-04-18
+categories: Vortrag
+event: Forschungskolloquium des Historischen Seminars, Universität Luzern
+lang: de
+citation:
+  type: standard
+  container-title: 'Forschungskolloquium des Historischen Seminars, Universität Luzern'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://www.unilu.ch/fakultaeten/kultur-und-sozialwissenschaftliche-fakultaet/institute/historisches-seminar/agenda/archiv/new-urban-history-am-beispiel-von-basel-analog-und-digital-7302/'
+---
+
+## Vortrag
+
+Der [Vortrag](https://www.unilu.ch/fakultaeten/kultur-und-sozialwissenschaftliche-fakultaet/institute/historisches-seminar/agenda/archiv/new-urban-history-am-beispiel-von-basel-analog-und-digital-7302/) von Patrick Kury und Moritz Mähr über digitale und analoge New Urban History am Beispiel von Stadt.Geschichte.Basel fand im Rahmen des [Forschungskolloquiums](https://www.unilu.ch/fakultaeten/kultur-und-sozialwissenschaftliche-fakultaet/institute/historisches-seminar/agenda/forschungskolloquium/) des Historischen Seminars an der Universität Luzern statt.

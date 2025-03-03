@@ -1,0 +1,37 @@
+---
+title: FAIR and CARE
+subtitle: Challenges and Opportunities
+author:
+  - name: Iolanda Pensa
+    orcid: 0000-0001-5122-7385
+    affiliation: SUPSI
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Bern, Universität Basel
+  - name: Elena Chestnova
+    orcid: 0000-0002-0654-1313
+    affiliation: Università della Svizzera Italiana
+  - name: Lucie Kolb
+    orcid: 0000-0002-0600-1894
+    affiliation: Hochschule für Gestaltung und Kunst Basel FHNW
+  - name: Linda Ludwig
+    orcid: 0000-0002-8354-3603
+    affiliation: Hochschule für Gestaltung und Kunst Basel FHNW
+date: 2024-11-22
+categories: Roundtable
+event: Fachhochschule Nordwestschweiz, DARIAH-CH Study Day
+lang: de
+citation:
+  type: standard
+  container-title: 'DARIAH-CH Study Day 2024, Fachhochschule Nordwestschweiz'
+appendix-cite-as: display
+other-links:
+  - text: 'Veranstaltungswebsite'
+    icon: house
+    href: 'https://www.dariah.ch/study-day-2024/'
+---
+
+## Roundtable
+
+Die Roundtable-Diskussion fand im Rahmen des [Study Days 2024](https://www.dariah.ch/study-day-2024/) von DARIAH-CH an der Fachhochschule Nordwestschweiz statt. Die Teilnehmer\*innen Iolanda Pensa (SUPSI), Moritz Mähr (UNIBE, UNIBAS), Elena Chestnova (USI) Lucie Kolb (FHNW) und Linda Ludwig (FHNW) diskutierten über Chancen und Herausforderungen, die die Anwendung der FAIR- und CARE-Prinzipien im Datenmanagement mit sich bringen.
