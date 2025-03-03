@@ -21,26 +21,12 @@ date-format: "MMMM YYYY"
 lang: de-CH
 ---
 
-## Barrierefreiheitserklärung
+Das Forschungsprojekt *Stadt.Geschichte.Basel* setzt sich für eine möglichst barrierefreie Gestaltung seiner digitalen Angebote ein. Dies betrifft sowohl unsere zentrale Webseite als auch unseren Blog und die sozialen Medien. Inklusives Design zielt darauf ab, digitale Inhalte und Dienstleistungen für alle Menschen zugänglich und nutzbar zu machen, unabhängig von ihren individuellen Fähigkeiten oder Einschränkungen. Durch die Anwendung der Prinzipien Wahrnehmbarkeit, Bedienbarkeit, Verständlichkeit und Robustheit wird sichergestellt, dass Webseiten barrierefrei gestaltet sind. 
 
-## Sprachregelung
+## **Barrierefreiheitserklärung**  
+Wir bemühen uns, die Online-Angebote von *Stadt.Geschichte.Basel* gemäß den aktuellen Webstandards und den Anforderungen der Barrierefreiheit zu gestalten. Unsere [Barrierefreiheitserklärung](https://stadtgeschichtebasel.ch/barrierefreiheitserklaerung) beschreibt, welche Maßnahmen wir umsetzen, um die Zugänglichkeit zu gewährleisten, darunter die Verwendung barrierefreier Schriftgrößen, kontrastreicher Gestaltungselemente sowie einer klaren Navigationsstruktur. Zudem informieren wir über bestehende Einschränkungen und Möglichkeiten zur Rückmeldung. Falls Sie auf Barrieren stoßen oder Verbesserungsvorschläge haben, freuen wir uns über Ihr Feedback über das dort angegebene Kontaktformular.  
 
-## Umgang mit externen Tools (Leaflet etc.)
+## **Richtlinien für den Blog und Soziale Medien**  
+Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Menschen zugänglich sein. Deshalb achten wir auf eine verständliche Sprache, die Vermeidung von Fachjargon, alternative Textbeschreibungen für Bilder sowie eine lesefreundliche Formatierung. Zudem stellen wir sicher, dass Videos möglichst mit Untertiteln versehen sind und Verlinkungen eindeutig beschrieben werden. Unsere vollständigen Richtlinien zur Veröffentlichung von Inhalten finden Sie [hier](https://stadtgeschichtebasel.ch/richtlinien-fuer-den-blog-und-soziale-medien).  
 
-## Farben/Kontraste
-
-### Online
-
-### Print
-Schwierigkeiten beschreiben bei der Umsetzung, verschiedene Anforderungen der Beteiligten
-
-## Website-Navigation
-
-## WCAG 2.1 A/AA Checklist
-
-siehe Project im Portal-Repository, als Copy-Paste-Markdown-Tabelle anbieten
-
-## Neurodiversity Design System
-
-https://neurodiversity.design/
-siehe Checklist im Project im Portal-Repository
+Wir arbeiten kontinuierlich daran, unsere Angebote weiter zu verbessern und allen Nutzer*innen eine barrierefreie Nutzung zu ermöglichen.  
