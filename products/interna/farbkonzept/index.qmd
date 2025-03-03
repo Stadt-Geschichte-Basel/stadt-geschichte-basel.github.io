@@ -42,8 +42,8 @@ Die Farbdefinition für das Portal enthält sieben Farben, die über einen RGB-W
 |-----------|--------------|---------|-------------|:----------|
 | primary   | Violett      | #3a1e3e | 58 30 62    | <span style="display:block; width:30%; background-color:#3a1e3e; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | secondary | Gelb         | #ffe880 | 255 232 128 | <span style="display:block; width:30%; background-color:#ffe880; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| tertiary  | Hellblau     | #86bbd8 | 219 254 135 | <span style="display:block; width:30%; background-color:#86bbd8; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| success   | Hellgrün | #dbfe87 | 134 187 216 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| tertiary  | Hellblau     | #86bbd8 | 134 187 216 | <span style="display:block; width:30%; background-color:#86bbd8; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| success   | Hellgrün | #dbfe87 | 219 254 135 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | warning   | Orange       | #f6ae2d | 246 174 45  | <span style="display:block; width:30%; background-color:#f6ae2d; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | error     | Hellrot      | #f63e02 | 246 62 2    | <span style="display:block; width:30%; background-color:#f63e02; border:1px solid #000; aspect-ratio:1/1;"></span>         |
 | surface   | Grau         | #666666 | 102 102 102 | <span style="display:block; width:30%; background-color:#666666; border:1px solid #000; aspect-ratio:1/1;"></span>         |
