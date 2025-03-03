@@ -6,7 +6,7 @@ website:
   favicon: favicon.png
   open-graph: true
   twitter-card: true
-  site-url: https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/
+  site-url: https://stadt-geschichte-basel.github.io/
   repo-url: https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/
   issue-url: https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose
   repo-actions: [edit, issue]

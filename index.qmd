@@ -10,15 +10,16 @@ listing:
     sort-ui: false
     filter-ui: false
     fields: [title, subtitle, date, categories]
-    max-items: 3
+    page-size: 0
 date-modified: last-modified
+include-in-header: assets/js/random-listing-js.html
 ---
 
 Diese Webseite zeigt die Arbeit des Teams für Forschungsdatenmanagement und Public History von Stadt.Geschichte.Basel. Im Fokus steht neben unserer Arbeit mit Forschungsdaten (Erstellung, Annotation, Publikation, Weiterverwendung) die Aufbereitung der Projektinhalte für die digitale Präsentation und Vermittlung. Wir dokumentieren auch projektbezogene Vorträge, Poster und Workshops im Rahmen von wissenschaftlichen Konferenzen sowie unsere Beteiligung an Community Building im Bereich Digital History.
 
 ## Produkte
 
-Von unserem Team erarbeitete Lösungen bieten wir als Good-Practice-Beispiele zur Weiterverwendung an, darunter ein Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten oder Workflows für kollaboratives Projektmanagement oder zur Aufbereitung und Publikation von Forschungsdaten:
+Von unserem Team erarbeitete Lösungen bieten wir als Good-Practice-Beispiele zur Weiterverwendung an, darunter ein Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten, Workflows für kollaboratives Projektmanagement und [weitere Produkte](products/products.qmd), zum Beispiel:
 
 ::: {#showcase-reel}
 :::

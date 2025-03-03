@@ -127,3 +127,11 @@ h1 {
 	margin-top: auto;
 	margin-bottom: auto;
 }
+
+.card {
+	border-radius: 0.2em;
+	&:hover {
+		background-color: #ffe880;
+		border-color: #3a1e3e;
+	}
+}
