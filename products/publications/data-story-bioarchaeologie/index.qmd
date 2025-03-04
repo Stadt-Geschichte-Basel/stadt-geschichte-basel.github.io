@@ -53,7 +53,7 @@ In der Data Story werden verschiedene wissenschaftliche Methoden vorgestellt, di
 
 - Gräber waren **einfach in die Erde gelegt**, keine Särge oder Grabkammern.\
 - **Beigaben:**
-  - Glasperlen und Glasgefäße in **zwei Kindergräbern** (Grab 1 und Grab 6).\
+  - Glasperlen und Glasgefässe in **zwei Kindergräbern** (Grab 1 und Grab 6).\
   - Münze in **Grab 6**, möglicherweise ein "Charonspfennig".\
 - Bestattungspraktiken eher **spätrömisch als germanisch**.
 
@@ -68,14 +68,14 @@ In der Data Story werden verschiedene wissenschaftliche Methoden vorgestellt, di
 - Ergebnis:
   - **Mehrheit wurde in Basel geboren** oder kam in jungen Jahren dorthin.\
   - **Mann aus Grab 9 und Frau aus Grab 5 kamen als Jugendliche oder Erwachsene aus der Umgebung nach Basel.**\
-  - Kein Nachweis einer großflächigen Migration.
+  - Kein Nachweis einer grossflächigen Migration.
 
 ### 5. Genetische Analysen (aDNA)
 
 - Bestimmung der **biologischen Verwandtschaftsverhältnisse**.\
 - **Ergebnisse:**
   - Kinder **0 und 1 waren Geschwister**.\
-  - Mann in **Grab 9 war wahrscheinlich ihr Onkel oder Großvater**.\
+  - Mann in **Grab 9 war wahrscheinlich ihr Onkel oder Grossvater**.\
   - Keine einheitliche ethnische Herkunft – genetische Diversität innerhalb der Gruppe.
 
 ### 6. Stickstoff- und Kohlenstoffisotopenanalysen (Ernährung)
@@ -95,7 +95,7 @@ In der Data Story werden verschiedene wissenschaftliche Methoden vorgestellt, di
 
 Die Data Story zeigt eindrucksvoll, wie interdisziplinäre Forschung – von **Archäologie, Anthropologie bis hin zu DNA-Analysen** – zur Neubewertung historischer Narrative beitragen kann. Sie dient als Best-Practice-Beispiel für die digitale Vermittlung von **Bioarchäologie und Stadtgeschichte**.
 
-Diese Forschung fließt in das **digitale Portal von Stadt.Geschichte.Basel** ein und wird in **Workshops zum Thema "Digitale Geschichte und Bioarchäologie"** als Modell für innovative digitale Wissensvermittlung genutzt.
+Diese Forschung fliesst in das **digitale Portal von Stadt.Geschichte.Basel** ein und wird in **Workshops zum Thema "Digitale Geschichte und Bioarchäologie"** als Modell für innovative digitale Wissensvermittlung genutzt.
 
 ## Fazit
 
