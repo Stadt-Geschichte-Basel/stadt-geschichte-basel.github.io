@@ -103,8 +103,7 @@ jobs:
             any::readr
             any::dplyr
             any::tidyr
-            any:plotly
-
+            any::plotly
       # From https://github.com/julia-actions/setup-julia
       # - name: Setup Julia
       #   uses: julia-actions/setup-julia@v1
