@@ -241,7 +241,7 @@ Der ursprüngliche Ansatz, eine Farbpalette aus bereits vorhandenen Good-Practic
 
 Als Grundlage für die Gestaltung der wissenschaftlichen Abbildungen für die Printprodukte von Stadt.Geschichte.Basel wurde eine Farbpalette -- in zwei Varianten, mit je 23 bzw. 14 Farben zzgl. einem Grauwert -- ausgewählt. Das [Discrete Rainbow Colour Scheme 19](https://sronpersonalpages.nl/~pault/#fig:scheme_rainbow_discrete) von Paul Tol ist für Farbenblinde "reasonably clear" [@tol_sequential_2022], sofern die Farbwerte nicht interpoliert werden. Für die [Grafikerstellung in R](../../research-data/plots/index.qmd) ist die Palette auch im Package khroma [verfügbar](https://packages.tesselle.org/khroma/articles/tol.html#rainbow) [@frerebeau_paul_2025].
 
-### Discrete Rainbow Color Scheme 19 (mit 23+1 Farben)
+### Discrete Rainbow Colour Scheme 19 (mit 23+1 Farben)
 
 | Farbe     | Nr. | CMYK  | HEX | RGB    | Vorschau   |
 |-----------|-----|------------|----------|-------------|:----------|
@@ -302,7 +302,7 @@ Nummer,CMYK,HEX,RGB
 ```
 :::
 
-### Discrete Rainbow Color Scheme 19 (mit 14+1 Farben)
+### Discrete Rainbow Colour Scheme 19 (mit 14+1 Farben)
 
 | Farbe  | Nr. | CMYK       | HEX     | RGB         | Vorschau |
 |--------|-----|------------|---------|-------------|:----------|
@@ -347,4 +347,67 @@ Nummer,CMYK,HEX,RGB
 
 ### Anwendung
 
-Dieses Farbschema ist in beiden Varianten für die Verwendung in Print-Produkten geeignet und erfüllt die Anforderungen an eine für Farbenblinde erkennbare Farbpalette. Für Abbildungen, in denen gewisse Farbtöne z.B. aufgrund ästhetischer Ansprüche oder inhaltlicher Assoziationen unerwünscht sind, können einzelne Farbwerte ausgelassen werden. Für diese Fälle empfiehlt @tol_sequential_2022, die von ihm [bereitgestellte Übersicht möglicher Subsets](https://sronpersonalpages.nl/~pault/#fig:scheme_rainbow_discrete_all) der Farbpalette zu verwenden. Auf diese Weise kann eine für farbenblinde geeignete, druckfähige Farbpalette mit bis zu 23 Farbwerten generiert werden.
+Dieses Farbschema ist in beiden Varianten für die Verwendung in Print-Produkten geeignet und erfüllt die Anforderungen an eine für Farbenblinde erkennbare Farbpalette. Für Abbildungen, in denen gewisse Farbtöne z.B. aufgrund ästhetischer Ansprüche oder inhaltlicher Assoziationen unerwünscht sind, können einzelne Farbwerte ausgelassen werden. Für diese Fälle empfiehlt @tol_sequential_2022 spezifische Subsets (@fig-pyramid) der Farbpalette zu verwenden. Auf diese Weise kann eine für farbenblinde geeignete, druckfähige Farbpalette mit bis zu 23 Farbwerten generiert werden.
+
+```{r echo=FALSE, message=FALSE}
+#| label: fig-pyramid
+#| fig-cap: "Varianten der Farbpalette je nach Anzahl benötigter Farbstufen [nach @tol_sequential_2022]"
+
+library(ggplot2)
+library(readr)
+library(dplyr)
+library(tidyr)
+library(plotly)
+
+# Read colour data from local files
+color_scheme_full <- read_csv("color_scheme_19.csv")
+color_scheme_subset <- read_csv("color_scheme_19_subset.csv")
+
+color_map <- bind_rows(color_scheme_full, color_scheme_subset) %>%
+  distinct(Nummer, .keep_all = TRUE)  # Remove duplicate rows based on 'Nummer'
+
+pyramid <- read_delim("color_scheme_19_selection.csv", delim=";", col_names = FALSE, na = "")
+
+# Add row numbers first (before pivoting)
+pyramid <- pyramid %>% mutate(row = row_number())
+
+# Convert wide format to long format
+pyramid_long <- pyramid %>%
+  pivot_longer(cols = -row, names_to = "col", values_to = "value", values_drop_na = TRUE) %>%
+  mutate(col = as.integer(gsub("X", "", col)))  # Convert column names to integers
+
+# Merge the color map to get the hex colors for each square
+pyramid_long <- pyramid_long %>%
+  left_join(color_map, by = c("value" = "Nummer"))
+
+# Calculate correct x positions to center the pyramid
+pyramid_long <- pyramid_long %>%
+  group_by(row) %>%
+  mutate(x = row_number() + (max(row) - row) / 2 - 0.5) %>%
+  ungroup()
+
+# Specify colour numbers that should have black text labels
+black_text_values <- c(1, 2, 3, 4, 14, 16, 17, 18, 19, 20, 21)
+
+# Add text aesthetic for tooltip
+pyramid_long <- pyramid_long %>%
+  mutate(tooltip = paste0("Farbwertnummer: ", value, "\nCMYK: ", CMYK, "\nHEX: ", HEX, "\nRGB: ", RGB))
+
+pyramid_plot <- ggplot(pyramid_long, aes(x = x, y = -row, label = value, fill = HEX, text = tooltip)) +  
+  geom_tile(color = "black", width = 1, height = 1) +
+  geom_text(aes(color = ifelse(value %in% black_text_values, "black", "white")), size = 3) +
+  scale_fill_identity() +
+  scale_color_identity() +
+  theme_void() +
+  theme(axis.line = element_blank()) +
+  coord_fixed(ratio = 1)
+
+ggplotly(pyramid_plot, tooltip = "text") %>%
+  config(locale = "de-CH",
+  		modeBarButtonsToRemove = c("hoverCompareCartesian", "lasso2d"),
+		toImageButtonOptions = list(format = "svg")) %>%
+  layout(showlegend = FALSE,
+      	xaxis = list(showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE, autorange = TRUE),
+    	yaxis = list(showgrid = FALSE, showticklabels = FALSE, zeroline = FALSE)
+  )
+```
