@@ -48,6 +48,9 @@ format:
     code-overflow: wrap
     css: styles.css
     mainfont: Euclid Circular B
+    include-in-header:
+      text: |
+        <script defer data-domain="dokumentation.stadtgeschichtebasel.ch" src="https://plausible.io/js/script.outbound-links.js"></script>
 
 freeze: true
 
