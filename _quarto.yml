@@ -20,9 +20,11 @@ website:
     logo: assets/img/logo.svg
     logo-alt: ''
     title: Forschungsdatenmanagement
+    tools-collapse: true
     tools:
       - icon: github
         url: https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/
+        aria-label: GitHub-Organisation
     left:
       - text: Produkte
         href: products/products.qmd
