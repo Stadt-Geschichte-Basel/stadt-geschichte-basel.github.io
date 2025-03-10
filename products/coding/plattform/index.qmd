@@ -23,6 +23,7 @@ code-links:
   - href: 'https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch/'
     text: GitHub Repository
     icon: github
+tbl-colwidths: [10, 50, 10, 10, 10, 10]
 ---
 
 ## Plattform
@@ -32,6 +33,419 @@ Die [Forschungsdatenplattform von Stadt.Geschichte.Basel](https://forschung.stad
 Das zugehörige GitHub-Repository (https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch/) enthält den Quellcode der Plattform und bietet Einblicke in die technische Umsetzung. Es basiert auf dem "CollectionBuilder-CSV"-Framework und ist unter der MIT-Lizenz veröffentlicht, was die offene Weiterentwicklung und Anpassung durch die Community ermöglicht. Interessierte Entwickler\*innen und Forschende können hier den Code einsehen, Beiträge leisten oder die Struktur für eigene Projekte adaptieren.
 
 Insgesamt dient die Forschungsdatenplattform als wertvolles Werkzeug, um die reichhaltige Geschichte Basels zugänglich zu machen und den offenen Austausch von Wissen zu fördern.
+
+## Barrierefreiheit
+
+Der barrierefreie Zugang [ist eine zentrale Anforderung](../../interna/inklusive-gestaltung/index.qmd) an die Produkte von Stadt.Geschichte.Basel. Auch das Team von CollectionBuilder selbst [dokumentiert](https://collectionbuilder.github.io/cb-docs/docs/accessibility/) das Thema Barrierefreiheit in Bezug auf ihr Framework.
+
+Da CollectionBuilder nach den Prinzipien des Minimal Computing und als statische Webseite konzipiert ist, stellt semantisches HTML an sich bereits die Grundlage dafür dar, dass die Kriterien des barrierefreien Zugangs erfüllt werden können.
+
+Die Forschungsdatenplattform wurde anhand der [Schweizer Accessibility-Checkliste](../../interna/inklusive-gestaltung/index.qmd) auf die Erfüllung des WCAG-Standards in der Version 2.1 geprüft.
+
+::: {.callout-tip title="Accessibility-Checkliste (Forschungsdatenplattform) anzeigen" icon="false" collapse="true"}
+| Success | Failure | N/A | Unclear | Warning |
+| :---: | :---: | :---: | :---: | :---: |
+| ✅ | ❌ | ❎ | ❓ | ⚠️ |
+
+: {tbl-colwidths="[20, 20, 20, 20, 20]"}
+
+#### **1.1.1. Nicht-Text-Inhalt – `A` –**
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 1 | Informative Grafiken weisen einen Alternativtext auf, der äquivalente Informationen vermittelt | ✅ |  |  |  |
+| 2 | Video- und Audio-Inhalte weisen einen Alternativtext auf, der den Titel und/oder eine kurze Umschreibung vermittelt | ❎ |  |  |  |
+| 3 | Tests und Übungen, deren Inhalt zwingend aus Nicht-Text-Inhalt bestehen muss, weisen einen Alternativtext auf, der dessen Zweck beschreibt (aber nicht die Information, die benötigt wird, um den Test oder die Übung zu bestehen). | ❎ |  |  |  |
+| 4 | Sensorische Inhalte, die zwingend aus Nicht-Text-Inhalt bestehen, weil sie durch Worte nicht ausreichend ersetzt werden können (z.B. Musikaufführungen, Kunstwerke), weisen einen Alternativtext auf, der den Zweck des Nicht-Text-Inhalts beschreibt | ❎ |  |  |  |
+| 5 | Als Webfont eingebundene Symbole sind so umgesetzt, dass sie nicht zu unverständlichen Ausgaben durch Screenreader führen. | ✅ |  | added aria-hidden | Workshop-Page |
+| 6 | Verlinkte Grafiken weisen einen Alternativtext auf, der Linkziel oder -zweck beschreibt. | ✅ |  |  |  |
+| 7 | Alternativtexte von Grafiken beinhalten keine redundanten Informationen, z.B. eine bereits in einer Bildlegende oder einem Linktext vorhandene Information oder eine Information wie «Grafik …», «Bild …». | ❌ |  |  |  |
+| 8 | Grafische Schalter sind korrekt beschriftet. | ✅ |  |  |  |
+| 9 | Informative Grafiken sind bei benutzerdefinierten Farbeinstellungen sichtbar. | ✅ |  |  |  |
+| 10 | Das Seiten-Logo (mit Link zur Startseite) verfügt über eine sinnvolle Textalternative (Muster alt="Logo Firmenname, zur Startseite") | ✅ |  |  |  |
+| 11 | Sonderzeichen vermitteln Informationen auf zugängliche Weise. | ❎ |  |  |  |
+| 12 | Wenn Alternativtext nicht ausreicht (z.B. bei komplexen Grafiken wie Infografiken oder Diagrammen), wird eine lange Beschreibung bereitgestellt und im Alternativtext darauf hingewiesen. | ✅ |  |  |  |
+| 13 | Dekorative Grafiken weisen ein leeres alt-Attribut auf. | ❎ |  |  |  |
+| 14 | Grafische CAPTCHAs sind barrierefrei umgesetzt oder es gibt eine Alternative. | ❎ |  |  |  |
+
+
+#### 1.2.1 Reine Audio-Inhalte (aufgezeichnet) – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 15 | Für aufgezeichnete reine Audio-Inhalte (z.B. Podcasts) existieren Textabschriften oder eine Audiodeskription. Ausnahme: Wenn der reine Audio-Inhalt eine Alternative für bereits bestehenden Text (und als solche deutlich gekennzeichnet) ist, dann ist keine zusätzliche Textabschrift erforderlich. | ❎ |  |  |  |
+| 16 | Für aufgezeichnete reine Video-Inhalte (z.B. Stummfilme) existieren Textabschriften oder gleichwertige Alternativen als Audio-Inhalt. Ausnahme: Wenn der reine Video-Inhalt eine Alternative für bereits bestehenden Text (und als solche deutlich gekennzeichnet) ist, dann ist keine zusätzliche Textabschrift oder gleichwertige Alternative als Audio-Inhalt erforderlich. | ❎ |  |  |  |
+
+#### 1.2.2 Untertitel (aufgezeichnet) – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 17 | Für aufgezeichnete Video-Inhalte mit Audio (z.B. Spielfilme) existieren gleichwertige, synchrone Untertitel. | ❎ |  |  |  |
+
+#### 1.2.3 Audiodeskription oder Medienalternative (aufgezeichnet) – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 18 | Für synchronisierte Video-Inhalte (Videos, in denen Audio- und Videospur zusammen die komplette Information ergeben) existieren Textabschriften oder Audiodeskriptionen. Für die Audiodeskription gilt: Wenn alle Informationen der Videospur bereits in der Audiospur enthalten sind, ist keine Audiodeskription erforderlich. Ausnahme: Wenn der synchronisierte Video-Inhalt eine Medienalternative für bereits bestehenden Text (und als solche deutlich gekennzeichnet) ist, dann ist keine zusätzliche Textalternative oder Audiodeskription erforderlich. (Dieser Checkpunkt kann vernachlässigt werden, falls Level AA angestrebt wird und damit 1.2.5 in Kraft tritt. Um Konformitätsstufe A zu erreichen, benötigen synchronisierte Video-Inhalte entweder eine Textabschrift oder eine Audiodeskription. Für Konformitätsstufe AA ist immer eine Audiodeskription erforderlich.). | ❎ |  |  |  |
+
+#### 1.2.4 Untertitel (live) – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 19 | Für Live Video-Inhalte mit Audio (z.B. Nachrichtensendung) existieren gleichwertige, synchrone Untertitel. | ❎ |  |  |  |
+
+#### 1.2.5 Audiodeskription (aufgezeichnet) – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 20 | Für synchronisierte Video-Inhalte (Videos, in denen Audio- und Videospur zusammen die komplette Information ergeben) existieren Audiodeskriptionen für inhaltlich relevante, rein visuelle Inhalte. Für die Audiodeskription gilt: Wenn alle Informationen der Videospur bereits in der Audiospur enthalten sind, ist keine Audiodeskription erforderlich. (Dieser Checkpunkt kann vernachlässigt werden, falls Konformitätsstufe A angestrebt wird und damit 1.2.3 in Kraft ist. Um Konformitätsstufe `A` zu erreichen, benötigen synchronisierte Video-Inhalte entweder eine Textabschrift oder eine Audiodeskription. Für Konformitätsstufe `AA` ist immer eine Audiodeskription erforderlich.). | ❎ |  |  |  |
+
+#### 1.3.1 Info und Beziehungen – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 21 | Aktive Elemente (z.B. der aktive Menüpunkt in einer Navigation) sind semantisch erkennbar ausgezeichnet, wenn sie visuell klar als aktiv erkennbar sind. | ✅ |  |  |  |
+| 22 | Landmark Roles (HTML5-Elemente wie `<header>`, `<main>`, etc. sowie ARIA-Rollen) werden korrekt vergeben. Sie werden mit Bedacht verwendet und konsistent eingesetzt (möglichst keine Mehrfach-Verwendung derselben Rolle, konsistentes Auszeichnen aller wichtigen Seitenbereiche). | ✅ |  |  |  |
+| 23 | Breadcrumbs oder Prozessanzeigen sind auch nicht-visuell als solche erkennbar. |  |  |  |  |
+| 24 | Fussnoten sind barrierefrei umgesetzt: Auch mit einem Screenreader ist beim Fussnoten-Zeichen der Zugriff auf den Fussnotentext gegeben, ohne dass der ursprüngliche Kontext verloren geht. | ❎ |  |  |  |
+
+#### 1.3.1a Info und Beziehungen: Überschriften – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 25 | Überschriften: Die Hierarchie der Überschriften-Ebenen ist inhaltlich-logisch korrekt und vermittelt die Struktur der Inhalte. | ✅ |  |  |  |
+| 26 | Überschriften: Es werden keine Überschriften-Ebenen ausgelassen. | ✅ |  | changed h3 to h2 | Browse Page, Timeline |
+| 27 | Überschriften: Eigenständige Seitenbereiche weisen eine eigene Überschrift auf, da sie sonst der vorausgehenden Überschrift falsch untergeordnet werden. Für Inhalts- und Funktionsblöcke wie Kopf- und Fussbereich, Navigation, Breadcrumb, etc. können visuell unsichtbare Überschriften eingesetzt werden. | ✅ |  |  |  |
+| 28 | Überschriften: Überschriften weisen nachfolgenden Inhalt (bzw. darunter liegende Überschriften) auf. | ✅ |  |  |  |
+| 29 | Überschriften: Überschriften sind im Code vor den ihnen zugehörigen Inhalten platziert. | ✅ |  |  |  |
+| 30 | Überschriften: Überschriften für Akkordeons sind als solche ausgezeichnet. | ❎ |  |  |  |
+| 31 | Überschriften: Überschriften sind semantisch korrekt mit dem Überschriften-Element (`<h1>` bis `<h6>`) ausgezeichnet. | ✅ |  |  |  |
+
+
+#### 1.3.1b Info und Beziehungen: Listen – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 32 | Listen: Aufzählungen sind semantisch korrekt als Listen (`<ul>`, `<ol>`, `<dl>`) formatiert. | ✅ |  |  |  |
+| 33 | Listen: Listen mit nur einem Eintrag werden vermieden (ausser sie werden automatisch generiert). | ✅ |  |  |  |
+| 34 | Listen: Glossare und ähnliche Informationslisten sind als Definitionslisten formatiert. | ❎ |  |  |  |
+
+#### 1.3.1c Info und Beziehungen: Formulare – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+  | 35 | Formulare: In umfangreichen Formularen werden inhaltlich zusammengehörige Formularfelder mittels `<fieldset>`/`<legend>`-Kombination gruppiert. | ❎ |  |  |  |
+| 36 | Formulare: Informationen, die sich zwischen den Eingabefeldern befinden (z.B. als `<p>` zwischen mehreren Eingabefeldern) sind verknüpft mit den relevanten Formularfeldern, sodass sie auch mit Screenreadern wahrgenommen werden können (z.B. mit `aria-describedby`). | ❎ |  |  |  |
+| 37 | Formulare: Formularfelder weisen korrekt verknüpfte Labels auf. | ❎ |  |  |  |
+
+#### 1.3.1d Info und Beziehungen: Daten-Tabellen – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 38 | Tabellen: Daten-Tabellen weisen Tabellenüberschriften (`<caption>`) auf. |  |  |  |  |
+| 39 | Tabellen: Daten-Tabellen weisen Spalten- oder Zeilentitel (`<th>`) auf, idealerweise beides. | ✅ |  |  |  |
+| 40 | Tabellen: Daten, welche eindeutig tabellarischen Charakter aufweisen, sind semantisch korrekt als Tabelle formatiert und enthalten nur die semantisch zugelassenen Attribute, z.B. keine Paragraphen- (`<p>`) oder Überschriften-Elemente (`<h1>` bis `<h6>`). | ✅ |  |  |  |
+| 41 | Tabellen: Daten-Tabellen weisen keine leeren Spalten oder Zeilen auf. | ✅ |  |  |  |
+
+
+#### 1.3.1e Info und Bezehungen: Zeichenverwendung – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 42 | Zeichenverwendung: Absätze sind semantisch korrekt ausgezeichnet, nicht nur visuell (z.B. mittels doppelten`<br>`). | ✅ |  |  |  |
+| 43 | Zeichenverwendung: Inhalte befinden sich innerhalb semantisch bedeutsamer HTML-Elemente (z.B. `<h#>`, `<p>`, `<ul>`, `<ol>`, etc.); das Verwenden von `<div>`- oder `<span>`-Elementen (die keine semantische Relevanz aufweisen) ist nicht ausreichend. | ✅ |  |  |  |
+| 44 | Zeichenverwendung: Leere bedeutungstragende Elemente werden vermieden. | ✅ |  |  |  |
+| 45 | Zeichenverwendung: Schriftformatierungen mit Informationsgehalt (z.B. durchgestrichen) sind auch nicht-visuell zugänglich. | ✅ |  |  | deactivated download |
+| 46 | Zeichenverwendung: Visuell erkennbare Zitate sind semantisch korrekt ausgezeichnet (z.B. als `<blockquote>` und `<cite>`), sodass der jeweilige Text auch beim Einsatz von assistierenden Technologien als Zitat erkannt wird. | ❎ |  |  |  |
+
+
+#### 1.3.2 Bedeutungstragende Reihenfolge – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 47 | Inhalte müssen im Code (DOM) eine korrekte Reihenfolge aufweisen (unabhängig von CSS). | ✅ |  |  |  |
+
+#### 1.3.3 Sensorische Eigenschaften – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 48 | Inhalte weisen nicht ausschliesslich auf sensorische Eigenschaften (rein visuell erkennbar, rein akustisch verständlich) hin, z.B. «Den grünen Schalter links betätigen», «Korrigieren Sie die Eingaben in den rot umrandeten Feldern», «Mit Klick auf das Bild rechts …». | ✅ |  |  |  |
+
+#### 1.3.4 Ausrichtung – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 49 | Inhalte sind in beiden Bildschirmorientierungen (Hoch- und Querformat) korrekt dargestellt und nutzbar. Passt sich der Inhalt nicht automatisch an die Bildschirmorientierung an, steht ein Schalter zur Verfügung zum manuellen Drehen des Bildschirminhalts (für Websites vom Browser sichergestellt, für Mobile Apps durch Design und Entwicklung sicherzustellen). | ✅ |  |  |  |
+
+#### 1.3.5 Eingabezweck erkennen – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 50 | Eingabefelder zu Nutzerdaten können automatisch ausgefüllt werden. | ❎ |  |  |  |
+
+
+#### 1.4.1 Benutzung von Farbe – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 51 | Information wird nicht durch Farbe allein vermittelt. Das gilt auch für Hover- und Fokus-Zustände. Wenn Information farblich übermittelt wird (z.B. rot hervorgehobene Teile eines Texts, um deren Wichtigkeit zu markieren), ist ein weiterer visueller Reiz vorhanden, um diese Information zu vermitteln (z.B. Fettschrift oder Unterstreichung, unterschiedliche Symbole, zusätzlicher Text). | ✅ |  |  |  |
+| 52 | Wenn Links innerhalb von Fliesstext nur durch Farbe vom Fliesstext unterschieden werden, muss der Kontrast zwischen Link und umgebendem Fliesstext den minimalen Kontrastwert von 3:1 erreichen. Als Alternative kann eine weitere visuelle Auszeichnung von Links verwendet werden (z.B. Unterstreichung, Fettschrift, Rahmen, etc.). | ✅ |  | Hyperlink-Farben angepasst |  |
+
+#### 1.4.2 Audio-Steuerelement – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 53 | Automatisch abspielender Audio-Inhalt von mehr als 3 Sekunden wird nach Möglichkeit vermieden. Ist er doch vorhanden, ist er steuerbar (Wiedergabe stoppen, Lautstärke unabhängig von der Systemlautstärke regeln). Die Steuerung befindet sich am Anfang der Seite. | ❎ |  |  |  |
+
+#### 1.4.3 Kontrast (Minimum) – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 54 | Das Kontrastverhältnis bei Text und Bildern von Text zum Hintergrund beträgt mindstens 4.5:1 bei normaler Schriftgrösse und mindestens 3:1 bei grosser Schrift (definiert als mindestens 18pt oder 14pt + fett). Das gilt sowohl für normale Schrift zur Hintergrundfarbe (alle Texte und Hinweise) als auch für Texte in informativen grafischen Elementen, ist aber nicht zwingend für Logos oder rein dekorative Grafiken. | ✅ |  |  |  |
+| 55 | Interaktive Textelemente (z.B. Schalterbeschriftungen) erfüllen die Kontrastanforderung von 4.5:1 in allen Zuständen (fokussiert, bei Mouseover, etc.) gleichermassen. Für die Unterscheidbarkeit zwischen den Zuständen eines interaktiven Elements gelten keine strikten Kontrastanforderungen. | ✅ |  | changed navbar |  |
+
+
+#### 1.4.4 Textgrösse ändern – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 56 | Elemente sind auf mindestens 200% zoombar, entweder der Text allein oder die komplette Seite (für Websites in der Regel vom Browser sichergestellt, für Mobile Apps durch Design und Entwicklung sicherzustellen). | ✅ |  |  |  |
+
+#### 1.4.5 Bilder eines Textes – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 57 | Texte werden nicht nur als Grafiken eingebunden, denn diese lassen keine Anpassungen zu (z.B. Grösse skalieren, Vorder- und Hintergrund-Farben verändern, etc.). Ausgenommen sind Texte, bei denen eine bestimmte Art der Präsentation für die vermittelte Information unentbehrlich ist (z.B. Logos oder Markennamen). | ✅ |  |  | License Placeholder? |
+
+#### 1.4.10 Reflow (Umbruch) – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 58 | Inhalt lässt sich ohne Einschränkungen (z.B. Überlappungen) und ohne horizontales Scrollen in den Viewport-Mindestdimensionen von 320x256 CSS-Pixel darstellen. Das entspricht einer Vergrösserung auf 400%. | ✅ |  |  |  |
+
+#### 1.4.11 Kontrast von Nicht-Text-Inhalten – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 59 | Das Kontrastverhältnis von Bedienelementen (z.B. Textfelder, Radiobuttons, Checkboxen, Schalter, Tabs, etc.) zu den umgebenden Farben beträgt mindestens 3:1. Das gilt für alle visuellen Hinweise, die für die Wahrnehmung und Bedienung erforderlich sind (z.B. Formularfeldbegrenzungen, Ausklappindikatoren bei Flyouts/Dropdowns, Häkchen in einer Checkbox, etc.), insbesondere auch für die Wahrnehmung des Zustands eines Elements. Der Hover-Zustand eines Elements muss nicht unterscheidbar sein vom Standard-Zustand. | ✅ |  |  | updated navbar items to white and secondary |
+| 60 | Das Kontrastverhältnis bei informativen grafischen Elementen (z.B. Linien und Kurven in Diagrammen) zu den umgebenden Farben beträgt mindestens 3:1. Das gilt für alle visuellen Hinweise, die für die Wahrnehmung und Bedienung erforderlich sind (z.B. Schalter zum Anpassen der Kurven). Der Hover-Zustand eines Elements muss nicht unterscheidbar sein vom Standard-Zustand. | ❎ |  |  |  |
+
+#### 1.4.12 Textabstände – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 61 | Abstände zwischen Zeilen, Wörtern und Buchstaben sowie nach Absätzen sind ohne resultierende Einschränkungen um bestimmte Werte vergrösserbar. Ausnahmen sind: Untertitel in Video-Inhalten, PDF-Dokumente. | ✅ |  |  |  |
+
+#### 1.4.13 Inhalt bei Hover oder Fokus – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 62 | Inhalte, die per Hover oder Fokus eingeblendet werden, sind nicht störend und es kann mit ihnen interagiert werden. Folgende drei Bedingungen sind erfüllt: Per Hover oder Fokus eingeblendete Inhalte sind ausblendbar, hoverbar und dauerhaft (persistent). | ✅ |  |  |  |
+
+#### 2.1.1. Tastatur – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 63 | Inhalte/Funktionalitäten (Seitenfunktionalitäten, Seitenelemente, Formularfelder, Kontrollelemente, Schalter, Links, Dialoge, Multimedia-Steuerungen, etc.) sind mit der Tastatur alleine (d.h. ohne Zeigegerät) bedienbar. Elemente sind in der logischen Tab-Reihenfolge erreichbar und können erwartungsgemäss bedient werden. | ✅ |  |  | |
+| 64 | Elemente, die einzeln ausgegeben werden sollen, sind als display: block ausgezeichnet, sonst können sie im Browse-Mode (normale Inhaltsnavigation mittels Pfeil-Tasten) nicht einzeln angesteuert werden. Dies gilt hauptsächlich für interaktive Elemente (Links, Buttons, etc.). | ✅ |  |  |  |
+| 65 | Elemente, die von Screenreadern zusammen ausgegeben werden sollen (etwa eine Überschrift, die sowohl eine Kategorie als auch ein Datum enthält), sind als display: inline bzw. display: inline-block ausgezeichnet und befinden sich zusammen in einem display: block-Container. | ❎ |  |  |  |
+
+#### 2.1.2 Keine Tastaturfalle – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 66 | Es treten keine Tastaturfallen auf. Alle Bedienelemente können mit der Tastatur erreicht und wieder verlassen werden. Die uneingeschränkte Navigation rückwärts mit Shift+Tab ist sichergestellt. | ✅ |  |  |  |
+
+#### 2.1.4 Zeichen-Tastaturkürzel – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 67 | Einzeltasten-Kurzbefehle (bestehend aus einer einzelnen Buchstaben-, Interpunktions-, Zahlen- oder Symbolzeichentaste) sind entweder deaktivierbar oder veränderbar oder nur bei Fokus aktiv. | ❎ |  |  |  |
+
+#### 2.2.1 Zeiteinteilung anpassbar – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 68 | Timeout-Zeitintervalle sind anpassbar oder können deaktiviert werden. Es ist ein deutlicher Hinweis auf diese Möglichkeiten erforderlich. Für die Anpassungsmöglichkeiten gilt: Entweder ist das Timeout auf mindestens den zehnfachen Wert der Standardeinstellung möglich oder es erfolgt eine Warnung, bevor das Timeout abläuft, und es werden mindestens 20 Sekunden zur Verfügung gestellt, um mit einer einfachen Aktion (z.B. «Drücken Sie die Leertaste») die verfügbare Zeit zu verlängern. Diese Option muss mindestens zehn Mal bestehen. | ❎ |  |  |  |
+
+#### 2.2.2 Pausieren, beenden, ausblenden – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 69 | Dauerhaft animierte Inhalte (länger als fünf Sekunden) können mittels gut sichtbarer Bedienelemente pausiert, gestoppt oder ausgeblendet werden. Als dauerhaft animiert gelten Inhalte, die sich bewegen und/oder automatisch aktualisieren, die blinken oder scrollen. Sie beginnen automatisch und werden parallel zu anderen Inhalten dargestellt. | ❎ |  |  |  |
+
+#### 2.3.1 Grenzwert von dreimaligem Blitzen oder weniger – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 70 | Es gibt keine Elemente, die öfter als dreimal in einer Sekunde blitzen, oder der Blitz ist unterhalb eines definierten Grenzwerts für Blitze. | ✅ |  |  |  |
+
+#### 2.4.1 Blöcke umgehen – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 71 | Sprunglinks ermöglichen das einfache Überspringen von sich wiederholenden Informationsblöcken (z.B. Navigation, Headerbereich) mit der Tastatur. | ✅ |  |  |  |
+
+#### 2.4.2 Seite mit Titel versehen – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 72 | Seiten haben einen eindeutigen, aussagekräftigen Titel, der Thema oder Zweck der Seite sowie den Betreiber enthält (Muster: "Thema/Zweck der Seite - Seitenbetreiberin"). | 🚧 |  |  |  |
+
+#### 2.4.3 Fokus-Reihenfolge – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 73 | Die Fokus-Reihenfolge ist sinnvoll, d.h. intuitiv verständlich und nachvollziehbar. | ✅ |  |  |  |
+| 74 | Der Tastatur-Fokus wird sinnvoll geführt, wenn jemand mit Elementen auf der Seite interagiert, die zu einer Veränderung innerhalb der Seite führen (ohne Page-Refresh), z.B. nach dem Klick auf einen Schalter, der einen Dialog anzeigt (Erreichen des Dialogs und Interagieren im Dialog, Verlassen desselben, Fokus zurück auf das dialog-auslösende Element, Weiternavigieren auf der Seite). | ✅ |  |  |  |
+| 75 | Unternavigationspunkte können mit der Tastatur übersprungen werden. Unternavigationen werden entweder erst auf Auslösen geöffnet (z.B. mittels Enter- oder Pfeil-nach unten-Taste) oder Unternavigationen werden zwar angezeigt, mit der Tabulator-Taste wird aber zum nächsten Hauptnavigationspunkt gesprungen (Hineinnavigieren in die Unternavigation nur mit Pfeil-Tasten). | ✅ |  |  |  |
+| 76 | Elemente sind korrekt versteckt und zwar so, dass sie auch durch assistierende Technologien nicht ausgegeben werden, wenn sie visuell nicht sichtbar sind. | ❎ |  |  |  |
+
+#### 2.4.4 Linkzweck (im Kontext) – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 77 | Link-Texte sind selbstsprechend, d.h. aus sich selbst heraus oder über den Kontext (gleiches `<p>`-Element, gleiches Listenelement, gleiche Tabellenzelle, Spalten- oder Zeilenüberschrift in Tabelle) verständlich. | ✅ |  |  |  |
+| 78 | Mehrfache, unterschiedliche Links (z.B. eine Überschrift, eine Grafik und ein zusätzlicher Textlink) auf dasselbe Ziel werden vermieden. | ✅ |  |  |  |
+
+#### 2.4.5 Verschiedene Methoden – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 79 | Es existieren mindestens zwei der folgenden drei Methoden, um Zugang zu Inhalten zu bekommen: Navigation, Suchfunktion, Sitemap. | ✅ |  |  |  |
+
+#### 2.4.6 Überschriften und Beschriftungen (Labels) – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 80 | Die Fokus-Reihenfolge ist sinnvoll, d.h. intuitiv verständlich und nachvollziehbar. | ✅ |  |  |  |
+
+#### 2.4.7 Fokus sichtbar – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 81 | Der Tastaturfokus ist genügend sichtbar, z.B. durch einen gut sichtbaren Rahmen (für alle fokussierbaren Elemente wie Links, Schaltflächen, Radio-Buttons, Checkboxen, Ausklapplisten, verlinkte grafische Elemente, etc.). | ✅ |  |  |  |
+| 82 | Sprunglinks werden bei Tastaturbedienung sichtbar. | ✅ |  |  |  |
+
+#### 2.5.1 Zeigergesten – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 83 | Zeigergesten erfordern keinen bestimmten Pfad oder Mehrfach-Touch oder es bestehen konventionelle Alternativen dazu. |  ✅|  |  |  |
+
+#### 2.5.2 Abbruch von Zeigereingaben – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 84 | Zeigereingaben sind abbrechbar oder können rückgängig gemacht werden. | ✅ |  |  |  |
+
+#### 2.5.3 Sichtbare Beschriftung im zugänglichen Namen – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 85 | Die zugängliche Beschriftung eines Bedienelements entspricht exakt der visuellen oder beinhaltet sie (ermöglicht v.a. Sprachsteuerung). | ✅ |  | translate aria-labels |  |
+
+#### 2.5.4 Ausführen durch Bewegung – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 86 | Durch Gerätebewegung ausgeführte Funktionalität kann auch durch konventionelle Eingabemethoden angesteuert und deaktiviert werden. | ❎ |  |  |  |
+
+#### 3.1.1 Sprache der Seite – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 87 | Die Sprachdeklaration ist vorhanden und korrekt. | ✅ |  |  |  |
+
+#### 3.1.2 Sprache von Teilen – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 88 | Sprachwechsel bei längeren Textpassagen werden angegeben: Anderssprachige Textabschnitte sind mit dem lang-Attribut ausgezeichnet. Bei kurzen anderssprachigen Textpassagen (einzelne Wörter) wird auf den Sprachwechsel verzichtet. | ✅ |  |  |  |
+
+#### 3.2.1 Bei Fokus – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 89 | Der Kontext ändert sich nicht automatisch bei Fokus (z.B. Weiterleitung auf eine andere Seite).. | ✅ |  |  |  |
+
+#### 3.2.2 Bei Eingabe – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 90 | Der Kontext ändert sich nicht automatisch bei Eingabe (z.B. Weiterleitung auf eine andere Seite). | ✅ |  |  |  |
+
+#### 3.2.3 Konsistente Navigation – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 91 | Die Navigation ist konsistent, d.h. innerhalb einer Anwendung gleichbleibend angeordnet und aufgebaut. | ✅ |  |  |  |
+
+#### 3.2.4 Konsistente Erkennung – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 92 | Bestandteile mit gleicher Funktion sind konsistent umgesetzt, sowohl auf visueller wie auch auf semantischer Ebene. | ✅ |  |  |  |
+
+#### 3.3.1 Fehlererkennung – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 93 | Fehlermeldungen in Formularen sind barrierefrei umgesetzt: Automatisch erkannte Eingabefehler geben in der Fehlermeldung einen klaren Hinweis (in Textform) auf das fehlerhafte Element und sind mit diesem eindeutig verknüpft. | ❎ |  |  |  |
+
+#### 3.3.2 Beschriftungen (Labels) oder Anweisungen – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 94 | Pflichtfelder sind zugänglich ausgezeichnet, sowohl auf visueller wie nicht-visueller Ebene, z.B. mit required-Attribut. | ❎ |  |  |  |
+| 95 | Formularfelder verfügen über visuell sichtbare Labels. Die alleinige Verwendung von placeholder-Attributen zur Beschriftung von Formularfeldern wird vermieden. | ❎ |  |  |  |
+| 96 | Formatangaben bei Formularfeldern sind zugänglich und mit den zugehörigen Eingabefeldern eindeutig verknüpft, d.h. zusätzlich angegebene Hinweise zu Eingabeformaten sind auch durch assistierende Technologien korrekt erfassbar. | ❎ |  |  |  |
+
+#### 3.3.3 Fehlerempfehlungen – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 97 | Fehlermeldungen sind informativ und mit den zugehörigen Eingabefeldern eindeutig verknüpft: Es sind Korrekturempfehlungen vorhanden, wenn falsche Benutzereingaben erfolgen. | ❎ |  |  |  |
+
+#### 3.3.4 Fehlervermeidung (rechtliche, finanzielle Daten) – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 98 | Nutzereingaben müssen überprüfbar sein vor Prozess-Abschluss mit finanziellen/rechtlichen Folgen. Es ist sichergestellt, dass die Gelegenheit besteht, eingegebenen Daten zu überprüfen und gegebenenfalls zu korrigieren, bevor ein endgültiger Abschluss erfolgt. | ❎ |  |  |  |
+
+#### 4.1.1 Syntaxanalyse – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 99 | Der HTML-Code weist keine für die Barrierefreiheit relevanten Fehler auf. | ✅ |  |  |  |
+
+#### 4.1.2 Name, Rolle, Wert – `A` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 100 | Akkordeons sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt, ihr Status wird vermittelt (z.B. «reduziert» bzw. «erweitert»). | ✅ |  |  |  |
+| 101 | Autocompletes sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt, die Anzahl aktuell verfügbarer Vorschläge, der aktuelle Eintrag beim Navigieren der Optionen sowie die schlussendlich gewählte Option werden durch Screenreader vermittelt. | ❎ |  |  |  |
+| 102 | Datumswähler sind barrierefrei umgesetzt, sofern keine Alternative dazu besteht (z.B. manuelle Datumseingabe in Formularfeld). Sie werden durch Screenreader korrekt angesagt, der aktuelle Eintrag beim Navigieren der Optionen sowie die schlussendlich gewählte Option werden durch Screenreader vermittelt. | ❎ |  |  |  |
+| 103 | Dialoge (auch Modale, Overlays, Lightboxes, etc. genannt) sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt; das Element, das den Dialog öffnet, weist auf den Dialog hin. | ❓ |  |  | unklar ob ausreichend |
+| 104 | Dropdowns (auch Mega-Dropdowns) sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt, ihr Status wird vermittelt (z.B. «erweitert» bzw. «reduziert»), der aktuelle Eintrag beim Navigieren der Optionen wird durch Screenreader vermittelt. | ✅ |  |  |  |
+| 105 | Karusselle (Slider) sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt. | ✅ |  |  |  |
+| 106 | Tabs (Registerkarten) sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt, ihr Status wird vermittelt (z.B. «aktiv» bzw. «nicht aktiv»).. | ❎ |  |  |  |
+| 107 | Tooltips sind barrierefrei umgesetzt. Einfache, kurze Inhalte werden durch Screenreader sogleich angesagt. Beinhalten Tooltips komplexe Inhalte, so müssen diese manuell gelesen werden können (in diesem Fall handelt es sich eher um einen Dialog). | ❎ |  |  |  |
+| 108 | Weitere JavaScript-Widgets sind barrierefrei zugänglich, d.h. so programmiert, dass sie mittels assistierender Technologien verstanden und uneingeschränkt verwendet werden können. Sie werden z.B. durch Screenreader korrekt angesagt; Funktion, Rolle und Status werden korrekt und aktuell vermittelt. | ❎ |  |  |  |
+| 109 | Der Einsatz von ARIA ist sinnvoll und korrekt. Wann immer möglich werden Standard-HTML-Elemente verwendet; ARIA wird eingesetzt wenn kein entsprechendes HTML-Element existiert oder weil eine technische Notwendigkeit dafür besteht. | ✅  |  |  |  |
+| 110 | Formular-Schalter sind korrekt umgesetzt (als `<button>`-Element oder `<input type="submit">`-Element). | ❎ |  |  |  |
+
+
+#### 4.1.3 Statusmeldungen – `AA` –
+
+| ID | Guideline | Status | Comment | Tasks/PR | Notes |
+| :---: | :--- | :---: | :--- | :--- | :--- |
+| 111 | Statusmeldungen sind für assistierende Technologien zugänglich und überstrapazieren den Audiokanal nicht. | ❎ |  |  |  |
+
+<!-- : {tbl-colwidths="[10, 50, 10, 10, 10, 10]"} -->
+
+:::
+
 
 ## Datenmodell
 
