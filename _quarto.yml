@@ -6,7 +6,7 @@ website:
   favicon: favicon.png
   open-graph: true
   twitter-card: true
-  site-url: https://stadt-geschichte-basel.github.io/
+  site-url: https://dokumentation.stadtgeschichtebasel.ch/
   repo-url: https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/
   issue-url: https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/issues/new/choose
   repo-actions: [edit, issue]
@@ -50,6 +50,9 @@ format:
     code-overflow: wrap
     css: styles.css
     mainfont: Euclid Circular B
+    include-in-header:
+      text: |
+        <script defer data-domain="dokumentation.stadtgeschichtebasel.ch" src="https://plausible.io/js/script.outbound-links.js"></script>
 
 freeze: true
 
