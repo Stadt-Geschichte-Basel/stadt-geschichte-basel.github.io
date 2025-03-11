@@ -24,25 +24,18 @@ tbl-colwidths: [10, 50, 10, 10, 10, 10]
 
 Das Team für Forschungsdatenmanagement setzt sich für eine möglichst inklusive Gestaltung seiner Produkte ein. Dies betrifft sowohl unsere digitalen Angebote -- [Portal](../../coding/portal/index.qmd), [Forschungsdatenplattform](../../coding/plattform/index.qmd), Publikationen etc. -- aber auch die von uns bearbeiteten Daten -- [Geodaten](../../research-data/geodata/index.qmd) und [Diagramme](../../research-data/plots/index.qmd) für die Printausgabe von Stadt.Geschichte.Basel.
 
-## WCAG 2.1-Standard
+## Digitale Produkte
 
-Inklusives Design zielt darauf ab, Inhalte und Dienstleistungen für alle Menschen zugänglich und nutzbar zu machen, unabhängig von ihren individuellen Fähigkeiten oder Einschränkungen. Ausgangspunkt für die Implementierung stellt der [Web Content Accessibility Standard (WCAG) 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/glance/) dar. Konkret sind das die WCAG-Guidelines, die mit den Begriffen Wahrnehmbarkeit, Bedienbarkeit, Verständlichkeit und Robustheit kategorisiert werden. Durch die Anwendung dieser Prinzipien wird sichergestellt, dass Webseiten barrierefrei gestaltet sind.
+Inklusives Design zielt darauf ab, Inhalte und Dienstleistungen für alle Menschen zugänglich und nutzbar zu machen, unabhängig von ihren individuellen Fähigkeiten oder Einschränkungen. Ausgangspunkt für die Implementierung stellt der [Web Content Accessibility Standard (WCAG) 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/glance/) des World Wide Web Consortiums (W3C) dar. Konkret sind das die WCAG-Guidelines, die mit den Begriffen Wahrnehmbarkeit, Bedienbarkeit, Verständlichkeit und Robustheit kategorisiert werden. Durch die Anwendung dieser Prinzipien wird sichergestellt, dass Webseiten barrierefrei gestaltet sind.
 
-### **WCAG 2.1 A/AA-Checklist**
+### **WCAG 2.1 A/AA-Checklist** {#wcag-2.1-aaa-checklist}
 
-Auf Basis der [Schweizer Accessibility-Checkliste 2.1](https://a11y.digitaldialog.swiss/de/163)[^1], erarbeitet von [Zugang für alle -- Kompetenzzentrum und Schweizer Zertifizierungsstelle für digitale Barrierefreiheit](https://access-for-all.ch/)
+Auf Basis der [Schweizer Accessibility-Checkliste 2.1](https://a11y.digitaldialog.swiss/de/checklist), erarbeitet[^1] von [Zugang für alle](https://access-for-all.ch/), wurden das [Portal](../../coding/portal/index.qmd#barrierefreiheit) und die [Forschungsdatenplattform](../../coding/plattform/index.qmd#barrierefreiheit) auf die Kriterien des WCAG-Standards überprüft.
 
-[^1]: Grundlage ist eine Vorabversion der Checkliste, abgerufen am 10.03.2025. Laut Beschreibung von *Zugang für alle* sind die Inhalte und Erfolgskriterien bereits vollständig erhalten, noch ausgebaut werden jedoch noch Navigationsmöglichkeiten und Verknüpfungen für die Inhalte auf der [a11y.check-Webseite](https://a11y.digitaldialog.swiss/de/163).
+[^1]: Grundlage ist eine Vorabversion der Checkliste, abgerufen am 10.03.2025. Laut Beschreibung von *Zugang für alle* sind die Inhalte und Erfolgskriterien bereits vollständig erhalten. Noch ausgebaut werden noch Navigationsmöglichkeiten und Verknüpfungen für die Inhalte auf der [a11y.check-Webseite](https://a11y.digitaldialog.swiss/de/163).
 
-Hier: Vorlage für Markdown, Verlinkung auf Auswertung für Portal und Plattform.
-**Additional context**
-* https://a11y.digitaldialog.swiss/de/checklist
-* https://www.w3.org/WAI/ARIA/apg/patterns/
-* https://www.ech.ch/de/ech/ech-0059/3.0
-* https://collectionbuilder.github.io/cb-docs/docs/accessibility/
-* https://developer.chrome.com/docs/lighthouse/accessibility/scoring
-
-::: {.callout-tip title="Checklist-Vorlage (Markdown) anzeigen" icon="false" collapse="true"}
+::: {.callout-tip title="WCAG 2.1-Checkliste (Markdown-Vorlage) zum Kopieren" icon="false" collapse="true"}
+```{.markdown}
 | Success | Failure | N/A | Unclear | Warning |
 | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ❌ | ❎ | ❓ | ⚠️ |
@@ -435,19 +428,123 @@ Hier: Vorlage für Markdown, Verlinkung auf Auswertung für Portal und Plattform
 | 109 | Der Einsatz von ARIA ist sinnvoll und korrekt. Wann immer möglich werden Standard-HTML-Elemente verwendet; ARIA wird eingesetzt wenn kein entsprechendes HTML-Element existiert oder weil eine technische Notwendigkeit dafür besteht. |   |  |  |  |
 | 110 | Formular-Schalter sind korrekt umgesetzt (als `<button>`-Element oder `<input type="submit">`-Element). |  |  |  |  |
 
-
 #### 4.1.3 Statusmeldungen – `AA` –
 
 | ID | Guideline | Status | Comment | Tasks/PR | Notes |
 | :---: | :--- | :---: | :--- | :--- | :--- |
 | 111 | Statusmeldungen sind für assistierende Technologien zugänglich und überstrapazieren den Audiokanal nicht. |  |  |  |  |
-
+```
 :::
 
-## **Barrierefreiheitserklärung**  
-Wir bemühen uns, die Online-Angebote von *Stadt.Geschichte.Basel* gemäss den aktuellen Webstandards und den Anforderungen der Barrierefreiheit zu gestalten. Unsere [Barrierefreiheitserklärung](https://stadtgeschichtebasel.ch/barrierefreiheitserklaerung) beschreibt, welche Massnahmen wir umsetzen, um die Zugänglichkeit zu gewährleisten, darunter die Verwendung barrierefreier Schriftgrössen, kontrastreicher Gestaltungselemente sowie einer klaren Navigationsstruktur. Zudem informieren wir über bestehende Einschränkungen und Möglichkeiten zur Rückmeldung. Falls Sie auf Barrieren stossen oder Verbesserungsvorschläge haben, freuen wir uns über Ihr Feedback über das dort angegebene Kontaktformular.  
+### UI Design
 
-## **Richtlinien für den Blog und Soziale Medien**  
-Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Menschen zugänglich sein. Deshalb achten wir auf eine verständliche Sprache, die Vermeidung von Fachjargon, alternative Textbeschreibungen für Bilder sowie eine lesefreundliche Formatierung. Zudem stellen wir sicher, dass Videos möglichst mit Untertiteln versehen sind und Verlinkungen eindeutig beschrieben werden. Unsere vollständigen Richtlinien zur Veröffentlichung von Inhalten finden Sie [hier](https://stadtgeschichtebasel.ch/richtlinien-fuer-den-blog-und-soziale-medien).  
+Der Anspruch auf inklusive Gestaltung der digitalen Produkte von Stadt.Geschichte.Basel umfasst neben der Erfüllung der WCAG-Guidelines auch weitere die Nutzer*\innenoberfläche betreffende Aspekte.
 
-Wir arbeiten kontinuierlich daran, unsere Angebote weiter zu verbessern und allen Nutzer\*innen eine barrierefreie Nutzung zu ermöglichen.
+#### Struktur
+
+Portal, Forschungsdatenplattform und die Dokumentationsseite zum Forschungsdatenmanagement sind auf unterschiedlichen Tools aufgebaut und unterscheiden sich daher in Bezug auf die Navigation, das Aussehen von Bedienelementen, den Aufbau der Seiten etc. Durch übergreifend vorhandene Bedienelemente wie die lilafarbene Titelleiste soll dennoch ein Wiedererkennungswert erzeugt werden.
+
+Um die Seitenstruktur und Navigation zu verbessern, wurden für das Portal und die Forschungsdatenplattform im Herbst 2023 (Portal) bzw. Sommer 2024 (Plattform) zwei Umfragen mit Kooperationspartner\*innen durchgeführt. Aus den Ergebnissen dieser Umfragen konnten Handlungsfelder identifiziert und umgesetzt werden.
+
+#### Neurodiversity Design System
+
+Für die Konzeption der Online-Angebote sind aus Accessibility-Perspekte die WCAG-Standards zentral. Zusätzlich sind die Gestaltungsprinzipien des [Neurodiversity Design System](https://neurodiversity.design) von Will Soward in die Überlegungen [eingeflossen](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch/issues/107), wurden jedoch im Zweifel hinter andere Anforderungen zurückgestellt.
+
+::: {.callout-tip title="Neurodiversity Design System-Checkliste (Markdown-Vorlage) zum Kopieren" icon="false" collapse="true"}
+```{.markdown}
+
+#### Numbers
+
+| guideline | status | comment | tasks | notes |
+| :--- | :---: | :--- | :--- | :--- |
+| split long numbers into sequences |  |  |  |  |
+| provide visual representations of times and dates |  |  |  |  |
+
+#### Font
+
+| guideline | status | comment | tasks | notes |
+| :--- | :---: | :--- | :--- | :--- |
+| use sans-serif humanist font |  |  |  |  |
+| use non-mirroring letter shapes (b, d, ...) |  |  |  |  |
+| have sufficient letter spacing |  |  |  |  |
+| use double-storey letters (g, j, ...) |  |  |  |  |
+
+
+#### Typography
+
+| guideline | status | comment | tasks | notes |
+| :--- | :---: | :--- | :--- | :--- |
+| make heading 20% larger than body |  |  |  |  |
+| use heavier or bold style for heading |  |  |  |  |
+| use line spacing of 150% to 170% |  |  |  |  |
+| use font-size 16–20px, base value 16 |  |  |  |  |
+| increase letter spacing by ca. +1/3 for smaller captions |  |  |  |  |
+
+#### Colour
+
+| guideline | status | comment | tasks | notes |
+| :--- | :---: | :--- | :--- | :--- |
+| meet contrast ratio 4.5 AA |  |  |  |  |
+| meet contrast ratio 7+ AAA |  |  |  |  |
+| use colour to show hierarchy |  |  |  |  |
+| use colour to show connectedness of items |  |  |  |  |
+| distinguish active, hover, focus |  |  |  |  |
+| do not use `#000000` or `#ffffff` |  |  |  |  |
+| provide dark mode |  |  |  |  |
+| provide coloured mode |  |  |  |  |
+
+#### Buttons/Links
+
+| guideline | status | comment | tasks | notes |
+| :--- | :---: | :--- | :--- | :--- |
+| style buttons so they look clickable |  |  |  |  |
+| make inputs, text areas and multi-selects appear clickable |  |  |  |  |
+| use different colours for hyperlinks |  |  |  |  |
+| ensure clickable areas are large enough |  |  |  |  |
+| add icons to action items (do not overuse) |  |  |  |  |
+
+#### Interface
+
+| guideline | status | comment | tasks | notes |
+| :--- | :---: | :--- | :--- | :--- |
+| separate sections w/background colours  |  |  |  |  |
+| de-clutter layout, conceal optional features  |  |  |  |  |
+| use conventional positionings (menu, footer, header)  |  |  |  |  |
+| do not let navigation, contact info, fixed notices, ... compete for attention |  |  |  |  |
+
+#### Communications
+
+| guideline | status | comment | tasks | notes |
+| :--- | :---: | :--- | :--- | :--- |
+| style alerts and messages consistently  |  |  |  |  |
+| follow persistent naming conventions  |  |  |
+| use subtle animation for transition when state of item changes (e.g. dropdown) |  |  |  |  |
+| use animation to reinforce hierarchy |  |  |  |  |
+| use animation to indicate progress/waiting times |  |  |  |  |
+| let user trigger movement, no auto-play |  |  |  |  |
+| provide option to turn off animations |  |  |  |  |
+
+```
+:::
+
+#### Farben
+
+Neben der Gewährleistung einer barrierefreien Zugänglichkeit sollen die verwendeten Farben produktübergreifend ein möglichst einheitliches Erscheinungsbild mit Wiedererkennungswert erzeugen, das der [Corporate Identity](../corporate-identity/index.qmd) entspricht, einen Bezug zu den gedruckten Büchern erkennen lässt und gleichzeitig die Möglichkeiten der verwendeten Frameworks und Toolkits aufnimmt. Dazu wurde ein [Farbkonzept](../farbkonzept/index.qmd) erarbeitet.
+
+### **Barrierefreiheitserklärung**
+
+Wir bemühen uns, die Online-Angebote von Stadt.Geschichte.Basel gemäss den aktuellen Webstandards und den Anforderungen der Barrierefreiheit zu gestalten. Unsere [Barrierefreiheitserklärung](https://stadtgeschichtebasel.ch/barrierefreiheitserklaerung) beschreibt, welche Massnahmen wir umsetzen, um die Zugänglichkeit zu gewährleisten, darunter die Verwendung barrierefreier Schriftgrössen, kontrastreicher Gestaltungselemente sowie einer klaren Navigationsstruktur. Zudem informieren wir über bestehende Einschränkungen und Möglichkeiten zur Rückmeldung. Falls Sie auf Barrieren stossen oder Verbesserungsvorschläge haben, freuen wir uns über Ihr Feedback über das dort angegebene Kontaktformular.
+
+Die Barrierefreiheitserklärung von Stadt.Geschichte.Basel wurde auf Basis der Barrierefreiheitserklärungen der [Stiftung Zugang für alle](https://access-for-all.ch/barrierefreiheitserklaerung/) sowie der [ETH Zürich](https://ethz.ch/de/footer/barrierefreiheitserkl%C3%A4rung.html) erstellt.
+
+### **Richtlinien für den Blog und Soziale Medien**  
+
+Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Menschen zugänglich sein. Deshalb achten wir auf eine verständliche Sprache, die Vermeidung von Fachjargon, alternative Textbeschreibungen für Bilder sowie eine lesefreundliche Formatierung. Zudem stellen wir sicher, dass Videos möglichst mit Untertiteln versehen sind und Verlinkungen eindeutig beschrieben werden.
+
+Die Richtlinien von Stadt.Geschichte.Basel für den Blog und die sozialen Medien betonen wissenschaftliche Genauigkeit, Respekt und Inklusion. Sie fördern eine korrekte Darstellung historischer Fakten, transparente Quellenangaben und einen respektvollen, faktenbasierten Diskurs. Diskriminierung jeglicher Art wird nicht toleriert, und es wird auf geschlechtergerechte Sprache sowie Barrierefreiheit geachtet. Der Schutz personenbezogener Daten hat Priorität, wobei Daten nur mit Zustimmung erhoben und sicher aufbewahrt werden. Die Rechte Dritter werden respektiert, und unangemessene Inhalte wie Spam oder vulgäre Sprache sind untersagt. Ein Moderationsteam überwacht die Einhaltung dieser Richtlinien und ergreift bei Verstößen entsprechende Maßnahmen. Für Blog-Beiträge gelten spezifische formale Anforderungen, darunter Titel- und Textlängen, Kategorien, historische Perioden, Bildnutzung mit entsprechenden Quellenangaben und Barrierefreiheitshinweisen. 
+
+Unsere vollständigen Richtlinien zur Veröffentlichung von Inhalten finden Sie [hier](https://stadtgeschichtebasel.ch/richtlinien-fuer-den-blog-und-soziale-medien).
+
+## Printprodukte
+
+Die vom Team für Forschungsdatenmanagement erstellten Abbildungen für die Printausgabe von Stadt.Geschichte.Basel sind [Karten](../../research-data/geodata/index.qmd) sowie [Diagramme](../../research-data/plots/index.qmd). Auch für diese Abbildungen gilt das Ziel, Barrierefreiheit und Zugänglichkeit in Bild- und Formensprache zu verankern. Noch stärker als im Kontext der Online-Angebote musste hier Rücksicht auf gestalterische und drucktechnische Vorgaben seitens des Verlags und der Buchgestalter\*innen genommen werden.
