@@ -85,7 +85,7 @@ Stadt.Geschichte.Basel bemüht sich, eine positive, respektvolle und inklusive P
   * Zeitgeschichte (1900 bis jetzt)
 * **Bilder**: 1 bis 3 hochaufgelöste Bilder. Rechte klären und Rechtehinweise angeben.
   * Jedes Bild benötigt eine Bildlegende mit Kontext und Quellenangabe.
-  * Jedes Bild benötigt einen deskriptiven Alternativtext für Menschen mit beeinträchtigtem Sehvermögen (Anleitung zur Erstellung von Alternativtexten).
+  * Jedes Bild benötigt einen deskriptiven Alternativtext für Menschen mit beeinträchtigtem Sehvermögen ([Anleitung zur Erstellung von Alternativtexten](https://ethz.ch/de/die-eth-zuerich/lehre/e-accessibility/faq-quick-wins/text-alternatives.html)).
 * **Korrektorat**: Angabe, ob ein Korrektorat durchgeführt wurde (Ja / Nein).
 * **Fakultativ**:
   * Hashtags für Social Media.
