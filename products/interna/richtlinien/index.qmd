@@ -1,0 +1,137 @@
+---
+title: Kommunikationsrichtlinien
+category: Interna
+author: 
+- name: Cristina Münch
+  affiliation: Universität Basel
+  orcid: 0000-0003-3885-248X
+- name: Moritz Mähr
+  email: moritz.maehr@gmail.com
+  affiliation: Universität Basel
+  orcid: 0000-0002-1367-1618
+- name: Noëlle Schnegg
+  email: noelle.schnegg@unibas.ch
+  affiliation: Universität Basel
+  orcid: 0009-0008-5207-6652
+bibliography: references.bib
+nocite: |
+  @*
+date: March 2025
+date-format: "MMMM YYYY"
+lang: de-CH
+---
+
+Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Menschen zugänglich sein. Deshalb achten wir auf eine verständliche Sprache, die Vermeidung von Fachjargon, alternative Textbeschreibungen für Bilder sowie eine lesefreundliche Formatierung. Zudem stellen wir sicher, dass Videos möglichst mit Untertiteln versehen sind und Verlinkungen eindeutig beschrieben werden. Diese Prinzipien sind in unseren [Richtlinien für den Blog und Soziale Medien](#richtlinien-für-den-blog-und-für-soziale-medien) und in der [Regelung für geschlechtersensible Sprache](#regelung-für-geschlechtersensible-sprache) festgeschrieben.
+
+## Richtlinien für den Blog und für soziale Medien
+
+Stadt.Geschichte.Basel bemüht sich, eine positive, respektvolle und inklusive Plattform zu sein, die sich auf den Austausch von historischem Wissen konzentriert.
+
+### Wissenschaftliche Werte
+
+* **Genaue Darstellung**: Alle Inhalte, die wir auf unseren Plattformen teilen, sollten auf gründlicher Recherche und einer korrekten Darstellung der Fakten basieren. Wir sind der wissenschaftlichen Methode und den Standards der Geschichtswissenschaft verpflichtet und veröffentlichen keine falschen Informationen oder Falschmeldungen, die irreführend oder schädlich sein könnten.
+* **Quellenangabe**: Alle Quellen, die wir verwenden, werden korrekt zitiert und/oder verlinkt. Wir respektieren das Urheberrecht, Markenrechte und andere Rechte Dritter und betonen die Wichtigkeit von Transparenz und Anerkennung der Arbeit anderer.
+* **Kritischer Diskurs**: Wir ermutigen zu konstruktiver Kritik und zum wissenschaftlichen Diskurs. Diskussionen und Debatten sollten respektvoll geführt und auf Fakten und Logik basiert sein. Wir behalten uns das Recht vor, unangemessene Kommentare zu entfernen.
+
+### Gegen Diskriminierung
+
+* **Inklusion und Respektvoller Umgang**: Die Nutzer\*innen sollen einen respektvollen Umgang miteinander pflegen. Wir tolerieren keine Diskriminierung aufgrund von Rasse, Hautfarbe, Geschlecht, Sexualität, Religion, Nationalität, Alter oder Behinderung. Beiträge, die diskriminierende Sprache, Hassreden oder Inhalte enthalten, die aufgrund dieser Merkmale beleidigend oder diskriminierend sind, werden nicht toleriert. Gewaltverherrlichende Inhalte, die körperliche Gewalt oder Drohungen darstellen oder andere Personen gefährden können, sowie sexuell explizite Inhalte, die gegen die guten Sitten verstossen oder die Würde anderer Personen verletzen könnten, sind ebenfalls verboten.
+* **Geschlechtergerechte Sprache**: Wir verpflichten uns, eine inklusive und diskriminierungsfreie Sprache zu verwenden, die alle Geschlechter und Identitäten anspricht. Stadt.Geschichte.Basel hat dazu eine [Sprachregelung für geschlechtersensible Sprache](#regelung-für-geschlechtersensible-sprache) entworfen.
+* **Kontroverse Themen**: Wir erkennen an, dass einige historische Themen kontrovers sind. Bei der Diskussion solcher Themen bemühen wir uns um Sensibilität und Ausgewogenheit.
+* **Förderung von vielfältige Perspektiven**: Wir streben an, eine Vielzahl von historischen Perspektiven zu präsentieren und zu respektieren. Unser Ziel ist es, das Bewusstsein für die Vielfalt und Komplexität der Geschichte zu schärfen.
+* **Barrierefreiheit**: Stadt.Geschichte.Basel bemüht sich, seine Inhalte für die Website und Social Media barrierefrei zu gestalten, um Menschen mit Behinderungen einen gleichberechtigten Zugang zu ermöglichen.
+
+### Datenschutz und Persönlichkeitsrechte
+
+* **Datenschutz und Datensparsamkeit**: Wir respektieren die Privatsphäre unserer Nutzer*innen. Personenbezogene Daten werden nur mit ausdrücklicher Zustimmung gesammelt und nur für den Zweck verwendet, für den sie erhoben wurden. Wir sammeln nur personenbezogene Daten, die für den Betrieb der Social Media Kanäle notwendig sind.
+* **Datensicherheit**: Wir treffen alle notwendigen Vorkehrungen, um die von uns gesammelten Daten zu schützen. Die Sicherheit der Daten unserer Nutzer ist uns wichtig. Wir sorgen dafür, dass personenbezogene Daten sicher und geschützt aufbewahrt werden und nur berechtigten Personen zugänglich sind.
+* **Transparenz und Verantwortlichkeit**: Wir sind transparent darüber, welche Daten wir sammeln und wie wir sie verwenden. Wir informieren unsere Nutzer über ihre Datenschutzrechte und darüber, welche Personendaten zu welchem Zweck erhoben und bearbeitet werden. Stadt.Geschichte.Basel ist verantwortlich für die Bearbeitung von Personendaten im Zusammenhang mit den Social Media Kanälen.
+
+### Rechte Dritter und Verhaltensregeln
+
+* **Rechte Dritter**: Stadt.Geschichte.Basel respektiert die Rechte Dritter und veröffentlicht keine Inhalte, die Urheberrechte, Markenrechte, Persönlichkeitsrechte oder andere Rechte Dritter verletzen.
+* **Spam**: Stadt.Geschichte.Basel veröffentlicht keine unerwünschten oder sich wiederholenden Inhalte, die als Spam betrachtet werden können.
+* **Unangemessene Sprache**: Stadt.Geschichte.Basel veröffentlicht keine Inhalte, die unangemessene oder vulgäre Sprache enthalten.
+* **Autorisierte Stellungnahmen**: Stadt.Geschichte.Basel gibt nur Stellungnahmen ab, die von autorisierten Personen verfasst wurden.
+
+### Moderation und Meldungen und Sanktionen
+
+* **Moderation**: Stadt.Geschichte.Basel bemüht sich, diskriminierende Inhalte schnell zu identifizieren und angemessen darauf zu reagieren. Stellt Stadt.Geschichte.Basel fest, dass ein Beitrag gegen eine ihrer Richtlinien verstösst, wird dieser umgehend entfernt.
+* **Meldungen und Entfernung von Inhalten**: Stadt.Geschichte.Basel bittet ihre Follower\*innen, unangemessene Inhalte zu melden, um schnell reagieren und diese entfernen zu können. 
+* **Verwarnungen und Sanktionen**: Verstösst eine Nutzer\*in gegen eine Richtlinie, kann Stadt.Geschichte.Basel eine Verwarnung aussprechen oder die Nutzer\*in von der Plattform sperren.
+* **Zusammenarbeit mit Behörden**: Wenn Stadt.Geschichte.Basel feststellt, dass eine Nutzer*in gegen Gesetze oder Vorschriften verstösst, wird sie mit den zuständigen Behörden zusammenarbeiten, um angemessene Massnahmen zu ergreifen.
+
+### Weiterbildung und Kommunikation
+
+* **Schulungen**: Stadt.Geschichte.Basel schult ihre Mitarbeitenden und Social Media-Verantwortlichen regelmässig, um sicherzustellen, dass sie über die neusten Entwicklungen und Best Practices informiert sind und die Richtlinien korrekt anwenden.
+* **Offene Kommunikation**: Stadt.Geschichte.Basel kommuniziert offen und transparent mit ihren Follower\*innen und gibt ihnen regelmässig Feedback, um sicherzustellen, dass sie die Richtlinien verstehen und einhalten.
+
+### Formale Spezifikationen für Blog-Beiträge
+
+* **Titel**: Maximal 70 Zeichen inkl. Leerschläge
+* **Text**: 500 bis 3000 Zeichen inkl. Leerschläge. Verlinkungen erlaubt.
+* **Lead/Teaser**: Maximal 280 Zeichen inkl. Leerschläge. Verlinkungen erlaubt.
+* **Kategorie/Format**: Genau eine aus den folgenden:
+  * Story
+  * Veranstaltungshinweis
+  * Dialog
+  * Ereignisbericht
+  * Medienspiegel
+* **Zeiten**: Mindestens eine Kategorie aus den folgenden historischen Perioden:
+  * Frühgeschichte (bis 799 vor unserer Zeitrechnung)
+  * Antike (800 vor bis 599 nach  unserer Zeitrechnung)
+  * Mittelalter (600 bis 1499)
+  * Neuzeit (1500 bis 1899)
+  * Zeitgeschichte (1900 bis jetzt)
+* **Bilder**: 1 bis 3 hochaufgelöste Bilder. Rechte klären und Rechtehinweise angeben.
+  * Jedes Bild benötigt eine Bildlegende mit Kontext und Quellenangabe.
+  * Jedes Bild benötigt einen deskriptiven Alternativtext für Menschen mit beeinträchtigtem Sehvermögen (Anleitung zur Erstellung von Alternativtexten).
+* **Korrektorat**: Angabe, ob ein Korrektorat durchgeführt wurde (Ja / Nein).
+* **Fakultativ**:
+  * Hashtags für Social Media.
+  * Link zu eigenem X und Instagram.
+  * Autorenportrait: Maximal 280 Zeichen inkl. Leerschläge pro Autor*in. Verlinkungen erlaubt.
+  * Institutionenportrait: Maximal 280 Zeichen inkl. Leerschläge. Verlinkungen erlaubt.
+  * Maximal 3 Literaturverweise, zitiert nach [infoclio.ch](https://www.infoclio.ch/de/zitierstil).
+  * Spätestes und/oder frühestes Datum der Veröffentlichung.
+
+Diese Richtlinien gelten auch für natürliche oder juristische Personen, die im Namen, im Auftrag oder mit Erlaubnis von Stadt.Geschichte.Basel Beiträge auf den Social Media Kanälen veröffentlichen.
+
+Bitte beachten Sie, dass Verstösse gegen diese Richtlinien zu Warnungen, zur Entfernung von Beiträgen oder zum Ausschluss von der Plattform führen können. Wir danken Ihnen im Voraus für Ihr Verständnis und Ihre Zusammenarbeit.
+
+## Regelung für geschlechtersensible Sprache
+
+Folgende Sprachregelung ist ein Leitfaden für die Verwendung einer inklusiven und diskriminierungsfreien Sprache in den Webbeiträgen der Stadt.Geschichte.Basel. Die Sprachregelung zielt darauf, ab, alle Geschlechter und Identitäten angemessen darzustellen, festgesetzte Normen und Binaritäten zu überwinden sowie Stereotypen zu vermeiden. Ausserdem wird versucht, die Bedürfnisse von blinden und sehbehinderten Menschen zu berücksichtigen, welche einen Screenreader verwenden. 
+
+Die Sprache entwickelt und verändert sich ständig – und damit auch ihre Anwendung. Es gibt deswegen nicht die eine korrekte Lösung für eine geschlechtersensible Sprache. Die Stadt.Geschichte.Basel stützt sich auf aktuelle Leitfäden wie den von der @universitat_zurich_leitfaden_2019, um eine klare und einheitliche Sprachregelung zu ermöglichen. Dabei verpflichtet sich das Projekt, die Regelung regelmässig zu überprüfen und sie gegebenenfalls den Aktualitäten anzupassen. 
+
+### Gendern 
+
+Die Stadt.Geschichte.Basel bemüht sich, geschlechtsneutrale Formulierungen zu verwenden. Beispielsweise wird anstatt der Paarform “Mitarbeiterinnen und Mitarbeiter” Wörter wie “Team” oder “Mitarbeitende” verwendet. Weil Sonderzeichen wie Sternchen oder ein Doppelpunkt zu Problemen beim Vorlesen durch Screenreader führen können, bevorzugt Stadt.Geschichte.Basel geschlechtsneutrale Ausdrücke. Bei Wörtern wie “Historiker\*innen”, bei denen es keine neutralen Formen gibt, soll ein Sternchen verwendet werden, um die binäre Vorstellung von Geschlechtsidentitäten nicht zu reproduzieren. 
+
+Der Deutsche Blinden- und Sehbehindertenverband [DBSV, -@deutscher_blinden-_und_sehbehindertenverband_ev_gendern_2023] empfiehlt ebenfalls, falls mit Kurzformen gegendert wird, das Sternchen zu verwenden. Gemäss dem Verband ist davon auszugehen, dass Doppelpunkt und Unterstrich beziehungsweise ein Gender Gap für sehbehinderte Menschen schlechter erkennbar sind als Sternchen. 
+
+### Pronomen
+Mit Umformulierungen durch unpersönliche Pronomen (alle, wer, diejenigen, jene etc.) wird erreicht, dass Personenbezeichnungen und komplizierte Formulierungen vermieden werden. 
+
+* Statt “der Student” oder “die Studentin”: “die Person, die studiert”
+* Statt “jemand kann es tun”: “alle haben die Fähigkeit dazu”
+* Statt “jemand muss entscheiden”: “eine Entscheidung muss getroffen werden”
+
+### Namen und Funktionsbezeichnungen 
+Auch bei Namen und Funktionsbezeichnungen soll darauf geachtet werden, dass die Personen möglichst geschlechtsneutral angesprochen werden.
+
+* Beispiel: anstatt “Frau Doktor Steiner”  “Dr. Steiner”
+
+Für Berufe und Titel sollen geschlechtsneutrale Begriffe verwendet werden, um gleichermassen männliche, weibliche und nicht-binäre Personen einzubeziehen. 
+
+* Beispiel: anstatt “Lehrerin” oder “Lehrer” “Lehrperson”
+
+### Kontextualisierung von historischen Begriffen
+Gewisse historische Begriffe werden bewusst nicht gegendert, da sie sonst den historischen Tatsachen widersprechen. Stadt.Geschichte.Basel bemüht sich jedoch, jeweils die Begriffe umfassend zu kontextualisieren. Dabei werden die einzelnen Begrifflichkeiten von Historiker\*innen genau überprüft. Beispielsweise wäre es unkorrekt, für Ärzte der frühen Neuzeit “Ärztinnen” zu verwenden, weil der Beruf den Frauen damals nicht offen stand. 
+
+### Barrierefreiheit in der Schreibweise
+Die Inhalte werden in einer barrierefreien Schreibweise formuliert, damit sie optimal von Screenreadern erkennt werden können.
+
+* Alle Inhalte von Stadt.Geschichte.Basel enthalten die deutschen Anführungszeichen (“”). 
+* Ab fünf Stellen vor dem Komma werden Tausendertrennzeichen gesetzt. Beispielsweise 30’000.
