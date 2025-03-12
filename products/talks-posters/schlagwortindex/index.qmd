@@ -1,0 +1,44 @@
+---
+title: Die Basler Keyword-Apokalypse
+subtitle: ChatGPTs fehlgeleitete Suche nach historischer Ordnung
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel, Universität Bern
+date: 2025-03-12
+categories: Vortrag
+event: Schweizerisches Sozialarchiv, Quellenanalyse nach dem ChatGPT-Schock
+lang: de
+doi: 10.5281/zenodo.15010340
+bibliography: references.bib
+nocite: |
+  @*
+citation:
+  type: standard
+  container-title: 'Contributed Lightning Talk beim Workshop "Quellenanalyse nach dem ChatGPT-Schock. Wie wir mit Large Language Models (LLMs) mediävistische und born-digital Quellen aufbereiten"'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://www.hist.uzh.ch/de/fachbereiche/mittelalter/lehrstuehle/teuscher/forschung/projekte/PATT/Workshop-Quellenanalyse-nach-dem-ChatGPT-Schock.html'
+  - text: Slides (Zenodo)
+    icon: filetype-pdf
+    href: 'https://doi.org/10.5281/zenodo.15010340'
+---
+
+## Vortrag
+
+Der Vortrag fand im Rahmen des Workshops [Quellenanalyse nach dem ChatGPT-Schock. Wie wir mit Large Language Models (LLMs) mediävistische und born-digital Quellen aufbereiten](https://www.hist.uzh.ch/de/fachbereiche/mittelalter/lehrstuehle/teuscher/forschung/projekte/PATT/Workshop-Quellenanalyse-nach-dem-ChatGPT-Schock.html) am Schweizerischen Sozialarchiv in Zürich statt, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.15010340).
+
+::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+<iframe src="/assets/files/20250312-Moritz_Maehr-Schlagwortapokalypse.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Die Basler Keyword-Apokalypse: ChatGPTs fehlgeleitete Suche nach historischer Ordnung">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/20250312-Moritz_Maehr-Schlagwortapokalypse.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
+
+## Abstract
+
+Der Vortrag analysiert kritisch den Einsatz von ChatGPT zur automatisierten Schlagwortgenerierung im Rahmen des Projekts Stadt.Geschichte.Basel. Anhand eines realen Anwendungsfalls wird aufgezeigt, wie ChatGPT bei der Extraktion historisch relevanter Begriffe für eine digitale Forschungsplattform eingesetzt wurde. Dabei werden grundlegende Herausforderungen sichtbar: Technische Probleme wie das limitierte Kontextfenster, mangelnde Wortzählung und fehlender Zugriff auf Normdatensätze (GND) treffen auf inhaltliche Verzerrungen durch englischsprachige Trainingsdaten und eine martialische Dominanz in der Begriffsauswahl. Besonders problematisch ist die fehlende Übereinstimmung zwischen automatisierten Ergebnissen und den tatsächlichen Forschungsperspektiven der Stadtgeschichte. Der Vortrag plädiert für eine kritische, reflektierte und normativ sensible Nutzung von KI-Werkzeugen bei Aufgaben, die inhaltlich und gesellschaftlich bedeutsam sind.
