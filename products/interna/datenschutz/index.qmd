@@ -39,8 +39,8 @@ Die Nutzung bestimmter Angebote auf den Webseiten [https://stadtgeschichtebasel.
 Sofern und soweit die Europäische Datenschutzgrundverordnung (DSGVO) zur Anwendung kommt, bearbeiten wir die Daten:
 
 * aufgrund gesetzlicher Vorgaben (Art. 6 Abs. 1 lit. c DSGVO) oder im öffentlichen Interesse (Art. 6 Abs. 1 lit. e DSGVO),
-aufgrund Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO),
-zur Erfüllung von vertraglichen Pflichten sowie zur Durchführung entsprechender vorvertraglicher Massnahmen (Art. 6 Abs. 1 lit. b DSGVO),
+* aufgrund Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO),
+* zur Erfüllung von vertraglichen Pflichten sowie zur Durchführung entsprechender vorvertraglicher Massnahmen (Art. 6 Abs. 1 lit. b DSGVO),
 * um die berechtigten Interessen von uns oder von Dritten zu wahren (Art. 6 Abs. 1 lit. f DSGVO),
 * um allenfalls lebenswichtige Interessen von Ihnen oder einer anderen natürlichen Person zu schützen (Art. 6 Abs. 1 lit. d DSGVO).
 
@@ -54,7 +54,7 @@ Cookies sind kleine Textdateien, die von unserem Server oder dem Server Dritter 
 ### Welche Zugriffsdaten bearbeitet (erhebt, sammelt, speichert, etc.) die Stiftung Stadt.Geschichte.Basel, wenn Sie die Websiten nutzen und zu welchem Zweck?
 Aus Sicherheitsgründen, um z. B. Missbrauchsfälle aufklären zu können und unsere Netzinfrastruktur sicherzustellen, werden sog. Zugriffsdaten, die beim Aufrufen der Webseiten [https://stadtgeschichtebasel.ch](https://stadtgeschichtebasel.ch) und [https://forschung.stadtgeschichtebasel.ch](https://forschung.stadtgeschichtebasel.ch) automatisch erhoben werden, gespeichert. Details entnehmen Sie den Datenschutzbestimmungen von Cloudflare wie sie unter [https://www.cloudflare.com/en-gb/privacypolicy/](https://www.cloudflare.com/en-gb/privacypolicy/) angegeben sind.
 
-Verwendet die Website Web-Analyse-Tools?
+### Verwendet die Website Web-Analyse-Tools?
 Auf den Webseiten [https://stadtgeschichtebasel.ch](https://stadtgeschichtebasel.ch) und [https://forschung.stadtgeschichtebasel.ch](https://forschung.stadtgeschichtebasel.ch) ist die DSGVO-konforme und Cookie-freie Web-Analyse-Komponente Plausible.io integriert. Details entnehmen Sie den Datenschutzbestimmungen von Plausible.io wie sie unter [https://plausible.io/privacy](https://plausible.io/privacy) einsehbar sind.
 
 ### Welche Dienste von Dritten verwendet die Website?

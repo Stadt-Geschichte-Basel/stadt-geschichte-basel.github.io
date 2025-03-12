@@ -19,7 +19,6 @@ author:
 date: March 2024
 date-format: "MMMM YYYY"
 lang: de-CH
-tbl-colwidths: [10, 50, 10, 10, 10, 10]
 ---
 
 Das Team für Forschungsdatenmanagement setzt sich für eine möglichst inklusive Gestaltung seiner Produkte ein. Dies betrifft sowohl unsere digitalen Angebote -- [Portal](../../coding/portal/index.qmd), [Forschungsdatenplattform](../../coding/plattform/index.qmd), Publikationen etc. -- aber auch die von uns bearbeiteten Daten -- [Geodaten](../../research-data/geodata/index.qmd) und [Diagramme](../../research-data/plots/index.qmd) für die Printausgabe von Stadt.Geschichte.Basel.
