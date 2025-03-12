@@ -9,7 +9,7 @@ author:
   affiliation: Universität Basel
   orcid: 0000-0003-3860-1488
 - name: Moritz Mähr
-  email: moritz.maehr@unibas.ch
+  email: moritz.maehr@gmail.com
   affiliation: Universität Basel
   orcid: 0000-0002-1367-1618
 - name: Moritz Twente
@@ -235,7 +235,7 @@ Die Farbpalette der Forschungsdatenplattform wurde mit Kontrastcheckern überpr�
 
 ## Farbpalette Print
 
-Für die zehn Bände der Stadt.Geschichte.Basel hat das Team für Forschungsdatenmanagement über 100 Grafiken -- hauptsächlich [Karten](../../research-data/geodata/index.qmd) und [Diagramme](../../research-data/plots/index.qmd) -- bearbeitet bzw. erstellt. In Bezug auf die farbliche Gestaltung bestand neben den bereits genannten Anforderungen zusätzlich noch der Anspruch, eine über alle Bände hinweg erkennbar zusammenhängende Formensprache zu finden. Dies stellte sich jedoch u.a. aufgrund der Vielzahl an Abbildungstypen (Landkarten, Balkendiagramme, Netzwerkvisualisierungen, etc.), wegen disziplinenspezifisch unterschiedlicher Konventionen zum Einsatz wissenschaftlicher Visualisierungen oder wegen fachlich bedingter Differenzen in Genauigkeit und Vollständigkeit von Grundlagendaten als schwieriges Unterfangen dar.
+Für die zehn Bände der Stadt.Geschichte.Basel hat das Team für Forschungsdatenmanagement über 100 Grafiken -- hauptsächlich [Karten](../../research-data/geodata/index.qmd) und [Diagramme](../../research-data/plots/index.qmd) -- bearbeitet bzw. erstellt. In Bezug auf die farbliche Gestaltung bestand neben den bereits genannten Anforderungen zusätzlich noch der Anspruch, eine über alle Bände hinweg erkennbar zusammenhängende Formensprache zu finden. Dies stellte sich jedoch u.a. aufgrund der Vielzahl an Abbildungstypen (Landkarten, Balkendiagramme, Netzwerkvisualisierungen, etc.), wegen disziplinenspezifisch unterschiedlicher Konventionen zum Einsatz wissenschaftlicher Visualisierungen oder wegen fachlich bedingter Differenzen in Genauigkeit und Vollständigkeit von Grundlagendaten als [schwieriges Unterfangen](../inklusive-gestaltung/index.qmd#printprodukte) dar.
 
 Der ursprüngliche Ansatz, eine Farbpalette aus bereits vorhandenen Good-Practice-Beispielen für barrierefreie Farbgestaltung auszuwählen, konnte daher nicht direkt umgesetzt werden. Weiterhin hat sich nach der Bearbeitung der ersten Datensätze schnell gezeigt, dass sich die zu visualisierenden Daten untereinander auch strukturell zu stark voneinander unterschieden, um eine universell anwendbare Grundlage zu verwenden (z.B. Anforderungen an Visualisierung diskreter Daten gegenüber kontinuierlicher Daten).
 
@@ -347,7 +347,7 @@ Nummer,CMYK,HEX,RGB
 
 ### Anwendung
 
-Dieses Farbschema ist in beiden Varianten für die Verwendung in Print-Produkten geeignet und erfüllt die Anforderungen an eine für Farbenblinde erkennbare Farbpalette. Für Abbildungen, in denen gewisse Farbtöne z.B. aufgrund ästhetischer Ansprüche oder inhaltlicher Assoziationen unerwünscht sind, können einzelne Farbwerte ausgelassen werden. Für diese Fälle empfiehlt @tol_sequential_2022 spezifische Subsets (@fig-pyramid) der Farbpalette zu verwenden. Auf diese Weise kann eine für farbenblinde geeignete, druckfähige Farbpalette mit bis zu 23 Farbwerten generiert werden.
+Dieses Farbschema ist in beiden Varianten für die Verwendung in Print-Produkten geeignet und erfüllt die Anforderungen an eine für Farbenblinde erkennbare Farbpalette. Für Abbildungen, in denen gewisse Farbtöne z.B. aufgrund ästhetischer Ansprüche oder inhaltlicher Assoziationen unerwünscht sind, können einzelne Farbwerte ausgelassen werden. Für diese Fälle empfiehlt @tol_sequential_2022 spezifische Subsets (@fig-pyramid) der Farbpalette zu verwenden. Auf diese Weise kann eine für Farbenblinde geeignete, druckfähige Farbpalette mit bis zu 23 Farbwerten generiert werden.
 
 ```{r echo=FALSE, message=FALSE}
 #| label: fig-pyramid
@@ -387,7 +387,7 @@ pyramid_long <- pyramid_long %>%
   ungroup()
 
 # Specify colour numbers that should have black text labels
-black_text_values <- c(1, 2, 3, 4, 14, 16, 17, 18, 19, 20, 21)
+black_text_values <- c(1, 2, 3, 4, 5, 6, 7, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24)
 
 # Add text aesthetic for tooltip
 pyramid_long <- pyramid_long %>%

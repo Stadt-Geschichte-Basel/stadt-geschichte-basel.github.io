@@ -28,6 +28,7 @@ listing:
     fields: [title]
   - id: interna
     type: grid
+    grid-columns: 2
     categories: true
     contents: interna/*/index.qmd
     fields: [title]
