@@ -26,7 +26,7 @@ Das Team für Forschungsdatenmanagement setzt sich für eine möglichst inklusiv
 
 ## Digitale Produkte
 
-Inklusives Design zielt darauf ab, Inhalte und Dienstleistungen für alle Menschen zugänglich und nutzbar zu machen, unabhängig von ihren individuellen Fähigkeiten oder Einschränkungen. Ausgangspunkt für die Implementierung stellt der [Web Content Accessibility Standard (WCAG) 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/glance/) des World Wide Web Consortiums (W3C) dar. Konkret sind das die WCAG-Guidelines, die mit den Begriffen Wahrnehmbarkeit, Bedienbarkeit, Verständlichkeit und Robustheit kategorisiert werden. Durch die Anwendung dieser Prinzipien wird sichergestellt, dass Webseiten barrierefrei gestaltet sind.
+Inklusives Design zielt darauf ab, Inhalte und Dienstleistungen für alle Menschen zugänglich und nutzbar zu machen, unabhängig von ihren individuellen Fähigkeiten oder Einschränkungen. Ausgangspunkt für die Implementierung stellt der [Web Content Accessibility Standard (WCAG) 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/glance/) des World Wide Web Consortiums (W3C) dar. Konkret sind das die WCAG-Guidelines, die mit den Begriffen Wahrnehmbarkeit, Bedienbarkeit, Verständlichkeit und Robustheit kategorisiert werden. Durch die Anwendung dieser Prinzipien wird ermöglicht, dass Webseiten barrierefrei gestaltet sind.
 
 ### **WCAG 2.1 A/AA-Checklist** {#wcag-2.1-aaa-checklist}
 
@@ -39,8 +39,6 @@ Auf Basis der [Schweizer Accessibility-Checkliste 2.1](https://a11y.digitaldialo
 | Success | Failure | N/A | Unclear | Warning |
 | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ❌ | ❎ | ❓ | ⚠️ |
-
-: {tbl-colwidths="[20, 20, 20, 20, 20]"}
 
 #### **1.1.1. Nicht-Text-Inhalt – `A` –**
 
@@ -446,13 +444,16 @@ Portal, Forschungsdatenplattform und die Dokumentationsseite zum Forschungsdaten
 
 Um die Seitenstruktur und Navigation zu verbessern, wurden für das Portal und die Forschungsdatenplattform im Herbst 2023 (Portal) bzw. Sommer 2024 (Plattform) zwei Umfragen mit Kooperationspartner\*innen durchgeführt. Aus den Ergebnissen dieser Umfragen konnten Handlungsfelder identifiziert und umgesetzt werden.
 
+#### Farben
+
+Neben der Gewährleistung einer barrierefreien Zugänglichkeit sollen die verwendeten Farben produktübergreifend ein möglichst einheitliches Erscheinungsbild mit Wiedererkennungswert erzeugen, das der [Corporate Identity](../corporate-identity/index.qmd) entspricht, einen Bezug zu den gedruckten Büchern erkennen lässt und gleichzeitig die Möglichkeiten der verwendeten Frameworks und Toolkits aufnimmt. Dazu wurde ein [Farbkonzept](../farbkonzept/index.qmd) erarbeitet.
+
 #### Neurodiversity Design System
 
 Für die Konzeption der Online-Angebote sind aus Accessibility-Perspekte die WCAG-Standards zentral. Zusätzlich sind die Gestaltungsprinzipien des [Neurodiversity Design System](https://neurodiversity.design) von Will Soward in die Überlegungen [eingeflossen](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch/issues/107), wurden jedoch im Zweifel hinter andere Anforderungen zurückgestellt.
 
 ::: {.callout-tip title="Neurodiversity Design System-Checkliste (Markdown-Vorlage) zum Kopieren" icon="false" collapse="true"}
 ```{.markdown}
-
 #### Numbers
 
 | guideline | status | comment | tasks | notes |
@@ -527,10 +528,6 @@ Für die Konzeption der Online-Angebote sind aus Accessibility-Perspekte die WCA
 ```
 :::
 
-#### Farben
-
-Neben der Gewährleistung einer barrierefreien Zugänglichkeit sollen die verwendeten Farben produktübergreifend ein möglichst einheitliches Erscheinungsbild mit Wiedererkennungswert erzeugen, das der [Corporate Identity](../corporate-identity/index.qmd) entspricht, einen Bezug zu den gedruckten Büchern erkennen lässt und gleichzeitig die Möglichkeiten der verwendeten Frameworks und Toolkits aufnimmt. Dazu wurde ein [Farbkonzept](../farbkonzept/index.qmd) erarbeitet.
-
 ### **Barrierefreiheitserklärung**
 
 Wir bemühen uns, die Online-Angebote von Stadt.Geschichte.Basel gemäss den aktuellen Webstandards und den Anforderungen der Barrierefreiheit zu gestalten. Unsere [Barrierefreiheitserklärung](https://stadtgeschichtebasel.ch/barrierefreiheitserklaerung) beschreibt, welche Massnahmen wir umsetzen, um die Zugänglichkeit zu gewährleisten, darunter die Verwendung barrierefreier Schriftgrössen, kontrastreicher Gestaltungselemente sowie einer klaren Navigationsstruktur. Zudem informieren wir über bestehende Einschränkungen und Möglichkeiten zur Rückmeldung. Falls Sie auf Barrieren stossen oder Verbesserungsvorschläge haben, freuen wir uns über Ihr Feedback über das dort angegebene Kontaktformular.
@@ -539,17 +536,13 @@ Die Barrierefreiheitserklärung von Stadt.Geschichte.Basel wurde auf Basis der B
 
 ## **Inklusive Sprache**  
 
-Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Menschen zugänglich sein. Deshalb achten wir auf eine verständliche Sprache, die Vermeidung von Fachjargon, alternative Textbeschreibungen für Bilder sowie eine lesefreundliche Formatierung. Zudem stellen wir sicher, dass Videos möglichst mit Untertiteln versehen sind und Verlinkungen eindeutig beschrieben werden. Diese Prinzipien sind in unseren [Richtlinien für den Blog und Soziale Medien](https://stadtgeschichtebasel.ch/richtlinien-fuer-den-blog-und-soziale-medien) festgeschrieben.
-
-Die Richtlinien von Stadt.Geschichte.Basel für den Blog und die sozialen Medien betonen wissenschaftliche Genauigkeit, Respekt und Inklusion. Sie fördern eine korrekte Darstellung historischer Fakten, transparente Quellenangaben und einen respektvollen, faktenbasierten Diskurs. Diskriminierung jeglicher Art wird nicht toleriert, und es wird auf geschlechtergerechte Sprache sowie Barrierefreiheit geachtet. Der Schutz personenbezogener Daten hat Priorität, wobei Daten nur mit Zustimmung erhoben und sicher aufbewahrt werden. Die Rechte Dritter werden respektiert, und unangemessene Inhalte wie Spam oder vulgäre Sprache sind untersagt. Ein Moderationsteam überwacht die Einhaltung dieser Richtlinien und ergreift bei Verstößen entsprechende Maßnahmen. Für Blog-Beiträge gelten spezifische formale Anforderungen, darunter Titel- und Textlängen, Kategorien, historische Perioden, Bildnutzung mit entsprechenden Quellenangaben und Barrierefreiheitshinweisen. 
-
-Unsere vollständigen Richtlinien zur Veröffentlichung von Inhalten finden Sie [hier](https://stadtgeschichtebasel.ch/richtlinien-fuer-den-blog-und-soziale-medien).
+Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Menschen zugänglich sein. Deshalb achten wir auf eine verständliche Sprache, die Vermeidung von Fachjargon, alternative Textbeschreibungen für Bilder sowie eine lesefreundliche Formatierung. Zudem stellen wir sicher, dass Videos möglichst mit Untertiteln versehen sind und Verlinkungen eindeutig beschrieben werden. Diese Prinzipien sind in unseren [Richtlinien für den Blog und Soziale Medien](../richtlinien/index.qmd#richtlinien-für-den-blog-und-für-soziale-medien) und in der [Regelung für geschlechtersensible Sprache](../richtlinien/index.qmd#regelung-für-geschlechtersensible-sprache) festgeschrieben.
 
 ## Printprodukte
 
-Die vom Team für Forschungsdatenmanagement erstellten Abbildungen für die Printausgabe von Stadt.Geschichte.Basel sind [Karten](../../research-data/geodata/index.qmd) sowie [Diagramme](../../research-data/plots/index.qmd). Auch für diese Abbildungen gilt das Ziel, Barrierefreiheit und Zugänglichkeit in Bild- und Formensprache zu verankern. Noch stärker als im Kontext der Online-Angebote musste hier Rücksicht auf gestalterische und drucktechnische Vorgaben seitens des Verlags und der Buchgestalter\*innen genommen werden.
+Die vom Team für Forschungsdatenmanagement erstellten Abbildungen für die Printausgabe von Stadt.Geschichte.Basel sind [Karten](../../research-data/geodata/index.qmd) sowie [Diagramme](../../research-data/plots/index.qmd). Auch für diese Abbildungen gilt das Ziel, Barrierefreiheit und Zugänglichkeit in Bild- und Formensprache zu verankern. Noch stärker als im Kontext der Online-Angebote musste hier Rücksicht auf gestalterische und drucktechnische Vorgaben seitens des Verlags und der Buchgestalter\*innen genommen werden. Dazu wurde ein [Farbkonzept](../farbkonzept/index.qmd) erarbeitet.
 
-* Die Abmessungen der Abbildungen richten sich nach dem Layoutkonzept sowie nach dem darin verfügbaren Platz, arrangiert durch die Buchgestalter\*innen.
-* Die zu vermittelnden Inhalte bzw. historischen Argumente werden von den Autor\*innen definiert und hängen stark von den zur Verfügung gestellten Grundlagendaten ab. Der zur Verfügung stehende Platz im Buch definiert die technisch mögliche bzw. nötige Auflösung der abgebildeten Daten.
-* Die verwendeten Farben müssen im Farbraum CMYK definiert sein. Sie sollen in Abbildungen (z.B. in Skalen) auch für Menschen mit Sehbeeinträchtigungen unterscheidbar sein und müssen daher in Kombinationen Mindestanforderungen an Kontrastwerte entsprechen.
-* Zusätzlich soll eine visuelle Einheit erkennbar sein -- einerseits in Bezug auf die Kennfarbe des jeweiligen Bandes, andererseits auch bandübergreifend. Dahingehend spielt auch die Farbsemantik eine wichtige Rolle. So werden etwa Gewässer in Blau dargestellt, wobei der jeweilige Blauton variiert, je nach dem, ob Flächen (Meere) oder z.B. Linien (Flüsse) dargestellt werden. Auch für Glaubensgemeinschaften werden herkömmliche Farben verwendet (z.B. Grüntöne für den Islam). Vermieden wurden dagegen Farbkombinationen, die genderspezifische Klischees reproduzieren (z.B. Blau/Rot-Kombinationen für Mann/Frau-Dichotomien).
+* Die **Abmessungen** der Abbildungen richten sich nach dem Layoutkonzept sowie nach dem darin verfügbaren Platz, arrangiert durch die Buchgestalter\*innen.
+* Die zu vermittelnden Inhalte bzw. historischen Argumente werden von den Autor\*innen definiert und hängen stark von den zur Verfügung gestellten **Grundlagendaten** ab. Der zur Verfügung stehende Platz im Buch definiert die technisch mögliche bzw. nötige Auflösung der abgebildeten Daten.
+* Die verwendeten **Farben** müssen im Farbraum CMYK definiert sein. Sie sollen in Abbildungen (z.B. in Skalen) auch für Menschen mit Sehbeeinträchtigungen unterscheidbar sein und müssen daher in Kombinationen Mindestanforderungen an Kontrastwerte entsprechen.
+* Zusätzlich soll eine visuelle Einheit erkennbar sein -- einerseits in Bezug auf die Kennfarbe des jeweiligen Bandes, andererseits auch bandübergreifend. Dahingehend spielt auch die **Farbsemantik** eine wichtige Rolle. So werden etwa Gewässer in Blau dargestellt, wobei der jeweilige Blauton variiert, je nach dem, ob Flächen (Meere) oder z.B. Linien (Flüsse) dargestellt werden. Auch für Glaubensgemeinschaften werden herkömmliche Farben verwendet (z.B. Grüntöne für den Islam). Vermieden wurden dagegen Farbkombinationen, die genderspezifische Klischees reproduzieren (z.B. Blau/Rot-Kombinationen für Mann/Frau-Dichotomien).
