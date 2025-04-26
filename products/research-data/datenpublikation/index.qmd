@@ -3,26 +3,26 @@ title: Datenpublikation
 date-modified: last-modified
 lang: de
 category: Publikation
-author: 
-- name: Nico Görlich
-  orcid: 0000-0003-3860-1488
-  affiliation: Universität Basel
-- name: Moritz Mähr
-  email: moritz.maehr@unibas.ch
-  affiliation: University of Basel
-  orcid: 0000-0002-1367-1618
-- name: Cristina Münch
-  email: c.muench@unibas.ch
-  orcid: 0000-0003-3885-248X
-  affiliation: Universität Basel
-- name: Moritz Twente
-  email: mtwente@protonmail.com
-  orcid: 0009-0005-7187-9774
-  affiliation: Universität Basel
-- name: Noëlle Schnegg
-  email: noelle.schnegg@unibas.ch
-  affiliation: University of Basel
-  orcid: 0009-0008-5207-6652
+author:
+  - name: Nico Görlich
+    orcid: 0000-0003-3860-1488
+    affiliation: Universität Basel
+  - name: Moritz Mähr
+    email: moritz.maehr@unibas.ch
+    affiliation: University of Basel
+    orcid: 0000-0002-1367-1618
+  - name: Cristina Münch
+    email: c.muench@unibas.ch
+    orcid: 0000-0003-3885-248X
+    affiliation: Universität Basel
+  - name: Moritz Twente
+    email: mtwente@protonmail.com
+    orcid: 0009-0005-7187-9774
+    affiliation: Universität Basel
+  - name: Noëlle Schnegg
+    email: noelle.schnegg@unibas.ch
+    affiliation: University of Basel
+    orcid: 0009-0008-5207-6652
 ---
 
 ## Datenpublikation

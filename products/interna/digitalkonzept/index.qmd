@@ -2,18 +2,18 @@
 title: 'Konzept "Stadt.Geschichte.Basel digital"'
 subtitle: Und Zwischenbericht
 category: Interna
-author: 
-- name: Moritz Mähr
-  email: moritz.maehr@unibas.ch
-  affiliation: Universität Basel
-  orcid: 0000-0002-1367-1618
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@unibas.ch
+    affiliation: Universität Basel
+    orcid: 0000-0002-1367-1618
 date: April 2022
 date-modified: December 2022
-date-format: "MMMM YYYY"
+date-format: 'MMMM YYYY'
 lang: de-CH
 ---
 
-::: {.callout-note}
+::: callout-note
 Beim folgenden Text handelt es sich um eine Zusammenfassung des Konzepts "Stadt.Geschichte.Basel digital" (April 2022) und des Zwischenberichts (Dezember 2022). Die vollständigen Dokumente sind auf Anfrage erhältlich.
 :::
 
@@ -31,55 +31,51 @@ Das Konzept gliedert sich in zwei Hauptarbeitspakete:
 
 #### 1. Sammlung, Aufbereitung und Sicherung der Forschungsdaten
 
-- **Sammlung und Aufbereitung**  
-  - **Bilddatenmanagement:** Erfassung und Verwaltung von Bildmaterial mit Omeka.  
-  - **Kartenmaterial:** Erstellung interaktiver Karten mit ArcGIS Online.  
-  - **Literaturverwaltung:** Nutzung einer Zotero-Bibliothek für Quellen.  
-  - **Tabellen:** Strukturierte Erfassung historischer Daten.  
-
-- **Sicherung der Forschungsdaten**  
-  - Speicherung in **GitHub- und GitLab-Repositorien** der Universität Basel.  
-  - **Langzeitarchivierung** über **Zenodo (CERN)** und Nationalbibliothek.  
-
-- **Vermittlung der Forschungsdaten**  
-  - Forschungsdaten werden in einer öffentlichen Plattform bereitgestellt.  
+- **Sammlung und Aufbereitung**
+  - **Bilddatenmanagement:** Erfassung und Verwaltung von Bildmaterial mit Omeka.\
+  - **Kartenmaterial:** Erstellung interaktiver Karten mit ArcGIS Online.\
+  - **Literaturverwaltung:** Nutzung einer Zotero-Bibliothek für Quellen.\
+  - **Tabellen:** Strukturierte Erfassung historischer Daten.
+- **Sicherung der Forschungsdaten**
+  - Speicherung in **GitHub- und GitLab-Repositorien** der Universität Basel.\
+  - **Langzeitarchivierung** über **Zenodo (CERN)** und Nationalbibliothek.
+- **Vermittlung der Forschungsdaten**
+  - Forschungsdaten werden in einer öffentlichen Plattform bereitgestellt.
 
 #### 2. Showcases: Digitale Vermittlungsformate
 
 Neben der Forschungsdatenaufbereitung werden verschiedene **digitale Vermittlungsformate** entwickelt:
 
-- **Showcase 1: Online-Portal**  
-  - Das zentrale **Portal** bietet Zugang zu Stadtgeschichte, Datenbanken und Projektdokumentationen.  
-  - Technische Umsetzung: Flat-File CMS (Jekyll, Svelte) mit GitHub Pages.  
-  - Exemplarische Vorbilder: [Berlin im Überblick](https://www.berlin.de/berlin-im-ueberblick/geschichte/), [Geschichte Genfs](https://www.geneve-int.ch/de/geschichte).  
-
-- **Showcase 2: Data Histories (Data Storytelling)**  
-  - Nutzung von **ArcGIS StoryMaps**, um Forschungsergebnisse narrativ mit interaktiven Daten zu verknüpfen.  
-  - Vorbilder: [Redlining Policies (USA)](https://storymaps.arcgis.com/stories/0f58d49c566b486482b3e64e9e5f7ac9), [Climate Change Maps](https://storymaps.arcgis.com/stories/a68973822394482d97c06e0e1b40ac59).  
-
-- **Showcase 3: Vermittlung über Partner**  
-  - **Augmented Stadtrundgänge:** QR-Codes für interaktive Stadtführungen.  
-  - **Podcast-Reihe:** Interviews mit Autor*innen zur Basler Stadtgeschichte.  
-  - **Unterrichtseinheiten:** Erstellung von Lehrmaterial für Schulen.  
+- **Showcase 1: Online-Portal**
+  - Das zentrale **Portal** bietet Zugang zu Stadtgeschichte, Datenbanken und Projektdokumentationen.\
+  - Technische Umsetzung: Flat-File CMS (Jekyll, Svelte) mit GitHub Pages.\
+  - Exemplarische Vorbilder: [Berlin im Überblick](https://www.berlin.de/berlin-im-ueberblick/geschichte/), [Geschichte Genfs](https://www.geneve-int.ch/de/geschichte).
+- **Showcase 2: Data Histories (Data Storytelling)**
+  - Nutzung von **ArcGIS StoryMaps**, um Forschungsergebnisse narrativ mit interaktiven Daten zu verknüpfen.\
+  - Vorbilder: [Redlining Policies (USA)](https://storymaps.arcgis.com/stories/0f58d49c566b486482b3e64e9e5f7ac9), [Climate Change Maps](https://storymaps.arcgis.com/stories/a68973822394482d97c06e0e1b40ac59).
+- **Showcase 3: Vermittlung über Partner**
+  - **Augmented Stadtrundgänge:** QR-Codes für interaktive Stadtführungen.\
+  - **Podcast-Reihe:** Interviews mit Autor\*innen zur Basler Stadtgeschichte.\
+  - **Unterrichtseinheiten:** Erstellung von Lehrmaterial für Schulen.
 
 ### Technische und methodische Grundsätze
 
 Das Konzept folgt modernen **wissenschaftlichen Standards**:
 
-- **FAIR-Prinzipien** (Findable, Accessible, Interoperable, Reusable).  
-- **Langzeitarchivierung und Open Access** (SNF-Kriterien).  
-- **Digitale Nachhaltigkeit und Minimal Computing**.  
-- **Einhaltung von Open-Science- und Open-Source-Standards**.  
+- **FAIR-Prinzipien** (Findable, Accessible, Interoperable, Reusable).\
+- **Langzeitarchivierung und Open Access** (SNF-Kriterien).\
+- **Digitale Nachhaltigkeit und Minimal Computing**.\
+- **Einhaltung von Open-Science- und Open-Source-Standards**.
 
 ### Zeitplan & Budget
 
-- **Projektphase 1 (2021–2023)**: Entwicklung von Forschungsdaten-Plattform & Showcases.  
-- **Projektphase 2 (ab 2023)**: Erweiterung & kontinuierliche Aktualisierung.  
+- **Projektphase 1 (2021–2023)**: Entwicklung von Forschungsdaten-Plattform & Showcases.\
+- **Projektphase 2 (ab 2023)**: Erweiterung & kontinuierliche Aktualisierung.
 
-Wesentliche Kostenpunkte:  
+Wesentliche Kostenpunkte:
 
-- Leitung, Datenmanagement, Schulungen.  
-- Entwicklung von Portal und Vermittlungsangeboten.  
+- Leitung, Datenmanagement, Schulungen.\
+- Entwicklung von Portal und Vermittlungsangeboten.
 
 ## Beurteilung
 
@@ -93,7 +89,7 @@ Wesentliche Kostenpunkte:
 
 Der Zwischenbericht dokumentiert den aktuellen Stand der digitalen Umsetzung von **Stadt.Geschichte.Basel** und konkretisiert die zweite Projektphase (April 2023 – Dezember 2025). Die festgelegten Arbeitspakete sowie die beteiligten internen und externen Anspruchsgruppen bleiben bestehen:
 
-- **Arbeitspaket 1 (Forschungsdaten):** Sammlung, Aufbereitung und Sicherung von Forschungsdaten durch Forscher*innen, Archive und Bibliotheken.
+- **Arbeitspaket 1 (Forschungsdaten):** Sammlung, Aufbereitung und Sicherung von Forschungsdaten durch Forscher\*innen, Archive und Bibliotheken.
 - **Arbeitspaket 2 (Showcases):** Entwicklung digitaler Vermittlungsangebote für Schulen, Medien, Gedächtnisinstitutionen und die Öffentlichkeit.
 
 ## 1. Arbeitspaket: Forschungsdaten
@@ -116,11 +112,11 @@ Der Zwischenbericht dokumentiert den aktuellen Stand der digitalen Umsetzung von
 
 - **Versionierung:** Nutzung von **GitHub & GitLab** für Forschungsdaten.
 - **Langzeitarchivierung:** Speicherung über **Zenodo (CERN)** und das Staatsarchiv Basel-Stadt.
-- **Spezifische Plattformen für verschiedene Datentypen:**  
-  - Bilder: Omeka  
-  - Karten: ArcGIS  
-  - Literatur: Zotero  
-  - Tabellen: Zenodo  
+- **Spezifische Plattformen für verschiedene Datentypen:**
+  - Bilder: Omeka\
+  - Karten: ArcGIS\
+  - Literatur: Zotero\
+  - Tabellen: Zenodo
 
 ### 1.3 Vermittlung der Forschungsdaten über die Plattform
 
@@ -132,6 +128,7 @@ Der Zwischenbericht dokumentiert den aktuellen Stand der digitalen Umsetzung von
 ## 2. Arbeitspaket: Showcases
 
 ### 2.1 Portal – [stadtgeschichtebasel.ch](https://stadtgeschichtebasel.ch/)
+
 - Umsetzung einer **Mobile-First-Strategie** mit Fokus auf Nutzerfreundlichkeit.
 - Erhebung der **Bedürfnisse der Vermittlungspartner** durch Umfragen.
 - Entwicklung eines **Prototyps** mit Card Sorting und Wireframes.
@@ -143,28 +140,28 @@ Der Zwischenbericht dokumentiert den aktuellen Stand der digitalen Umsetzung von
 ### 2.2 Data Histories (Showcase #2)
 
 - **Evaluierung geeigneter Storytelling-Tools:** ArcGIS StoryMap, StorylineJS, Juncture, CollectionBuilder.
-- **Entwicklung erster Data Stories:**  
-  - Digitalisierung der Basler Verwaltung ab 1960.  
-  - Betriebszählung im frühen 20. Jahrhundert.  
+- **Entwicklung erster Data Stories:**
+  - Digitalisierung der Basler Verwaltung ab 1960.\
+  - Betriebszählung im frühen 20. Jahrhundert.\
 - **Best Practices für Data Storytelling** werden erarbeitet und angewendet.
 
 ### 2.3 Vermittlung via Partner (Showcase #3)
 
 - Fokusgruppen mit Forschenden und Gedächtnisinstitutionen durchgeführt.
-- **Erweiterung der Vermittlungskanäle:**  
-  - Augmented Reality Stadtrundgänge  
-  - Podcasts mit Interviews zur Stadtgeschichte  
-  - Unterrichtseinheiten für Schulen  
+- **Erweiterung der Vermittlungskanäle:**
+  - Augmented Reality Stadtrundgänge\
+  - Podcasts mit Interviews zur Stadtgeschichte\
+  - Unterrichtseinheiten für Schulen\
 - **Kooperationspartner** wie Frauenstadtrundgang Basel oder Landesmuseum Zürich eingebunden.
 
 ## Budget & Personal
 
 - **Verlängerung der Leitung "Digital" und der Data Steward Positionen bis 2025.**
 - **Zusätzliche wissenschaftliche Hilfskräfte** werden eingestellt.
-- **Externe Aufträge für Showcases:**  
-  - **Icona**: Grafische Umsetzung des Portals.  
-  - **Kleiolab & RISE**: Entwicklung von Data Stories.  
-  - **EDV-Dienstleister**: Hosting & Infrastruktur.  
+- **Externe Aufträge für Showcases:**
+  - **Icona**: Grafische Umsetzung des Portals.\
+  - **Kleiolab & RISE**: Entwicklung von Data Stories.\
+  - **EDV-Dienstleister**: Hosting & Infrastruktur.
 
 ## Beurteilung
 

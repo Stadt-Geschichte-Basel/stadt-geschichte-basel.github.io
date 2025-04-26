@@ -16,7 +16,7 @@ nocite: |
 doi: 10.5281/zenodo.10780215
 citation:
   type: standard
-  title: "Werkstattbericht. Das neue Portal der Stadtgeschichte"
+  title: 'Werkstattbericht. Das neue Portal der Stadtgeschichte'
   container-title: 'Vortragszyklus 2023/2024 der Historisch Antiquarischen Gesellschaft Basel (HAG), Naturhistorisches Museum Basel'
 appendix-cite-as: display
 other-links:

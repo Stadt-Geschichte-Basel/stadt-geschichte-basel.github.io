@@ -1,6 +1,6 @@
 ---
-title: "Stadt.Geschichte.Basel RDM"
-subtitle: "Forschungsdatenmanagement und Public History"
+title: 'Stadt.Geschichte.Basel RDM'
+subtitle: 'Forschungsdatenmanagement und Public History'
 lang: de
 listing:
   - id: showcase-reel

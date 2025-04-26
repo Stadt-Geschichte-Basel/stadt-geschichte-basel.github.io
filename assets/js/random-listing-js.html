@@ -1,22 +1,22 @@
 <script>
-	document.addEventListener('DOMContentLoaded', function () {
-		let listingIds = Object.keys(window['quarto-listings']);
+  document.addEventListener('DOMContentLoaded', function () {
+    let listingIds = Object.keys(window['quarto-listings']);
 
-		listingIds.forEach((listingId) => {
-			let list = window['quarto-listings'][listingId];
+    listingIds.forEach((listingId) => {
+      let list = window['quarto-listings'][listingId];
 
-			if (list) {
-				let items = list.items;
-				let numToShow = 3;
+      if (list) {
+        let items = list.items;
+        let numToShow = 3;
 
-				if (items.length > numToShow) {
-					let shuffled = items.sort(() => 0.5 - Math.random());
+        if (items.length > numToShow) {
+          let shuffled = items.sort(() => 0.5 - Math.random());
 
-					// Hide all, then show selection only
-					list.items.forEach((item) => (item.elm.style.display = 'none'));
-					shuffled.slice(0, numToShow).forEach((item) => (item.elm.style.display = 'block'));
-				}
-			}
-		});
-	});
+          // Hide all, then show selection only
+          list.items.forEach((item) => (item.elm.style.display = 'none'));
+          shuffled.slice(0, numToShow).forEach((item) => (item.elm.style.display = 'block'));
+        }
+      }
+    });
+  });
 </script>

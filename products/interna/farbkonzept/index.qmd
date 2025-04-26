@@ -1,21 +1,21 @@
 ---
 title: Farbkonzept
 category: Varianten für Print und Digital
-author: 
-- name: Cristina Münch
-  affiliation: Universität Basel
-  orcid: 0000-0003-3885-248X
-- name: Nico Görlich
-  affiliation: Universität Basel
-  orcid: 0000-0003-3860-1488
-- name: Moritz Mähr
-  email: moritz.maehr@gmail.com
-  affiliation: Universität Basel
-  orcid: 0000-0002-1367-1618
-- name: Moritz Twente
-  affiliation: Universität Basel
-  orcid: 0009-0005-7187-9774
-  email: mtwente@protonmail.com
+author:
+  - name: Cristina Münch
+    affiliation: Universität Basel
+    orcid: 0000-0003-3885-248X
+  - name: Nico Görlich
+    affiliation: Universität Basel
+    orcid: 0000-0003-3860-1488
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    affiliation: Universität Basel
+    orcid: 0000-0002-1367-1618
+  - name: Moritz Twente
+    affiliation: Universität Basel
+    orcid: 0009-0005-7187-9774
+    email: mtwente@protonmail.com
 bibliography: references.bib
 date: 2023-04-17
 lang: de-CH
@@ -37,132 +37,132 @@ Das Farbkonzept für die digital angebotenen Produkte basiert auf den jeweils ei
 
 Die Farbdefinition für das Portal enthält sieben Farben, die über einen RGB-Wert identifizierbar sind. Darüber hinaus sind noch jeweils neun weitere farbliche Abstufungen [vordefiniert](https://tailwindcss.com/docs/colors). Die verschiedenen Farben können mit den entsprechenden CSS-Klassen für Texte, Hintergrundflächen sowie Flächen und Umrandungen von Bedienelementen angewendet werden.
 
-
-| Rolle     | Farbe        | HEX     | RGB         | Vorschau |
-|-----------|--------------|---------|-------------|:----------|
-| primary   | Violett      | #3a1e3e | 58 30 62    | <span style="display:block; width:30%; background-color:#3a1e3e; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| secondary | Gelb         | #ffe880 | 255 232 128 | <span style="display:block; width:30%; background-color:#ffe880; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| tertiary  | Hellblau     | #86bbd8 | 134 187 216 | <span style="display:block; width:30%; background-color:#86bbd8; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| success   | Hellgrün | #dbfe87 | 219 254 135 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| warning   | Orange       | #f6ae2d | 246 174 45  | <span style="display:block; width:30%; background-color:#f6ae2d; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| error     | Hellrot      | #f63e02 | 246 62 2    | <span style="display:block; width:30%; background-color:#f63e02; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| surface   | Grau         | #666666 | 102 102 102 | <span style="display:block; width:30%; background-color:#666666; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| text      | Schwarz      | #374151 | 55 65 81    | <span style="display:block; width:30%; background-color:#374151; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| Rolle     | Farbe    | HEX     | RGB         | Vorschau |
+| --------- | -------- | ------- | ----------- | :------- |
+| primary   | Violett  | #3a1e3e | 58 30 62    |          |
+| secondary | Gelb     | #ffe880 | 255 232 128 |          |
+| tertiary  | Hellblau | #86bbd8 | 134 187 216 |          |
+| success   | Hellgrün | #dbfe87 | 219 254 135 |          |
+| warning   | Orange   | #f6ae2d | 246 174 45  |          |
+| error     | Hellrot  | #f63e02 | 246 62 2    |          |
+| surface   | Grau     | #666666 | 102 102 102 |          |
+| text      | Schwarz  | #374151 | 55 65 81    |          |
 
 : Farbwerte für das Portal {#tbl-sgbcolours .hover .sm .col-centered}
-
 
 Die Farbwerte für das Portal werden [via PostCSS](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch/blob/5e829a2b25935cd5c3631e540574e72d247c4f5d/src/app.postcss) eingebunden.
 
 ::: {.callout-tip title="Farbwerte-Konfiguration zum Kopieren für Tailwind/PostCSS" icon="false" collapse="true"}
-```{.css}
+
+```css
 /* =~= src/app.postcss =~= */
 
 :root {
-	/* =~= Theme Properties =~= */
-	--theme-font-family-base: 'Euclid Circular B', sans-serif;
-	--theme-font-family-heading: 'Euclid Circular B', sans-serif;
-	--theme-font-color-base: 0 0 0;
-	--theme-font-color-dark: 255 255 255;
-	--theme-rounded-base: 4px;
-	--theme-rounded-container: 8px;
-	--theme-border-base: 2px;
+  /* =~= Theme Properties =~= */
+  --theme-font-family-base: 'Euclid Circular B', sans-serif;
+  --theme-font-family-heading: 'Euclid Circular B', sans-serif;
+  --theme-font-color-base: 0 0 0;
+  --theme-font-color-dark: 255 255 255;
+  --theme-rounded-base: 4px;
+  --theme-rounded-container: 8px;
+  --theme-border-base: 2px;
 
-	/* =~= Theme On-X Colors =~= */
-	--on-primary: 255 255 255;
-	--on-secondary: 0 0 0;
-	--on-tertiary: 0 0 0;
-	--on-success: 0 0 0;
-	--on-warning: 0 0 0;
-	--on-error: 0 0 0;
-	--on-surface: 255 255 255;
+  /* =~= Theme On-X Colors =~= */
+  --on-primary: 255 255 255;
+  --on-secondary: 0 0 0;
+  --on-tertiary: 0 0 0;
+  --on-success: 0 0 0;
+  --on-warning: 0 0 0;
+  --on-error: 0 0 0;
+  --on-surface: 255 255 255;
 
-	/* =~= Theme Colors  =~= */
-	/* primary | #3A1E3E */
-	--color-primary-50: 225 221 226;
-	--color-primary-100: 216 210 216;
-	--color-primary-200: 206 199 207;
-	--color-primary-300: 176 165 178;
-	--color-primary-400: 117 98 120;
-	--color-primary-500: 58 30 62;
-	--color-primary-600: 52 27 56;
-	--color-primary-700: 44 23 47;
-	--color-primary-800: 35 18 37;
-	--color-primary-900: 28 15 30;
+  /* =~= Theme Colors  =~= */
+  /* primary | #3A1E3E */
+  --color-primary-50: 225 221 226;
+  --color-primary-100: 216 210 216;
+  --color-primary-200: 206 199 207;
+  --color-primary-300: 176 165 178;
+  --color-primary-400: 117 98 120;
+  --color-primary-500: 58 30 62;
+  --color-primary-600: 52 27 56;
+  --color-primary-700: 44 23 47;
+  --color-primary-800: 35 18 37;
+  --color-primary-900: 28 15 30;
 
-	/* secondary | #FFE880 */
-	--color-secondary-50: 255 252 236;
-	--color-secondary-100: 255 250 230;
-	--color-secondary-200: 255 249 223;
-	--color-secondary-300: 255 246 204;
-	--color-secondary-400: 255 239 166;
-	--color-secondary-500: 255 232 128;
-	--color-secondary-600: 230 209 115;
-	--color-secondary-700: 191 174 96;
-	--color-secondary-800: 153 139 77;
-	--color-secondary-900: 125 114 63;
+  /* secondary | #FFE880 */
+  --color-secondary-50: 255 252 236;
+  --color-secondary-100: 255 250 230;
+  --color-secondary-200: 255 249 223;
+  --color-secondary-300: 255 246 204;
+  --color-secondary-400: 255 239 166;
+  --color-secondary-500: 255 232 128;
+  --color-secondary-600: 230 209 115;
+  --color-secondary-700: 191 174 96;
+  --color-secondary-800: 153 139 77;
+  --color-secondary-900: 125 114 63;
 
-	/* tertiary | #86BBD8 */
-	--color-tertiary-50: 237 245 249;
-	--color-tertiary-100: 231 241 247;
-	--color-tertiary-200: 225 238 245;
-	--color-tertiary-300: 207 228 239;
-	--color-tertiary-400: 170 207 228;
-	--color-tertiary-500: 134 187 216;
-	--color-tertiary-600: 121 168 194;
-	--color-tertiary-700: 101 140 162;
-	--color-tertiary-800: 80 112 130;
-	--color-tertiary-900: 66 92 106;
+  /* tertiary | #86BBD8 */
+  --color-tertiary-50: 237 245 249;
+  --color-tertiary-100: 231 241 247;
+  --color-tertiary-200: 225 238 245;
+  --color-tertiary-300: 207 228 239;
+  --color-tertiary-400: 170 207 228;
+  --color-tertiary-500: 134 187 216;
+  --color-tertiary-600: 121 168 194;
+  --color-tertiary-700: 101 140 162;
+  --color-tertiary-800: 80 112 130;
+  --color-tertiary-900: 66 92 106;
 
-	/* success | #DBFE87 */
-	--color-success-50: 250 255 237;
-	--color-success-100: 248 255 231;
-	--color-success-200: 246 255 225;
-	--color-success-300: 241 255 207;
-	--color-success-400: 230 254 171;
-	--color-success-500: 219 254 135;
-	--color-success-600: 197 229 122;
-	--color-success-700: 164 191 101;
-	--color-success-800: 131 152 81;
-	--color-success-900: 107 124 66;
+  /* success | #DBFE87 */
+  --color-success-50: 250 255 237;
+  --color-success-100: 248 255 231;
+  --color-success-200: 246 255 225;
+  --color-success-300: 241 255 207;
+  --color-success-400: 230 254 171;
+  --color-success-500: 219 254 135;
+  --color-success-600: 197 229 122;
+  --color-success-700: 164 191 101;
+  --color-success-800: 131 152 81;
+  --color-success-900: 107 124 66;
 
-	/* warning | #F6AE2D */
-	--color-warning-50: 254 243 224;
-	--color-warning-100: 253 239 213;
-	--color-warning-200: 253 235 203;
-	--color-warning-300: 251 223 171;
-	--color-warning-400: 249 198 108;
-	--color-warning-500: 246 174 45;
-	--color-warning-600: 221 157 41;
-	--color-warning-700: 185 131 34;
-	--color-warning-800: 148 104 27;
-	--color-warning-900: 121 85 22;
+  /* warning | #F6AE2D */
+  --color-warning-50: 254 243 224;
+  --color-warning-100: 253 239 213;
+  --color-warning-200: 253 235 203;
+  --color-warning-300: 251 223 171;
+  --color-warning-400: 249 198 108;
+  --color-warning-500: 246 174 45;
+  --color-warning-600: 221 157 41;
+  --color-warning-700: 185 131 34;
+  --color-warning-800: 148 104 27;
+  --color-warning-900: 121 85 22;
 
-	/* error | #F63E02 */
-	--color-error-50: 254 226 217;
-	--color-error-100: 253 216 204;
-	--color-error-200: 253 207 192;
-	--color-error-300: 251 178 154;
-	--color-error-400: 249 120 7;
-	--color-error-500: 246 62 2;
-	--color-error-600: 221 56 2;
-	--color-error-700: 185 47 2;
-	--color-error-800: 148 37 1;
-	--color-error-900: 121 30 1;
+  /* error | #F63E02 */
+  --color-error-50: 254 226 217;
+  --color-error-100: 253 216 204;
+  --color-error-200: 253 207 192;
+  --color-error-300: 251 178 154;
+  --color-error-400: 249 120 7;
+  --color-error-500: 246 62 2;
+  --color-error-600: 221 56 2;
+  --color-error-700: 185 47 2;
+  --color-error-800: 148 37 1;
+  --color-error-900: 121 30 1;
 
-	/* surface | #666666 */
-	--color-surface-50: 232 232 232;
-	--color-surface-100: 224 224 224;
-	--color-surface-200: 217 217 217;
-	--color-surface-300: 194 194 194;
-	--color-surface-400: 148 148 148;
-	--color-surface-500: 102 102 102;
-	--color-surface-600: 92 92 92;
-	--color-surface-700: 77 77 77;
-	--color-surface-800: 61 61 61;
-	--color-surface-900: 50 50 50;
+  /* surface | #666666 */
+  --color-surface-50: 232 232 232;
+  --color-surface-100: 224 224 224;
+  --color-surface-200: 217 217 217;
+  --color-surface-300: 194 194 194;
+  --color-surface-400: 148 148 148;
+  --color-surface-500: 102 102 102;
+  --color-surface-600: 92 92 92;
+  --color-surface-700: 77 77 77;
+  --color-surface-800: 61 61 61;
+  --color-surface-900: 50 50 50;
 }
 ```
+
 :::
 
 #### Kontrastwerte
@@ -170,50 +170,46 @@ Die Farbwerte für das Portal werden [via PostCSS](https://github.com/Stadt-Gesc
 Die Farbpalette für das Portal wurde mit Kontrastcheckern überprüft, um eine barrierefreie Gestaltung [zu gewährleisten](../inklusive-gestaltung/index.qmd). Die Erfüllung des WCAG-Standards ist zwar nicht in jeder Farbkombination gegeben (siehe @tbl-sgbcontrast). Das spielt aber praktisch keine Rolle, da der überwältigende Teil der Anwendungen mit Abstufungen der Primärfarbe umgesetzt wird und die weiteren Farben nur in Ausnahmefällen zur Anwendung kommen.
 
 |              | text                                                                              | primary                                                                           | secondary                                                                         | tertiary                                                                          | success                                                                           | warning                                                                           | error                                                                             |
-|--------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| ------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | bg-primary   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=3A1E3E) |                                                                                   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=3A1E3E)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=3A1E3E) |
 | bg-secondary | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=FFE880)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=FFE880)  |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=FFE880) |
 | bg-tertiary  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=86BBD8)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=87BBD8)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=87BBD8) |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=87BBD8) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=87BBD8) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=87BBD8) |
 | bg-success   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=DBFE87)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=DBFE87)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=DBFE87) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=DBFE87) |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=DBFE87) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=DBFE87) |
 | bg-warning   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=F6AE2D)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=F6AE2D)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=F6AE2D) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=F6AE2D) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=F6AE2D) |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=F6AE2D) |
-| bg-error     | [AA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=F63E02) |                                                                                   |
+| bg-error     | [AA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=F63E02)   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=F63E02) |                                                                                   |
 | bg-surface   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=E8E8E8)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=E8E8E8)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=E8E8E8) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=E8E8E8) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=E8E8E8) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=E8E8E8) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=E8E8E8) |
 
 : Kontrast-Check für Text[^1] vor farbigem Hintergrund {#tbl-sgbcontrast .hover .sm}
+
+[^1]: Die Ergebnisse der Checks betreffen die die Kontrast-Grenzwerte bei der Verwendung von Fliesstext in üblichen Schriftgrössen. Für grössere Schrift und Bedienelemente sowie Grafiken gelten [andere Werte](https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced).
 
 ### Forschungsdatenplattform
 
 Die [Forschungsdatenplattform](../../coding/plattform/index.qmd) basiert auf CollectionBuilder, das als Erweiterung von [Bootstrap Sass](https://getbootstrap.com/docs/5.3/customize/sass/) die Definition von angepassten Farbwerten mit HEX-Werten (siehe @tbl-cbcolours) erlaubt. Die verschiedenen Farben können mit den entsprechenden CSS-Klassen für Texte, Hintergrundflächen sowie Flächen und Umrandungen von Bedienelementen angewendet werden. Auf diese Weise ist es auch [möglich](https://collectionbuilder.github.io/cb-docs/docs/customization/config-theme-colors/#themed-color-details), zusätzliche Farbklassen zu erstellen.
 
-
-| Rolle     | Farbe        | HEX     | RGB         | Vorschau   |
-|-----------|-------------|---------|-------------|:----------|
-| primary   | Violett      | #3a1e3e | 58 30 62    | <span style="display:block; width:30%; background-color:#3a1e3e; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| secondary | Gelb         | #ffe880 | 255 232 128 | <span style="display:block; width:30%; background-color:#ffe880; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| success   | Hellgrün     | #dbfe87 | 134 187 216 | <span style="display:block; width:30%; background-color:#dbfe87; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| info      | Hellblau | #86bbd8 | 219 254 135 | <span style="display:block; width:30%; background-color:#86bbd8; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| warning   | Orange       | #f6ae2d | 246 174 45  | <span style="display:block; width:30%; background-color:#f6ae2d; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| danger    | Hellrot      | #f63e02 | 246 62 2    | <span style="display:block; width:30%; background-color:#f63e02; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| light     | Gelb         | #ffe880 | 255 232 128 | <span style="display:block; width:30%; background-color:#ffe880; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| dark      | Violett      | #3a1e3e | 58 30 62    | <span style="display:block; width:30%; background-color:#3a1e3e; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| text      | Schwarz      | #191919 | 25 25 25    | <span style="display:block; width:30%; background-color:#191919; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| Rolle     | Farbe    | HEX     | RGB         | Vorschau |
+| --------- | -------- | ------- | ----------- | :------- |
+| primary   | Violett  | #3a1e3e | 58 30 62    |          |
+| secondary | Gelb     | #ffe880 | 255 232 128 |          |
+| success   | Hellgrün | #dbfe87 | 134 187 216 |          |
+| info      | Hellblau | #86bbd8 | 219 254 135 |          |
+| warning   | Orange   | #f6ae2d | 246 174 45  |          |
+| danger    | Hellrot  | #f63e02 | 246 62 2    |          |
+| light     | Gelb     | #ffe880 | 255 232 128 |          |
+| dark      | Violett  | #3a1e3e | 58 30 62    |          |
+| text      | Schwarz  | #191919 | 25 25 25    |          |
 
 : Farbwerte für CollectionBuilder {#tbl-cbcolours .hover .sm .col-centered}
 
 Die definierte Farbpalette für CollectionBuilder wird [über eine csv-Datei](https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch/blob/4ec9db74fd76450e45c766f50c73137354028be9/_data/config-theme-colors.csv?plain=1) eingebunden.
 
 ::: {.callout-tip title="Farbwerte-Konfiguration (CSV) zum Kopieren für CollectionBuilder" icon="false" collapse="true"}
-```{.html}
-color_class,color
-primary,#3a1e3e
-secondary,#ffe880
-success,#dbfe87
-info,#86bbd8
-warning,#f6ae2d
-danger,#f63e02
-light,#ffe880
-dark,#3a1e3e
+
+```html
+color_class,color primary,#3a1e3e secondary,#ffe880 success,#dbfe87 info,#86bbd8 warning,#f6ae2d
+danger,#f63e02 light,#ffe880 dark,#3a1e3e
 ```
+
 :::
 
 #### Kontrastwerte
@@ -221,7 +217,7 @@ dark,#3a1e3e
 Die Farbpalette der Forschungsdatenplattform wurde mit Kontrastcheckern überprüft, um eine barrierefreie Gestaltung [zu gewährleisten](../inklusive-gestaltung/index.qmd). Die Erfüllung des WCAG-Standards ist zwar nicht in jeder Farbkombination gegeben (siehe @tbl-cbcontrast). Das spielt aber praktisch keine Rolle, da der überwältigende Teil der Anwendungen mit Primär- und Sekundärfarbe umgesetzt wird und die weiteren Farben nur in Ausnahmefällen zur Anwendung kommen.
 
 |              | text                                                                              | primary                                                                           | secondary                                                                         | success                                                                           | info                                                                              | warning                                                                           | danger                                                                            |
-|--------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| ------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | bg-primary   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=3A1E3E) |                                                                                   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=3A1E3E)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=3A1E3E)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=3A1E3E) |
 | bg-secondary | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=FFE880)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=FFE880)  |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=FFE880) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=FFE880) |
 | bg-success   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=DBFE87)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=DBFE87)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=DBFE87) |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=DBFE87) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=DBFE87) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=DBFE87) |
@@ -229,9 +225,9 @@ Die Farbpalette der Forschungsdatenplattform wurde mit Kontrastcheckern überpr�
 | bg-warning   | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=F6AE2D)  | [AAA](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=F6AE2D)  | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=F6AE2D) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=F6AE2D) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=F6AE2D) |                                                                                   | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F63E02&bcolor=F6AE2D) |
 | bg-danger    | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=191919&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=3A1E3E&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=FFE880&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=DBFE87&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=86BBD8&bcolor=F63E02) | [FAIL](https://webaim.org/resources/contrastchecker/?fcolor=F6AE2D&bcolor=F63E02) |                                                                                   |
 
-: Kontrast-Check für Text[^1] vor farbigem Hintergrund {#tbl-cbcontrast .hover .sm}
+: Kontrast-Check für Text[^2] vor farbigem Hintergrund {#tbl-cbcontrast .hover .sm}
 
-[^1]: Die Ergebnisse der Checks betreffen die die Kontrast-Grenzwerte bei der Verwendung von Fliesstext in üblichen Schriftgrössen. Für grössere Schrift und Bedienelemente sowie Grafiken gelten [andere Werte](https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced).
+[^2]: Die Ergebnisse der Checks betreffen die die Kontrast-Grenzwerte bei der Verwendung von Fliesstext in üblichen Schriftgrössen. Für grössere Schrift und Bedienelemente sowie Grafiken gelten [andere Werte](https://www.w3.org/WAI/WCAG22/Understanding/contrast-enhanced).
 
 ## Farbpalette Print
 
@@ -243,106 +239,84 @@ Als Grundlage für die Gestaltung der wissenschaftlichen Abbildungen für die Pr
 
 ### Discrete Rainbow Colour Scheme 19 (mit 23+1 Farben)
 
-| Farbe     | Nr. | CMYK  | HEX | RGB    | Vorschau   |
-|-----------|-----|------------|----------|-------------|:----------|
-| Off-White | 1   | 8 6 0 2    | #e8ecfb  | 232 236 251 | <span style="display:block; width:30%; background-color:#e8ecfb; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| Lila      | 2   | 4 10 0 11  | #d9cce3  | 217 204 227 | <span style="display:block; width:30%; background-color:#d9cce3; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 4   | 0 15 0 20  | #caaccb  | 202 172 203 | <span style="display:block; width:30%; background-color:#caaccb; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 5   | 0 24 3 27  | #ba8db4  | 186 141 180 | <span style="display:block; width:30%; background-color:#ba8db4; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 7   | 0 35 7 33  | #aa6f9e  | 170 111 158 | <span style="display:block; width:30%; background-color:#aa6f9e; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 8   | 0 48 11 40 | #994f88  | 153 79 136  | <span style="display:block; width:30%; background-color:#994f88; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 9   | 0 66 16 47 | #882e72  | 136 46 114  | <span style="display:block; width:30%; background-color:#882e72; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| Blau      | 10  | 86 43 0 31 | #1965b0  | 25 101 176  | <span style="display:block; width:30%; background-color:#1965b0; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 11  | 65 35 0 25 | #437dbf  | 67 125 191  | <span style="display:block; width:30%; background-color:#437dbf; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 13  | 53 28 0 19 | #6195cf  | 97 149 207  | <span style="display:block; width:30%; background-color:#6195cf; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 14  | 45 21 0 13 | #7bafde  | 123 175 222 | <span style="display:block; width:30%; background-color:#7bafde; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| Grün      | 15  | 56 0 43 30 | #4eb265  | 78 178 101  | <span style="display:block; width:30%; background-color:#4eb265; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 16  | 28 0 33 21 | #90c987  | 144 201 135 | <span style="display:block; width:30%; background-color:#90c987; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 17  | 10 0 24 12 | #cae0ab  | 202 224 171 | <span style="display:block; width:30%; background-color:#cae0ab; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| Gelb      | 18  | 0 3 65 3   | #f7f056  | 247 240 86  | <span style="display:block; width:30%; background-color:#f7f056; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| Orange    | 19  | 0 18 72 3  | #f7cb45  | 247 203 69  | <span style="display:block; width:30%; background-color:#f7cb45; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 21  | 0 32 78 4  | #f4a736  | 244 167 54  | <span style="display:block; width:30%; background-color:#f4a736; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 23  | 0 46 84 7  | #ee8026  | 238 128 38  | <span style="display:block; width:30%; background-color:#ee8026; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| Rot       | 25  | 0 63 90 10 | #e65518  | 230 85 24   | <span style="display:block; width:30%; background-color:#e65518; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 26  | 0 98 95 14 | #dc050c  | 220 5 12    | <span style="display:block; width:30%; background-color:#dc050c; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 27  | 0 86 92 35 | #a5170e  | 165 23 14   | <span style="display:block; width:30%; background-color:#a5170e; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 28  | 0 78 88 55 | #72190e  | 114 25 14   | <span style="display:block; width:30%; background-color:#72190e; border:1px solid #000; aspect-ratio:1/1;"></span> |
-|           | 29  | 0 68 85 74 | #42150a  | 66 21 10    | <span style="display:block; width:30%; background-color:#42150a; border:1px solid #000; aspect-ratio:1/1;"></span> |
-| Grau      | 30  | 0 0 0 53   | #777777  | 119 119 119 | <span style="display:block; width:30%; background-color:#777777; border:1px solid #000; aspect-ratio:1/1;"></span> |
+| Farbe     | Nr. | CMYK       | HEX     | RGB         | Vorschau |
+| --------- | --- | ---------- | ------- | ----------- | :------- |
+| Off-White | 1   | 8 6 0 2    | #e8ecfb | 232 236 251 |          |
+| Lila      | 2   | 4 10 0 11  | #d9cce3 | 217 204 227 |          |
+|           | 4   | 0 15 0 20  | #caaccb | 202 172 203 |          |
+|           | 5   | 0 24 3 27  | #ba8db4 | 186 141 180 |          |
+|           | 7   | 0 35 7 33  | #aa6f9e | 170 111 158 |          |
+|           | 8   | 0 48 11 40 | #994f88 | 153 79 136  |          |
+|           | 9   | 0 66 16 47 | #882e72 | 136 46 114  |          |
+| Blau      | 10  | 86 43 0 31 | #1965b0 | 25 101 176  |          |
+|           | 11  | 65 35 0 25 | #437dbf | 67 125 191  |          |
+|           | 13  | 53 28 0 19 | #6195cf | 97 149 207  |          |
+|           | 14  | 45 21 0 13 | #7bafde | 123 175 222 |          |
+| Grün      | 15  | 56 0 43 30 | #4eb265 | 78 178 101  |          |
+|           | 16  | 28 0 33 21 | #90c987 | 144 201 135 |          |
+|           | 17  | 10 0 24 12 | #cae0ab | 202 224 171 |          |
+| Gelb      | 18  | 0 3 65 3   | #f7f056 | 247 240 86  |          |
+| Orange    | 19  | 0 18 72 3  | #f7cb45 | 247 203 69  |          |
+|           | 21  | 0 32 78 4  | #f4a736 | 244 167 54  |          |
+|           | 23  | 0 46 84 7  | #ee8026 | 238 128 38  |          |
+| Rot       | 25  | 0 63 90 10 | #e65518 | 230 85 24   |          |
+|           | 26  | 0 98 95 14 | #dc050c | 220 5 12    |          |
+|           | 27  | 0 86 92 35 | #a5170e | 165 23 14   |          |
+|           | 28  | 0 78 88 55 | #72190e | 114 25 14   |          |
+|           | 29  | 0 68 85 74 | #42150a | 66 21 10    |          |
+| Grau      | 30  | 0 0 0 53   | #777777 | 119 119 119 |          |
 
 : Farbpalette für Printprodukte mit 23 Farben und Grau [nach @tol_sequential_2022] {#tbl-sgbprint23 .hover .sm .col-centered}
 
 ::: {.callout-tip title="Farbwerte-Konfiguration (CSV mit 23+1 Farben) zum Kopieren für Print-Anwendungen" icon="false" collapse="true"}
-```{.html}
-Nummer,CMYK,HEX,RGB
-1,"8 6 0 2",#e8ecfb,"232 236 251"
-2,"4 10 0 11",#d9cce3,"217 204 227"
-4,"0 15 0 20",#caaccb,"202 172 203"
-5,"0 24 3 27",#ba8db4,"186 141 180"
-7,"0 35 7 33",#aa6f9e,"170 111 158"
-8,"0 48 11 40",#994f88,"153 79 136"
-9,"0 66 16 47",#882e72,"136 46 114"
-10,"86 43 0 31",#1965b0,"25 101 176"
-11,"65 35 0 25",#437dbf,"67 125 191"
-13,"53 28 0 19",#6195cf,"97 149 207"
-14,"45 21 0 13",#7bafde,"123 175 222"
-15,"56 0 43 30",#4eb265,"78 178 101"
-16,"28 0 33 21",#90c987,"144 201 135"
-17,"10 0 24 12",#cae0ab,"202 224 171"
-18,"0 3 65 3",#f7f056,"247 240 86"
-19,"0 18 72 3",#f7cb45,"247 203 69"
-21,"0 32 78 4",#f4a736,"244 167 54"
-23,"0 46 84 7",#ee8026,"238 128 38"
-25,"0 63 90 10",#e65518,"230 85 24"
-26,"0 98 95 14",#dc050c,"220 5 12"
-27,"0 86 92 35",#a5170e,"165 23 14"
-28,"0 78 88 55",#72190e,"114 25 14"
-29,"0 68 85 74",#42150a,"66 21 10"
-30,"0 0 0 53",#777777,"119 119 119"
+
+```html
+Nummer,CMYK,HEX,RGB 1,"8 6 0 2",#e8ecfb,"232 236 251" 2,"4 10 0 11",#d9cce3,"217 204 227" 4,"0 15 0
+20",#caaccb,"202 172 203" 5,"0 24 3 27",#ba8db4,"186 141 180" 7,"0 35 7 33",#aa6f9e,"170 111 158"
+8,"0 48 11 40",#994f88,"153 79 136" 9,"0 66 16 47",#882e72,"136 46 114" 10,"86 43 0 31",#1965b0,"25
+101 176" 11,"65 35 0 25",#437dbf,"67 125 191" 13,"53 28 0 19",#6195cf,"97 149 207" 14,"45 21 0
+13",#7bafde,"123 175 222" 15,"56 0 43 30",#4eb265,"78 178 101" 16,"28 0 33 21",#90c987,"144 201 135"
+17,"10 0 24 12",#cae0ab,"202 224 171" 18,"0 3 65 3",#f7f056,"247 240 86" 19,"0 18 72 3",#f7cb45,"247
+203 69" 21,"0 32 78 4",#f4a736,"244 167 54" 23,"0 46 84 7",#ee8026,"238 128 38" 25,"0 63 90
+10",#e65518,"230 85 24" 26,"0 98 95 14",#dc050c,"220 5 12" 27,"0 86 92 35",#a5170e,"165 23 14" 28,"0
+78 88 55",#72190e,"114 25 14" 29,"0 68 85 74",#42150a,"66 21 10" 30,"0 0 0 53",#777777,"119 119 119"
 ```
+
 :::
 
 ### Discrete Rainbow Colour Scheme 19 (mit 14+1 Farben)
 
 | Farbe  | Nr. | CMYK       | HEX     | RGB         | Vorschau |
-|--------|-----|------------|---------|-------------|:----------|
-| Lila   | 3   | 3 13 0 16  | #d1bbd7 | 209 198 215 | <span style="display:block; width:30%; background-color:#d1bbd7; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-|        | 6   | 0 32 6 32  | #ae76a3 | 174 118 163 | <span style="display:block; width:30%; background-color:#ae76a3; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-|        | 9   | 0 66 16 47 | #882e72 | 136 46 114  | <span style="display:block; width:30%; background-color:#882e72; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| Blau   | 10  | 86 43 0 31 | #1965b0 | 25 101 176  | <span style="display:block; width:30%; background-color:#1965b0; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-|        | 12  | 59 31 0 22 | #5289c7 | 82 137 199  | <span style="display:block; width:30%; background-color:#5289c7; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-|        | 14  | 45 21 0 13 | #7bafde | 123 175 222 | <span style="display:block; width:30%; background-color:#7bafde; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| Grün   | 15  | 56 0 43 30 | #4eb265 | 78 178 101  | <span style="display:block; width:30%; background-color:#4eb265; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-|        | 16  | 28 0 33 21 | #90c987 | 144 201 135 | <span style="display:block; width:30%; background-color:#90c987; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-|        | 17  | 10 0 24 12 | #cae0ab | 202 224 171 | <span style="display:block; width:30%; background-color:#cae0ab; border:1px solid #000; aspect-ratio:1/1;"></span>        |
-| Gelb   | 18  | 0 3 65 3   | #f7f056 | 247 240 86  | <span style="display:block; width:30%; background-color:#f7f056; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| Orange | 20  | 0 22 74 4  | #f6c141 | 246 193 65  | <span style="display:block; width:30%; background-color:#f6c141; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-|        | 22  | 0 39 81 5  | #f1932d | 241 147 45  | <span style="display:block; width:30%; background-color:#f1932d; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| Rot    | 24  | 0 59 88 9  | #e8601c | 232 96 28   | <span style="display:block; width:30%; background-color:#e8601c; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-|        | 26  | 0 98 95 14 | #dc050c | 220 5 12    | <span style="display:block; width:30%; background-color:#dc050c; border:1px solid #000; aspect-ratio:1/1;"></span>         |
-| Grau   | 30  | 0 0 0 53   | #777777 | 119 119 119 | <span style="display:block; width:30%; background-color:#777777; border:1px solid #000; aspect-ratio:1/1;"></span>         |
+| ------ | --- | ---------- | ------- | ----------- | :------- |
+| Lila   | 3   | 3 13 0 16  | #d1bbd7 | 209 198 215 |          |
+|        | 6   | 0 32 6 32  | #ae76a3 | 174 118 163 |          |
+|        | 9   | 0 66 16 47 | #882e72 | 136 46 114  |          |
+| Blau   | 10  | 86 43 0 31 | #1965b0 | 25 101 176  |          |
+|        | 12  | 59 31 0 22 | #5289c7 | 82 137 199  |          |
+|        | 14  | 45 21 0 13 | #7bafde | 123 175 222 |          |
+| Grün   | 15  | 56 0 43 30 | #4eb265 | 78 178 101  |          |
+|        | 16  | 28 0 33 21 | #90c987 | 144 201 135 |          |
+|        | 17  | 10 0 24 12 | #cae0ab | 202 224 171 |          |
+| Gelb   | 18  | 0 3 65 3   | #f7f056 | 247 240 86  |          |
+| Orange | 20  | 0 22 74 4  | #f6c141 | 246 193 65  |          |
+|        | 22  | 0 39 81 5  | #f1932d | 241 147 45  |          |
+| Rot    | 24  | 0 59 88 9  | #e8601c | 232 96 28   |          |
+|        | 26  | 0 98 95 14 | #dc050c | 220 5 12    |          |
+| Grau   | 30  | 0 0 0 53   | #777777 | 119 119 119 |          |
 
 : Farbpalette für Printprodukte mit 14 Farben und Grau [nach @tol_sequential_2022] {#tbl-sgbprint14 .hover .sm .col-centered}
 
 ::: {.callout-tip title="Farbwerte-Konfiguration (CSV mit 14+1 Farben) zum Kopieren für Print-Anwendungen" icon="false" collapse="true"}
-```{.html}
-Nummer,CMYK,HEX,RGB
-3,"3 13 0 16",#d1bbd7,"209 198 215"
-6,"0 32 6 32",#ae76a3,"174 118 163"
-9,"0 66 16 47",#882e72,"136 46 114"
-10,"86 43 0 31",#1965b0,"25 101 176"
-12,"59 31 0 22",#5289c7,"82 137 199"
-14,"45 21 0 13",#7bafde,"123 175 222"
-15,"56 0 43 30",#4eb265,"78 178 101"
-16,"28 0 33 21",#90c987,"144 201 135"
-17,"10 0 24 12",#cae0ab,"202 224 171"
-18,"0 3 65 3",#f7f056,"247 240 86"
-20,"0 22 74 4",#f6c141,"246 193 65"
-22,"0 39 81 5",#f1932d,"241 147 45"
-24,"0 59 88 9",#e8601c,"232 96 28"
-26,"0 98 95 14",#dc050c,"220 5 12"
-30,"0 0 0 53",#777777,"119 119 119"
+
+```html
+Nummer,CMYK,HEX,RGB 3,"3 13 0 16",#d1bbd7,"209 198 215" 6,"0 32 6 32",#ae76a3,"174 118 163" 9,"0 66
+16 47",#882e72,"136 46 114" 10,"86 43 0 31",#1965b0,"25 101 176" 12,"59 31 0 22",#5289c7,"82 137
+199" 14,"45 21 0 13",#7bafde,"123 175 222" 15,"56 0 43 30",#4eb265,"78 178 101" 16,"28 0 33
+21",#90c987,"144 201 135" 17,"10 0 24 12",#cae0ab,"202 224 171" 18,"0 3 65 3",#f7f056,"247 240 86"
+20,"0 22 74 4",#f6c141,"246 193 65" 22,"0 39 81 5",#f1932d,"241 147 45" 24,"0 59 88 9",#e8601c,"232
+96 28" 26,"0 98 95 14",#dc050c,"220 5 12" 30,"0 0 0 53",#777777,"119 119 119"
 ```
+
 :::
 
 ### Anwendung
@@ -393,7 +367,7 @@ black_text_values <- c(1, 2, 3, 4, 5, 6, 7, 11, 12, 13, 14, 15, 16, 17, 18, 19, 
 pyramid_long <- pyramid_long %>%
   mutate(tooltip = paste0("Farbwertnummer: ", value, "\nCMYK: ", CMYK, "\nHEX: ", HEX, "\nRGB: ", RGB))
 
-pyramid_plot <- ggplot(pyramid_long, aes(x = x, y = -row, label = value, fill = HEX, text = tooltip)) +  
+pyramid_plot <- ggplot(pyramid_long, aes(x = x, y = -row, label = value, fill = HEX, text = tooltip)) +
   geom_tile(color = "black", width = 1, height = 1) +
   geom_text(aes(color = ifelse(value %in% black_text_values, "black", "white")), size = 3) +
   scale_fill_identity() +

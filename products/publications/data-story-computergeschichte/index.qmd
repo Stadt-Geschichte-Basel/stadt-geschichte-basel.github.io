@@ -37,34 +37,34 @@ Ende der **1960er Jahre** hielt der **Computer** Einzug in die Basler Verwaltung
 
 Diese Digitalisierung brachte tiefgreifende Veränderungen mit sich:
 
--   **Effizienzsteigerung**: Behördliche Prozesse wurden automatisiert.
--   **Datenverwaltung**: Neue zentrale Datenbanken entstanden.
--   **Politische Diskussionen**: Die Kontrolle über digitale Daten führte zu Debatten über Datenschutz und Bürgerrechte.
+- **Effizienzsteigerung**: Behördliche Prozesse wurden automatisiert.
+- **Datenverwaltung**: Neue zentrale Datenbanken entstanden.
+- **Politische Diskussionen**: Die Kontrolle über digitale Daten führte zu Debatten über Datenschutz und Bürgerrechte.
 
 ## Schlüsselmomente der Data Story
 
 1.  **Die Expo 1964 als Wendepunkt**
-    -   Auf der Schweizer Landesausstellung stellte **IBM** einen Grossrechner zur Verfügung, um die "Swissness" der Besucher\*innen anhand von Fragebögen auszuwerten.\
-    -   Der Einsatz eines Computers in einer öffentlichen Befragung war eine Sensation und machte die Technologie greifbarer.
+    - Auf der Schweizer Landesausstellung stellte **IBM** einen Grossrechner zur Verfügung, um die "Swissness" der Besucher\*innen anhand von Fragebögen auszuwerten.\
+    - Der Einsatz eines Computers in einer öffentlichen Befragung war eine Sensation und machte die Technologie greifbarer.
 2.  **Erste Computer in der Basler Verwaltung**
-    -   **1969** begann Basel-Stadt als erster Schweizer Kanton, das **Einwohnerregister digital zu erfassen**.\
-    -   Die Verwaltung erhoffte sich eine effizientere Bearbeitung von Einwohnermeldungen, Bewilligungen und statistischen Erhebungen.
+    - **1969** begann Basel-Stadt als erster Schweizer Kanton, das **Einwohnerregister digital zu erfassen**.\
+    - Die Verwaltung erhoffte sich eine effizientere Bearbeitung von Einwohnermeldungen, Bewilligungen und statistischen Erhebungen.
 3.  **Die "Revolution" im Kontrollbüro (1973)**
-    -   Einführung von **26 Bildschirmterminals** und **14 Schnelldruckern**.\
-    -   Die Arbeitsabläufe veränderten sich fundamental, Personal musste umgeschult werden.\
-    -   Suchvorgänge wurden schneller und Verwaltungsdokumente konnten in Sekunden gedruckt werden.
+    - Einführung von **26 Bildschirmterminals** und **14 Schnelldruckern**.\
+    - Die Arbeitsabläufe veränderten sich fundamental, Personal musste umgeschult werden.\
+    - Suchvorgänge wurden schneller und Verwaltungsdokumente konnten in Sekunden gedruckt werden.
 4.  **Die neue Macht der Datenbanken**
-    -   Eine zentrale **Verwaltungsdatenbank** ermöglichte Vernetzung zwischen Behörden.\
-    -   Behörden definierten, welche Daten gespeichert und genutzt wurden.\
-    -   Die Diskussion über Datenschutz begann – führte letztlich 1997 zum **ersten Schweizer Datenschutzgesetz**.
+    - Eine zentrale **Verwaltungsdatenbank** ermöglichte Vernetzung zwischen Behörden.\
+    - Behörden definierten, welche Daten gespeichert und genutzt wurden.\
+    - Die Diskussion über Datenschutz begann – führte letztlich 1997 zum **ersten Schweizer Datenschutzgesetz**.
 
 ## Digitale Vermittlung: Umsetzung der Data Story
 
 Die Data Story wurde als **interaktive Online-Geschichte** konzipiert und verwendet:
 
--   **Visualisierte Daten**: Historische Statistiken über Bevölkerung, Migration und Verwaltungsausgaben.
--   **Interaktive Karten**: Georeferenzierte Darstellungen der Verwaltungsstandorte.
--   **Audiovisuelle Inhalte**: Archivfotos, computergestützte Verwaltungssysteme, Musik (z. B. France Galls "Der Computer Nr. 3" als kultureller Verweis).
+- **Visualisierte Daten**: Historische Statistiken über Bevölkerung, Migration und Verwaltungsausgaben.
+- **Interaktive Karten**: Georeferenzierte Darstellungen der Verwaltungsstandorte.
+- **Audiovisuelle Inhalte**: Archivfotos, computergestützte Verwaltungssysteme, Musik (z. B. France Galls "Der Computer Nr. 3" als kultureller Verweis).
 
 ## Bedeutung für das Forschungsdatenmanagement
 
@@ -76,9 +76,9 @@ Die Ergebnisse fliessen in die **digitale Plattform von Stadt.Geschichte.Basel**
 
 Die Data Story wurde von:
 
--   **Cristina Münch** (Bilddaten & Literaturverwaltung)
--   **Nico Görlich** (Geodaten & Statistik)
--   **Moritz Mähr** (Forschungsdatenmanagement & digitale Vermittlung)
+- **Cristina Münch** (Bilddaten & Literaturverwaltung)
+- **Nico Görlich** (Geodaten & Statistik)
+- **Moritz Mähr** (Forschungsdatenmanagement & digitale Vermittlung)
 
 entwickelt und in Workshops an der Universität Basel getestet.
 

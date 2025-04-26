@@ -43,9 +43,9 @@ Das Team von Stadt.Geschichte.Basel nutzt das Tool, um Forschungsdaten des histo
 
 Die Teilnehmer:innen werden lernen:
 
-* CollectionBuilder einzurichten und seine Funktionen zu nutzen.
-* Digitale Exponate mit ihren eigenen Forschungsdaten zu erstellen und zu verwalten.
-* Das Potenzial von Open-Source-Tools in der Public History und den Digital Humanities zu verstehen.
+- CollectionBuilder einzurichten und seine Funktionen zu nutzen.
+- Digitale Exponate mit ihren eigenen Forschungsdaten zu erstellen und zu verwalten.
+- Das Potenzial von Open-Source-Tools in der Public History und den Digital Humanities zu verstehen.
 
 Für die Teilnahme sind erste Erfahrungen mit GitHub bzw. GitHub Pages, ggfs. auch Jekyll, hilfreich. Die Teilnehmer:innen brauchen einen Laptop und eine stabile Internetverbindung. Alle anderen Materialien, einschliesslich umfassender Dokumentation und Zugang zu einer CollectionBuilder-Instanz, werden zur Verfügung gestellt.
 
@@ -53,7 +53,7 @@ Für die Teilnahme sind erste Erfahrungen mit GitHub bzw. GitHub Pages, ggfs. au
 
 Dieser Workshop ist ideal für Historiker:innen, Bibliothekar:innen, Archivar:innen, Studierende der Geisteswissenschaften und Citizen Scientists, die daran interessiert sind, historische Daten online aufzubereiten und zu präsentieren.
 
-Registrierung: via [info@stadtgeschichtebasel.ch](mailto:info@stadtgeschichtebasel.ch)
+Registrierung: via [info\@stadtgeschichtebasel.ch](mailto:info@stadtgeschichtebasel.ch)
 
 Kontakt: [Moritz Twente](mailto:moritz.twente@unibas.ch)
 

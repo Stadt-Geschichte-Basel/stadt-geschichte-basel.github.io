@@ -1,5 +1,5 @@
 ---
-title: "Forschungsdatenmanagement und Public History"
+title: 'Forschungsdatenmanagement und Public History'
 lang: de
 listing:
   - id: talks-posters
@@ -7,18 +7,18 @@ listing:
     categories: false
     contents:
       - talks-posters/*/index.qmd
-    sort: "date desc"
+    sort: 'date desc'
     sort-ui: false
     filter-ui: false
     fields: [date, title, event, categories]
-    field-display-names: 
+    field-display-names:
       categories: 'Typ'
       title: 'Titel'
       event: 'Veranstaltung'
   - id: coding
     type: grid
     contents: coding/*/index.qmd
-    sort: "title desc"
+    sort: 'title desc'
     fields: [title, subtitle]
     grid-columns: 2
   - id: digital-history

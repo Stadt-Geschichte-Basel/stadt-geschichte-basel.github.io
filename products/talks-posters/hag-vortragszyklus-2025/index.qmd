@@ -18,7 +18,7 @@ nocite: |
 doi: 10.5281/zenodo.14845483
 citation:
   type: standard
-  title: "Werkstattbericht. Die neue Forschungsdatenplattform der Stadtgeschichte."
+  title: 'Werkstattbericht. Die neue Forschungsdatenplattform der Stadtgeschichte.'
   container-title: 'Vortragszyklus 2024/2025 der Historisch Antiquarischen Gesellschaft Basel (HAG), Naturhistorisches Museum Basel'
 appendix-cite-as: display
 other-links:
@@ -49,8 +49,8 @@ Die Präsentation „Die Geschichte von Basel ins Netz stellen“ gibt einen Üb
 
 Ein zentrales Ziel des Projekts ist die Schaffung eines Online-Portals, das als langfristig nutzbarer virtueller Speicher für historische Daten dient. Die Plattform ermöglicht eine breite öffentliche Zugänglichkeit und fördert den Dialog mit Geschichtsinteressierten, Forschenden und Studierenden. Dabei wird zwischen zwei Hauptbereichen unterschieden:
 
-* Das Online-Portal für eine breite Öffentlichkeit mit direktem Zugang zu GLAM-Institutionen, Publikationen und narrativen Inhalten.
-* Die Forschungsdatenplattform als nachhaltige Infrastruktur für akademische Forschung, die historische Quellen, Daten und Forschungsergebnisse langfristig verfügbar macht.
+- Das Online-Portal für eine breite Öffentlichkeit mit direktem Zugang zu GLAM-Institutionen, Publikationen und narrativen Inhalten.
+- Die Forschungsdatenplattform als nachhaltige Infrastruktur für akademische Forschung, die historische Quellen, Daten und Forschungsergebnisse langfristig verfügbar macht.
 
 Ein interaktiver Walkthrough der Plattform demonstriert zentrale Funktionen, darunter Sammlungsdaten, Bibliographien, Visualisierungen und Geodaten. Die abschliessende Zukunftsperspektive hebt hervor, dass bis Ende 2025 alle Forschungsdaten aufbereitet und publiziert werden sollen, inklusive einer Open-Access-Veröffentlichung der Bände 1 bis 9 in Zusammenarbeit mit der Universitätsbibliothek Basel. Zudem wird die Plattform durch eine langfristige Archivierung der Forschungsdaten im DaSCH und auf ZENODO gesichert.
 

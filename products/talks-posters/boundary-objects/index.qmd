@@ -41,6 +41,7 @@ other-links:
 Das Poster wurde auf der [Digital-History-Tagung 2023](https://dhistory.hypotheses.org/digital-history-tagung-2023) an der Humboldt-Universität Berlin präsentiert, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.7960745).
 
 ::: {.callout-tip title="Poster anzeigen" icon="false" collapse="true"}
+
 <iframe src="/assets/files/Poster_DH_Berlin_2023.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Karten als boundary objects">
 
 This browser does not support PDFs. Please download the PDF <a href="/assets/files/Poster_DH_Berlin_2023.pdf">download the PDF</a> to view it.

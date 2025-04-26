@@ -18,7 +18,7 @@ lang: de
 doi: 10.5281/zenodo.7193613
 citation:
   type: standard
-  container-title: "DARIAH-CH Study Day 2022, Università della Svizzera Italiana"
+  container-title: 'DARIAH-CH Study Day 2022, Università della Svizzera Italiana'
 appendix-cite-as: display
 other-links:
   - text: 'Veranstaltungswebsite'
@@ -30,7 +30,6 @@ other-links:
   - text: Poster (Zenodo)
     icon: filetype-pdf
     href: 'https://doi.org/10.5281/zenodo.7193613'
-
 ---
 
 ## Poster

@@ -28,7 +28,7 @@ other-links:
 
 ## Vortrag
 
-Der Vortrag fand im Rahmen der Veranstaltung [DHCH@ISR: Digital Humanities Methodologies](https://dh-ch.ch/dhch-isr/22/speakers.html) am Istituto Svizzero di Roma, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.6637118).
+Der Vortrag fand im Rahmen der Veranstaltung [DHCH\@ISR: Digital Humanities Methodologies](https://dh-ch.ch/dhch-isr/22/speakers.html) am Istituto Svizzero di Roma, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.6637118).
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
@@ -39,6 +39,14 @@ This browser does not support PDFs. Please download the PDF <a href="/assets/fil
 </iframe>
 :::
 
+Ein Videomitschnitt ist [auf YouTube verfügbar](https://www.youtube.com/watch?v=Ha7H7zjvIBk).
+
+::: {.callout-tip title="Videomitschnitt anzeigen" icon="false" collapse="true"}
+
+<iframe width="610" height="334" loading="lazy" src="https://www.youtube.com/embed/Ha7H7zjvIBk" title="Moritz Mähr: Research Data Management in (Public) History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+:::
 
 ## Abstract
 

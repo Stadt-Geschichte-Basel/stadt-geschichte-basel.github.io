@@ -25,46 +25,49 @@ other-links:
 
 ## Anliegen
 
-Die Publikationsreihe *Stadt.Geschichte.Basel* präsentiert in zehn Bänden (Bände 1–9 sowie ein Abschlussband) eine umfassende Aufarbeitung der Basler Stadtgeschichte von den frühesten Anfängen bis zur Gegenwart. Ein zentrales Anliegen des Projekts ist es, historische Forschungsergebnisse möglichst breit zugänglich zu machen und für unterschiedliche Interessensgruppen nutzbar zu halten. Um dies zu erreichen, werden die Bände [in einer Open-Access-Version veröffentlicht](https://openaccess.stadtgeschichtebasel.ch/), die kostenlos im Internet zur Verfügung steht.
+Die Publikationsreihe _Stadt.Geschichte.Basel_ präsentiert in zehn Bänden (Bände 1–9 sowie ein Abschlussband) eine umfassende Aufarbeitung der Basler Stadtgeschichte von den frühesten Anfängen bis zur Gegenwart. Ein zentrales Anliegen des Projekts ist es, historische Forschungsergebnisse möglichst breit zugänglich zu machen und für unterschiedliche Interessensgruppen nutzbar zu halten. Um dies zu erreichen, werden die Bände [in einer Open-Access-Version veröffentlicht](https://openaccess.stadtgeschichtebasel.ch/), die kostenlos im Internet zur Verfügung steht.
 
-Diese Dokumentation richtet sich an das **Team Forschungsdatenmanagement und Public History** von *Stadt.Geschichte.Basel* und fasst die wichtigsten Schritte, Rollen und technischen Aspekte zusammen, die zur Entstehung der Open-Access-Ausgabe führten. Sie dient als Referenz für zukünftige Projekte und stellt die wichtigsten **Lessons Learned** aus diesem Prozess dar.
+Diese Dokumentation richtet sich an das **Team Forschungsdatenmanagement und Public History** von _Stadt.Geschichte.Basel_ und fasst die wichtigsten Schritte, Rollen und technischen Aspekte zusammen, die zur Entstehung der Open-Access-Ausgabe führten. Sie dient als Referenz für zukünftige Projekte und stellt die wichtigsten **Lessons Learned** aus diesem Prozess dar.
 
 ## Workflow und Rollen
 
 Im Kern basierte der Prozess auf einer engen Kollaboration zwischen verschiedenen Akteurinnen und Akteuren:
 
-- **Moritz Mähr (Stadt.Geschichte.Basel)**  
-  - Koordination des Gesamtvorhabens und Ansprechpartner für das Team  
-  - Upload der fertigen PDF-Dateien auf die Plattform (OMP)  
-  - Metadatenanreicherung in Dublin Core, MARC, DataCite  
-  - Customizing der OMP-Installation (Subpress) mittels CSS  
-  - Erstellung eines ersten Prototyps für die künftige HTML-Ausgabe  
+- **Moritz Mähr (Stadt.Geschichte.Basel)**
 
-- **Lucy Hindermann (Open Science, UB Basel)**  
-  - Aufsetzen und Konfiguration der OMP-Subpress-Plattform  
-  - Datenkontrolle (Validierung der hochgeladenen PDFs, Metadaten-Vollständigkeit)  
+  - Koordination des Gesamtvorhabens und Ansprechpartner für das Team
+  - Upload der fertigen PDF-Dateien auf die Plattform (OMP)
+  - Metadatenanreicherung in Dublin Core, MARC, DataCite
+  - Customizing der OMP-Installation (Subpress) mittels CSS
+  - Erstellung eines ersten Prototyps für die künftige HTML-Ausgabe
 
-- **Mathias Edel (UB Basel)**  
-  - Registrierung der DOIs (Digital Object Identifier)  
-  - Unterstützung bei der Standardisierung der Metadaten  
+- **Lucy Hindermann (Open Science, UB Basel)**
 
-- **Katharina Marti (Icona)**  
-  - Grafische Umsetzung und Layout  
-  - Bereitstellung der notwendigen PDF-Dateien für den digitalen Publikationsprozess  
+  - Aufsetzen und Konfiguration der OMP-Subpress-Plattform
+  - Datenkontrolle (Validierung der hochgeladenen PDFs, Metadaten-Vollständigkeit)
+
+- **Mathias Edel (UB Basel)**
+
+  - Registrierung der DOIs (Digital Object Identifier)
+  - Unterstützung bei der Standardisierung der Metadaten
+
+- **Katharina Marti (Icona)**
+  - Grafische Umsetzung und Layout
+  - Bereitstellung der notwendigen PDF-Dateien für den digitalen Publikationsprozess
 
 Für die Umsetzung wurde **Open Monograph Press (OMP)**, entwickelt von PKP (Public Knowledge Project), eingesetzt. OMP erlaubt sowohl das Hochladen als auch das Publizieren von Monographien und vereinfacht den Review- und Produktionsworkflow.
 
 ## Zeitplan und Embargo
 
-* **2022**  
-   - Entwicklung eines ersten Konzepts für die Open-Access-Ausgabe  
-   - Absprachen zwischen Moritz Mähr, Patrick Kury (Stadt.Geschichte.Basel), Oliver Bolanz (Christoph Merian Verlag) und Silke Bellanger (Open Science, Universität Basel)  
-* **2023**  
-   - Erstellung erster Prototypen und Testphase auf der OMP-Plattform  
-   - Verhandlungen mit allen Projektbeteiligten über Workflows und rechtliche Aspekte  
-* **2024**  
-   - Abschluss und Unterzeichnung des Memorandum of Understanding (MoU) zwischen den drei Organisationen (Stadt.Geschichte.Basel, UB Basel, Christoph Merian Verlag)  
-   - Start der produktiven Umsetzung und Vorbereitung der finalen Metadaten
+- **2022**
+  - Entwicklung eines ersten Konzepts für die Open-Access-Ausgabe
+  - Absprachen zwischen Moritz Mähr, Patrick Kury (Stadt.Geschichte.Basel), Oliver Bolanz (Christoph Merian Verlag) und Silke Bellanger (Open Science, Universität Basel)
+- **2023**
+  - Erstellung erster Prototypen und Testphase auf der OMP-Plattform
+  - Verhandlungen mit allen Projektbeteiligten über Workflows und rechtliche Aspekte
+- **2024**
+  - Abschluss und Unterzeichnung des Memorandum of Understanding (MoU) zwischen den drei Organisationen (Stadt.Geschichte.Basel, UB Basel, Christoph Merian Verlag)
+  - Start der produktiven Umsetzung und Vorbereitung der finalen Metadaten
 
 Die genauen Embargofristen für die Veröffentlichung der Open-Access-Ausgaben richten sich nach den vertraglichen Vereinbarungen im MoU. Das Ziel ist eine koordinierte Veröffentlichung mit zeitlichem Versatz zur Printausgabe, damit eine angemessene Vermarktungsphase für die gedruckten Bände möglich bleibt.
 

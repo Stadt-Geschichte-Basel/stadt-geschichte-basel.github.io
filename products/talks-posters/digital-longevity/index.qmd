@@ -28,7 +28,7 @@ other-links:
 
 ## Vortrag
 
-Der Vortrag fand im Rahmen des Seminars [Legal History Meets Digital Humanities](https://www.lhlt.mpg.de/events/36152/3251077/) des Max-Planck-Instituts für Rechtsgeschichte und Rechtstheorie statt, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.10368874). Ein Videomitschnitt ist [auf YouTube verfügbar](https://www.youtube.com/watch?v=6JO7y0MIpsA).
+Der Vortrag fand im Rahmen des Seminars [Legal History Meets Digital Humanities](https://www.lhlt.mpg.de/events/36152/3251077/) des Max-Planck-Instituts für Rechtsgeschichte und Rechtstheorie statt, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.10368874).
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
@@ -37,6 +37,13 @@ Der Vortrag fand im Rahmen des Seminars [Legal History Meets Digital Humanities]
 This browser does not support PDFs. Please download the PDF <a href="/assets/files/20231212-Moritz_Maehr-Digital_Longevity.pdf">download the PDF</a> to view it.
 
 </iframe>
+:::
+
+Ein Videomitschnitt ist [auf YouTube verfügbar](https://www.youtube.com/watch?v=6JO7y0MIpsA).
+
+::: {.callout-tip title="Videomitschnitt anzeigen" icon="false" collapse="true"}
+
+<iframe width="610" height="334" loading="lazy" src="https://www.youtube.com/embed/6JO7y0MIpsA" title="[Ep. 5] Digital Longevity: Learnings from the (Digital) History Project Stadt.Geschichte.Basel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 
 ## Abstract

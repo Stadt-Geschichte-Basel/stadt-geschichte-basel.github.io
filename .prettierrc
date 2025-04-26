@@ -1,6 +1,17 @@
 {
-	"useTabs": true,
-	"singleQuote": true,
-	"trailingComma": "none",
-	"printWidth": 100
+  "proseWrap": "preserve",
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "overrides": [
+    {
+      "files": "**.qmd",
+      "options": {
+        "parser": "markdown",
+        "embeddedLanguageFormatting": "auto"
+      }
+    }
+  ]
 }

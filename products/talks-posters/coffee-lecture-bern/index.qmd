@@ -30,6 +30,7 @@ other-links:
 Der Vortrag fand im Rahmen der [Coffee-Lectures-Veranstaltungsreihe](https://www.wbkolleg.unibe.ch/ueber_uns/oeffentlichkeit/veranstaltungen/coffee_lectures_im_herbstsemester_2024/index_ger.html) am Walter-Benjamin-Kolleg der Universität Bern statt, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.14267948).
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+
 <iframe src="/assets/files/241203 Digitale Sammlungen mit CollectionBuilder selbst erstellen.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Digitale Sammlungen mit FAIR-Daten und Open Source Software erstellen">
 
 This browser does not support PDFs. Please download the PDF <a href="/assets/files/241203 Digitale Sammlungen mit CollectionBuilder selbst erstellen.pdf">download the PDF</a> to view it.

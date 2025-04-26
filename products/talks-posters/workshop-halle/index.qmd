@@ -44,11 +44,10 @@ Das Team von Stadt.Geschichte.Basel nutzt das Tool, um Forschungsdaten des histo
 
 Die Teilnehmenden werden lernen:
 
-* CollectionBuilder einzurichten und seine Funktionen zu nutzen.
-* Digitale Exponate mit ihren eigenen Forschungsdaten zu erstellen und zu verwalten.
-* Das Potenzial von Open-Source-Tools in der Public History und den Digital Humanities zu verstehen.
+- CollectionBuilder einzurichten und seine Funktionen zu nutzen.
+- Digitale Exponate mit ihren eigenen Forschungsdaten zu erstellen und zu verwalten.
+- Das Potenzial von Open-Source-Tools in der Public History und den Digital Humanities zu verstehen.
 
 ### Zielpublikum
 
 Dieser Workshop ist ideal für Historiker:innen, Bibliothekar:innen, Archivar:innen, Studierende der Geisteswissenschaften und Citizen Scientists, die daran interessiert sind, historische Daten online aufzubereiten und zu präsentieren.
-
