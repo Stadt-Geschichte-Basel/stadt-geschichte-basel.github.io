@@ -1,0 +1,43 @@
+---
+title: Daten einer Stadt
+subtitle: Stadt.Geschichte.Basel
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+date: 2025-07-11
+categories: Vortrag
+event: Schweizerische Geschichtstage, Universität Luzern
+lang: de
+citation:
+  type: standard
+  title: 'Daten einer Stadt: Stadt.Geschichte.Basel. Teil des Panels "Ausgeleuchtet und dem Vergessen enthoben? Bilder und Daten der Schweizer Geschichte digital"'
+  container-title: 'Siebte Schweizerische Geschichtstage, Universität Luzern'
+appendix-cite-as: display
+other-links:
+  - text: Konferenzwebsite
+    icon: house
+    href: 'https://geschichtstage.ch'
+  - text: Panel-Programm (Converia)
+    icon: calendar4-range
+    href: 'https://geschichtstage.ch/frontend/index.php?page_id=40244&v=List&do=15&day=5638&ses=38367#'
+---
+
+## Panel
+
+Das Panel **Ausgeleuchtet und dem Vergessen enthoben? Bilder und Daten der Schweizer Geschichte digital** ist Teil der siebten Schweizerischen Geschichtstage (08.–11.07.2025) an der Universität Luzern. Cécile Vilas, Sonja Matter, Werner Bosshard, Béla Kapossy, Moritz Mähr und Tobias Hodel umreissen im Rahmen des [Panelprogramms](https://geschichtstage.ch/frontend/index.php?page_id=40244&v=List&do=15&day=5638&ses=38367#) das Geflecht an Ansätzen, Herausforderungen und Chancen, die sich bei der Digitalisierung von historischem Bildmaterial und audiovisuellen Quellen stellen.
+
+<!-- ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+<iframe src="FIXME" width="100%" height="600px" loading="lazy" allowfullscreen title="Daten einer Stadt">
+
+This browser does not support PDFs. Please download the PDF <a href="FIXME">download the PDF</a> to view it.
+
+</iframe>
+::: -->
+
+## Abstract (Vortrag)
+
+Die [Forschungsdatenplattform Stadt.Geschichte.Basel](https://forschung.stadtgeschichtebasel.ch) fördert Forschung und Lehre zur Basler Stadtgeschichte, indem sie die Nachnutzung einer kuratierten Sammlung digitalisierter Quellen etablierter Gedächtnisinstitutionen ermöglicht. Die partizipative, iterative Entwicklung unter Einbezug von über 90 Expert\*innen aus Forschung und GLAM-Bereich stellt sicher, dass verschiedene Nutzungsbedürfnisse berücksichtigt werden. Audiovisuelle Quellen, georeferenzierte Karten, interaktive Statistiken und Modelle fungieren dabei als ["boundary objects"](/products/talks-posters/boundary-objects/) und fördern den Austausch sowohl zwischen Wissenschaft und Öffentlichkeit als auch zwischen verschiedenen Disziplinen. Ein eigens entwickeltes [Handbuch zur Erstellung diskriminierungssensibler Metadaten](/products/publications/handbuch/) leitet die Datenaufbereitung. Herausforderungen ergeben sich durch urheberrechtliche Beschränkungen, den Wunsch nach Open Access und die Schaffung neuer Zugänge zur Stadtgeschichte.

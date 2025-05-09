@@ -12,6 +12,9 @@ other-links:
   - text: Website
     icon: house
     href: 'https://maehr.github.io/open-research-data-template/'
+  - text: Projektvorstellung (DHTech)
+    icon: person-video3
+    href: /products/talks-posters/dhtech-ordtemplate/
 code-links:
   - href: 'https://github.com/maehr/open-research-data-template/'
     text: GitHub Repository

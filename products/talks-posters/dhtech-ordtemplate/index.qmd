@@ -1,0 +1,88 @@
+---
+title: One Template to Rule Them All
+subtitle: Interactive Research Data Documentation with Quarto
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+  - name: Moritz Twente
+    email: mtwente@protonmail.com
+    orcid: 0009-0005-7187-9774
+    affiliation: Universität Basel
+date: 2025-07-14
+categories: Vortrag
+event: Universidade NOVA de Lisboa, DH2025
+lang: de
+citation:
+  type: standard
+  title: 'One Template to Rule Them All: Interactive Research Data Documentation with Quarto'
+  container-title: 'Digital Humanities Tech Symposium at DH2025, Universidade NOVA de Lisboa'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://dh2025.adho.org/'
+  - text: DHTech Symposium (Conftool)
+    icon: calendar4-range
+    href: 'https://www.conftool.pro/dh2025/index.php?page=browseSessions&form_session=299'
+  - text: 'DHTech-Webseite'
+    icon: gear
+    href: 'https://dh-tech.github.io/2025/02/19/digital-humanities-tech-symposium/'
+  - text: 'Projektbeschreibung'
+    icon: info-circle
+    href: '/products/coding/ord-template/'
+
+code-links:
+  - href: 'https://github.com/maehr/open-research-data-template/'
+    text: Template-Repository
+    icon: github
+---
+
+## Vortrag
+
+Der Vortrag ist Teil des [Digital Humanities Tech Symposiums](https://dh-tech.github.io/2025/02/19/digital-humanities-tech-symposium/) der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa.
+
+<!-- ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+<iframe src="FIXME" width="100%" height="600px" loading="lazy" allowfullscreen title="One Template to Rule Them All">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/Poster_DH_Berlin_2023.pdf">download the PDF</a> to view it.
+
+</iframe>
+::: -->
+
+## Abstract
+
+We present the [Open Research Data Template](https://github.com/maehr/open-research-data-template), a modular, GitHub-based framework developed to streamline the publication, documentation, and reuse of open research data. Designed explicitly around the FAIR principles (Findable, Accessible, Interoperable, Reusable), the template addresses a critical challenge facing Digital Humanities projects: while datasets are increasingly shared, the surrounding preprocessing steps, methodological decisions, and potential pathways for reuse are often poorly documented, rendering much "open data" practically unusable.
+
+Our approach integrates [Quarto](https://quarto.org/), a powerful scientific publishing platform that supports multi-programming-language interoperability, enabling researchers to weave Python, R, Julia, and ObservableJS into coherent, executable, and human-readable research narratives. Quarto serves not merely as a documentation tool, but as an infrastructure for creating fully browsable, executable, and sustainably archived research outputs. The template automates publication via GitHub Pages and long-term archiving via [Zenodo](https://zenodo.org/) with DOI assignment, ensuring both accessibility and citability.
+
+A key innovation of the template is its ability to combine static metadata, narrative descriptions, and executable preprocessing code into a single, integrated website. Unlike traditional supplementary materials or disconnected code repositories, this approach ensures that data, methods, and results remain interconnected, reducing barriers to reuse across different computational environments. By making preprocessing workflows transparent and reproducible, the template transforms static data archives into living, extensible resources.
+
+In our demonstration, we will show not only the technical architecture and GitHub Actions automation behind the template, but also real-world examples where it has been successfully deployed:
+
+* [DigiHistCH24](https://digihistch24.github.io/): The conference website for [Historical Research, Digital Literacy, and Algorithmic Criticism (Basel, 2024)](/products/digital-history/digihistch24/), built with the template, includes an interactive book of abstracts and serves as a structured record of contemporary research in digital history.
+* [Stadt.Geschichte.Basel Documentation](https://dokumentation.stadtgeschichtebasel.ch/): This project documents the data workflows behind Basel's new city history project, showcasing transparent research data practices in a major public history initiative.
+* [DHBern Portal](https://dhbern.github.io/): Acting as a hub for digital humanities projects at the University of Bern, the portal demonstrates how multiple datasets and methodologies can be harmonized under a single, sustainable open data framework.
+* [Decoding Inequality 2025](https://dhbern.github.io/decoding-inequality-2025/): This repository contains the materials for the course "Decoding Inequality: Kritische Perspektiven auf Machine Learning und gesellschaftliche Ungleichheit" held at the University of Bern in the spring semester 2025.
+
+These projects illustrate how reusable research data publication can be seamlessly integrated into active Digital Humanities workflows without imposing additional technical barriers on researchers.
+
+We argue that the Open Research Data Template, powered by Quarto’s cross-language capabilities and GitHub’s collaborative infrastructure, provides a scalable, accessible model for elevating the standard of open data publication in the Digital Humanities. By facilitating executable documentation and integrated archiving, the template empowers researchers to move beyond minimal compliance with open science mandates toward creating genuinely reusable, transparent research outputs.
+
+Through this tool presentation, we aim to encourage the broader adoption of automated, executable open data documentation as a foundational practice for responsible, impactful, and sustainable Digital Humanities research.
+
+### At a Glance: Technical Focus and Features
+
+The Open Research Data Template enables:
+
+* Executable Documentation: Quarto integrates [Python](https://quarto.org/docs/computations/python.html), [R](https://quarto.org/docs/computations/r.html), [Julia](https://quarto.org/docs/computations/julia.html), and [ObservableJS](https://quarto.org/docs/computations/ojs.html) seamlessly in a single site.
+* [Reproducible Workflows](https://book.the-turing-way.org/reproducible-research/reproducible-research): Data preprocessing, cleaning, and analysis steps are documented alongside the datasets.
+* Automated Deployment: [GitHub Actions](https://github.com/features/actions) handle site building, deadlink checking, and deployment to [GitHub Pages](https://pages.github.com/).
+* Persistent Archiving: [Zenodo](https://zenodo.org/) integration allows datasets and documentation snapshots with [DOI minting](https://help.zenodo.org/docs/deposit/describe-records/reserve-doi/).
+* Consistency and Scalability: The template enforces best practices in open research data management inspired by [The Turing Way](https://book.the-turing-way.org/).
+
+Unlike traditional static documentation approaches, our template ensures that the preprocessing code, documentation, and data are kept in sync and fully transparent for future reuse.
+

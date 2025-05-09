@@ -1,0 +1,63 @@
+---
+title: Gesamtkonzept für eine neue Basler Stadtgeschichte
+category: Interna
+author: 
+    - name: Lucas Burkart
+      affiliation: Universität Basel
+      orcid: 0000-0002-9011-5113
+    - name: Patrick Kury
+      orcid: 0000-0002-6876-2875
+      affiliations:
+      - Universität Basel
+      - Universität Luzern
+    - name: Walter Leimgruber
+      affiliation: Universität Basel
+    - name: Martin Lengwiler
+      orcid: 0000-0001-5420-6192
+      affiliation: Universität Basel
+    - name: Beatrice Schumacher
+      affiliation: Verein Basler Geschichte
+    - name: Peter-Andrew Schwarz
+      affiliation: Universität Basel
+date: 2014-06
+lang: de-DE
+url: http://edoc.unibas.ch/50574/
+other-links:
+  - text: edoc-Server
+    icon: collection
+    href: 'https://edoc.unibas.ch/entities/publication/b6cc2f44-40a2-4904-a96c-79918dd71a6d'
+  - text: PDF
+    icon: filetype-pdf
+    href: '/assets/files/201406-Gesamtkonzept_Stadtgeschichte.pdf'
+---
+
+::: {.callout-tip title="PDF anzeigen" icon="false" collapse="true"}
+<iframe src="/assets/files/201406-Gesamtkonzept_Stadtgeschichte.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Gesamtkonzept für eine neue Basler Stadtgeschichte">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/201406-Gesamtkonzept_Stadtgeschichte.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
+
+Die neue, fundierte Gesamtdarstellung ist ein Kompass für alle, die Basel tagtäglich beleben und mitgestalten - als Einwohnerin und Pendler, als Arbeitnehmer und Unternehmerin, als Fasnächtler, Durchreisende oder Rheinschwimmerin. Die Stadt.Geschichte.Basel schliesst eine Lücke für die vielen Geschichtsinteressierten und Mitglieder der historischen Vereinigungen, für Lehrerinnen, Kulturschaffende und Politiker. Und sie ist ein unentbehrliches Arbeitsinstrument für alle, die sich genauer mit der Stadt und ihrer Vergangenheit befassen und ihr Wissen weitergeben wollen: für Frauen und Männer in Archiven, Museen, Bibliotheken und Universitäten.
+
+## Wieso eine neue Stadtgeschichte? (Exzerpt)
+
+Uns fehlt das Geschichtsbuch mit dem grossen Atem. Die letzte umfassende Darstellung der Basler Geschichte ist bald hundert Jahre alt und endet mit der Reformationszeit. Seither ist über Basel zwar viel geforscht worden, die Schriften sind jedoch verstreut und die Forschungslücken nach wie vor zahlreich. Die Zeit ist reif für einen neuen Überblick – auf der Höhe des aktuellen Forschungsstandes, an Fragen der Gegenwart orientiert, attraktiv dargestellt und zugänglich für ein breites Basler Publikum. Es ist Zeit für das Projekt *Stadt.Geschichte.Basel*.
+
+### ... weil das Interesse hoch ist
+Gedenktage und Museumsnächte ziehen das heutige Publikum in Scharen an. Historisch tätige Vereine haben in Basel eine lange Tradition. Geschichtsromane und Historienfilme sind populär und erfolgreich. Unsere Neugier und Faszination an vergangenen Ereignissen, Denkweisen und Lebensformen folgen einem tief verankerten Bedürfnis. Das Projekt *Stadt.Geschichte.Basel* stösst bereits jetzt auf grosses Interesse und wird als Buch- und Online-Publikation ein breites Publikum finden.
+
+### ... weil Orientierung unentbehrlich ist
+Basel ist eine Stadt von europäischem Rang. Und sie ist eine Stadt "im Fluss", in der Menschen ein- und ausgingen und Ideen sich ausbreiteten. Eine Stadt, die sich immer wieder neu erfunden hat, ohne sich dabei zu verlieren. Wie gelang das? Was hielt diese Stadt zusammen? Wo liegt ihr Potenzial? Und wo ihre Schwächen? Mehr darüber zu wissen, gibt Orientierung und steigert die Verbundenheit mit der Stadt. Historisches Wissen ist eine Voraussetzung für den Zusammenhalt in einer demokratischen Gesellschaft – eine Schlüsselkompetenz an einem Ort, wo heute Menschen aus über 150 Nationen leben.
+
+### ... weil die Kultur- und Wirtschaftsstadt Basel gute Gründe hat, ihre Vergangenheit zu würdigen
+Wer seine Geschichte pflegt, pflegt auch seine Kultur. Basels Stadtgeschichte bietet ein weites Feld für ideelle Anregungen und intellektuelle Auseinandersetzungen, für die Betrachtung und den Genuss schöner und bedeutender Orte und Objekte. Die weitgespannten wirtschaftlichen Beziehungen und die Innovationsfähigkeit haben dafür den Boden bereitet. Das Projekt Stadt.Geschichte.Basel anerkennt den Rang Basels als Kultur- und Wirtschaftsstadt und würdigt jene Menschen, die dafür die Grundlagen geschaffen haben.
+
+### ... weil es zu viele blinde Flecken gibt
+Nur wer neue Fragen stellt, erhält auch neue Antworten – und Erkenntnisse über bisher Unbeachtetes. Die vorliegenden Geschichtsbücher sind lückenhaft oder überholt. Unser Bild des katholischen Mittelalters und der Herrschaft des Basler Bischofs bedarf einer Korrektur, weil es zu einseitig aus Sicht der späteren Reformation gezeichnet ist. Noch kaum erforscht ist Basels Wirtschaftsgeschichte des 17. und 18. Jahrhunderts, als die Stadt auf ihren Messen und Märkten Beziehungen zu Amerika, Asien und Afrika unterhielt. Ebenso fehlt eine Geschichte der Industrialisierung seit 1850
+und der davon ausgehenden, tiefgreifenden Veränderungen der städtischen Gesellschaft und des Stadtbildes. Auch die Zeitgeschichte Basels seit den 1960er Jahren ist grossteils unbekannt. Die Liste blinder Flecken liesse sich fast beliebig erweitern. Auch neuere Überblickswerke wie die "Geschichte einer städtischen Gesellschaft" (2001) oder "Die kleine Geschichte der Stadt Basel" (2008) konnten diese Lücken nicht schliessen.
+
+### ... weil unentdeckte Schätze warten
+Öffentliche und private Archive und Bibliotheken innerhalb und ausserhalb Basels bergen einen noch kaum erschlossenen Schatz an Quellen zu unserer Stadt. Unbekannte Nachlässe, noch unerforschte Behördenarchive oder neue Quellengattungen wie Fotografie-, Film- oder Tondokumente eröffnen überraschende Einsichten in vergangenes Denken und Handeln. Auch Objekte
+aus Basler Museen und archäologischen Sammlungen oder in Privatbesitz liefern neue, historisch wertvolle Einblicke. Dazu gehören Gebrauchsgegenstände, Möbel, Kunsthandwerk, oder auch Skelette und prähistorische Fundstücke. Die Voraussetzungen für die Erforschung der Basler Geschichte sind bestens. Man muss sie nur nutzen.

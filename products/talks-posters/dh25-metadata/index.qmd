@@ -1,0 +1,118 @@
+---
+title: Diskriminierungssensible Metadaten für historische Sammlungen erstellen und verschiedenen Öffentlichkeiten zugänglich machen
+subtitle: Herausforderungen und Ansätze für inklusive Digital Humanities
+author:
+  - name: Levyn Bürki
+    email: levyn.buerki@unibe.ch
+    orcid: 0009-0009-7602-0714
+    affiliation: Universität Bern
+  - name: Joris Burla
+    orcid: 0009-0009-4292-9364
+    affiliation: Museum Rietberg
+  - name: Peggy Große
+    orcid: 0000-0003-1181-6219
+    affiliations:
+        - Deutsches Museum
+        - NFDI4Memory
+  - name: Mario Kliewer
+    orcid: 0009-0001-8946-1051
+    affiliations:
+        - NFDI4Memory
+        - Staatliche Schlösser, Burgen und Gärten Sachsen
+  - name: Jonas Lendenmann
+    orcid: 0009-0000-3294-7918
+    affiliation: Museum Rietberg
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+  - name: Noëlle Schnegg
+    email: noelle.schnegg@unibas.ch 
+    orcid: 0009-0008-5207-6652
+    affiliation: Universität Basel
+  - name: Lisa Quade
+    orcid: 0000-0002-6235-8054
+    affiliation: Deutsche Digitale Bibliothek
+  - name: Elias Zimmermann
+    orcid: 0009-0002-7956-5655
+    affiliations:
+        - Universität Zürich
+        - Universität Genf
+date: 2025-07-16
+date-modified: last-modified
+categories: Panel
+event: Universidade NOVA de Lisboa, DH2025
+lang: de
+bibliography: references.bib
+nocite: |
+  @*
+citation:
+  type: standard
+  title: 'Diskriminierungssensible Metadaten für historische Sammlungen erstellen und verschiedenen Öffentlichkeiten zugänglich machen: Herausforderungen und Ansätze für inklusive Digital Humanities'
+  container-title: 'Panel an der Konferenz Digital Humanities 2025, Universidade NOVA de Lisboa'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://dh2025.adho.org/'
+  - text: Panelprogramm (Conftool)
+    icon: calendar4-range
+    href: 'https://www.conftool.pro/dh2025/index.php?page=browseSessions&form_session=118'
+---
+
+## Vortrag
+
+Das Panel findet als Teil der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa statt und beinhaltet eine thematische Einführung, drei [Projektvorstellungen](#projektvorstellungen) sowie eine Podiumsdiskussion.
+
+<!-- ::: {.callout-tip title="Slides anzeigen" icon="false" collapse="true"}
+<iframe src="FIXME" width="100%" height="600px" loading="lazy" allowfullscreen title="Diskriminierungssensible Metadaten für historische Sammlungen erstellen und verschiedenen Öffentlichkeiten zugänglich machen">
+
+This browser does not support PDFs. Please download the PDF <a href="FIXME">download the PDF</a> to view it.
+
+</iframe>
+::: -->
+
+## Panel-Abstract
+
+Eine besondere Herausforderung für die Digital Humanities ist die Gestaltung diskriminierungssensibler Forschungs- und Vermittlungsumgebungen. Historische Archive enthalten oft diskriminierende Inhalte, die in Sammlungsplattformen und Metadaten unkritisch und kontextlos reproduziert werden. Zudem können durch Verschlagwortung und Verknüpfung von Datensätzen neue Diskriminierungsformen und Biases eingeführt werden. Das Panel diskutiert zentrale Ansätze und Methoden zur Erstellung diskriminierungssensibler Metadaten und analysiert drei Fallstudien aus Universitäts- und GLAM-Kontexten, die Lösungen für ethische Fragen des Datenmanagements entwickeln.
+
+Diskriminierungskritische Perspektiven, insbesondere aus den Postcolonial und Gender Studies, haben sich zunehmend in den Digital Humanities etabliert. Doch der Diskurs um digitale Repräsentation in Archiven offenbart auch Lücken – u.a. im wissenschaftlichen Bewusstsein für diskriminierungssensible Metadaten [@gruberVomKnupfenFeministischer2022]. Während die FAIR-Prinzipien Grundlagen für vernetztes und offenes Datenmanagement bieten und die CARE-Prinzipien indigene Rechte berücksichtigen, fehlen bislang Leit- und Richtlinien für den diskriminierungssensiblen Umgang mit Meta- und Forschungsdaten zu historischen Kontexten [@carrollOperationalizingCAREFAIR2021]. Digitalisierungsinitiativen sind zudem oft mit Widersprüchen konfrontiert, etwa wenn in Förderrichtlinien formulierte Open Data Grundsätze mit datenethischen Rahmensetzungen kollidieren. Plattformen für den Austausch von Best Practices sind daher von zentraler Bedeutung.
+
+Das [Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten](https://maehr.github.io/diskriminierungsfreie-metadaten/) [@maehrHandbuchZurErstellung2024a] setzt hier an und bietet praxisorientierte Handlungsansätze, um ethisch sensible Forschungsdaten und Sammlungsbestände auf diskriminierende Inhalte zu überprüfen und anzupassen. Es basiert auf den Erfahrungen des geschichtswissenschaftlichen Forschungsprojekts [Stadt.Geschichte.Basel](https://stadtgeschichtebasel.ch/) und soll künftig durch weitere Perspektiven ergänzt werden. Dabei adressiert es den gesamten Forschungsdatenlebenszyklus – von der Projektplanung über die Datenerstellung und Dokumentation bis hin zur Veröffentlichung, Archivierung und Nachnutzung.
+
+Die Erstellung diskriminierungssensibler Metadaten ist ein kontinuierlicher Prozess, der in der Praxis oft von Kompromissen geprägt ist. Die Dokumentation von Entscheidungsprozessen bei der Verschlagwortung von Forschungsdaten schafft Transparenz und bildet eine wichtige Grundlage für die zukünftige Nutzung. Eine Verankerung ethischer Vorgaben im Forschungsdatenmanagement und in Datenmanagementplänen würde zu einem bewussteren Umgang mit diskriminierenden Inhalten führen. Dazu gehören die Kontextualisierung problematischer Quellentitel, die Wahl inklusiver Vokabulare und Beschreibungskategorien (z. B. GenderOpen Schlagwortindex) sowie ergänzende Kommentare, die potenzielle Diskriminierungen in Quellen und Verschlagwortung offenlegen. Zur praktischen Umsetzung dieser Ansprüche braucht es neben Sensibilisierung auch verbesserte Datenverwaltungsoberflächen.
+
+Bei der diskriminierungssensiblen Veröffentlichung von Forschungsdaten müssen unterschiedliche Öffentlichkeiten und Anspruchsgruppen mitgedacht werden. Besondere Sorgfalt gilt der Mitsprache Betroffener sowie der Vermeidung von Reproduktion diskriminierender Darstellungen oder hegemonialer und stereotyper Denkbilder – besonders relevant auch im Hinblick auf Künstliche Intelligenz. Vor dem Hintergrund datenethischer Grundsätze (z. B. “collective benefit”, “do no harm”) diskutiert das Handbuch Strategien zur Regulierung des Zugangs zu diskriminierenden Inhalten und Metadaten. Dabei bespricht es die Herausforderungen, die sich an Einführungstexte, Trigger-Warnungen und Übersetzungsleistungen (z. B. Einfache Sprache, digital divide) stellen.
+
+Das Panel wird vom [Handbuchprojekt](/products/publications/handbuch/) (Stadt.Geschichte.Basel) moderiert und versammelt Expert\*innen von Gedächtnis- und Forschungsinstitutionen aus der Schweiz und Deutschland. Anhand konkreter Projekte (Sammlungsportale, digitale Editionen) werden technische und organisatorische Strategien für diskriminierungssensibles Datenmanagement aufgezeigt – von der Erstellung bis zur Nutzung, Überarbeitung und Veröffentlichung.
+
+**Zeitplan** (90 Minuten):
+
+1.	Einführung in die Thematik und das Handbuch durch Stadt.Geschichte.Basel (10 Minuten)
+2.	Vorstellung der Projekte (3 x 15 Minuten)
+3.	Podiumsdiskussion (25 Minuten)
+4.	Publikumsdiskussion (10 Minuten)
+
+## Projektvorstellungen
+
+### NFDI4Memory / Online-Portal Sammlungsgut aus kolonialen Kontexten innerhalb der Deutschen Digitalen Bibliothek
+
+Mit dem Aufbau der Nationalen Forschungsdaten Infrastruktur für die historisch arbeitenden Wissenschaften ([NFDI4Memory](https://4memory.de/)) rücken auch ethische Fragestellungen zum Umgang mit sensiblen Forschungsdaten in den Geschichtswissenschaften in Deutschland in den Fokus. Das Konsortium eruiert ethische Aspekte, die implizit bereits in der Forschungspraxis vorhanden sind, sowie institutionelle Einzellösungen. Es bündelt diese und überführt sie gemeinsam mit der Community in möglichst allgemeingültige datenethische Lösungen. Jenseits davon hat sich bereits in verschiedenen Zusammenhängen ein pragmatischer Umgang mit ethisch sensiblen Forschungsdaten etabliert [@dogtasKritikRassifizierendenUnd2022]. Konkrete technische und organisatorische Maßnahmen wurden an Gedächtnis- und Forschungsinstitutionen entwickelt, die zu spezifischen historischen Kontexten arbeiten. Aus heutiger Sicht brachten diese rassistische, antisemitische, sexistische oder andere individuelle und strukturelle Formen der Diskriminierung hervor. Aus deutscher Perspektive gehören beispielsweise der europäische Kolonialismus, der Nationalsozialismus (insbesondere die Erforschung des Holocausts) oder die Aufarbeitung der SED-Diktatur dazu.
+
+Das mehrsprachige Online-Portal [Sammlungsgut aus kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de/en) der Deutschen Digitalen Bibliothek (DDB) gibt seit Juli 2024 erstmals einen zentralen Zugang zu digitalisiertem Sammlungsgut aus kolonialen Kontexten in deutschen Kultur- und Wissenseinrichtungen. Recherchierbar sind Sammlungsgegenstände aus formalen Kolonialherrschaften sowie aus Gebieten, in denen informelle koloniale Strukturen herrschten oder die unter informellem Einfluss von Kolonialmächten standen. Das Portal wurde in enger Abstimmung mit deutschen Kulturerbeeinrichtungen und Expert*innen aus Herkunftsländern entwickelt [@quadeBewahrungZurOnlineVeroeffentlichung2024]. Zur Diskussion stehen konkrete institutionelle Lösungen auf Interface- und Metadatenebene, wie Disclaimer für Online-Collections sowie die Entwicklung eines übergreifenden Frameworks für die Geschichtswissenschaften in Deutschland im Spannungsfeld zwischen FAIR und CARE.
+
+### Museum Rietberg / Africa Art Archive
+
+Das Museum Rietberg Zürich ist das einzige Museum der Schweiz mit einem spezifischen Fokus auf aussereuropäische Kunst. Die Sammlungen des Museums umfassen rund 32'600 Objekte sowie 49'000 Fotografien und Postkarten. Darunter befindet sich eine bedeutende Anzahl von Objekten, die in kolonialen Kontexten erworben wurden und deren Präsentation sowie Vermittlung besondere Sensibilität erfordern. Diese Panel-Präsentation bietet einen vertieften Einblick in die Strategien des Museums zur digitalen Veröffentlichung sensibler Inhalte und beleuchtet, wie ethische und verantwortungsvolle Ansätze in der Praxis umgesetzt werden können. Im Jahr 2023 hat das Museum Rietberg die digitale Plattform [Africa Art Archive](https://africa-art-archive.ch/) lanciert, um das Archiv des deutschen Kunstethnologen Hans Himmelheber einer breiteren Öffentlichkeit zugänglich zu machen. Das Archiv umfasst über 900 Objekte, 15'000 Fotografien und zahlreiche Publikationen aus den 1930er- bis 1970er-Jahren. Da ein bedeutender Teil der Dokumente während der Kolonialzeit entstanden ist, erfordert die Veröffentlichung eine besonders sorgfältige Vorgehensweise.
+
+Dabei stehen mehrere Herausforderungen im Fokus: der Umgang mit rassistischem Vokabular, das im historischen Kontext des Archivs vorkommt; Nacktdarstellungen und sexualisierte Inhalte; Fotografien von Menschen mit Krankheiten sowie Abbildungen ritueller Zeremonien und spirituell sensibler Objekte. Die Veröffentlichung dieser Inhalte erfordert einen kritisch reflektierten Balanceakt: Einerseits soll das Wissen um die Sammlungen möglichst umfassend zugänglich gemacht werden, insbesondere für Forschende und Interessierte aus den Ländern, in denen die Objekte und Fotografien entstanden sind. Andererseits gilt es, die Verbreitung sensibler Inhalte verantwortungsvoll zu handhaben, gegebenenfalls einzuschränken und Kontextinformationen zu liefern. Eine weitere Herausforderung ist die sprachliche Zugänglichkeit des Archivs, da ein Grossteil der Materialien in deutscher Sprache verfasst ist.
+
+### Universitäten Zürich, Genf, Bern und SLA / Annemarie-Schwarzenbach-Edition (2024–2028)
+
+Das digitale Editionsprojekt [Annemarie-Schwarzenbach-Edition](https://annemarie-schwarzenbach.ch/) [@dangeliNeuesEditionsprojektAnnemarie2024] umfasst die Kleinen Formen und Briefe der Schweizer Autorin, Fotografin und Journalistin Annemarie-Schwarzenbach (1908--1942). Dabei ist es mit drei diskriminierenden Aspekten konfrontiert: Erstens enthalten die zu edierenden Dokumente diskriminierende Inhalte. Zweitens reproduziert auch Schwarzenbach in ihren kritischen Analysen von Kolonialismus und Rassismus diskriminierende Begriffe. Drittens enthalten die vorhandenen Metadaten aus GLAM-Institutionen Diskriminierungen struktureller und begrifflicher Art. An zwei Dokumentkategorien lassen sich diese Aspekte veranschaulichen:
+
+Schwarzenbachs Reiseberichte aus dem Nahen Osten greifen orientalistische Klischees auf. Trotz punktueller Kritik vertritt Schwarzenbach darin auch problematische Positionen [@zimmermannReisenDurchLimes2023]. Diskriminierung(-skritik) soll in den Metadaten, insbesondere der Verschlagwortung und Kommentierung so beschrieben werden, dass keine vereinfachende Lektüre gefördert, sondern eine historische Analyse der ambivalenten Quellen ermöglicht wird.
+
+Schwarzenbachs Fotografien porträtieren viele unbekannte, nicht-weisse Menschen. Vorhandene Metadaten und Bildkommentare aus dem Archiv bezeichnen diese Menschen meist mit Ausdrücken, die sie auf ihre vermutete Herkunft reduzieren, oder lassen sie unerwähnt, wenn sie nicht im Bildzentrum stehen. Dabei orientieren sich die Metadaten an den Bildunterschriften der Zeitschriften, in denen die Texte zu Lebzeiten zum Teil publiziert wurden. Obschon das Projekt den ethnischen/ethnologischen Blick der Medien weiterhin durch die Metadaten zugänglich machen muss – und damit Gefahr läuft, ihn zu reproduzieren – wird es versuchen, die Kategorie der Ethnie zu reflektieren, indem es sie z.B. auf alle porträtierten Menschen anwendet.

@@ -17,7 +17,7 @@ author:
     affiliation: Bauhaus-Universität Weimar
 date: 2025-07-11
 categories: Panel
-event: Schweizerische Geschichtstage
+event: Schweizerische Geschichtstage, Universität Luzern
 lang: de
 bibliography: references.bib
 doi: 10.5281/zenodo.14497716

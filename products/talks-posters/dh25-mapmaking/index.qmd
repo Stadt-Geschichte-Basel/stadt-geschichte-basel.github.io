@@ -1,0 +1,67 @@
+---
+title: Navigating Disconcertment in Map-Making
+subtitle: How to Turn Conflict and Collaboration into Accessible Geodata
+author:
+  - name: Moritz Twente
+    email: mtwente@protonmail.com
+    orcid: 0009-0005-7187-9774
+    affiliation: Universität Basel
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+date: 2025-07-18
+date-modified: last-modified
+categories: Vortrag
+event: Universidade NOVA de Lisboa, DH2025
+lang: de
+bibliography: references.bib
+citation:
+  type: standard
+  title: 'Navigating Disconcertment in Map-Making: How to Turn Conflict and Collaboration into Accessible Geodata'
+  container-title: 'Digital Humanities 2025, Universidade NOVA de Lisboa'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://dh2025.adho.org/'
+  - text: Panelprogramm (Conftool)
+    icon: calendar4-range
+    href: 'https://www.conftool.pro/dh2025/index.php?page=browseSessions&form_session=187'
+---
+
+## Vortrag
+
+Der Vortrag ist Teil der Session [Long Paper-23](https://www.conftool.pro/dh2025/index.php?page=browseSessions&form_session=187) der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa.
+
+<!-- ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+<iframe src="FIXME" width="100%" height="600px" loading="lazy" allowfullscreen title="Navigating Disconcertment in Map-Making">
+
+This browser does not support PDFs. Please download the PDF <a href="FIXME">download the PDF</a> to view it.
+
+</iframe>
+::: -->
+
+## Abstract
+
+Maps are not only an important source genre for historical studies, but also epistemic tools [@bertinSemiologyGraphicsDiagrams2010; @kramerFigurationAnschauungErkenntnis2016; @goodwinReadingGraphsMaps2011]. They function as boundary objects in providing a framework for structuring research, establishing hypotheses and facilitating collaboration across disciplines [@wildisen-muenchKartenAlsBoundary2023]. After the creation of dozens of maps for the ten-volume book series [Stadt.Geschichte.Basel](https://stadtgeschichtebasel.ch), we consider maps not only as facilitators of collaboration but are drawn to the question of how the process of designing, publishing and reusing map data is influenced by characteristics of geodata specifically. We argue that these features shape the way data stewards handle conflicts related to diverging requirements for map designs and show how this factors into the publication of open research data.
+
+At the interdisciplinary research project Stadt.Geschichte.Basel, the [Research Data Management (RDM) Team](/team.qmd) supports over 70 archaeologists and historians in investigating the history of Basel from traces of early settlements (50’000 before our time) to the present day. The team handles a variety of data types that are used in the project, not least in all matters relating to the visualization of spatial relationships using maps. Maps are one of the most common data types in our project [@mahrDigitalLongevityLearnings2023]: They provide visual evidence that is qualitatively fundamentally different from texts, lists and tables, and can convey very complex relationships in a small space. They also serve as organisational systems in the research process, helping to form and test hypotheses [@bodenhamerChasingBakhtinsGhost2018; @coleDigitalMapping2021; @duringHermeneuticsDataNetworks2015]. The RDM team assists researchers from all involved disciplines with the creation of scientific illustrations with tailor-made solutions, highlighting the specialist knowledge needed for the making of maps that are ready for printing, work as a digital publication and, on top, are FAIRly available.
+
+We use 'map' to describe the results of our team's task of visualizing historical arguments. This process often starts by treating the argument to be made as a statement about relations of data points. We focus on an argument’s spatiality (meaning conceptual connections between entities) for visualization purposes. To create a human-perceivable version of data points behind the argument and their connections, we encode the argument’s conceptual spatiality with geospatial datasets that can be displayed in the form of a map [@fairbairnEpistemologicalThoughtsSuccess2021].
+
+Investigating the role our datasets play in both shaping the research output and structuring the interactions between authors, designers, publishers, and consumers, we uncover dynamics in three phases – researching, processing and FAIR publication. We hold that in the project’s data life cycle, the friction we encounter between the actors in drafting, negotiating and compromising is not only inherent to the way we work, but beneficial to the output – and specifically related to the spatial nature of our data. Using the concept of disconcertment [@verranScienceAfricanLogic2001], we show how we turn conflicts between epistemic communities into productive moments not by resolving friction, but by embracing the simultaneity of seemingly contradictory views and conventions on working with spatial data. Focusing our analysis on this part of the workflow, we show how the spatial features of our data relate to the iterative design process and to conflicts between designers, researchers, publishers, and data consumers. Our output, both printable scientific illustrations and (geo)data publications, as well as the architecture of our [open research data platform](/products/coding/plattform/index.qmd), then is the result of purposefully cultivated sensations of disconcertment.
+
+The widespread use of maps across disciplines makes them a suitable case study for the role of processing and publication of data within our workflow. Characterizing them as boundary objects in our project, we recognized that the maps and underlying geospatial data we produce are easily adaptable to meet varying requirements and at the same time maintain common characteristics across individual applications [@starInstitutionalEcologyTranslations1989a]. Within the process of creating maps for Stadt.Geschichte.Basel, the RDM Team engages with many stakeholders to create accurate and aesthetically balanced maps developed with up-to-date technology, enriched with non-discriminatory metadata [@maehrHandbuchZurErstellung2024a]. After print publication, both maps and corresponding geodata are being prepared for online publication and made accessible on the Stadt.Geschichte.Basel [Open Research Data Platform](https://forschung.stadtgeschichtebasel.ch) [@mahrStadtGeschichteBaselResearchData2024]. This process of transforming raw data into printed maps, digital maps, and reusable geodata, made available online in a specifically developed repository, stresses that we are not dealing with static products but a result of collective practices [@raaschHelenVerranPionierin2014]. We identify two perspectives to further investigate our workflow and the interplays between actors and data: a project-internal angle focusing on authors, typesetters, and designers on the one hand, and an output-oriented angle, aiming for implications for the reuse of our data by users of our research data platform.
+
+We delve into how this role of maps facilitates interdisciplinary communication while also introducing challenges in maintaining data integrity and fidelity to the authors' original intentions. Editorial decisions regarding symbology, file structures, formats, and levels of accuracy can lead to outcomes that deviate from what authors initially provided. For example, when working with data from the Archäologische Bodenforschung Basel-Stadt (Cantonal Agency for Archaeological soil research), discrepancies arise due to differing disciplinary standards and expectations. The necessity to adapt complex historical spatial data for publication in a coordinated book series introduces interpretative layers that may obscure or alter the original findings, e.g. by omission or abridgements due to constraints set by available paper formats for printing. In some cases, this led to conflicting situations where the designers had to determine a way forward by choosing, omitting and styling. Using concrete examples from the research project, we illustrate how in this internal angle, epistemic conflicts arose relating to stylistic, editorial, technical and aesthetic decisions. Arguing for not simply resolving friction, we show how we handled moments of epistemic confusion by engaging with our disconcertment and finding our way out of apory through committing to under-determination without silencing and homogenizing [@yasunoriBecomingKnowerApory2024; @raaschIntroducingStudentsSTS2018].
+
+Then, turning to the perspective of data consumers (researchers, students), we highlight the mechanisms of publishing raw and processed data on the project’s open research data platform: Making research data available for exploration and download using interactive web technologies sheds light on how our project output is only one of a multitude of ways to visualize and interpret the data. By deliberately ceding control over visualization, interpretation and further usage, we open up for alternative readings of historical arguments, fostering re-imaginations of historical narratives and acknowledge that the users of our open research data are not only data consumers but also data producers themselves [@maehrGeschichteBaselIns2024].
+
+Also in this outbound perspective, we analyze how our workflow accommodates handling conflicts resulting from the spatial nature of our data: Our platform supports extensive datasets with high granularity, while printed maps require simplification due to spatial constraints and the need for clarity. This disparity can create renewed disconcertment among collaborators who may feel that essential aspects of their data are lost or misrepresented after initial processing into a printable map. Additionally, we delve into how not only the change from paper to internet is a crucial factor, but also the necessary metadata annotation for the whole data set regarding the map content and GIS-related annotations regarding the raw geodata which is published as geojson. To increase accessibility of our research data, we developed an interactive viewer using [Leaflet](https://leafletjs.com/), an open-source JavaScript library for maps. However, due to constraints pertaining to the accessibility of historical interactive maps, our data sets are superimposed onto contemporary maps of varying suitability, potentially leading to anachronistic interpretations or overlooking nuances of historical geography. The challenge lies in balancing accessibility with the responsibility of accurately conveying complex temporal and spatial relationships. Similarly, displaying historical spatial features using common representations such as polygons and point markers introduces a specificity into the data set which may be overly deterministic, covering historical ambiguity and layers of scholarly interpretation.
+
+Again, we turn to Verran’s work for seeing these shortcomings of disconcerting anachronistic and interactive visualizations as useful devices in knowledge production. With concrete examples, we demonstrate how this approach to publishing spatial data enhances possible reuse scenarios while staying committed to scientific accuracy. We illustrate how the structure of the research data platform developed by Stadt.Geschichte.Basel promotes reuse of the accessible research data and leaves room for generative disconcertment while otherwise still adhering to project management guidelines that follows principles for user-centered design, advocating transdisciplinary integration and working against asymmetrical power relations [@maehrGeschichteBaselIns2024].
+
+In the analysis of our data’s influence on both in- and outbound perspectives of map making, we advocate for making use of disconcertment. We do so by showing examples from the Stadt.Geschichte.Basel project, illustrating how we deal with ambiguities and complexities inherent in spatial data during map creation and on our open research data platform by cultivating disconcertment. This fosters a participatory model of digital history that invites critical engagement with historical geography. We discuss how, by tending to disconcerting sensations, we produce accessible maps that are both visually compelling and epistemically transparent. With our project, we open up spaces for re-imagining historical narratives and supporting reflexive, inclusive scholarship.

@@ -5,7 +5,9 @@ author:
   - name: Moritz Mähr
     email: moritz.maehr@gmail.com
     orcid: 0000-0002-1367-1618
-    affiliation: Universität Basel
+    affiliations:
+      - Universität Basel
+      - Universität Bern
 date: 2023-10-20
 categories: Vortrag
 event: Universität Bern, DARIAH-CH Study Day
