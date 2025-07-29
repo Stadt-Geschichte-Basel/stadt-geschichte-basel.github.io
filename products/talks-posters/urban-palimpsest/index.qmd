@@ -1,0 +1,51 @@
+---
+title: The Urban Fabric as Palimpsest
+subtitle: Tracing Proposed Correction Plans in Basel
+author:
+  - name: Moritz Twente
+    email: mtwente@protonmail.com
+    orcid: 0009-0005-7187-9774
+    affiliation: Universität Basel
+date: 2024-06-25
+doi: 10.5281/zenodo.16545009
+categories: Vortrag
+event: University of Luxembourg, Historical Arguments and the Digital
+lang: de
+bibliography: references.bib
+citation:
+  type: standard
+  title: 'The Urban Fabric as Palimpsest: Tracing Proposed Correction Plans in Basel'
+  container-title: 'Historical Arguments and the Digital, University of Luxembourg'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://historicalarguments.wordpress.com/'
+  - text: Slides (Zenodo)
+    icon: filetype-pdf
+    href: 'https://doi.org/10.5281/zenodo.16545009'
+---
+
+## Vortrag
+
+Der Vortrag ist Teil des Panels *Politicised Spaces* der Konferenz [Historical Arguments and the Digital](https://historicalarguments.wordpress.com/) am Luxembourg Centre for Contemporary and Digital History.
+
+::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
+Diese Ansicht zeigt eine komprimierte Vorschau der Präsentation. Die hochaufgelösten Original-Slides sind [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.16545009).
+
+<iframe src="FIXME" width="100%" height="600px" loading="lazy" allowfullscreen title="The Urban Fabric as Palimpsest (Preview)">
+
+This browser does not support PDFs. Please <a href="FIXME">download the PDF</a> to view it.
+
+</iframe>
+:::
+
+## Abstract
+
+Like most cities in Switzerland, present-day Basel was shaped particularly by urban planning decisions made between 1940 and 1970 [@eisingerStaedteBauenStaedtebau2004]: With the underlying goal of modernization, new transport infrastructures were built to make cities more accessible to cars [@avermaeteUrbanDesign20th2021; @burckhardtAchtungSchweizUrtext2019]. To this end, several so-called 'Korrektionspläne' were drawn up for Basel that proposed the construction of automobile traffic axes through the Old Town. Most of these plans were not fully executed, since urban planning that prioritized private cars was met with increasing criticism [@eisingerZeitgemasseAnachronismenStadtplanerischen2016; @gisler-jauchAutomobil2015]. Nevertheless, the planned road system left a mark and partial implementations can still be seen today. We use GIS to trace these fragments in the urban fabric. By reading the city structure as a palimpsest [@corbozTerritoriumAlsPalimpsest2001] to expose the superimposition of temporal layers that each convey different sociopolitical ideas [@eisingerStadtArchitektenAnatomie2005], we critically engage with narratives about the history of Basel.
+
+Our starting point is the city center with its centuries-old buildings and narrow alleys which mask the extensive influence the correction plans had on the 'Altstadt'. Existing research focuses on how road construction mainly took place in the area around Rümelinsplatz and was abandoned after that [cf. @russiBaslerPlaetzeVisitenkarten2022; @huberArchitekturfuehrerBaselBaugeschichte2014; @fingerhuthBautenFuerBasel1988]. To counter this narrative, we dissect the layers formed by the built environment over time to illustrate how heterogenous the city center really is.
+
+Secondly, we extend the scope of our analysis: Whereas existing research on the correction plans mostly zooms in on the center and specifically the role of the 'Talentlastungsstrasse' between Rümelinsplatz and Fischmarkt/Blumenrain [@russiBaslerPlaetzeVisitenkarten2022; @huberArchitekturfuehrerBaselBaugeschichte2014; @zauggStadtentwicklungBaselsSeit2010; @brunnerBaulicheEntwicklungStadt1999], we seek to retrace the plans’ specific impact on a city-wide level. In addition to demonstrating the scope of the design the automotive planning approach was translated into, this allows us to compare its impact between different parts of the city, e.g.: Do the various plans especially affect working class districts? Compared to the city center, can we see a higher share of implemented proposals in neighborhoods that were constructed more recently?
+
+Instead of a history of individual buildings, we approach the built environment with the toolkit of urban morphology [@mohleStadtplananalyseHistorischmethodischeEinfuhrung2018]: We georeference the planning documents that correspond to changes proposed in the correction plans and use GIS to map them against spatial categories, such as the ones mentioned above, checking for morphological change or permanence in building structures [@malfroyMorphologischeBetrachtungsweiseStadt2018]. With morphological analyses seen as interpretative acts [@corbozGeschichteStadtebausAls2001], we investigate how long outdated concepts of urbanism still resonate widely in the contemporary building fabric even though the most substantial parts of the correction plans were withdrawn in the 1970s [@mohleProfanesImHerzen2016].
