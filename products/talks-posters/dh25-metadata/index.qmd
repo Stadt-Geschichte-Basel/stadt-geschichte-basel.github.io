@@ -90,18 +90,18 @@ Das Panel wird vom [Handbuchprojekt](/products/publications/handbuch/) (Stadt.Ge
 
 **Zeitplan** (90 Minuten):
 
-1.	Einführung in die Thematik und das Handbuch durch Stadt.Geschichte.Basel (10 Minuten)
-2.	Vorstellung der Projekte (3 x 15 Minuten)
-3.	Podiumsdiskussion (25 Minuten)
-4.	Publikumsdiskussion (10 Minuten)
+1.  Einführung in die Thematik und das Handbuch durch Stadt.Geschichte.Basel (10 Minuten)
+2.  Vorstellung der Projekte (3 x 15 Minuten)
+3.  Podiumsdiskussion (25 Minuten)
+4.  Publikumsdiskussion (10 Minuten)
 
-## Projektvorstellungen
+## Projektvorstellungen {#projektvorstellungen}
 
 ### NFDI4Memory / Online-Portal Sammlungsgut aus kolonialen Kontexten innerhalb der Deutschen Digitalen Bibliothek
 
 Mit dem Aufbau der Nationalen Forschungsdaten Infrastruktur für die historisch arbeitenden Wissenschaften ([NFDI4Memory](https://4memory.de/)) rücken auch ethische Fragestellungen zum Umgang mit sensiblen Forschungsdaten in den Geschichtswissenschaften in Deutschland in den Fokus. Das Konsortium eruiert ethische Aspekte, die implizit bereits in der Forschungspraxis vorhanden sind, sowie institutionelle Einzellösungen. Es bündelt diese und überführt sie gemeinsam mit der Community in möglichst allgemeingültige datenethische Lösungen. Jenseits davon hat sich bereits in verschiedenen Zusammenhängen ein pragmatischer Umgang mit ethisch sensiblen Forschungsdaten etabliert [@dogtasKritikRassifizierendenUnd2022]. Konkrete technische und organisatorische Maßnahmen wurden an Gedächtnis- und Forschungsinstitutionen entwickelt, die zu spezifischen historischen Kontexten arbeiten. Aus heutiger Sicht brachten diese rassistische, antisemitische, sexistische oder andere individuelle und strukturelle Formen der Diskriminierung hervor. Aus deutscher Perspektive gehören beispielsweise der europäische Kolonialismus, der Nationalsozialismus (insbesondere die Erforschung des Holocausts) oder die Aufarbeitung der SED-Diktatur dazu.
 
-Das mehrsprachige Online-Portal [Sammlungsgut aus kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de/en) der Deutschen Digitalen Bibliothek (DDB) gibt seit Juli 2024 erstmals einen zentralen Zugang zu digitalisiertem Sammlungsgut aus kolonialen Kontexten in deutschen Kultur- und Wissenseinrichtungen. Recherchierbar sind Sammlungsgegenstände aus formalen Kolonialherrschaften sowie aus Gebieten, in denen informelle koloniale Strukturen herrschten oder die unter informellem Einfluss von Kolonialmächten standen. Das Portal wurde in enger Abstimmung mit deutschen Kulturerbeeinrichtungen und Expert*innen aus Herkunftsländern entwickelt [@quadeBewahrungZurOnlineVeroeffentlichung2024]. Zur Diskussion stehen konkrete institutionelle Lösungen auf Interface- und Metadatenebene, wie Disclaimer für Online-Collections sowie die Entwicklung eines übergreifenden Frameworks für die Geschichtswissenschaften in Deutschland im Spannungsfeld zwischen FAIR und CARE.
+Das mehrsprachige Online-Portal [Sammlungsgut aus kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de/en) der Deutschen Digitalen Bibliothek (DDB) gibt seit Juli 2024 erstmals einen zentralen Zugang zu digitalisiertem Sammlungsgut aus kolonialen Kontexten in deutschen Kultur- und Wissenseinrichtungen. Recherchierbar sind Sammlungsgegenstände aus formalen Kolonialherrschaften sowie aus Gebieten, in denen informelle koloniale Strukturen herrschten oder die unter informellem Einfluss von Kolonialmächten standen. Das Portal wurde in enger Abstimmung mit deutschen Kulturerbeeinrichtungen und Expert\*innen aus Herkunftsländern entwickelt [@quadeBewahrungZurOnlineVeroeffentlichung2024]. Zur Diskussion stehen konkrete institutionelle Lösungen auf Interface- und Metadatenebene, wie Disclaimer für Online-Collections sowie die Entwicklung eines übergreifenden Frameworks für die Geschichtswissenschaften in Deutschland im Spannungsfeld zwischen FAIR und CARE.
 
 ### Museum Rietberg / Africa Art Archive
 
@@ -110,6 +110,15 @@ Das Museum Rietberg Zürich ist das einzige Museum der Schweiz mit einem spezifi
 Dabei stehen mehrere Herausforderungen im Fokus: der Umgang mit rassistischem Vokabular, das im historischen Kontext des Archivs vorkommt; Nacktdarstellungen und sexualisierte Inhalte; Fotografien von Menschen mit Krankheiten sowie Abbildungen ritueller Zeremonien und spirituell sensibler Objekte. Die Veröffentlichung dieser Inhalte erfordert einen kritisch reflektierten Balanceakt: Einerseits soll das Wissen um die Sammlungen möglichst umfassend zugänglich gemacht werden, insbesondere für Forschende und Interessierte aus den Ländern, in denen die Objekte und Fotografien entstanden sind. Andererseits gilt es, die Verbreitung sensibler Inhalte verantwortungsvoll zu handhaben, gegebenenfalls einzuschränken und Kontextinformationen zu liefern. Eine weitere Herausforderung ist die sprachliche Zugänglichkeit des Archivs, da ein Grossteil der Materialien in deutscher Sprache verfasst ist.
 
 ### Universitäten Zürich, Genf, Bern und SLA / Annemarie-Schwarzenbach-Edition (2024–2028)
+
+::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+Die Präsentation ist auf Zenodo archiviert und [zum Download verfügbar](https://doi.org/10.5281/zenodo.15971183).
+<iframe src="/assets/files/250716-Zimmermann_DH25_Schwarzenbach.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Diskiminierungssensibles Edieren: Die digitale Edition Annemarie Schwarzenbach">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/250716-Zimmermann_DH25_Schwarzenbach.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
 
 Das digitale Editionsprojekt [Annemarie-Schwarzenbach-Edition](https://annemarie-schwarzenbach.ch/) [@dangeliNeuesEditionsprojektAnnemarie2024] umfasst die Kleinen Formen und Briefe der Schweizer Autorin, Fotografin und Journalistin Annemarie-Schwarzenbach (1908--1942). Dabei ist es mit drei diskriminierenden Aspekten konfrontiert: Erstens enthalten die zu edierenden Dokumente diskriminierende Inhalte. Zweitens reproduziert auch Schwarzenbach in ihren kritischen Analysen von Kolonialismus und Rassismus diskriminierende Begriffe. Drittens enthalten die vorhandenen Metadaten aus GLAM-Institutionen Diskriminierungen struktureller und begrifflicher Art. An zwei Dokumentkategorien lassen sich diese Aspekte veranschaulichen:
 
