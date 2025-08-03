@@ -66,6 +66,7 @@ other-links:
 
 Das Panel findet als Teil der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa statt und beinhaltet eine thematische Einführung, drei [Projektvorstellungen](#projektvorstellungen) sowie eine Podiumsdiskussion.
 
+```{=html}
 <!-- ::: {.callout-tip title="Slides anzeigen" icon="false" collapse="true"}
 <iframe src="FIXME" width="100%" height="600px" loading="lazy" allowfullscreen title="Diskriminierungssensible Metadaten für historische Sammlungen erstellen und verschiedenen Öffentlichkeiten zugänglich machen">
 
@@ -73,6 +74,7 @@ This browser does not support PDFs. Please download the PDF <a href="FIXME">down
 
 </iframe>
 ::: -->
+```
 
 ## Panel-Abstract
 
@@ -99,6 +101,14 @@ Das Panel wird vom [Handbuchprojekt](/products/publications/handbuch/) (Stadt.Ge
 
 ### NFDI4Memory / Online-Portal Sammlungsgut aus kolonialen Kontexten innerhalb der Deutschen Digitalen Bibliothek
 
+::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+Die Präsentation ist auf Zenodo archiviert und [zum Download verfügbar](https://doi.org/10.5281/zenodo.16721231). <iframe src="/assets/files/250716-Grosse_Kliewer-NFDI4Memory.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="NFDI4Memory: Online-Portal Sammlungsgut aus kolonialen Kontexten innerhalb der Deutschen Digitalen Bibliothek">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/250716-Grosse_Kliewer-NFDI4Memory.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
+
 Mit dem Aufbau der Nationalen Forschungsdaten Infrastruktur für die historisch arbeitenden Wissenschaften ([NFDI4Memory](https://4memory.de/)) rücken auch ethische Fragestellungen zum Umgang mit sensiblen Forschungsdaten in den Geschichtswissenschaften in Deutschland in den Fokus. Das Konsortium eruiert ethische Aspekte, die implizit bereits in der Forschungspraxis vorhanden sind, sowie institutionelle Einzellösungen. Es bündelt diese und überführt sie gemeinsam mit der Community in möglichst allgemeingültige datenethische Lösungen. Jenseits davon hat sich bereits in verschiedenen Zusammenhängen ein pragmatischer Umgang mit ethisch sensiblen Forschungsdaten etabliert [@dogtasKritikRassifizierendenUnd2022]. Konkrete technische und organisatorische Maßnahmen wurden an Gedächtnis- und Forschungsinstitutionen entwickelt, die zu spezifischen historischen Kontexten arbeiten. Aus heutiger Sicht brachten diese rassistische, antisemitische, sexistische oder andere individuelle und strukturelle Formen der Diskriminierung hervor. Aus deutscher Perspektive gehören beispielsweise der europäische Kolonialismus, der Nationalsozialismus (insbesondere die Erforschung des Holocausts) oder die Aufarbeitung der SED-Diktatur dazu.
 
 Das mehrsprachige Online-Portal [Sammlungsgut aus kolonialen Kontexten](https://ccc.deutsche-digitale-bibliothek.de/en) der Deutschen Digitalen Bibliothek (DDB) gibt seit Juli 2024 erstmals einen zentralen Zugang zu digitalisiertem Sammlungsgut aus kolonialen Kontexten in deutschen Kultur- und Wissenseinrichtungen. Recherchierbar sind Sammlungsgegenstände aus formalen Kolonialherrschaften sowie aus Gebieten, in denen informelle koloniale Strukturen herrschten oder die unter informellem Einfluss von Kolonialmächten standen. Das Portal wurde in enger Abstimmung mit deutschen Kulturerbeeinrichtungen und Expert\*innen aus Herkunftsländern entwickelt [@quadeBewahrungZurOnlineVeroeffentlichung2024]. Zur Diskussion stehen konkrete institutionelle Lösungen auf Interface- und Metadatenebene, wie Disclaimer für Online-Collections sowie die Entwicklung eines übergreifenden Frameworks für die Geschichtswissenschaften in Deutschland im Spannungsfeld zwischen FAIR und CARE.
@@ -112,8 +122,7 @@ Dabei stehen mehrere Herausforderungen im Fokus: der Umgang mit rassistischem Vo
 ### Universitäten Zürich, Genf, Bern und SLA / Annemarie-Schwarzenbach-Edition (2024–2028)
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
-Die Präsentation ist auf Zenodo archiviert und [zum Download verfügbar](https://doi.org/10.5281/zenodo.15971183).
-<iframe src="/assets/files/250716-Zimmermann_DH25_Schwarzenbach.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Diskiminierungssensibles Edieren: Die digitale Edition Annemarie Schwarzenbach">
+Die Präsentation ist auf Zenodo archiviert und [zum Download verfügbar](https://doi.org/10.5281/zenodo.15971183). <iframe src="/assets/files/250716-Zimmermann_DH25_Schwarzenbach.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Diskiminierungssensibles Edieren: Die digitale Edition Annemarie Schwarzenbach">
 
 This browser does not support PDFs. Please download the PDF <a href="/assets/files/250716-Zimmermann_DH25_Schwarzenbach.pdf">download the PDF</a> to view it.
 
