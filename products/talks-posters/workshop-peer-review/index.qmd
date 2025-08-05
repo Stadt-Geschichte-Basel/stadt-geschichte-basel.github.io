@@ -1,0 +1,56 @@
+---
+title: Workshop on Open Access, Open and Community Peer Review
+subtitle: Rethinking Scholarly Publishing in the Digital Humanities
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations: 
+      - 'DSI Digital Humanities Community'
+      - University of Bern
+      - University of Basel
+  - name: Michael Piotrowski
+    orcid: 0000-0003-3307-5386
+    affiliation: University of Lausanne
+  - name: Moritz Feichtinger
+    orcid: 0000-0003-1260-8884
+    affiliation: University of Basel
+  - name: Dominic Weber
+    orcid: 0000-0002-9265-3388
+    affiliation: University of Bern
+date: 2025-04-30
+categories: Workshop
+event: Universität Zürich
+lang: de
+citation:
+  type: standard
+  container-title: 'University of Zurich'
+appendix-cite-as: display
+other-links:
+  - text: Workshop Website
+    icon: house
+    href: 'https://www.openscience.uzh.ch/de/news/2025/workshop-oa-digital-humanities.html'
+  - text: Digital History Network Switzerland
+    icon: diagram-3
+    href: '/products/digital-history/digital-history-network/'
+  - text: infoclio.ch Report
+    icon: card-text
+    href: 'https://www.infoclio.ch/en/open-access-and-open-peer-review-digital-humanities'
+---
+
+## Workshop Announcement
+
+Join the [DSI Communities Digital Humanities and Libraries](https://www.dsi.uzh.ch/de/research/communities/digital-humanities.html) for their *Workshop on Open Access, Open & Community Peer Review: Rethinking Scholarly Publishing in the Digital Humanities* exploring new models of scholarly publishing in the digital humanities. Traditional publishing often relies on intermediaries, slowing access and increasing costs. This workshop will explore ways to streamline publishing, increase transparency, and foster collaboration.
+
+The topics will include university presses, public-private partnerships, preprint infrastructures and open access platforms that can accelerate the dissemination of research results. In addition, community and open peer review will be discussed in order to promote inclusivity and shared authority in scientific communication.
+
+Finally, open-source tools such as Git, Quire and Quarto will be presented. These are designed to simplify workflows in publishing and peer review and make them more adaptable and research-friendly.
+
+The [Digital History Network Switzerland](/products/digital-history/digital-history-network/index.qmd), including Prof. Dr. Michael Piotrowski, Dr. Moritz Feichtinger and Dominic Weber, will contribute their expertise to guide the discussions.
+
+::: {.callout-tip title="Workshop Report" icon="false"}
+
+Moritz Mähr and Moritz Twente published a [report on the workshop](https://www.infoclio.ch/en/open-access-and-open-peer-review-digital-humanities). The report has been included in the [infoclio.ch blog post series](https://www.infoclio.ch/en/node/190093) on current developments in open data in the humanities and social sciences in Switzerland, produced for the infoclio.ch 2025 conference [Historicising Open Science](https://www.infoclio.ch/de/node/189964/).
+
+:::
+
