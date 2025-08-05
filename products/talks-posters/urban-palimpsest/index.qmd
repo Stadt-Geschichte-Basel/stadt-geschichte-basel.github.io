@@ -33,9 +33,9 @@ Der Vortrag ist Teil des Panels *Politicised Spaces* der Konferenz [Historical A
 ::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
 Diese Ansicht zeigt eine komprimierte Vorschau der Präsentation. Die hochaufgelösten Original-Slides sind [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.16545009).
 
-<iframe src="FIXME" width="100%" height="600px" loading="lazy" allowfullscreen title="The Urban Fabric as Palimpsest (Preview)">
+<iframe src="/assets/files/240625-Twente-Palimpsest_BS_Preview.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="The Urban Fabric as Palimpsest (Preview)">
 
-This browser does not support PDFs. Please <a href="FIXME">download the PDF</a> to view it.
+This browser does not support PDFs. Please <a href="/assets/files/240625-Twente-Palimpsest_BS_Preview.pdf"">download the PDF</a> to view it.
 
 </iframe>
 :::
