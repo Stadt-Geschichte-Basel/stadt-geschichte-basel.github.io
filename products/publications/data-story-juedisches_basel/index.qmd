@@ -20,7 +20,7 @@ Die digitale Data Story **"Das jüdische Basel 1850–1914"** wurde als interakt
 
 ### Konzept und Zielsetzung
 
-Die Data Story ist als **interaktives Puzzle** gestaltet, bei dem Nutzer*innen durch das Lösen von Fragen verschiedene Themenbereiche der jüdischen Geschichte freischalten. Das Ziel ist es, die vielschichtige Entwicklung der jüdischen Gemeinde in Basel durch Gamification-Elemente **spielerisch und zugänglich** zu vermitteln.  
+Die Data Story ist als **interaktives Puzzle** gestaltet, bei dem Nutzer\*innen durch das Lösen von Fragen verschiedene Themenbereiche der jüdischen Geschichte freischalten. Das Ziel ist es, die vielschichtige Entwicklung der jüdischen Gemeinde in Basel durch Gamification-Elemente **spielerisch und zugänglich** zu vermitteln.
 
 ### Struktur und Inhalte
 
@@ -39,7 +39,7 @@ Die Geschichte wird in **12 thematische Abschnitte** unterteilt, die jeweils ein
 11. **Rundgang** (Interaktive Stadterkundung mit historischen Orten)
 12. **Ausblick** (Zusammenfassung und Reflexion)  
 
-Durch das Abschliessen von Kapiteln erhalten Nutzer*innen Zugang zu weiteren Abschnitten. Am Ende des Spiels wird als **Belohnung ein Gratis-Eintritt in ein Museum** angeboten.  
+Durch das Abschliessen von Kapiteln erhalten Nutzer\*innen Zugang zu weiteren Abschnitten. Am Ende des Spiels wird als **Belohnung ein Gratis-Eintritt in ein Museum** angeboten.
 
 ### Methodik und Digitale Umsetzung
 
