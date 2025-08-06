@@ -1,0 +1,48 @@
+---
+title: Open Access and Open Peer Review in the Digital Humanities
+subtitle: Workshop Report for infoclio.ch
+category: Publikation
+author: 
+- name: Moritz Mähr
+  email: moritz.maehr@gmail.com
+  affiliations:
+    - Universität Bern
+    - Universität Basel
+  orcid: 0000-0002-1367-1618
+- name: Moritz Twente
+  email: mtwente@protonmail.com
+  affiliation: Universität Basel
+  orcid: 0009-0005-7187-9774
+date: 2025-08-05
+lang: de
+doi: 10.5281/zenodo.16754890
+citation:
+  type: standard
+  title: 'Open Access and Open Peer Review in the Digital Humanities'
+  container-title: 'Open Science in der Schweiz. infoclio.ch-Blog'
+appendix-cite-as: display
+other-links:
+  - text: infoclio.ch Blog Post
+    icon: card-text
+    href: 'https://www.infoclio.ch/en/open-access-and-open-peer-review-digital-humanities'
+  - text: infoclio.ch Blog Series
+    icon: journal-richtext
+    href: 'https://www.infoclio.ch/en/node/190093'
+  - text: Workshop-Beschreibung
+    icon: house
+    href: '/products/talks-posters/workshop-peer-review'
+---
+
+::: {.callout-tip title="Artikel anzeigen" icon="false" collapse="true"}
+<iframe src="/assets/files/20250805-Mähr_Twente-Open_Access_and_Open_Peer_Review_in_the_Digital_Humanities.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Open Access and Open Peer Review in the Digital Humanities">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/20250805-Mähr_Twente-Open_Access_and_Open_Peer_Review_in_the_Digital_Humanities.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
+
+## Abstract
+
+This blog post was written by Moritz Mähr (University of Basel / University of Bern) and Moritz Twente (University of Basel). It is part of a [series](https://www.infoclio.ch/en/node/190093) on current developments in open data in the humanities and social sciences in Switzerland, produced for the [infoclio.ch 2025 conference "Historicising Open Science"](https://www.infoclio.ch/de/colloque-infoclioch-2025-open-science-et-histoire). The series presents various recent projects, highlights resources available online, and offers reflections on the topic.
+
+The post is based on results of discussions at the [Workshop on Open Access, Open and Community Peer Review](/products/talks-posters/workshop-peer-review/index.qmd) at the University of Zurich, organized by Moritz Mähr, Michael Piotrowski, Moritz Feichtinger and Dominic Weber.

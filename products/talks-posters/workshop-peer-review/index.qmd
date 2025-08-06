@@ -49,8 +49,5 @@ Finally, open-source tools such as Git, Quire and Quarto will be presented. Thes
 The [Digital History Network Switzerland](/products/digital-history/digital-history-network/index.qmd), including Prof. Dr. Michael Piotrowski, Dr. Moritz Feichtinger and Dominic Weber, will contribute their expertise to guide the discussions.
 
 ::: {.callout-tip title="Workshop Report" icon="false"}
-
-Moritz Mähr and Moritz Twente published a [report on the workshop](https://www.infoclio.ch/en/open-access-and-open-peer-review-digital-humanities). The report has been included in the [infoclio.ch blog post series](https://www.infoclio.ch/en/node/190093) on current developments in open data in the humanities and social sciences in Switzerland, produced for the infoclio.ch 2025 conference [Historicising Open Science](https://www.infoclio.ch/de/node/189964/).
-
+Moritz Mähr and Moritz Twente published a [report on the workshop](/products/publications/oa-peer-review/index.qmd). The report has been included in the [infoclio.ch blog post series](https://www.infoclio.ch/en/node/190093) on current developments in open data in the humanities and social sciences in Switzerland, produced for the infoclio.ch 2025 conference [Historicising Open Science](https://www.infoclio.ch/de/node/189964/).
 :::
-
