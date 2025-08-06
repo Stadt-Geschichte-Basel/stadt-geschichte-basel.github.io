@@ -18,7 +18,7 @@ other-links:
     href: '/assets/files/20240109-Depaermentier_Bioarchaelogie.pdf'
 ---
 
-::: callout-note
+::: {.callout-note icon="false"}
 Beim folgenden Text handelt es sich um eine Zusammenfassung der Data Story "Mit Bioarchäologie Geschichte schreiben" (2024). Die vollständige Geschichte ist als [interaktive Online-Geschichte](https://storymaps.arcgis.com/stories/54d35e03bcdf4841b092d4c4906227e9) oder als [PDF](/assets/files/20240109-Depaermentier_Bioarchaelogie.pdf) verfügbar.
 :::
 

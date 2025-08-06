@@ -12,7 +12,7 @@ other-links:
     href: 'https://stadtgeschichtebasel-jb.geovistory.org/intro'
 ---
 
-::: callout-note
+::: {.callout-note icon="false"}
 Beim folgenden Text handelt es sich um eine Zusammenfassung der Data Story "Das jüdische Basel 1850–1914" (2022). Die vollständige Geschichte ist als [interaktive Online-Geschichte](https://stadtgeschichtebasel-jb.geovistory.org/intro) verfügbar.
 :::
 

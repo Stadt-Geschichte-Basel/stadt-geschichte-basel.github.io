@@ -25,7 +25,7 @@ other-links:
     href: '/assets/files/20220607_Das_Kontrollbuero_und_die_Wundermaschine.pdf'
 ---
 
-::: callout-note
+::: {.callout-note icon="false"}
 Beim folgenden Text handelt es sich um eine Zusammenfassung der Data Story "Das Kontrollbüro und die Wundermaschine" (2022). Die vollständige Geschichte ist als [interaktive Online-Geschichte](https://storymaps.arcgis.com/stories/6be823309a7b4254aa27b5486703b68b) verfügbar oder als [PDF](/assets/files/20220607_Das_Kontrollbuero_und_die_Wundermaschine.pdf) verfügbar.
 :::
 

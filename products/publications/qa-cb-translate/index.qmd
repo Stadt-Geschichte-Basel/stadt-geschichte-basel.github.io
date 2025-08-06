@@ -21,8 +21,8 @@ code-links:
     icon: github
 ---
 
-::: callout-note
-Im Rahmen der Reihe *Project Spotlight Q&A series* hat Julia Stone, CollectionBuilder Community Liaison, Moritz Mähr interviewt. Das vollständige Q&A ist [im CollectionBuilder-Blog verfügbar](https://collectionbuilder.github.io/2024-04-22-cb-moritz-mahr/). 
+::: {.callout-note icon="false"}
+Im Rahmen der Reihe *Project Spotlight Q&A series* hat Julia Stone, CollectionBuilder Community Liaison, Moritz Mähr interviewt. Das vollständige Q&A ist [im CollectionBuilder-Blog verfügbar](https://collectionbuilder.github.io/2024-04-22-cb-moritz-mahr/).
 :::
 
 ## Abstract
