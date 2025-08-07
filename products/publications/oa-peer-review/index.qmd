@@ -6,12 +6,12 @@ author:
 - name: Moritz Mähr
   email: moritz.maehr@gmail.com
   affiliations:
-    - Universität Bern
-    - Universität Basel
+    - University of Bern
+    - University of Basel
   orcid: 0000-0002-1367-1618
 - name: Moritz Twente
   email: mtwente@protonmail.com
-  affiliation: Universität Basel
+  affiliation: University of Basel
   orcid: 0009-0005-7187-9774
 date: 2025-08-05
 lang: de
