@@ -6,7 +6,7 @@ author:
     email: moritz.maehr@gmail.com
     orcid: 0000-0002-1367-1618
     affiliations: 
-      - 'DSI Digital Humanities Community'
+      - 'DSI Digital Humanities Community, University of Zurich'
       - University of Bern
       - University of Basel
   - name: Michael Piotrowski
