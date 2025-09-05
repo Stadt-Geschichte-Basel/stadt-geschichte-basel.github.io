@@ -38,6 +38,8 @@ Insgesamt dient die Forschungsdatenplattform als wertvolles Werkzeug, um die rei
 
 Metadaten für die auf der Forschungsdatenplattform vorgestellten Elemente werden gemäss einem Datenmodell bereitgestellt, das vom Team für Forschungdatenmanagement der Stadt.Geschichte.Basel entwickelt wurde, um den Anforderungen der vielfältigen im Projekt verwendeten Quellen gerecht zu werden. Das Datenmodell (und der anschliessende Annotationsprozess) folgen dem Handbuch zur Erstellung diskriminerungsfreier Metadaten für historische Quellen und Forschungsdaten, das ebenfalls von Stadt.Geschichte.Basel entwickelt wurde.
 
+Das Metadatenschema für MEDIA-Objekte wurde um das Feld `dcterms:abstract` erweitert, das zur Erfassung von Alt-Attributen (alternative Textbeschreibungen) für Barrierefreiheit dient. Dieses Feld ermöglicht es, beschreibenden Text für Bilder und andere visuelle Medien zu hinterlegen, der von Screenreadern und anderen assistiven Technologien verwendet werden kann.
+
 Die folgende Grafik veranschaulicht das Datenmodell mit Metadatenfeldern für ein Beispiel-Metadatenobjekt `sgb01313`, das ein untergeordnetes Medienobjekt `m01313` hat. Wenn ein Metadatenobjekt mehr als ein untergeordnetes Medienobjekt hat, werden die id-Nummern der untergeordneten Objekte fortlaufend nummeriert: `m01313_1`, `m01313_2` usw.
 
 ```{mermaid}
@@ -56,6 +58,7 @@ direction LR
         title
         [subject;subject] (keywords from GenderOpen Index)
         description
+        [abstract] (alt attribute for accessibility)
         [creator] (incl. link to Wikidata)
         [publisher] (incl. link to Wikidata)
         date
