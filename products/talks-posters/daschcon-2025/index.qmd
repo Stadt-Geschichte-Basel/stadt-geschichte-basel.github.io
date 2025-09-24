@@ -1,0 +1,78 @@
+---
+title: A Long-Term Archival Pipeline for the Forschungsdatenplattform Stadt.Geschichte.Basel
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+  - name: Moritz Twente
+    email: mtwente@protonmail.com
+    orcid: 0009-0005-7187-9774
+    affiliation: Universität Basel
+date: 2025-10-15
+# doi:
+categories: Vortrag
+event: DaSCHCon 2025, MFK Bern
+lang: de
+citation:
+  type: standard
+  title: 'A Long-Term Archival Pipeline for the Forschungsdatenplattform Stadt.Geschichte.Basel'
+  container-title: 'DaSCHCon 2025 – Cultural Institutions in the Digital Age: The Future of Infrastructures. Museum für Kommunikation, Bern'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://www.dasch.swiss/post/daschcon-2025-cultural-institutions-in-the-digital-age-the-future-of-infrastructures/'
+  - text: Konferenzprogramm
+    icon: calendar4-range
+    href: 'https://ark.dasch.swiss/ark:/72163/1/0810/UEtpksyaRPeobZ_S41IhnA5.20250827T145742276838562Z'
+  - text: Abstract Booklet
+    icon: filetype-pdf
+    href: 'https://ark.dasch.swiss/ark:/72163/1/0810/YCULyZnMSImhHrRPqrMZwwh.20250827T145812592171563Z'
+  - text: omeka2dsp Pipeline
+    icon: arrow-up-right-circle
+    href: '/products/coding/omeka2dsp/index.html'
+---
+
+## Vortrag
+
+Der Vortrag ist Teil der Vormittags-Session an der [DaSCHCon 2025](https://www.dasch.swiss/post/daschcon-2025-cultural-institutions-in-the-digital-age-the-future-of-infrastructures) im Museum für Kommunikation in Bern.
+
+```{=html}
+<!-- ::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
+
+<iframe src="/assets/files/FIXME.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="A Long-Term Archival Pipeline for the Forschungsdatenplattform Stadt.Geschichte.Basel">
+
+This browser does not support PDFs. Please <a href="/assets/files/FIXME.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
+-->
+```
+
+## Abstract
+
+The [Forschungsdatenplattform](/products/coding/plattform/index.qmd) by Stadt.Geschichte.Basel provides open access to diverse historical materials relating to the city of Basel, including texts, images, statistical, and geospatial data. While technically robust and publicly [available through GitHub Pages](https://forschung.stadtgeschichtebasel.ch) using the CollectionBuilder-CSV, our current infrastructure faces critical sustainability and scalability limitations.
+
+At present, metadata and files are curated and managed using the [Omeka-S instance provided by the University of Bern](https://omeka.unibe.ch/), from which we extract the data for display via CollectionBuilder. However, this setup introduces significant risks for long-term availability:
+
+-   Omeka is not under our institutional control and may not remain permanently funded.
+-   GitHub Pages is not suitable for serving large files or guaranteeing persistence.
+-   CollectionBuilder lacks built-in support for versioning and persistent identifiers at the level required by research data infrastructures.
+
+To address these challenges, we are implementing a [transition pipeline](https://dokumentation.stadtgeschichtebasel.ch/omeka2dsp) to archive all metadata and associated files with DaSCH, leveraging its infrastructure for versioned, durable, and FAIR-compliant research data publication. The new pipeline includes:
+
+1.  Metadata harvesting and transformation from Omeka to the DaSCH data model.
+2.  Automated deposit and update routines using the DaSCH REST API, including support for versioning existing records.
+3.  Writing back stable DaSCH identifiers and access URLs to our public-facing platform, ensuring transparency and citability.
+4.  Preservation of hierarchical relationships and media metadata, aligned with our custom metadata model, which incorporates principles of anti-discriminatory description practices.
+
+This transition allows us to decouple the archival backend from the front-end presentation, ensuring long-term data accessibility, citability, and semantic interoperability. In our presentation, we will share the architectural overview, code-level considerations, and our reflections on working with DaSCH APIs in a real-world context, including:
+
+-   Lessons learned in metadata crosswalks and transformation logic.
+-   Technical caveats in version control, file transfers, and identifier management.
+-   Challenges in aligning minimal computing approaches (CollectionBuilder) with robust backend infrastructures (DSP).
+
+This case study illustrates how lightweight digital publishing environments can be effectively combined with national research infrastructures to deliver sustainable, standards-based access to historical research data. It also raises broader questions about infrastructural independence, scalability of humanities platforms, and the practical challenges of implementing FAIR principles in community-developed software ecosystems.
