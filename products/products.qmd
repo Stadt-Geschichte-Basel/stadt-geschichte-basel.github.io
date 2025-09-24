@@ -2,7 +2,7 @@
 title: "Forschungsdatenmanagement und Public History"
 lang: de
 listing:
-  - id: presentations
+  - id: presentations-listing
     type: table
     categories: false
     contents:
@@ -16,7 +16,7 @@ listing:
       event: 'Veranstaltung'
     include:
       categories: "Vortrag"
-  - id: posters
+  - id: posters-listing
     type: table
     categories: false
     contents:
@@ -30,7 +30,7 @@ listing:
       event: 'Veranstaltung'
     include:
       categories: "Poster"
-  - id: workshops
+  - id: workshops-listing
     type: table
     categories: false
     contents:
@@ -44,7 +44,7 @@ listing:
       event: 'Veranstaltung'
     include:
       categories: "Workshop"
-  - id: panels
+  - id: panels-listing
     type: table
     categories: false
     contents:
@@ -58,38 +58,38 @@ listing:
       event: 'Veranstaltung'
     include:
       categories: "{Panel,Roundtable}*"
-  - id: coding
+  - id: coding-listing
     type: grid
     contents: coding/*/index.qmd
     sort: "title"
     fields: [title, subtitle]
     grid-columns: 2
-  - id: digital-history
+  - id: digital-history-listing
     type: grid
     categories: false
     contents: digital-history/*/index.qmd
     fields: [title]
-  - id: interna
+  - id: interna-listing
     type: grid
     grid-columns: 2
     categories: true
     contents: interna/*/index.qmd
     fields: [title]
-  - id: publications
+  - id: publications-listing
     type: grid
     categories: false
     contents: publications/*/index.qmd
     fields: [title, subtitle]
     include:
       categories: "Publikation"
-  - id: datastories
+  - id: datastories-listing
     type: grid
     categories: false
     contents: publications/*/index.qmd
     fields: [title, subtitle]
     include:
       categories: "Data Story"
-  - id: research-data
+  - id: research-data-listing
     type: grid
     contents: [research-data/*/index.qmd]
     fields: [title]
@@ -97,27 +97,24 @@ listing:
 date-modified: last-modified
 ---
 
-::: {#frontrow}
-:::
-
 ## Publikationen
 
-::: {#publications}
+::: {#publications-listing}
 :::
 
 ### Data Stories
 
-::: {#datastories}
+::: {#datastories-listing}
 :::
 
 ## Coding
 
-::: {#coding}
+::: {#coding-listing}
 :::
 
 ## Forschungsdaten
 
-::: {#research-data}
+::: {#research-data-listing}
 :::
 
 ## Vorträge, Poster und Workshops
@@ -126,31 +123,30 @@ Wissenschaftliche Veröffentlichungen, die im Zusammenhang mit dem Forschungspro
 
 ### Vorträge {#vorträge}
 
-::: {#presentations}
+::: {#presentations-listing}
 :::
 
 ### Panels und Roundtables {#panels-und-roundtables}
 
-::: {#panels}
+::: {#panels-listing}
 :::
 
 ### Workshops {#workshops}
 
-<div>
-
-</div>
+::: {#workshops-listing}
+:::
 
 ### Poster {#poster}
 
-::: {#posters}
+::: {#posters-listing}
 :::
 
 ## Community Building
 
-::: {#digital-history}
+::: {#digital-history-listing}
 :::
 
 ## Interna
 
-::: {#interna}
+::: {#interna-listing}
 :::
