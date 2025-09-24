@@ -21,10 +21,10 @@ other-links:
     href: 'https://maehr.github.io/diskriminierungsfreie-metadaten/'
   - text: Handbuch (PDF)
     icon: filetype-pdf
-    href: 'https://maehr.github.io/diskriminierungsfreie-metadaten/handbuch-diskriminierungsfreie-metadaten.docx'
+    href: 'https://maehr.github.io/diskriminierungsfreie-metadaten/handbuch-diskriminierungsfreie-metadaten.pdf'
   - text: Handbuch (Word)
     icon: filetype-docx
-    href: 'https://maehr.github.io/diskriminierungsfreie-metadaten/handbuch-diskriminierungsfreie-metadaten.pdf'
+    href: 'https://maehr.github.io/diskriminierungsfreie-metadaten/handbuch-diskriminierungsfreie-metadaten.docx'
   - text: Diskussionsforum
     icon: github
     href: https://github.com/maehr/diskriminierungsfreie-metadaten/discussions
