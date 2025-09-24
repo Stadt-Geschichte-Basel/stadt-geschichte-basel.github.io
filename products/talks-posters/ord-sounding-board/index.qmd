@@ -1,0 +1,54 @@
+---
+title: Critical AI Literacy in Practice
+subtitle: Lessons from Current DH Projects
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+date: 2025-09-09
+categories: Vortrag
+event: Open Research Data Sounding Board Retreat
+lang: de
+doi: 10.5281/zenodo.17086257
+bibliography: references.bib
+nocite: |
+  @*
+citation:
+  type: standard
+  title: 'Critical AI Literacy in Practice: Lessons from Current DH Projects'
+  container-title: 'Swiss Academies of Arts and Sciences Open Research Data Sounding Board Researchers Retreat, St. Petersinsel'
+appendix-cite-as: display
+other-links:
+  - text: ORD Sounding Board
+    icon: house
+    href: 'https://ord.swiss-academies.ch/sounding-board-researchers'
+  - text: Slides (Reveal.js)
+    icon: easel
+    href: 'https://maehr.github.io/critical-ai-literacy-in-practice/presentation'
+  - text: Slides (Zenodo)
+    icon: filetype-pdf
+    href: 'https://doi.org/10.5281/zenodo.17086257'
+code-links:
+  - href: 'https://github.com/maehr/critical-ai-literacy-in-practice/'
+    text: GitHub Repository
+    icon: github
+---
+
+## Vortrag
+
+Der Vortrag **Critical AI Literacy in Practice: Lessons from Current DH Projects** fand während eines Retreats der Mitglieder des Open Research Data Sounding Boards am 09.09.2025 auf der St. Petersinsel statt.
+
+Moritz Mähr legt dar, wie critical AI literacy in den Digital Humanities praktiziert werden kann. Die Präsentation skizziert eine kurze Geschichte der KI, untersucht die Grenzen generativer Modelle (Bias, Erklärbarkeit, Transparenz, Accountability, Reproduzierbarkeit, Auswirkungen auf die Umwelt, rechtliche und soziale Fragen) und gibt einen Überblick über aktuelle Schweizer DH-Projekte, die LLMs verwenden. Sie schlägt ein Kompetenzmodell vor, das technische literacy, epistemologisches Bewusstsein, ethische Bewertung, Bewertung der sozialen Auswirkungen, praktische wissenschaftliche Arbeitsabläufe und kontinuierliches Lernen umfasst.
+
+::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+Diese Ansicht zeigt eine komprimierte Vorschau der Präsentation. Die hochaufgelösten Original-Slides sind als HTML- und PDF-Version [verfügbar](https://maehr.github.io/critical-ai-literacy-in-practice/) sowie [auf Zenodo archiviert](https://doi.org/10.5281/zenodo.17086257).
+
+<iframe src="/assets/files/250909-Moritz_Maehr-ORD_SB_R_Retreat-Critical_AI_Literacy_in_Practice_compressed.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Critical AI Literacy in Practice: Lessons from Current DH Projects">
+
+This browser does not support PDFs. Please <a href="/assets/files/250909-Moritz_Maehr-ORD_SB_R_Retreat-Critical_AI_Literacy_in_Practice_compressed.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
