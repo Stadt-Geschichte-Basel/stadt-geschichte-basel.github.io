@@ -32,7 +32,6 @@ Der Workshop fand im Rahmen der Technikwoche der Kantonsschule Enge in Zürich s
 Im Rahmen der Technikwoche an der Kantonsschule Enge führen Moritz Mähr und Noëlle Sarah Schnegg einen Workshop zum Thema "Digital Storytelling" durch. Nach einer Einführung in die Grundlagen zur Quellenkritik ([Handout](https://doi.org/10.5281/zenodo.16276513)) führen sie gemeinsam mit den Schüler:innen Recherchen im Schularchiv durch, um historische Dokumente in spannende digitale Geschichten für Instagram und TikTok zu verwandeln. Dabei stehen das Erforschen von Quellen, das Erlernen von Storytelling-Techniken sowie die kreative Nutzung von Social Media im Zentrum dieses Formats.
 
 ::: {.callout-tip title="Handout Quellenkritik anzeigen" icon="false" collapse="true"}
-
 <iframe src="/assets/files/20240821-Maehr_Schnegg-Handout_Quellenkritik.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Handout Quellenkritik – Workshop Digital Storytelling an der Kantonsschule Enge Zürich">
 
 This browser does not support PDFs. Please <a href="/assets/files/20240821-Maehr_Schnegg-Handout_Quellenkritik.pdf">download the PDF</a> to view it.
