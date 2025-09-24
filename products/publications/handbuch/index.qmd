@@ -1,7 +1,7 @@
 ---
 title: Handbuch für diskriminerungsfreie Metadaten
 subtitle: Erfahrungen aus dem geschichtswissenschaftlichen Forschungsprojekt Stadt.Geschichte.Basel
-category: Publikation
+categories: Publikation
 author: 
 - name: Moritz Mähr
   email: moritz.maehr@unibas.ch

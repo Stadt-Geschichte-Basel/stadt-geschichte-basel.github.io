@@ -1,7 +1,7 @@
 ---
 title: Open Access and Open Peer Review in the Digital Humanities
 subtitle: Workshop Report for infoclio.ch
-category: Publikation
+categories: Publikation
 author: 
 - name: Moritz Mähr
   email: moritz.maehr@gmail.com

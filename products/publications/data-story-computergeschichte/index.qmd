@@ -13,7 +13,7 @@ author:
     orcid: 0000-0002-1367-1618
     affiliation: Universität Basel
 date: 7 June 2022
-categories: Publikation
+categories: "Data Story"
 lang: de
 appendix-cite-as: display
 other-links:

@@ -2,7 +2,7 @@
 title: "Forschungsdatenmanagement und Public History"
 lang: de
 listing:
-  - id: talks-posters
+  - id: presentations
     type: table
     categories: false
     contents:
@@ -10,15 +10,58 @@ listing:
     sort: "date desc"
     sort-ui: false
     filter-ui: false
-    fields: [date, title, event, categories]
+    fields: [date, title, event]
     field-display-names: 
-      categories: 'Typ'
       title: 'Titel'
       event: 'Veranstaltung'
+    include:
+      categories: "Vortrag"
+  - id: posters
+    type: table
+    categories: false
+    contents:
+      - talks-posters/*/index.qmd
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    fields: [date, title, event]
+    field-display-names: 
+      title: 'Titel'
+      event: 'Veranstaltung'
+    include:
+      categories: "Poster"
+  - id: workshops
+    type: table
+    categories: false
+    contents:
+      - talks-posters/*/index.qmd
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    fields: [date, title, event]
+    field-display-names: 
+      title: 'Titel'
+      event: 'Veranstaltung'
+    include:
+      categories: "Workshop"
+  - id: panels
+    type: table
+    categories: false
+    contents:
+      - talks-posters/*/index.qmd
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    fields: [date, title, event]
+    field-display-names: 
+      title: 'Titel'
+      event: 'Veranstaltung'
+    include:
+      categories: "{Panel,Roundtable}*"
   - id: coding
     type: grid
     contents: coding/*/index.qmd
-    sort: "title desc"
+    sort: "title"
     fields: [title, subtitle]
     grid-columns: 2
   - id: digital-history
@@ -37,6 +80,15 @@ listing:
     categories: false
     contents: publications/*/index.qmd
     fields: [title, subtitle]
+    include:
+      categories: "Publikation"
+  - id: datastories
+    type: grid
+    categories: false
+    contents: publications/*/index.qmd
+    fields: [title, subtitle]
+    include:
+      categories: "Data Story"
   - id: research-data
     type: grid
     contents: [research-data/*/index.qmd]
@@ -53,6 +105,11 @@ date-modified: last-modified
 ::: {#publications}
 :::
 
+### Data Stories
+
+::: {#datastories}
+:::
+
 ## Coding
 
 ::: {#coding}
@@ -65,9 +122,27 @@ date-modified: last-modified
 
 ## Vorträge, Poster und Workshops
 
-Wissenschaftliche Veröffentlichungen, die im Zusammenhang mit dem Forschungsprojekt stehen, sind [auf Zenodo archiviert](https://zenodo.org/communities/stadt-geschichte-basel). Die im Rahmen von Konferenzen und Workshops publizierten Beiträge des Teams für Forschungsdatenmanagement und Public History befassen sich mit der Entwicklung der digitalen Angebote von Stadt.Geschichte.Basel und übergreifend mit (digitalem) Forschungsdatenmanagement und Public History in den Geschichtswissenschaften.
+Wissenschaftliche Veröffentlichungen, die im Zusammenhang mit dem Forschungsprojekt stehen, sind [auf Zenodo archiviert](https://zenodo.org/communities/stadt-geschichte-basel). Die im Rahmen von Konferenzen und Workshops publizierten Beiträge des Teams für Forschungsdatenmanagement und Public History befassen sich mit der Entwicklung der digitalen Angebote von Stadt.Geschichte.Basel und übergreifend mit (digitalem) Forschungsdatenmanagement und Public History in den Geschichtswissenschaften. Erfasst sind [Vorträge](#vorträge), die Organisation von bzw. Teilnahme an [Panels/Roundtables](#panels-und-roundtables), veranstaltete [Workshops](#workshops) sowie wissenschaftliche [Posterpräsentationen](#poster).
 
-::: {#talks-posters}
+### Vorträge {#vorträge}
+
+::: {#presentations}
+:::
+
+### Panels und Roundtables {#panels-und-roundtables}
+
+::: {#panels}
+:::
+
+### Workshops {#workshops}
+
+<div>
+
+</div>
+
+### Poster {#poster}
+
+::: {#posters}
 :::
 
 ## Community Building

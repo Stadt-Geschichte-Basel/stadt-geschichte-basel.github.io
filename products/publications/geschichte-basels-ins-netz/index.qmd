@@ -1,7 +1,7 @@
 ---
 title: Die Geschichte von Basel ins Netz stellen
 subtitle: Beteiligung relevanter Anspruchsgruppen an der Entwicklung eines nachhaltigen und offenen Public-History-Portals
-category: Publikation
+categories: Publikation
 author: 
 - name: Moritz Mähr
   email: moritz.maehr@unibas.ch

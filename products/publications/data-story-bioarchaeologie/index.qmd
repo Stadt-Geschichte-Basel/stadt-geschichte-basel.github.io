@@ -6,7 +6,7 @@ author:
     orcid: 0000-0002-1801-3358
     affiliation: Universität Basel
 date: 9 January 2024
-categories: Publikation
+categories: "Data Story"
 lang: de
 appendix-cite-as: display
 other-links:
@@ -30,11 +30,11 @@ Das Projekt nutzt **bioarchäologische Methoden**, um neue Erkenntnisse über di
 
 ## Historischer Kontext
 
-- **3.–5. Jahrhundert n. Chr.:** Die römische Welt durchläuft tiefgreifende politische, wirtschaftliche und klimatische Veränderungen.\
-- **Um 260 n. Chr.:** Der **Limes** wird zurückgezogen, Basel liegt nun direkt an der Grenze des Römischen Reiches.\
-- **Spätantike (370–420 n. Chr.):** Das Gräberfeld Basel-Waisenhaus wird genutzt.\
-- **Traditionelle Annahme:** Bislang wurde vermutet, dass die hier Bestatteten aus einer Gruppe zugewanderter "Barbaren" (Alamannen, Donausueben) stammten.\
-- **Neues Forschungsziel:** Untersuchung der tatsächlichen Herkunft und Lebensweise der Bestatteten mittels bioarchäologischer Methoden.
+-   **3.–5. Jahrhundert n. Chr.:** Die römische Welt durchläuft tiefgreifende politische, wirtschaftliche und klimatische Veränderungen.\
+-   **Um 260 n. Chr.:** Der **Limes** wird zurückgezogen, Basel liegt nun direkt an der Grenze des Römischen Reiches.\
+-   **Spätantike (370–420 n. Chr.):** Das Gräberfeld Basel-Waisenhaus wird genutzt.\
+-   **Traditionelle Annahme:** Bislang wurde vermutet, dass die hier Bestatteten aus einer Gruppe zugewanderter "Barbaren" (Alamannen, Donausueben) stammten.\
+-   **Neues Forschungsziel:** Untersuchung der tatsächlichen Herkunft und Lebensweise der Bestatteten mittels bioarchäologischer Methoden.
 
 ## Die Untersuchung der Gräbergruppe
 
@@ -42,54 +42,54 @@ In der Data Story werden verschiedene wissenschaftliche Methoden vorgestellt, di
 
 ### 1. Anthropologie
 
-- Untersuchung der **Knochen und Zähne** zur Bestimmung von Geschlecht, Alter und gesundheitlichem Zustand.\
-- **Befund:**
-  - **11 Bestattete**: 6 Erwachsene (4 Frauen, 2 Männer) und 5 Kleinkinder.\
-  - Auffällig hohe Kindersterblichkeit.\
-  - Spuren harter körperlicher Arbeit und häufiger Bewegung.\
-  - Mann in **Grab 9 starb an einer schweren Schädelverletzung** (möglicherweise durch eine Axt oder ein Schwert verursacht).
+-   Untersuchung der **Knochen und Zähne** zur Bestimmung von Geschlecht, Alter und gesundheitlichem Zustand.\
+-   **Befund:**
+    -   **11 Bestattete**: 6 Erwachsene (4 Frauen, 2 Männer) und 5 Kleinkinder.\
+    -   Auffällig hohe Kindersterblichkeit.\
+    -   Spuren harter körperlicher Arbeit und häufiger Bewegung.\
+    -   Mann in **Grab 9 starb an einer schweren Schädelverletzung** (möglicherweise durch eine Axt oder ein Schwert verursacht).
 
 ### 2. Archäologie
 
-- Gräber waren **einfach in die Erde gelegt**, keine Särge oder Grabkammern.\
-- **Beigaben:**
-  - Glasperlen und Glasgefässe in **zwei Kindergräbern** (Grab 1 und Grab 6).\
-  - Münze in **Grab 6**, möglicherweise ein "Charonspfennig".\
-- Bestattungspraktiken eher **spätrömisch als germanisch**.
+-   Gräber waren **einfach in die Erde gelegt**, keine Särge oder Grabkammern.\
+-   **Beigaben:**
+    -   Glasperlen und Glasgefässe in **zwei Kindergräbern** (Grab 1 und Grab 6).\
+    -   Münze in **Grab 6**, möglicherweise ein "Charonspfennig".\
+-   Bestattungspraktiken eher **spätrömisch als germanisch**.
 
 ### 3. Radiokarbondatierung (14C-Analyse)
 
-- **Datierung des Gräberfelds:** 370–420 n. Chr., zeitgleich mit dem nahegelegenen spätrömischen **munimentum** (Militäranlage in Kleinbasel).\
-- Die archäologische Datierung der Beigaben bestätigte dieses Zeitfenster.
+-   **Datierung des Gräberfelds:** 370–420 n. Chr., zeitgleich mit dem nahegelegenen spätrömischen **munimentum** (Militäranlage in Kleinbasel).\
+-   Die archäologische Datierung der Beigaben bestätigte dieses Zeitfenster.
 
 ### 4. Isotopenanalysen (Strontium und Sauerstoff)
 
-- Ziel: Herkunft und Mobilität der Bestatteten bestimmen.\
-- Ergebnis:
-  - **Mehrheit wurde in Basel geboren** oder kam in jungen Jahren dorthin.\
-  - **Mann aus Grab 9 und Frau aus Grab 5 kamen als Jugendliche oder Erwachsene aus der Umgebung nach Basel.**\
-  - Kein Nachweis einer grossflächigen Migration.
+-   Ziel: Herkunft und Mobilität der Bestatteten bestimmen.\
+-   Ergebnis:
+    -   **Mehrheit wurde in Basel geboren** oder kam in jungen Jahren dorthin.\
+    -   **Mann aus Grab 9 und Frau aus Grab 5 kamen als Jugendliche oder Erwachsene aus der Umgebung nach Basel.**\
+    -   Kein Nachweis einer grossflächigen Migration.
 
 ### 5. Genetische Analysen (aDNA)
 
-- Bestimmung der **biologischen Verwandtschaftsverhältnisse**.\
-- **Ergebnisse:**
-  - Kinder **0 und 1 waren Geschwister**.\
-  - Mann in **Grab 9 war wahrscheinlich ihr Onkel oder Grossvater**.\
-  - Keine einheitliche ethnische Herkunft – genetische Diversität innerhalb der Gruppe.
+-   Bestimmung der **biologischen Verwandtschaftsverhältnisse**.\
+-   **Ergebnisse:**
+    -   Kinder **0 und 1 waren Geschwister**.\
+    -   Mann in **Grab 9 war wahrscheinlich ihr Onkel oder Grossvater**.\
+    -   Keine einheitliche ethnische Herkunft – genetische Diversität innerhalb der Gruppe.
 
 ### 6. Stickstoff- und Kohlenstoffisotopenanalysen (Ernährung)
 
-- **Homogene Ernährungsgewohnheiten**, hoher Anteil tierischer Produkte.\
-- Stillmuster: Kinder wurden bis zu ihrem frühen Tod gestillt.\
-- Kind in **Grab 0 zeigte auffällige Isotopenwerte, möglicherweise aufgrund von Krankheit.**
+-   **Homogene Ernährungsgewohnheiten**, hoher Anteil tierischer Produkte.\
+-   Stillmuster: Kinder wurden bis zu ihrem frühen Tod gestillt.\
+-   Kind in **Grab 0 zeigte auffällige Isotopenwerte, möglicherweise aufgrund von Krankheit.**
 
 ## Forschungsergebnisse & Schlussfolgerungen
 
-- Die Analyse zeigt, dass die Bestatteten **keine kürzlich Zugewanderten** waren, sondern **wahrscheinlich seit Generationen in Basel und Umgebung lebten**.\
-- Die Gräbergruppe repräsentiert **eine Familie oder eng verbundene Gemeinschaft**, die in der Spätantike in Kleinbasel ansässig war.\
-- Die Daten widerlegen das traditionelle **"Völkerwanderungsnarrativ"**, das pauschal von germanischen Migrantengruppen ausgeht.\
-- Stattdessen verweist die Untersuchung auf eine **kontinuierliche lokale Bevölkerung**, die sich flexibel an die politischen und wirtschaftlichen Gegebenheiten der Spätantike anpasste.
+-   Die Analyse zeigt, dass die Bestatteten **keine kürzlich Zugewanderten** waren, sondern **wahrscheinlich seit Generationen in Basel und Umgebung lebten**.\
+-   Die Gräbergruppe repräsentiert **eine Familie oder eng verbundene Gemeinschaft**, die in der Spätantike in Kleinbasel ansässig war.\
+-   Die Daten widerlegen das traditionelle **"Völkerwanderungsnarrativ"**, das pauschal von germanischen Migrantengruppen ausgeht.\
+-   Stattdessen verweist die Untersuchung auf eine **kontinuierliche lokale Bevölkerung**, die sich flexibel an die politischen und wirtschaftlichen Gegebenheiten der Spätantike anpasste.
 
 ## Bedeutung für die digitale Geschichtsforschung
 
