@@ -1,0 +1,28 @@
+---
+title: Was ist das Digitale an Digital History?
+subtitle: Stadt.Geschichte.Basel digital
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+date: 2025-05-08
+categories: Vortrag
+event: Digital History Network, Universität Basel
+lang: de
+citation:
+  type: standard
+  title: 'Was ist das Digitale an Digital History? Stadt.Geschichte.Basel digital'
+  container-title: 'Netzwerktreffen Digital History Network, Universität Basel'
+appendix-cite-as: display
+other-links:
+  - text: Digital History Network Switzerland
+    icon: house
+    href: '/products/digital-history/digital-history-network/index.html'
+---
+
+## Walkthrough
+
+Der Input von Moritz Mähr zum Thema "Was ist das Digitale an Digital History?" mit Walkthrough durch die [Produkte](/products/products.qmd#coding) des Teams für Forschungsdatenmanagement und Public History von Stadt.Geschichte.Basel fand an der Universität Basel statt.
