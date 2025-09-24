@@ -1,0 +1,50 @@
+---
+title: Diskriminierungssensible Metadatenpraxis
+subtitle: Ein Handbuch zur ethischen Auszeichnung historischer Quellen und Forschungsdaten
+author:
+  - name: Noëlle Schnegg
+    orcid: 0009-0008-5207-6652
+    email: noelle.schnegg@unibas.ch
+    affiliation: Universität Basel
+  - name: Moritz Twente
+    email: mtwente@protonmail.com
+    orcid: 0009-0005-7187-9774
+    affiliation: Universität Basel
+date: 2025-09-11
+doi: 10.5281/zenodo.17084721
+categories: Vortrag
+event: SODa Forum
+lang: de
+bibliography: references.bib
+nocite: |
+  @*
+citation:
+  type: standard
+  title: 'Diskriminierungssensible Metadatenpraxis: Ein Handbuch zur ethischen Auszeichnung historischer Quellen und Forschungsdaten'
+  container-title: 'SODa-Forum'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://sammlungen.io/events/soda-forum-das-handbuch-zur-erstellung-diskriminierungsfreier-metadaten-aus-perspektive-der'
+  - text: SODa-Verbundprojekt
+    icon: house
+    href: 'https://sammlungen.io/'
+  - text: Slides (Zenodo)
+    icon: filetype-pdf
+    href: 'https://doi.org/10.5281/zenodo.17084721'
+---
+
+## Vortrag
+
+Wie erstellt man diskriminierungsfreie Metadaten für Sammlungsobjekte? Gibt es allgemeingültige Regeln und Workflows? Diese Fragen stehen im Fokus des [SODa-Forums zur Erstellung diskriminierungssensibler Metadaten für historische Quellen und Forschungsdaten aus Perspektive der Universitätssammlungen](https://sammlungen.io/events/soda-forum-das-handbuch-zur-erstellung-diskriminierungsfreier-metadaten-aus-perspektive-der) (11. September 2025). Noëlle Sarah Schnegg und Moritz Twente stellen das [Handbuch Diskriminierungssensible Metadatenpraxis](/products/publications/handbuch/index.qmd) vor, das im Rahmen des Forschungsprojekts Stadt.Geschichte.Basel im Jahre 2024 von Moritz Mähr und Noëlle Sarah Schnegg entwickelt und im September 2025 in einer überarbeiteten Version veröffentlicht wurde. Die Präsentation des Handbuchprojektes leitet über in eine Diskussion über gewaltfreie, faire und dabei auch FAIRe Metadaten.
+
+::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
+Diese Ansicht zeigt eine komprimierte Vorschau der Präsentation. Die hochaufgelösten Original-Slides sind [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.17084721).
+
+<iframe src="/assets/files/250911_SODaHandbuch_SchneggTwente_compressed.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Diskriminierungssensible Metadatenpraxis Ein Handbuch zur ethischen Auszeichnung historischer Quellen und Forschungsdaten (Vorschau)">
+
+This browser does not support PDFs. Please <a href="/assets/files/250911_SODaHandbuch_SchneggTwente_compressed.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
