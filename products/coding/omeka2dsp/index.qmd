@@ -1,0 +1,88 @@
+---
+title: omeka2dsp
+subtitle: Omeka--DaSCH-Transfer-Pipeline
+author:
+  - name: Nico Görlich
+    orcid: 0000-0003-3860-1488
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+other-links:
+  - text: Dokumentation
+    icon: house
+    href: 'https://dokumentation.stadtgeschichtebasel.ch/omeka2dsp/'
+  - text: DaSCH Service Platform
+    icon: database
+    href: 'https://www.dasch.swiss/plattform-characteristics/'
+  - text: Omeka UNIBE
+    icon: database
+    href: 'https://omeka.unibe.ch/s/stadtgeschichtebasel/page/sgb'
+  - text: Vortrag DaSCHCon 2025
+    icon: easel
+    href: '/products/talks-posters/daschcon-2025/index.html'
+code-links:
+  - href: 'https://github.com/stadt-geschichte-basel/omeka2dsp/'
+    text: GitHub Repository
+    icon: github
+---
+
+## Langzeitarchivierung für Stadt.Geschichte.Basel
+
+Die Forschungsdaten aus dem Projekt Stadt.Geschichte.Basel werden auf der [Forschungsdatenplattform](/products/coding/plattform/index.qmd) annotiert zur Verfügung gestellt. Die Metadaten dafür wurden mit einer von der Universität Bern bereitgestellten [Omeka-S-Instanz](https://omeka.unibe.ch) kuratiert und verwaltet. Die Daten werden für die Forschungsdatenplattform zur Anzeige mit CollectionBuilder vom Omeka-Server extrahiert. Diese Konfiguration birgt jedoch erhebliche Risiken für die langfristige Verfügbarkeit:
+
+-   Omeka unterliegt nicht unserer institutionellen Kontrolle und wird möglicherweise nicht dauerhaft finanziert.
+-   GitHub Pages ist nicht für die Bereitstellung großer Dateien oder die Gewährleistung der Persistenz geeignet.
+-   CollectionBuilder bietet keine integrierte Unterstützung für Versionierung und persistente Identifikatoren auf dem Niveau, das von Forschungsdateninfrastrukturen gefordert wird.
+
+Um diesen Herausforderungen zu begegnen, implementieren wir eine Übergangspipeline zur Archivierung aller Metadaten und zugehörigen Dateien mit [DaSCH](https://dasch.swiss/), wobei wir dessen Infrastruktur für die versionierte, dauerhafte und FAIR-konforme Veröffentlichung von Forschungsdaten nutzen.
+
+Die neue Pipeline umfasst:
+
+1.  Erfassung und Umwandlung von Metadaten aus Omeka in das DaSCH-Datenmodell.
+2.  Automatisierte Ablage- und Aktualisierungsroutinen unter Verwendung der DaSCH-REST-API, einschließlich Unterstützung für die Versionierung bestehender Datensätze.
+3.  Zurückschreiben stabiler DaSCH-Identifikatoren und Zugriffs-URLs auf unsere öffentlich zugängliche Plattform, um Transparenz und Zitierfähigkeit zu gewährleisten.
+4.  Erhaltung hierarchischer Beziehungen und Medienmetadaten in Übereinstimmung mit unserem benutzerdefinierten Metadatenmodell, das die Grundsätze antidiskriminierender Beschreibungspraktiken berücksichtigt.
+
+### System Architecture
+
+```{mermaid}
+graph LR
+    A[Omeka API] --> B[Data Extraction]
+    B --> C[Data Transformation]
+    C --> D[DSP Upload]
+    D --> E[DSP API]
+
+    F[Configuration] --> B
+    F --> C
+    F --> D
+
+    style A fill:#86bbd8,color:#000
+    style E fill:#dbfe87,color:#000
+    style B fill:#ffe880,color:#000
+    style C fill:#ffe880,color:#000
+    style D fill:#ffe880,color:#000
+    style F color:#000
+```
+
+### Wichtigste Komponenten
+
+```{mermaid}
+graph LR
+    A[Omeka API] --> B[data_2_dasch.py]
+    B --> C[DSP API]
+    B --> D[File Storage]
+    
+    E[process_data_from_omeka.py] --> B
+    F[Configuration] --> B
+    
+    style A fill:#86bbd8,color:#000
+    style C fill:#dbfe87,color:#000
+    style B fill:#ffe880,color:#000
+    style D color:#000
+    style E color:#000
+    style F color:#000
+```
+
+## Code und Dokumentation
+
+Der Code ist [auf GitHub](https://github.com/stadt-Geschichte-Basel/omeka2dsp/) verfügbar, die Funktionalität der Pipeline und das Datenmodell sind ausführlich [dokumentiert](https://dokumentation.stadtgeschichtebasel.ch/omeka2dsp/). Moritz Mähr und Moritz Twente [präsentieren](/products/talks-posters/daschcon-2025/index.qmd) das Projekt auf der DaSCHCon 2025.
