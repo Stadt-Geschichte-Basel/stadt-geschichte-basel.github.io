@@ -48,6 +48,7 @@ format:
     link-external-newwindow: true
     code-copy: true
     code-overflow: wrap
+    title-block-categories: false
     css: styles.css
     mainfont: Euclid Circular B
     include-in-header:
