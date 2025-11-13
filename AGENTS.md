@@ -13,6 +13,12 @@ This repository contains the documentation platform for Stadt.Geschichte.Basel, 
 - **Deployment**: GitHub Pages (published to `https://dokumentation.stadtgeschichtebasel.ch/`)
 - **Licenses**: Code (AGPL-3.0), Data/Content (CC BY 4.0)
 
+## Purpose & Audience
+
+- **Purpose**: Provide public-facing documentation of methods, guidelines, products, and activities of Stadt.Geschichte.Basel, with reproducible and citable outputs when appropriate.
+- **Audience**: Researchers, cultural heritage professionals, educators, students, and partners. Content under `products/interna/` primarily serves internal workflows and team collaboration.
+- **Publication**: Built with Quarto and deployed via GitHub Pages. Rendered output lives in `_site/`; cached, reproducible artifacts are stored in `_freeze/`.
+
 ## Technology Stack
 
 ### Core Technologies
@@ -32,7 +38,7 @@ This repository contains the documentation platform for Stadt.Geschichte.Basel, 
 
 The repository follows [The Turing Way's Advanced Structure for Data Analysis](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html):
 
-```
+```text
 ├── assets/          # Images, figures, and other media files
 ├── docs/            # Documentation files and assets
 ├── products/        # Final products (reports, papers, presentations)
@@ -42,6 +48,13 @@ The repository follows [The Turing Way's Advanced Structure for Data Analysis](h
 ├── *.qmd            # Quarto markdown content files
 └── styles.css       # Custom CSS styles
 ```
+
+### Content Architecture
+
+- **Top-level pages**: `index.qmd`, `about.qmd`, `team.qmd` are public entry points without DOIs.
+- **Products**: Under `products/` grouped by domain (e.g., `publications/`, `talks-posters/`, `research-data/`). These may be citable and often carry DOIs in YAML.
+- **Interna**: `products/interna/` holds internal or process documentation; typically not citable and should not carry DOIs.
+- **Build artifacts**: `_site/` (rendered site), `_freeze/` (cached outputs for reproducibility), `site_libs/` (client libs). Do not edit these by hand.
 
 ## Development Workflow
 
@@ -85,7 +98,7 @@ Rscript -e 'install.packages("renv"); renv::restore()'
 
 This project uses [Conventional Commits](https://www.conventionalcommits.org/):
 
-```
+```text
 <type>(<scope>): <description>
 
 [optional body]
@@ -110,6 +123,11 @@ Use `npm run commit` to ensure proper formatting.
 - Quarto files use `.qmd` extension for markdown with embedded code
 - Standard markdown files use `.md` extension
 
+## Multilingual Content
+
+- **Default language**: German (`de`). Keep German as the baseline unless a page requires additional languages.
+- **Page-level language**: Set `lang: de` (or `en`, etc.) in page YAML. Translate `title`, `description`, and other metadata per language.
+
 ## Agent-Specific Guidance
 
 ### When Working with Content
@@ -118,6 +136,13 @@ Use `npm run commit` to ensure proper formatting.
 2. **Language**: Primary language is German; maintain consistency
 3. **Content Structure**: Follow existing patterns in `.qmd` files
 4. **YAML Front Matter**: Include title, description, and other metadata as seen in existing files
+
+### Citation & DOI Policy
+
+- **When to add a DOI**: Citable outputs (e.g., `products/publications/*`, `products/talks-posters/*`) should include a `doi:` in YAML if a DOI exists (typically Zenodo or publisher DOI).
+- **Citation block**: Include a `citation:` block in YAML when a canonical reference is available. Prefer standard formats and stable identifiers.
+- **Internal pages**: Do not add DOIs to internal or purely informational pages (e.g., `products/interna/*`, top-level landing pages).
+- **Links**: Use the canonical resolver form `https://doi.org/<doi>` in content and references.
 
 ### When Working with Code
 
@@ -136,6 +161,12 @@ Use `npm run commit` to ensure proper formatting.
    - Check formatting with `npm run check`
    - Verify links are not broken
 
+### Executable Code in Pages
+
+- **R**: Some pages contain R code chunks (```{r}). Execution occurs during Quarto render. Use `renv`to manage packages; prefer`freeze: auto` in YAML for reproducibility.
+- **Python**: Python execution is currently uncommon/not required; only add Python chunks (```{python}) if justified and ensure `uv` environment is synced.
+- **Avoid heavy ops**: Keep chunks deterministic and resource-light; avoid network calls during build. Cache results or precompute and store artifacts under `assets/` when necessary.
+
 ### When Modifying Documentation Structure
 
 1. Update `_quarto.yml` if adding/removing pages or changing navigation
@@ -149,6 +180,7 @@ Use `npm run commit` to ensure proper formatting.
 
 1. Create new `.qmd` file in appropriate directory
 2. Add YAML front matter (title, description, etc.)
+   - Template: see [docs/sample-index.qmd](docs/sample-index.qmd) for a canonical example
 3. Add entry to `_quarto.yml` sidebar section
 4. Preview with `uv run quarto preview`
 5. Format with `npm run format`
@@ -242,5 +274,5 @@ Rscript -e 'renv::update()'
 
 ---
 
-**Last Updated**: 2025-11-12
+**Last Updated**: 2025-11-13
 **Maintained By**: [@Stadt-Geschichte-Basel](https://github.com/Stadt-Geschichte-Basel)

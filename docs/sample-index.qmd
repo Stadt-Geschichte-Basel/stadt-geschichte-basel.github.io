@@ -1,0 +1,117 @@
+---
+# Typical Quarto page front matter (copy and adapt)
+title: "Beispieltitel für Produktseite"
+subtitle: "Kurzer, prägnanter Untertitel"
+description: "1–2 Sätze, die den Inhalt und Zweck der Seite beschreiben."
+lang: de
+categories: [Beispiel, Dokumentation]
+keywords: [Stadt.Geschichte.Basel, RDM, Public History]
+# For citable outputs add a DOI and citation block (see AGENTS.md)
+# doi: 10.5281/zenodo.XXXXXXX
+# bibliography: references.bib
+# citation:
+#   type: standard
+#   title: "Seitentitel für Zitation"
+#   container-title: "Konferenz/Zeitschrift/Serie"
+#   page: 1–10
+#   publisher: "Herausgeber"
+#   publisher-place: "Ort"
+#   url: "https://doi.org/10.xxx/xxxx"
+
+# Authors are optional; include for talks/publications
+author:
+  - name: Vorname Nachname
+    email: vorname.nachname@example.org
+    affiliation: Universität Basel
+    orcid: 0000-0000-0000-0000
+
+# Dates: set fixed or use last-modified for auto-updates
+# date: 2025-11-13
+date-modified: last-modified
+
+# Optional link blocks shown near the top
+other-links:
+  - text: Begleitdokument (PDF)
+    icon: filetype-pdf
+    href: 'assets/example.pdf'
+code-links:
+  - text: GitHub Repository
+    icon: github
+    href: 'https://github.com/Stadt-Geschichte-Basel/beispiel'
+
+# For overview pages with listings, consider:
+# listing:
+#   - id: showcase
+#     type: grid
+#     contents:
+#       - products/*/*/index.qmd
+#     fields: [title, subtitle, date, categories]
+#     page-size: 1000
+---
+
+```{=html}
+<!-- Multilingual pattern: keep parallel files with suffixes
+     - index.de.qmd (this file)
+     - index.en.qmd (English translation)
+     Maintain content parity across languages. -->
+```
+
+## Einleitung
+
+Dieser Beispieltext zeigt Aufbau und Bausteine einer typischen Quarto-Seite in diesem Repository. Verwenden Sie den YAML-Header oben als Ausgangspunkt und passen Sie Felder wie `lang`, `categories`, `author` und optional `doi`/`citation` gemäss der Seite an.
+
+::: {.callout-note title="Hinweis"}
+-   Interne Seiten (unter `products/interna/`) erhalten in der Regel keinen DOI.
+-   Citable Outputs (Publikationen, Talks & Posters) sollen, falls vorhanden, einen `doi:` im YAML sowie einen `citation:`-Block enthalten.
+:::
+
+## Abbildungen und Assets
+
+Eine Bildreferenz aus `assets/img/`:
+
+![Beispielbildtitel](assets/example.png){fig-alt="Beschreibung des Bildes"}
+
+Ein PDF-Link (optional):
+
+::: {.callout-tip title="PDF öffnen" icon="false" collapse="true"}
+[Beispiel-PDF herunterladen](/assets/files/beispiel.pdf)
+:::
+
+## Verlinkungen und Anker
+
+-   Team: [/team.qmd](/team.qmd)
+-   Produkte-Übersicht: [/products/products.qmd](/products/products.qmd)
+-   Extern: [Stadt.Geschichte.Basel Portal](https://stadtgeschichtebasel.ch)
+
+## Beispiel für Codeblöcke
+
+Ein R-Chunk (nicht ausgeführt):
+
+```{r}
+#| eval: false
+#| echo: true
+summary(cars)
+```
+
+Ein Python-Chunk (nicht ausgeführt):
+
+```{python}
+#| eval: false
+#| echo: true
+#| python.reticulate: false
+print("Hello Quarto")
+```
+
+## Struktur und Abschnitte
+
+Verwenden Sie sinnvolle Überschriften (`##`, `###`) und kurze Absätze. Halten Sie die Navigation konsistent und vermeiden Sie übermässige Tiefe. Für inhaltliche Kästen nutzen Sie Callouts (`.callout-note`, `.callout-tip`, usw.).
+
+## Zitation (optional)
+
+Wenn ein DOI existiert, ergänzen Sie `doi:` im YAML und fügen Sie bei Bedarf einen `citation:`-Block hinzu. Verlinken Sie DOIs in der Form `https://doi.org/<doi>`.
+
+## Metadaten und Reproduzierbarkeit
+
+-   Setzen Sie `date-modified: last-modified` für automatische Änderungsdaten.
+-   Für reproduzierbare Ausgaben kann auf Seitenebene `freeze: auto` verwendet werden.
+-   Vermeiden Sie teure oder nicht-deterministische Operationen in Code-Chunks.
