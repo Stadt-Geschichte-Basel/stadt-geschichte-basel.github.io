@@ -1,0 +1,44 @@
+---
+title: Iconclass Classification Pipeline
+subtitle: Automatisierte Klassifikation von Kulturgütern
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+code-links:
+  - href: 'https://github.com/Stadt-Geschichte-Basel/iconclass-classification/'
+    text: GitHub Repository
+    icon: github
+---
+
+## Iconclass Classification Pipeline
+
+Die [Iconclass Classification Pipeline](https://github.com/Stadt-Geschichte-Basel/iconclass-classification) ist ein automatisiertes Werkzeug zur Klassifizierung von digitalen Kulturgütern mittels [Iconclass](https://iconclass.org/)-Codes. Das System nutzt ein Vision-Language-Model (VLM), das lokal über [Ollama](https://ollama.ai/) gehostet wird, um Kunstwerke und historische Objekte zu analysieren und zu kategorisieren.
+
+Die Pipeline wurde speziell für die digitalen Sammlungen von Stadt.Geschichte.Basel entwickelt und ermöglicht eine effiziente, nachvollziehbare Verarbeitung grosser Bildbestände. Sie verarbeitet Metadaten, lädt Bilder herunter, klassifiziert diese automatisch und dokumentiert den gesamten Prozess mit vollständiger Provenienz.
+
+## Funktionen
+
+Das Werkzeug bietet umfangreiche Möglichkeiten zur automatisierten Klassifikation:
+
+- **Automatisierte Iconclass-Klassifikation**: Nutzt das Iconclass VLM-Modell für präzise Kategorisierung
+- **Stapelverarbeitung**: Verarbeitet ganze Sammlungen aus metadata.json-Dateien
+- **Intelligente Bildverarbeitung**: Automatischer Download, Skalierung, Normalisierung und SHA256-basiertes Caching
+- **Flexible Stichproben**: Zufällige, feste oder vollständige Datensatz-Modi mit reproduzierbaren Seeds
+- **Mehrere Prompts**: Drei Prompt-Vorlagen (Standard, Instruktion, Few-Shot) für optimale Ergebnisse
+- **Vollständige Provenienz**: Zeitgestempelte Ausführungsverzeichnisse mit vollständigem Audit-Trail
+
+## Anwendung
+
+Die Pipeline lässt sich über die Kommandozeile steuern und unterstützt sowohl lokale (Ollama) als auch Cloud-basierte (OpenRouter) Klassifikation. Das System filtert automatisch die zu verarbeitenden Objekte und speichert die Ergebnisse strukturiert ab.
+
+Alle Ergebnisse werden in zeitgestempelten Verzeichnissen mit vollständiger Dokumentation gespeichert, einschliesslich der Original-Metadaten, verarbeiteten Bilder, Klassifikationsanfragen und -antworten sowie detaillierten Logs.
+
+## Technologie
+
+Das zugehörige GitHub-Repository [iconclass-classification](https://github.com/Stadt-Geschichte-Basel/iconclass-classification/) enthält den Open-Source-Code der Pipeline. Die Verwendung von Python und modernen Bibliotheken wie Pydantic gewährleistet Typsicherheit und Datenvalidierung. Umfangreiche Tests sichern die Zuverlässigkeit des Systems.
+
+Durch die Offenlegung des Quellcodes wird Transparenz gefördert und die Nachnutzung für andere Forschungsprojekte ermöglicht. Die Pipeline folgt den Best Practices für reproduzierbare Forschung und ist vollständig dokumentiert.

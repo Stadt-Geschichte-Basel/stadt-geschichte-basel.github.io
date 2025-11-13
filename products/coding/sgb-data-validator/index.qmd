@@ -1,0 +1,47 @@
+---
+title: SGB Data Validator
+subtitle: Datenvalidierung für Stadt.Geschichte.Basel
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+code-links:
+  - href: 'https://github.com/Stadt-Geschichte-Basel/sgb-data-validator/'
+    text: GitHub Repository
+    icon: github
+---
+
+## SGB Data Validator
+
+Der [SGB Data Validator](https://github.com/Stadt-Geschichte-Basel/sgb-data-validator) ist ein Python-basiertes Werkzeug zur Validierung der Metadatenqualität für das Projekt Stadt.Geschichte.Basel. Es stellt sicher, dass Kulturgüter und Medienobjekte in der [Omeka S](https://omeka.org/s/)-Instanz einem umfassenden Datenmodell mit kontrollierten Vokabularen entsprechen.
+
+Das Werkzeug wurde entwickelt, um die Qualität und Konsistenz der historischen Forschungsdaten zu gewährleisten. Es überprüft systematisch alle Metadaten auf Vollständigkeit, Korrektheit und Einhaltung definierter Standards. Dadurch wird sichergestellt, dass die Daten den FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) entsprechen.
+
+## Funktionen
+
+Der Validator bietet umfangreiche Prüf- und Analysemöglichkeiten:
+
+- **Schema-Validierung**: Nutzt Pydantic-Modelle für strukturierte Datenprüfung
+- **Kontrollierte Vokabulare**: Validiert Epochen, MIME-Typen, Lizenzen und Iconclass-Codes
+- **Sprachvalidierung**: Überprüft ISO 639-1 Sprachcodes für alle 184 Zwei-Buchstaben-Codes
+- **URI-Validierung**: Prüft URIs auf Erreichbarkeit und erkennt defekte Links
+- **CSV-Reports**: Erstellt übersichtliche Berichte für die Datenqualitätsprüfung
+- **Daten-Profiling**: Generiert interaktive HTML-Berichte mit detaillierten Statistiken
+- **Datentransformation**: Normalisiert Leerzeichen und andere Formatierungsprobleme
+- **Backup und Restore**: Sichere Datenverwaltung mit Wiederherstellungsfunktion
+- **Python-API**: Programmtischer Zugriff für erweiterte Anwendungsfälle
+
+## Anwendung
+
+Das Werkzeug kann über die Kommandozeile bedient werden und unterstützt verschiedene Validierungs- und Transformationsszenarien. Es ermöglicht sowohl die Online-Validierung direkt aus Omeka S als auch einen vollständigen Offline-Workflow mit Download, Transformation, lokaler Bearbeitung und Upload.
+
+Die Validierungsergebnisse werden in verschiedenen Formaten bereitgestellt, darunter übersichtliche CSV-Dateien mit direkten Links zu den zu bearbeitenden Ressourcen in der Omeka-Administrationsoberfläche. Dies erleichtert die systematische Behebung von Datenqualitätsproblemen erheblich.
+
+## Technologie
+
+Das zugehörige GitHub-Repository [sgb-data-validator](https://github.com/Stadt-Geschichte-Basel/sgb-data-validator/) enthält den vollständigen Open-Source-Code des Validators. Die Verwendung moderner Python-Bibliotheken wie Pydantic für Datenvalidierung und ydata-profiling für Datenanalyse gewährleistet hohe Qualität und Zuverlässigkeit.
+
+Das Projekt folgt der [Advanced Structure for Data Analysis](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html) von _The Turing Way_ und nutzt moderne Werkzeuge wie [uv](https://docs.astral.sh/uv/) für Abhängigkeitsverwaltung und [ruff](https://docs.astral.sh/ruff/) für Code-Qualität. Durch die Offenlegung des Quellcodes wird die Nachnutzbarkeit für andere Kulturerbe-Projekte gefördert.
