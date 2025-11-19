@@ -36,7 +36,7 @@ This repository contains the documentation platform for Stadt.Geschichte.Basel, 
 
 ## Repository Structure
 
-The repository follows [The Turing Way's Advanced Structure for Data Analysis](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html):
+The repository follows [The Turing Way's Advanced Structure for Data Analysis](https://book.the-turing-way.org/project-design/pd-overview/project-repo/project-repo-advanced/):
 
 ```text
 ├── assets/          # Images, figures, and other media files
