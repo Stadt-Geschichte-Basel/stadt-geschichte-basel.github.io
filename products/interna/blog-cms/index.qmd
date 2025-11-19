@@ -92,7 +92,7 @@ Der Blog ist Teil eines integrierten Kommunikationskonzepts:
 
 - **Soziale Medien**: Blog-Beiträge werden auf [LinkedIn](https://www.linkedin.com/company/stadt-geschichte-basel) und [Instagram (sta.ge.ba)](https://www.instagram.com/sta.ge.ba/) geteilt
 - **Newsletter**: Ausgewählte Inhalte werden im Newsletter verbreitet
-- **Portal**: Wichtige Beiträge werden auf dem [Hauptportal](https://stadtgeschichtebasel.ch) verlinkt
+- **Portal**: Wichtige Beiträge werden auf dem [Portal](/products/coding/portal/index.qmd) verlinkt
 - **Dokumentationsplattform**: Weiterführende Dokumentation erfolgt auf dieser Plattform
 
 ## Redaktionelle Richtlinien

@@ -27,7 +27,7 @@ Das Stylesheet für die OMP-Instanz wurde entwickelt, um die visuelle Identität
 
 ## Technische Herausforderung: Base64-kodierte Schriftarten
 
-Eine zentrale technische Herausforderung bestand darin, dass die OMP-Instanz keine separaten Asset-Dateien (wie Schriftdateien) hochladen konnte. Um die Corporate-Font **Euclid Circular B** dennoch zu verwenden, wurden die Schriftarten als **Base64-kodierte Strings** direkt ins CSS eingebettet.
+Eine zentrale technische Herausforderung bestand darin, dass die OMP-Instanz keine separaten Asset-Dateien (wie Schriftdateien) hochladen konnte. Um die [Corporate-Font](../corporate-identity/index.qmd#schriftarten) **Euclid Circular B** dennoch zu verwenden, wurden die Schriftarten als **Base64-kodierte Strings** direkt [ins CSS eingebettet](https://emono.unibas.ch/public/presses/5/styleSheet.css?v=3.4.0.7).
 
 Diese Lösung ermöglicht die Verwendung der Schrift ohne externe Dateien:
 
