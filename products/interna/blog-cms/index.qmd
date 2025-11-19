@@ -1,0 +1,240 @@
+---
+title: Blog-CMS Hypotheses.org
+subtitle: Dokumentation der Nutzung von sgb.hypotheses.org
+category: Interna
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@unibas.ch
+    affiliation: Universität Basel
+    orcid: 0000-0002-1367-1618
+date: 2025-11-13
+date-modified: last-modified
+lang: de-CH
+other-links:
+  - text: SGB Blog
+    icon: rss
+    href: 'https://sgb.hypotheses.org/'
+  - text: Hypotheses.org
+    icon: link-45deg
+    href: 'https://hypotheses.org/'
+  - text: Kommunikationsrichtlinien
+    icon: file-earmark-text
+    href: '/products/interna/richtlinien/index.html'
+---
+
+Diese Seite dokumentiert die Nutzung von Hypotheses.org als Content-Management-System (CMS) für den Blog von Stadt.Geschichte.Basel. Der Blog ist unter <https://sgb.hypotheses.org/> erreichbar.
+
+## Über Hypotheses.org
+
+[Hypotheses.org](https://hypotheses.org/) ist eine internationale Blogging-Plattform für die Geistes- und Sozialwissenschaften. Sie wird von [OpenEdition](https://www.openedition.org/) betrieben, einer mehrsprachigen digitalen Infrastruktur für elektronische Ressourcen in den Geistes- und Sozialwissenschaften.
+
+### Eigenschaften der Plattform
+
+**Wissenschaftliche Ausrichtung**: Hypotheses.org ist speziell für akademische Blogs konzipiert und bietet Features, die auf die Bedürfnisse der Forschungscommunity zugeschnitten sind.
+
+**Technische Grundlage**: Die Plattform basiert auf WordPress, bietet aber eine kuratierte, wissenschaftlich orientierte Umgebung mit zusätzlichen Services.
+
+**Mehrsprachigkeit**: Die Plattform unterstützt mehrsprachige Inhalte, was für internationale Forschungsprojekte von Vorteil ist.
+
+**Vernetzung**: Hypotheses.org ist Teil des OpenEdition-Netzwerks und vernetzt wissenschaftliche Blogs untereinander.
+
+## Warum Hypotheses.org?
+
+Stadt.Geschichte.Basel hat sich aus mehreren Gründen für Hypotheses.org als Blog-CMS entschieden:
+
+### Wissenschaftliche Glaubwürdigkeit
+
+Als etablierte Plattform im akademischen Bereich vermittelt Hypotheses.org wissenschaftliche Seriosität. Blog-Beiträge erscheinen im Kontext einer anerkannten wissenschaftlichen Infrastruktur.
+
+### Technische Infrastruktur
+
+Die Plattform bietet eine solide, gepflegte technische Infrastruktur ohne eigenen Wartungsaufwand. Software-Updates, Sicherheit und Hosting werden von OpenEdition übernommen.
+
+### Sichtbarkeit und Auffindbarkeit
+
+- **Katalogisierung**: Blogs auf Hypotheses.org werden in wissenschaftlichen Katalogen und Verzeichnissen aufgeführt
+- **SEO-Optimierung**: Die Plattform ist suchmaschinenoptimiert
+- **RSS-Feeds**: Automatische RSS-Feeds für Abonnements
+- **Vernetzung**: Querverweise zu anderen wissenschaftlichen Blogs im OpenEdition-Netzwerk
+
+### Langzeitarchivierung
+
+Inhalte auf Hypotheses.org werden langfristig archiviert und sind über persistente URLs dauerhaft verfügbar. Dies entspricht den Grundsätzen der Langzeitarchivierung im [Digitalkonzept](../digitalkonzept/index.qmd).
+
+### Open-Access-Kompatibilität
+
+Die Plattform unterstützt Open-Access-Prinzipien und ermöglicht die freie Verfügbarkeit wissenschaftlicher Inhalte, was den Zielen von Stadt.Geschichte.Basel entspricht.
+
+## Integration in die Kommunikationsstrategie
+
+Der Blog auf Hypotheses.org ist ein zentraler Bestandteil der Kommunikationsstrategie von Stadt.Geschichte.Basel:
+
+### Inhaltliche Ausrichtung
+
+Der Blog dient zur Vermittlung von:
+
+- **Projektnews**: Aktuelle Entwicklungen und Meilensteine
+- **Forschungsergebnissen**: Einblicke in laufende Arbeiten
+- **Methodischen Überlegungen**: Reflexion über digitale Methoden
+- **Veranstaltungshinweisen**: Ankündigungen von Talks, Workshops, Konferenzen
+- **Data Stories**: Narrative Aufbereitung von Forschungsdaten
+
+### Zielgruppen
+
+- Wissenschaftliche Community (Digital History, Public History)
+- Kooperationspartner und Kulturinstitutionen
+- Interessierte Öffentlichkeit
+- Studierende und Nachwuchsforschende
+
+### Verbindung zu anderen Kanälen
+
+Der Blog ist Teil eines integrierten Kommunikationskonzepts:
+
+- **Soziale Medien**: Blog-Beiträge werden auf [LinkedIn](https://www.linkedin.com/company/stadt-geschichte-basel) und [Instagram (sta.ge.ba)](https://www.instagram.com/sta.ge.ba/) geteilt
+- **Newsletter**: Ausgewählte Inhalte werden im Newsletter verbreitet
+- **Portal**: Wichtige Beiträge werden auf dem [Portal](/products/coding/portal/index.qmd) verlinkt
+- **Dokumentationsplattform**: Weiterführende Dokumentation erfolgt auf dieser Plattform
+
+## Redaktionelle Richtlinien
+
+Für Blog-Beiträge gelten die [Kommunikationsrichtlinien](../richtlinien/index.qmd) von Stadt.Geschichte.Basel, die folgende Aspekte umfassen:
+
+### Wissenschaftliche Standards
+
+- Genaue Darstellung von Fakten und Quellen
+- Korrekte Quellenangaben und Verlinkungen
+- Förderung von kritischem Diskurs
+
+### Inklusive Sprache
+
+- Verwendung [geschlechtersensibler Sprache](../richtlinien/index.qmd#regelung-für-geschlechtersensible-sprache)
+- Vermeidung von Diskriminierung
+- Barrierefreie Gestaltung (Alternativtexte für Bilder, klare Formatierung)
+
+### Formale Anforderungen
+
+Gemäss den [formalen Spezifikationen für Blog-Beiträge](../richtlinien/index.qmd#formale-spezifikationen-für-blog-beiträge):
+
+- **Titel**: Maximal 70 Zeichen inkl. Leerzeichen
+- **Text**: 500 bis 3000 Zeichen inkl. Leerzeichen
+- **Lead/Teaser**: Maximal 280 Zeichen inkl. Leerzeichen
+- **Bilder**: 1 bis 3 hochaufgelöste Bilder mit Bildlegenden und Alternativtexten
+- **Kategorien**: Zuordnung zu Format und historischer Periode
+
+## Workflow und Verantwortlichkeiten
+
+### Redaktionsteam
+
+Die Redaktion des Blogs liegt bei:
+
+- Moritz Mähr
+- Noëlle Schnegg
+- Cristina Münch
+
+### Publikationsprozess
+
+1. **Entwurf**: Autor\*innen erstellen Beiträge gemäss Richtlinien
+2. **Review**: Vier-Augen-Prinzip – mindestens eine Person prüft den Beitrag
+3. **Korrektorat**: Sprachliche und formale Überprüfung
+4. **Freigabe**: Finale Freigabe durch Redaktionsteam
+5. **Publikation**: Veröffentlichung auf sgb.hypotheses.org
+6. **Verbreitung**: Teilung über soziale Medien und Newsletter
+
+### Qualitätssicherung
+
+- Einhaltung der wissenschaftlichen Standards
+- Prüfung von Bildrechten und Quellenangaben
+- Überprüfung der Barrierefreiheit (Alternativtexte, Formatierung)
+- Konsistenz mit Corporate Identity und Kommunikationsrichtlinien
+
+## Technische Features
+
+### WordPress-Backend
+
+Als WordPress-basierte Plattform bietet Hypotheses.org:
+
+- **Benutzerfreundlicher Editor**: Visueller und Block-Editor für einfache Content-Erstellung
+- **Medienverwaltung**: Upload und Verwaltung von Bildern und Dateien
+- **Kategorien und Tags**: Strukturierung und Verschlagwortung von Inhalten
+- **Kommentarfunktion**: Möglichkeit zum Austausch mit Leser\*innen
+- **Benutzerverwaltung**: Mehrere Autor\*innen mit verschiedenen Rollen
+
+### Spezielle Features von Hypotheses.org
+
+- **ISSN**: Jeder Blog erhält eine ISSN (International Standard Serial Number)
+- **Metadata**: Strukturierte Metadaten für bessere Auffindbarkeit
+- **Zotero-Integration**: Blogs können in Zotero importiert werden
+- **OpenEdition-Suche**: Integration in die übergreifende Suche des OpenEdition-Portals
+
+## Zusammenhang mit weiteren Plattformen
+
+Stadt.Geschichte.Basel nutzt ein Ökosystem verschiedener digitaler Plattformen:
+
+```{=html}
+<div class="grid">
+  <div class="g-col-12 g-col-md-6">
+```
+
+**Hypotheses.org Blog**  
+Aktuelle Kommunikation, News, Reflexionen
+
+**[Portal (stadtgeschichtebasel.ch)](../../coding/portal/index.qmd)**  
+Öffentliche Hauptwebsite mit Überblicksinformationen
+
+**[Forschungsdatenplattform (forschung.stadtgeschichtebasel.ch)](../../coding/plattform/index.qmd)**  
+Publikation von Forschungsdaten, Metadaten, Visualisierungen
+
+```{=html}
+  </div>
+  <div class="g-col-12 g-col-md-6">
+```
+
+**Dokumentationsplattform (dokumentation.stadtgeschichtebasel.ch)**  
+Diese Plattform – interne und externe Dokumentation
+
+**[OMP Subpress (emono.unibas.ch/stadtgeschichtebasel)](../omp-styling/index.qmd)**  
+Publikation von Monographien und wissenschaftlichen Veröffentlichungen
+
+**Soziale Medien**  
+LinkedIn, Instagram für Reichweite und Engagement
+
+```{=html}
+  </div>
+</div>
+```
+
+## Best Practices
+
+### Regelmässigkeit
+
+Regelmässige Publikationen fördern die Sichtbarkeit und binden die Community ein. Angestrebt wird mindestens ein Beitrag pro Monat.
+
+### Vielfalt
+
+Eine Mischung verschiedener Formate (Stories, Veranstaltungshinweise, Dialogbeiträge) spricht unterschiedliche Zielgruppen an.
+
+### Verlinkung
+
+- Interne Verlinkung zu verwandten Inhalten auf dem Blog
+- Externe Verlinkung zu Forschungsdaten, Portal, Publikationen
+- Cross-Promotion über soziale Medien
+
+### Engagement
+
+- Reaktion auf Kommentare und Anfragen
+- Dialog mit der wissenschaftlichen Community
+- Einbindung von Gastautor\*innen
+
+## Zugang und Administration
+
+Der Zugang zum Backend von sgb.hypotheses.org ist auf autorisierte Mitglieder des Redaktionsteams beschränkt. Zugangsdaten werden sicher verwaltet und bei Bedarf aktualisiert.
+
+Neue Teammitglieder erhalten eine Einführung in die Plattform und die redaktionellen Richtlinien.
+
+## Weiterführende Links
+
+- [Hypotheses.org Dokumentation](https://help.hypotheses.org/)
+- [OpenEdition Support](https://support.openedition.org/)
+- [WordPress Dokumentation](https://wordpress.org/documentation/)
+- [Kommunikationsrichtlinien von Stadt.Geschichte.Basel](../richtlinien/index.qmd)
+- [Digitalkonzept](../digitalkonzept/index.qmd)
