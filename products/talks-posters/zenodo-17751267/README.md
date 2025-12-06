@@ -7,7 +7,10 @@ This directory contains a template for the talk associated with Zenodo record 17
 A Python script has been created to automatically populate most fields from Zenodo. To use it:
 
 ```bash
-# From the repository root
+# Ensure PyYAML is installed (usually available in standard Python environments)
+pip install pyyaml
+
+# Run from the repository root directory
 python3 products/talks-posters/zenodo-17751267/populate_zenodo_talk.py 17751267 zenodo-17751267
 ```
 

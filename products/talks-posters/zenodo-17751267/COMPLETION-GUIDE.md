@@ -17,6 +17,11 @@ A template structure has been created for the talk associated with [Zenodo recor
 Run the Python script from the repository root to automatically fill most fields:
 
 ```bash
+# Ensure PyYAML is installed
+pip install pyyaml
+
+# Run from the repository root directory
+cd /path/to/stadt-geschichte-basel.github.io
 python3 products/talks-posters/zenodo-17751267/populate_zenodo_talk.py 17751267 zenodo-17751267
 ```
 

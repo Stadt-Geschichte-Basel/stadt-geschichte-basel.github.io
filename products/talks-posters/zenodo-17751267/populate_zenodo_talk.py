@@ -12,6 +12,7 @@ index.qmd file with the correct information.
 import sys
 import json
 import urllib.request
+import yaml
 from pathlib import Path
 
 
@@ -51,41 +52,41 @@ def populate_template(metadata, directory_name):
     publication_date = md.get("publication_date", "")
     doi = md.get("doi", "")
     
-    # Format authors
-    authors_yaml = []
-    for creator in creators:
-        author_str = f"  - name: {creator.get('name', '')}"
-        if creator.get("orcid"):
-            author_str += f"\n    orcid: {creator['orcid']}"
-        if creator.get("affiliation"):
-            author_str += f"\n    affiliation: {creator['affiliation']}"
-        authors_yaml.append(author_str)
+    # Format authors using the helper function
+    authors = format_authors(creators)
     
-    authors_block = "\n".join(authors_yaml)
+    # Build YAML frontmatter using yaml library for safety
+    frontmatter = {
+        "title": title,
+        "author": authors,
+        "date": publication_date,
+        "doi": doi,
+        "categories": "Vortrag",
+        "event": "TODO - Add event name",
+        "lang": "de",
+        "bibliography": "references.bib",
+        "nocite": "@*",
+        "citation": {
+            "type": "standard",
+            "title": title,
+            "container-title": "TODO - Add container title (event/conference name)"
+        },
+        "appendix-cite-as": "display",
+        "other-links": [
+            {
+                "text": "Slides (Zenodo)",
+                "icon": "filetype-pdf",
+                "href": f"https://doi.org/{doi}"
+            }
+        ]
+    }
     
-    # Create the index.qmd content
+    # Generate YAML frontmatter
+    yaml_str = yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True, sort_keys=False)
+    
+    # Create the complete content with YAML frontmatter and body
     content = f"""---
-title: {title}
-author:
-{authors_block}
-date: {publication_date}
-doi: {doi}
-categories: Vortrag
-event: TODO - Add event name
-lang: de
-bibliography: references.bib
-nocite: |
-  @*
-citation:
-  type: standard
-  title: '{title}'
-  container-title: 'TODO - Add container title (event/conference name)'
-appendix-cite-as: display
-other-links:
-  - text: Slides (Zenodo)
-    icon: filetype-pdf
-    href: 'https://doi.org/{doi}'
----
+{yaml_str}---
 
 ## Vortrag
 
