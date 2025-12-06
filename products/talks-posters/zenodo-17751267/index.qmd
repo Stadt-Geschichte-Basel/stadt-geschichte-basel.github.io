@@ -1,0 +1,50 @@
+---
+title: TODO - Add title from Zenodo record
+subtitle: TODO - Add subtitle if present
+author:
+  - name: TODO - Add author name
+    email: TODO - Add email
+    orcid: TODO - Add ORCID if available
+    affiliation: TODO - Add affiliation
+date: TODO - Add date in YYYY-MM-DD format
+doi: 10.5281/zenodo.17751267
+categories: Vortrag
+event: TODO - Add event name
+lang: de
+bibliography: references.bib
+nocite: |
+  @*
+citation:
+  type: standard
+  title: 'TODO - Add title for citation'
+  container-title: 'TODO - Add container title (event/conference name)'
+appendix-cite-as: display
+other-links:
+  - text: TODO - Add link description (e.g., Veranstaltungswebseite)
+    icon: house
+    href: 'TODO - Add URL'
+  - text: Slides (Zenodo)
+    icon: filetype-pdf
+    href: 'https://doi.org/10.5281/zenodo.17751267'
+---
+
+## Vortrag
+
+TODO - Add description of the talk, event context, and any relevant details.
+
+::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
+Diese Ansicht zeigt eine komprimierte Vorschau der Präsentation. Die hochaufgelösten Original-Slides sind [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.17751267).
+
+TODO - If there's a PDF file available in /assets/files/, add an iframe here:
+<!-- Example:
+<iframe src="/assets/files/FILENAME.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="TITLE">
+
+This browser does not support PDFs. Please <a href="/assets/files/FILENAME.pdf">download the PDF</a> to view it.
+
+</iframe>
+-->
+:::
+
+## Abstract
+
+TODO - Add abstract from Zenodo record if available.
