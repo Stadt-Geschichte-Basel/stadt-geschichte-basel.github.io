@@ -20,7 +20,7 @@ author:
     - name: Peter-Andrew Schwarz
       affiliation: Universität Basel
 date: 2014-06
-lang: de-DE
+lang: de
 url: http://edoc.unibas.ch/50574/
 other-links:
   - text: edoc-Server
