@@ -1,0 +1,155 @@
+---
+title: 'Lehrmittel zu Migration, Flucht und Zeitgeschichte'
+subtitle: 'Bildungsressourcen für den Geschichts- und Gesellschaftsunterricht'
+description: 'Dokumentation der Lehrmittel «Verschachtelte Geschichten» und «When We Disappear» sowie weiterführende Materialien zur schweizerischen Migrationsgeschichte und europäischen Zeitgeschichte.'
+categories: Publikation
+lang: de-CH
+author:
+  - name: Fiona Scheidegger
+    affiliation: Stadtgeschichte Basel
+  - name: Tizian Zumthurm
+    affiliation: Stadtgeschichte Basel
+  - name: Robin Burgauer
+    affiliation: Inlusio Interactive
+  - name: Robbert van Rooden
+    affiliation: Inlusio Interactive
+  - name: Jasmine Helbling
+    affiliation: Autorin
+  - name: Peter Gautschi
+    affiliation: Pädagogische Hochschule Luzern
+  - name: Daniel Furrer
+    affiliation: Pädagogische Hochschule Luzern
+date: 2021-01-01
+date-modified: last-modified
+other-links:
+  - text: Verschachtelte Geschichten
+    icon: globe
+    href: 'https://stadtgeschichtebasel.ch/vermittlungsangebot-verschachtelte-geschichten-immigrationsschicksale-in-der-schweiz-in-den-letzten-hundert-jahren'
+  - text: When We Disappear
+    icon: globe
+    href: 'https://www.whenwedisappear.com/de/edu/erprobung'
+  - text: Basler Bildungsserver
+    icon: globe
+    href: 'https://www.edubs.ch'
+---
+
+## Einleitung
+
+Der Geschichts- und Gesellschaftsunterricht steht vor der Herausforderung, komplexe historische Ereignisse für Schülerinnen und Schüler greifbar zu machen. Die vorliegenden Lehrmittel setzen hierbei auf zwei starke pädagogische Zugänge: **biografisches Lernen** (am Beispiel einzelner Schicksale) und **Gamification** (Lernen durch interaktives Erleben). Im Zentrum stehen dabei die Themen Migration, Flucht und das Leben in der Schweiz im historischen Kontext.
+
+---
+
+## Verschachtelte Geschichten
+
+### Immigrationsschicksale in der Schweiz in den letzten hundert Jahren
+
+Dieses Lehrmittel, bereitgestellt von *Stadtgeschichte Basel*, widmet sich der schweizerischen Migrationsgeschichte des letzten Jahrhunderts.
+
+### Inhalt und Aufbau
+
+Das Material konzentriert sich auf **12 konkrete Immigrationsschicksale**. Anstatt Migration nur als statistisches Phänomen zu behandeln, werden individuelle Lebenswege beleuchtet. Der Zeitraum von 100 Jahren erlaubt es, Kontinuitäten und Veränderungen in der Einwanderungspolitik und der gesellschaftlichen Akzeptanz in der Schweiz aufzuzeigen.
+
+### Pädagogischer Mehrwert
+
+-   **Exemplarisches Lernen:** Durch die Reduktion auf 12 Biografien wird Geschichte «von unten» erzählt. Dies fördert die Empathie und das Verständnis für die individuellen Gründe von Migration (Arbeit, Liebe, Flucht, Bildung).
+-   **Lokaler Bezug:** Durch die Anbindung an die Stadtgeschichte Basel erhalten Lernende (insbesondere aus der Region) einen direkten Bezug zu ihrer unmittelbaren Lebenswelt.
+-   **Multiperspektivität:** Die Vielfalt der Schicksale verhindert eine stereotype Darstellung von «den Migranten» und zeigt die Heterogenität der Zuwanderung auf.
+
+### Einsatz im Unterricht
+
+Dieses Material eignet sich hervorragend für den Geschichtsunterricht (Sekundarstufe I und II) sowie für Fächer der politischen Bildung. Es kann genutzt werden, um Oral History (mündliche Geschichte) einzuführen oder um aktuelle Migrationsdebatten historisch zu kontextualisieren.
+
+### Hintergrundinformationen
+
+**Herstellung:** Projekt Stadtgeschichte Basel – Das Material wurde vom Vermittlungsteam des Grossprojekts *Stadtgeschichte Basel* entwickelt (Trägerschaft: Verein Basler Geschichte).
+
+**Zeitraum:** Laufend (seit ca. 2021) – Das Material ist Teil der aktuellen Vermittlungsangebote, die begleitend zur neuen Basler Stadtgeschichte (erschienen in Buchform ab 2024, Projektstart zuvor) veröffentlicht wurden.
+
+**Kontext:** Lokaler Geschichtsunterricht (CH) – Konzipiert für den Einsatz im Schweizer Lehrplan (Zyklus 2 & 3), um lokale Migrationsgeschichte greifbar zu machen. Es dient oft als Vor- oder Nachbereitung von Museumsbesuchen oder Stadtrundgängen in Basel.
+
+**Konzeption und Ausarbeitung:**
+
+-   **Fiona Scheidegger:** Historikerin und Kulturvermittlerin, hauptverantwortlich für die Konzeption und Umsetzung des Vermittlungsangebots.
+-   **Tizian Zumthurm:** Projektleiter für die Vermittlung bei *Stadtgeschichte Basel*.
+
+**Wissenschaftliche Grundlage:** Das Material basiert auf dem Band *«Ausgreifende Stadt. Basel seit 1910»* (Band 9 der Stadtgeschichte). Die Herausgeber dieses Bandes sind **Patrick Kury** (Prof. für Geschichte, Uni Luzern), **Susanna Burghartz** (Prof. für Geschichte, Uni Basel) sowie **Esther Baur**.
+
+---
+
+## When We Disappear
+
+### Ein Serious Game zur Flucht in den 1940er Jahren
+
+«When We Disappear» ist ein digitales Lehrmittel in Form eines Videospiels, das historische Fakten mit einer narrativen Erfahrung verknüpft.
+
+### Inhalt und Handlung
+
+Das Spiel erzählt die Geschichte des Mädchens **Hannah** in den 1940er Jahren. Inspiriert von wahren Begebenheiten, thematisiert es ihre Flucht quer durch Europa während des Zweiten Weltkriegs. Als Spieler begleitet man die Protagonistin und erlebt die Herausforderungen, Ängste und Entscheidungen einer Flucht hautnah mit.
+
+### Pädagogischer Mehrwert
+
+-   **Immersives Lernen:** Anders als bei Texten ermöglicht das Medium Videospiel eine emotionale Involvierung (Immersion). Die Schülerinnen und Schüler sind nicht nur passive Konsumenten, sondern aktive Akteure in der Geschichte.
+-   **Historische Kompetenz:** Das Spiel vermittelt Wissen über den Holocaust, den Zweiten Weltkrieg und die Geografie Europas in den 1940ern, ohne dabei lehrbuchhaft zu wirken.
+-   **Flexibilität:** Laut Beschreibung kann das Spiel mit unterschiedlichen Schwerpunkten eingesetzt werden. Das bedeutet, es kann sowohl ethische Fragen (Entscheidungen auf der Flucht), historische Fakten oder geografische Aspekte beleuchten.
+
+### Einsatz im Unterricht
+
+Das Spiel bietet sich für fächerübergreifenden Unterricht an (Geschichte, Ethik/Religion, Geografie). Es ist besonders geeignet, um jüngere Generationen, die einen starken Bezug zu digitalen Medien haben, für schwere historische Themen zu sensibilisieren. Begleitmaterialien unterstützen Lehrpersonen dabei, das Erlebte im Klassenzimmer zu reflektieren und historisch einzuordnen.
+
+### Hintergrundinformationen
+
+**Herstellung:** Inlusio Interactive & PH Luzern – Entwickelt vom Zürcher Studio *Inlusio Interactive* (Robin Burgauer, Robbert van Rooden) in enger Kooperation mit dem *Institut für Geschichtsdidaktik und Erinnerungskulturen* der Pädagogischen Hochschule Luzern.
+
+**Zeitraum:** 2020 – heute (Erprobungsphase) – Erste Prototypen wurden ab 2020 vorgestellt. Die Bildungsversion befindet sich aktuell in der Erprobungs- und Rollout-Phase (ca. 2023/24) für Schulen.
+
+**Kontext:** Digitale Erinnerungskultur (Europa) – Entwickelt als «Serious Game» für den Einsatz in Schulen (Sek I & II), um Themen wie Holocaust und Flucht im Zweiten Weltkrieg durch moderne Medien und emotionale Immersion einer jungen Zielgruppe zugänglich zu machen.
+
+**Projektbeteiligte:**
+
+-   **Idee, Realisation & Game Design (Inlusio Interactive):**
+    -   **Robin Burgauer:** Co-Founder von Inlusio, Creative Director.
+    -   **Robbert van Rooden:** Co-Founder von Inlusio, Technical Director.
+-   **Drehbuch / Story:**
+    -   **Jasmine Helbling:** Autorin, verantwortlich für das Narrative Design und die Geschichte von Hannah.
+-   **Fachdidaktische Begleitung & Lehrmaterial (PH Luzern):**
+    -   **Prof. Dr. Peter Gautschi:** Leiter des *Instituts für Geschichtsdidaktik und Erinnerungskulturen* (IGE) an der PH Luzern. Er ist einer der führenden Experten für Geschichtsdidaktik in der Schweiz.
+    -   **Dr. Daniel Furrer:** Dozent und wissenschaftlicher Mitarbeiter am IGE der PH Luzern, zuständig für die didaktische Einbettung.
+
+---
+
+## Basler Bildungsserver
+
+### Zentrale Plattform für weiterführende Lehrmittel
+
+Der [Basler Bildungsserver (edubs.ch)](https://www.edubs.ch) dient als zentrale Plattform für Lehrpersonen und bietet Zugang zu vielfältigen Lehrmaterialien.
+
+**Ressourcenpool:** Hier finden sich weiterführende Lehrmittel von Kooperationspartnern und Dritten, die für den Geschichts- und Gesellschaftsunterricht relevant sind.
+
+**Vernetzung:** Die Plattform dient als Hub für Lehrpersonen, um Materialien wie die oben genannten zu finden und sinnvoll in den Lehrplan zu integrieren. Sie stellt sicher, dass die Materialien qualitätsgeprüft und für den lokalen Lehrplan relevant sind.
+
+---
+
+## Vergleich und Komplementarität
+
+Die vorgestellten Lehrmittel ergänzen sich ideal und ermöglichen einen multidimensionalen Zugang zu den Themen Migration, Flucht und Zeitgeschichte:
+
+| Merkmal                  | **Verschachtelte Geschichten**                                                       | **When We Disappear**                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Zeitlicher Fokus**     | 100 Jahre (ca. 1920er–2020er)                                                        | 1940er Jahre (Zweiter Weltkrieg)                                                               |
+| **Geografischer Fokus**  | Schweiz (Basel)                                                                      | Europa                                                                                         |
+| **Methodik**             | Biografisches Lernen, Oral History                                                   | Immersives Lernen, Gamification                                                                |
+| **Medienformat**         | Texte, Biografien, Stadtrundgänge                                                    | Interaktives Videospiel                                                                        |
+| **Thematischer Schwerpunkt** | Migrationsgeschichte der Schweiz, lokale Lebenswelten                            | Flucht und Verfolgung während des Holocaust                                                    |
+| **Zielgruppe**           | Sekundarstufe I & II                                                                 | Sekundarstufe I & II                                                                           |
+| **Einsatzmöglichkeiten** | Geschichtsunterricht, politische Bildung, Vor-/Nachbereitung von Museumsbesuchen | Fächerübergreifender Unterricht (Geschichte, Ethik, Geografie)                                 |
+
+**Zusammen ermöglichen sie einen Unterricht, der historische Faktenvermittlung mit emotionaler Bildung und Medienkompetenz verbindet.**
+
+1.  **«Verschachtelte Geschichten»** bietet die historische Tiefe und den Bezug zur **Schweizer Realität** über einen langen Zeitraum (100 Jahre).
+2.  **«When We Disappear»** bietet einen emotionalen, **europäischen Zugang** zu einer spezifischen Krisenzeit (1940er) durch moderne Mediennutzung.
+
+---
+
+## Fazit
+
+Die dokumentierten Lehrmittel stellen wichtige Ressourcen für den Geschichts- und Gesellschaftsunterricht dar. Sie verbinden wissenschaftliche Fundierung mit zugänglichen, emotional wirksamen Formaten und ermöglichen Lehrpersonen, komplexe historische Themen zeitgemäss zu vermitteln. Durch die Kombination von biografischem Lernen, digitalen Medien und lokalem Bezug fördern sie historisches Bewusstsein, Empathie und kritisches Denken bei Schülerinnen und Schülern.
