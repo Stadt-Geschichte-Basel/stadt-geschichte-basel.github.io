@@ -16,6 +16,11 @@ Die Langzeitarchivierung (LZA) des Projekts *Stadt.Geschichte.Basel* folgt dem P
 
 Die Strategie unterscheidet dabei strikt zwischen **Forschungsdaten** (Raw Data), **Präsentation** (Code/Web) und **Dokumentation** (Kontext).
 
+**Weiterführende Ressourcen:**
+
+- [Endings Principles for Digital Longevity](https://endings.uvic.ca/principles.html)
+- [Vortrag «Digital Longevity»](../talks-posters/digital-longevity/index.qmd)
+
 ## 2. Archivierung der Forschungsdaten
 
 Forschungsdaten bilden das Herzstück der digitalen Strategie. Sie werden nach den FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) archiviert.
@@ -35,6 +40,7 @@ Einzelne Datensätze, die als Grundlage für Grafiken, Karten oder statistische 
 - **Archiv:** **Zenodo** (Community `stadt-geschichte-basel`) 
 - **Inhalte:** Bereinigte Tabellen, GeoJSON-Dateien, statistische Reihen
 - **Zugang:** [Zenodo-Community: Stadt.Geschichte.Basel](https://zenodo.org/communities/stadt-geschichte-basel/)
+- **URL:** <https://zenodo.org/communities/stadt-geschichte-basel/>
 
 ## 3. Archivierung von Code & Software
 
