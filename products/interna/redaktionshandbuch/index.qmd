@@ -90,7 +90,7 @@ Pro Band sind rund 120 visuelle Elemente (Abbildungen, Karten, Grafiken) vorgese
 
 | Phase                        | Hauptverantwortung | Zentrale Aufgaben                                                                                                                                                |
 | :--------------------------- | :----------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **I. Lektorat**              | Bandteam/SGB       | Fachliches und sprachliches Lektorat, Konsolidierung des Gesamtmanuskripts; Konkretisierung der Bildauswahl, Verfassen und Lektorieren prioritäter Bildlegenden. |
+| **I. Lektorat**              | Bandteam/SGB       | Fachliches und sprachliches Lektorat, Konsolidierung des Gesamtmanuskripts; Konkretisierung der Bildauswahl, Verfassen und Lektorieren prioritärer Bildlegenden. |
 | **II. Satz/Umbruch (Start)** | CMV/Grafik         | Satzbeginn, erstes Layout; Platzierung der prioritären Abbildungen (High-Res), übrige vorläufig mit Platzhaltern.                                                |
 | **III. 1. Umbruch**          | Bandteam           | Korrektur des Groblayouts, letzte Anpassungen von Bildauswahl, -grössen und -platzierungen im Rahmen der Layoutvorgaben.                                         |
 | **IV. 2. Umbruch**           | Bandteam/SGB       | Verfassen aller definitiven Bildlegenden und **Alternativtexte**; Bildauswahl und Platzierung gelten ab hier als fix.                                            |
