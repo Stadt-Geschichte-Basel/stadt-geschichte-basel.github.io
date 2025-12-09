@@ -224,7 +224,7 @@ classDiagram
         class media {
             id &lpar;m01313&rpar;
             title
-            [subject;subject] &lpar;keywords from GenderOpen Index&rpar;
+            [subject;subject]
             description
             [abstract] &lpar;alt attribute for alternative text&rpar;
             [creator] &lpar;incl. link to Wikidata&rpar;
