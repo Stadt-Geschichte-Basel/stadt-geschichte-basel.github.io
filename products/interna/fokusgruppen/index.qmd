@@ -1,0 +1,50 @@
+---
+title: Die Rolle der Fokusgruppen bei Stadt.Geschichte.Basel
+category: Interna
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@unibas.ch
+    affiliation: Universität Basel
+    orcid: 0000-0002-1367-1618
+date: 2025-12-09
+lang: de-CH
+---
+
+Das Projekt *Stadt.Geschichte.Basel* nutzt Fokusgruppen, um die Anforderungen und Wünsche verschiedener Anspruchsgruppen an die digitale Plattform zu erheben. Ziel ist es, die Plattform nutzerorientiert zu gestalten. Die Fokusgruppen werden maximal einmal pro Quartal zu einer Online-Umfrage eingeladen.
+
+Das Projekt unterscheidet hauptsächlich zwei Arten von Fokusgruppen:
+
+## 1. Fokusgruppe: Autor:innen (Datenproduzenten)
+
+Diese Gruppe besteht aus den wissenschaftlichen Autor:innen, die die Inhalte und Forschungsdaten für die neue Basler Stadtgeschichte generieren.
+
+**Rolle und Zweck:**
+
+* **Verständnis des Forschungsprozesses:** Die Einbindung dient dazu, den individuellen Forschungsprozess und die jeweiligen Arbeitsschritte der Forschenden zu verstehen.
+* **Datengrundlage:** Sie liefern die Basis für das Forschungsdatenmanagement, indem sie Auskunft darüber geben, welche Daten (Textdaten, Bilddaten, Tabellen etc.) in welchen Formaten erhoben und verwendet werden.
+* **Technologieeinsatz:** Befragungen zeigten, dass die Autor:innen am häufigsten Notizen auf Papier und digitale Notizen mit Textverarbeitungsprogrammen zur Entwicklung von Forschungsfragen nutzen. Für die Datenspeicherung sind der Personal Computer und physische Ordner am wichtigsten.
+
+**Ergebnisse und Massnahmen:**
+
+* Basierend auf ihrem Feedback besteht ein grosses Interesse an Schulungen für die Literaturverwaltung (insbesondere Zotero) sowie für die Erstellung von Karten und interaktiven Visualisierungen.
+* Die Projektleitung schloss daraus, dass für häufig verwendete Datenformate wie Tabellen eine projektweite Lösung (analog zu Omeka für Bilddaten) gefunden werden sollte.
+
+## 2. Fokusgruppe: Vermittlung (Datenkonsumenten)
+
+Diese Gruppe umfasst Partnerinstitutionen, Lehrinstitutionen und die interessierte Öffentlichkeit, die das Portal zur Nutzung und Verbreitung der Basler Stadtgeschichte verwenden.
+
+**Rolle und Zweck:**
+
+* **Testphase und Usability:** Die Gruppe wird zur Testphase des Portals eingeladen, um Feedback zur Gestaltung, Navigation und Benutzerfreundlichkeit zu geben.
+* **Anforderungen an die Vermittlung:** Sie definieren die praktischen Bedürfnisse an die Vermittlungsarbeit, wie die gewünschten Services und Kooperationsmöglichkeiten auf dem Portal.
+
+**Wichtige Erkenntnisse und Kritik:**
+
+* **Portalgestaltung:** Die Gestaltung des Portals wird als grundsätzlich übersichtlich empfunden, aber das überwiegende Grau wird als zu streng und monoton kritisiert. Es besteht der Wunsch nach mehr Farben und einem ausgewogeneren Text-Bild-Verhältnis.
+* **Navigation und Inhalte:** Der Navigationspunkt "Meilensteine" wird als irreführend und unklar empfunden, da die Nutzer dort eher Projekt-Meilensteine statt Informationen zu den Buchbänden erwarten.
+* **Startseite und Blog:** Die Texte, insbesondere auf der mobilen Ansicht, werden als zu lang empfunden, was zu erhöhtem Scrollaufwand führt.
+* **Services und Kooperation:** Vermittlungspartner wünschen sich zusätzlich zu den Informationen über die Buchreihe redaktionelle Inhalte, eine Karte zu Vermittlungsangeboten sowie eine zugehörige Agenda. Eine Mehrheit möchte offizielle Kooperationspartnerin werden und ihre Angebote auf dem Portal verbreiten.
+
+## Zusammenfassung
+
+Die Einbindung der Fokusgruppen dient dem *Stadt.Geschichte.Basel*-Projekt dazu, ein digitales Portal zu entwickeln, das sowohl wissenschaftlich fundiert als auch in seiner Benutzerfreundlichkeit und Attraktivität für die breite Öffentlichkeit optimiert ist. Die Rückmeldungen führen zu konkreten Anpassungen in der digitalen Infrastruktur und der inhaltlichen Gestaltung des Portals.
