@@ -1,5 +1,5 @@
 ---
-title: Dokumentation: Nutzung des Projekt-Wikis
+title: Nutzung des Projekt-Wikis
 category: Interna
 author: 
     - name: Moritz Mähr
@@ -19,6 +19,7 @@ author:
 date: 2025-12-08
 lang: de-CH
 ---
+
 ## 1. Zielsetzung
 
 Das Confluence Wiki dient als zentraler "Single Point of Truth" für das Projekt *Stadt.Geschichte.Basel*. Es fungiert als Wissensspeicher, Kollaborationsplattform und Dokumentationsort für den gesamten Entstehungsprozess der Bände sowie der digitalen Produkte. Ziel ist es, Wissen transparent zu machen und Meetings sowie Entscheidungen nachvollziehbar zu archivieren.
@@ -27,13 +28,13 @@ Das Confluence Wiki dient als zentraler "Single Point of Truth" für das Projekt
 
 Der Space ist hierarchisch gegliedert, um die verschiedenen Arbeitsbereiche abzubilden. Die Hauptnavigation unterteilt sich wie folgt:
 
-* **Bandkonzepte & Bände:** Arbeitsbereiche für die einzelnen Bände (1–9) sowie bandübergreifende Themen. Hier werden Konzepte, Forschungsstände und Entwürfe abgelegt.
-* **Sitzungsprotokolle:** Chronologische Ablage aller Meetings (Weekly, Workshops, PL-Sitzungen). Siehe Abschnitt "Naming Conventions".
-* **Digital:** Dokumentation der IT-Infrastruktur, des Portals, der Datenstrategie (Linked Data, GeoDaten) und der Data Stories.
-* **Varia, Admin und Archiv:** Administration, Personal, Finanzen sowie das Archiv für veraltete Inhalte.
-* **Vermittlung & Kooperationen:** Konzepte für Veranstaltungen, Vernissagen und die Zusammenarbeit mit Partnerinstitutionen.
+-   **Bandkonzepte & Bände:** Arbeitsbereiche für die einzelnen Bände (1–9) sowie bandübergreifende Themen. Hier werden Konzepte, Forschungsstände und Entwürfe abgelegt.
+-   **Sitzungsprotokolle:** Chronologische Ablage aller Meetings (Weekly, Workshops, PL-Sitzungen). Siehe Abschnitt [Naming Conventions](#naming-conventions).
+-   **Digital:** Dokumentation der IT-Infrastruktur, des Portals, der Datenstrategie (Linked Data, GeoDaten) und der Data Stories.
+-   **Varia, Admin und Archiv:** Administration, Personal, Finanzen sowie das Archiv für veraltete Inhalte.
+-   **Vermittlung & Kooperationen:** Konzepte für Veranstaltungen, Vernissagen und die Zusammenarbeit mit Partnerinstitutionen.
 
-## 3. Naming Conventions (Benennungsregeln)
+## 3. Naming Conventions
 
 Um die Auffindbarkeit über die Suche und die Sortierung im Seitenbaum zu gewährleisten, gelten folgende Konventionen für Seitentitel:
 
@@ -41,29 +42,29 @@ Um die Auffindbarkeit über die Suche und die Sortierung im Seitenbaum zu gewäh
 
 Protokolle müssen zwingend mit dem ISO-Datumsformat (`YYYY-MM-DD`) beginnen, gefolgt vom Typ des Meetings.
 
-* **Format:** `YYYY-MM-DD [Meeting-Typ]`
-* **Beispiele:**
-  * `2023-11-16 Weekly`
-  * `2024-04-10 Workshop Forschungsdatenplattform`
-  * `2025-01-23 Uni Bern GND Metadaten`
+-   **Format:** `YYYY-MM-DD [Meeting-Typ]`
+-   **Beispiele:**
+    -   `2023-11-16 Weekly`
+    -   `2024-04-10 Workshop Forschungsdatenplattform`
+    -   `2025-01-23 Uni Bern GND Metadaten`
 
 ### 3.2 Fachliche Seiten und Konzepte
 
-Seiten, die inhaltliche Arbeit dokumentieren, sollten sprechende Titel tragen. Versionierungen sollten, wenn möglich, über die Confluence-eigene Versionshistorie und nicht über den Seitentitel abgebildet werden, es sei denn, es handelt sich um explizite Meilensteine [z.B. "Stand 3.9.2019"].
+Seiten, die inhaltliche Arbeit dokumentieren, sollten sprechende Titel tragen. Versionierungen sollten, wenn möglich, über die Confluence-eigene Versionshistorie und nicht über den Seitentitel abgebildet werden, es sei denn, es handelt sich um explizite Meilensteine (z.B. `Stand 3.9.2019`).
 
 ## 4. Tagging und Schlagworte
 
 Zur Vernetzung der Inhalte nutzen wir Labels (Schlagworte). Besonders für die digitale Entwicklung und spezifische Projekte sind diese essenziell.
 
-* **Projekt-Tags:** `#DigiHistCH24` (für Konferenzen).
-* **Showcase-Tags:** Inhalte, die zu spezifischen Showcases gehören, sind entsprechend zu markieren (z.B. `Showcase #1` für Portal, `Showcase #2` für Data Histories).
+-   **Projekt-Tags:** `#DigiHistCH24` (für Konferenzen).
+-   **Showcase-Tags:** Inhalte, die zu spezifischen Showcases gehören, sind entsprechend zu markieren (z.B. `Showcase #1` für Portal, `Showcase #2` für Data Histories).
 
 ## 5. Vorlagen und Workflows
 
 Für wiederkehrende Aufgaben stehen im Bereich "Corporate Identity" und "Vorlagen" entsprechende Templates bereit.
 
-* **Sitzungsprotokolle:** Bitte die Standard-Vorlage für Meeting nutzen.
-* **Wissenschaftliche Abbildungen:** Beachten Sie den definierten "Workflow für wissenschaftliche Abbildungen".
+-   **Sitzungsprotokolle:** Bitte die Standard-Vorlage für Meetings nutzen.
+-   **Wissenschaftliche Abbildungen:** Beachten Sie den definierten Workflow für wissenschaftliche Abbildungen (vgl. [Dokumentation](/products/research-data/plots/index.qmd)).
 
 ## 6. Archivierung
 
@@ -71,7 +72,7 @@ Veraltete Inhalte, wie alte Kartenanleitungen oder überholte Konzepte, werden n
 
 ## 7. Verantwortlichkeiten
 
-* **Gesamtstruktur & Bände:** Projektleitung / Koordination (Cristina Münch, Patrick Kury)
-* **Digitalbereich & Daten:** Leitung Digital (Moritz Mähr)
+-   **Gesamtstruktur & Bände:** Projektleitung / Koordination (Cristina Münch, Patrick Kury)
+-   **Digitalbereich & Daten:** Leitung Digital (Moritz Mähr)
 
 *Bei Fragen zur Struktur oder fehlenden Berechtigungen wenden Sie sich bitte an die Projektkoordination oder die Leitung Digital.*

@@ -52,9 +52,9 @@ In this lecture, Dr. Moritz Mähr will present Stadt.Geschichte.Basel (2017–20
 
 Topics will include:
 
-* Strategies for combining offline and online public history
-* Designing digital portals for multiple audiences
-* Metadata sensitivity and the ethics of historical sources
-* Long-term governance and sustainability of digital infrastructures
+-   Strategies for combining offline and online public history
+-   Designing digital portals for multiple audiences
+-   Metadata sensitivity and the ethics of historical sources
+-   Long-term governance and sustainability of digital infrastructures
 
 Students and faculty interested in public history, digital history, archival studies, or interdisciplinary collaboration are especially encouraged to attend.
