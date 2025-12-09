@@ -54,7 +54,7 @@ Der Code wird über GitHub entwickelt. Bei jedem Release (z.B. Abschluss einer P
 Zusätzlich zur DOI-Vergabe wird der Code in das universelle Software-Archiv *Software Heritage* gespiegelt, um unabhängig von kommerziellen Plattformen wie GitHub zu sein.
 
 - **Archiv:** **Software Heritage**
-- **Zugang:** [SWH Directory](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://doi.org/10.5281/zenodo.15681536)
+- **Zugang:** [SWH Directory](https://archive.softwareheritage.org/browse/search/?q=Stadt.Geschichte.Basel&with_visit=true&with_content=true)
 
 ## 4. Archivierung der Web-Präsenz (Look & Feel)
 
@@ -62,8 +62,7 @@ Während Daten und Code die Substanz sichern, bewahrt das "Web Harvesting" das v
 
 -   **Archiv:** **e-Helvetica** (Schweizerische Nationalbibliothek)
 -   **Methode:** Regelmässige Snapshots der Domains `stadtgeschichtebasel.ch` und Subdomains.
--   **Abdeckung:** Portal, Forschungsdatenplattform und Dokumentation.
--   **Status:** [Siehe Detail-Dokumentation zu e-Helvetica](/interna/langzeitarchivierung-ehelvetica)
+-   **Abdeckung:** Portal, Forschungsdatenplattform und Dokumentation. [Siehe Detail-Dokumentation zu e-Helvetica](https://www.e-helvetica.nb.admin.ch/en/search?term=Stadt.Geschichte.Basel&rows=25)
 
 ## 5. Publikationen & Wissenschaftskommunikation
 
