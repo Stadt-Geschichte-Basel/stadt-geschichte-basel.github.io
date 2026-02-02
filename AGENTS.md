@@ -370,11 +370,8 @@ categories: Vortrag
 lang: de
 doi: 10.5281/zenodo.7198056
 citation:
-  type: speech
-  event: 'DARIAH-CH Study Day'
-  event-place: 'Mendrisio, Switzerland'
-  url: 'https://doi.org/10.5281/zenodo.7198056'
-  doi: 10.5281/zenodo.7198056
+  type: standard
+  container-title: 'DARIAH-CH Study Day 2022, Università della Svizzera Italiana'
 appendix-cite-as: display
 ---
 ```
@@ -406,7 +403,7 @@ citation:
 **Before publishing:**
 
 1. **Verify DOI resolution**: Test that all DOI links resolve correctly using `https://doi.org/<doi>` format
-2. **Check ORCID identifiers**: Ensure all author ORCID iDs are valid and formatted as `0000-0000-0000-0000`
+2. **Check ORCID identifiers**: Ensure all author ORCID iDs are valid and follow the ORCID format (four groups of four digits separated by hyphens, where the final character may be a digit or `X`, e.g., `0000-0003-3885-248X` or `0009-0005-7187-9774`)
 3. **Validate citation metadata**: Confirm that citation blocks include all required fields for the citation type
 4. **Cross-platform consistency**: Ensure metadata matches across:
    - Page YAML front matter
@@ -423,8 +420,8 @@ grep -r "doi.org" products/ --include="*.qmd" | grep -v "https://doi.org/"
 # Find pages with DOI in interna (should be none)
 grep -r "^doi:" products/interna/ --include="*.qmd"
 
-# Check for ORCID format
-grep -r "orcid:" products/ --include="*.qmd" | grep -v "0000-"
+# Check for ORCID format (four groups of four digits, last character may be X)
+grep -r "orcid:" products/ --include="*.qmd" | grep -Pv '[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{3}[0-9X]'
 ```
 
 **Explicit Rules:**
