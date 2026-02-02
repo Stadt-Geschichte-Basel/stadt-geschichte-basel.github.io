@@ -1,0 +1,62 @@
+---
+title: Auf dem Weg zu einer diskriminierungssensiblen Metadatenpraxis
+subtitle: Erfahrungen aus einem Handbuchprojekt zur ethischen Auszeichnung historischer Quellen und Forschungsdaten
+author:
+  - name: Noëlle Schnegg
+    orcid: 0009-0008-5207-6652
+    email: noelle.schnegg@unibas.ch
+    affiliation: Universität Basel
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+date: 2026-01-29
+doi: 10.5281/zenodo.18399776
+categories: Vortrag
+event: SLUB – Open Science Lab, Dresden, Relativieren oder limitieren? Zum Umgang mit Dark Heritage in Sammlungen und Archiven
+lang: de
+bibliography: references.bib
+nocite: |
+  @*
+citation:
+  type: standard
+  title: 'Auf dem Weg zu einer diskriminierungssensiblen Metadatenpraxis: Erfahrungen aus einem Handbuchprojekt zur ethischen Auszeichnung historischer Quellen und Forschungsdaten'
+  container-title: 'Relativieren oder limitieren? Zum Umgang mit Dark Heritage in Sammlungen und Archiven, SLUB – Open Science Lab, Dresden'
+appendix-cite-as: display
+other-links:
+  - text: Slides (Zenodo)
+    icon: file-pdf
+    href: 'https://doi.org/10.5281/zenodo.18399776'
+---
+
+## Vortrag
+
+Der Vortrag von Noëlle Schnegg und Moritz Mähr hat im Rahmen des Workshops *Relativieren oder limitieren? Zum Umgang mit Dark Heritage in Sammlungen und Archiven* im [SLUB – Open Science Lab](https://www.slub-dresden.de/mitmachen/slub-open-science-lab) in Dresden stattgefunden (29.–30. Januar 2026).
+
+::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+<iframe src="/assets/files/20260129-Maehr_Schnegg-Diskriminierungssensible_Metadaten.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Auf dem Weg zu einer diskriminierungssensiblen Metadatenpraxis">
+
+This browser does not support PDFs. Please <a href="/assets/files/20260129-Maehr_Schnegg-Diskriminierungssensible_Metadaten.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
+
+## Abstract
+
+Die Präsentation stellt konzeptionelle und praktische Überlegungen zur Entwicklung einer diskriminierungssensiblen Metadatenpraxis vor. Ausgehend von einem [Handbuchprojekt](/products/publications/handbuch/index.qmd) im Rahmen des Forschungsprojekts Stadt.Geschichte.Basel diskutieren die Folien
+
+-   Herausforderungen bei der Publikation sensibler historischer Quellen im Netz,
+-   fehlende Standards und notwendige Best-Practices (2023),
+-   theoretische Rahmung (Content Notes, Positionalität),
+-   konkrete Arbeitsprozesse der Quellenauswahl, Annotation, Kontextualisierung und Bereitstellung,
+-   Überarbeitungszyklus des Handbuchs (Version 2.0) mit Fokus auf kuratorische Workflows und kritische Datenpraktiken.
+
+::: {.callout-warning icon="false" title="Content Note"}
+Rassistische Begriffe sind gewaltvolle Darstellungen; ihre Reproduktion kann Betroffene retraumatisieren und Diskriminierung verstärken. Umgang: Beschränkung auf ein Minimum und kontextualisierte Einordnung.
+:::
+
+::: {.callout-note icon="false" title="Positionalität"}
+Wir schreiben aus der Perspektive zweier weisser cis Personen, sozialisiert und institutionell verankert in der Schweiz; dies prägt analytische Zugänge und mögliche blinde Flecken.
+:::
