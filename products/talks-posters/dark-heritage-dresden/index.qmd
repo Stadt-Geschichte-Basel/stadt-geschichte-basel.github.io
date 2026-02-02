@@ -33,10 +33,9 @@ other-links:
 
 ## Vortrag
 
-Der Vortrag von Noëlle Schnegg und Moritz Mähr hat im Rahmen des Workshops [Relativieren oder limitieren? Zum Umgang mit Dark Heritage in Sammlungen und Archiven](https://www.slub-dresden.de/) im SLUB – Open Science Lab in Dresden stattgefunden (29.–30. Januar 2026).
+Der Vortrag von Noëlle Schnegg und Moritz Mähr hat im Rahmen des Workshops *Relativieren oder limitieren? Zum Umgang mit Dark Heritage in Sammlungen und Archiven* im [SLUB – Open Science Lab](https://www.slub-dresden.de/mitmachen/slub-open-science-lab) in Dresden stattgefunden (29.–30. Januar 2026).
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
-
 <iframe src="/assets/files/20260129-Maehr_Schnegg-Diskriminierungssensible_Metadaten.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Auf dem Weg zu einer diskriminierungssensiblen Metadatenpraxis">
 
 This browser does not support PDFs. Please <a href="/assets/files/20260129-Maehr_Schnegg-Diskriminierungssensible_Metadaten.pdf">download the PDF</a> to view it.
@@ -46,18 +45,18 @@ This browser does not support PDFs. Please <a href="/assets/files/20260129-Maehr
 
 ## Abstract
 
-Die Präsentation stellt konzeptionelle und praktische Überlegungen zur Entwicklung einer diskriminierungssensiblen Metadatenpraxis vor. Ausgehend von einem Handbuchprojekt im Rahmen des Forschungsprojekts Stadt.Geschichte.Basel diskutieren die Folien
+Die Präsentation stellt konzeptionelle und praktische Überlegungen zur Entwicklung einer diskriminierungssensiblen Metadatenpraxis vor. Ausgehend von einem [Handbuchprojekt](/products/publications/handbuch/index.qmd) im Rahmen des Forschungsprojekts Stadt.Geschichte.Basel diskutieren die Folien
 
-- Herausforderungen bei der Publikation sensibler historischer Quellen im Netz,
-- fehlende Standards und notwendige Best-Practices (2023),
-- theoretische Rahmung (Content Notes, Positionalität),
-- konkrete Arbeitsprozesse der Quellenauswahl, Annotation, Kontextualisierung und Bereitstellung,
-- Überarbeitungszyklus des Handbuchs (Version 2.0) mit Fokus auf kuratorische Workflows und kritische Datenpraktiken.
+-   Herausforderungen bei der Publikation sensibler historischer Quellen im Netz,
+-   fehlende Standards und notwendige Best-Practices (2023),
+-   theoretische Rahmung (Content Notes, Positionalität),
+-   konkrete Arbeitsprozesse der Quellenauswahl, Annotation, Kontextualisierung und Bereitstellung,
+-   Überarbeitungszyklus des Handbuchs (Version 2.0) mit Fokus auf kuratorische Workflows und kritische Datenpraktiken.
 
-::: {.callout-warning title="Content Note"}
+::: {.callout-warning icon="false" title="Content Note"}
 Rassistische Begriffe sind gewaltvolle Darstellungen; ihre Reproduktion kann Betroffene retraumatisieren und Diskriminierung verstärken. Umgang: Beschränkung auf ein Minimum und kontextualisierte Einordnung.
 :::
 
-::: {.callout-note title="Positionalität"}
+::: {.callout-note icon="false" title="Positionalität"}
 Wir schreiben aus der Perspektive zweier weisser cis Personen, sozialisiert und institutionell verankert in der Schweiz; dies prägt analytische Zugänge und mögliche blinde Flecken.
 :::
