@@ -1,0 +1,215 @@
+---
+title: OMP Subpress Custom Styling
+subtitle: Dokumentation des Custom Stylesheets für emono.unibas.ch
+category: Interna
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@unibas.ch
+    affiliation: Universität Basel
+    orcid: 0000-0002-1367-1618
+date: 2025-11-13
+date-modified: last-modified
+lang: de-CH
+other-links:
+  - text: OMP Subpress
+    icon: link-45deg
+    href: 'https://emono.unibas.ch/stadtgeschichtebasel/'
+  - text: Stylesheet
+    icon: file-earmark-code
+    href: 'https://emono.unibas.ch/public/presses/5/styleSheet.css?v=3.4.0.7'
+---
+
+Diese Seite dokumentiert die benutzerdefinierten Gestaltungsentscheidungen und das Stylesheet für die Stadt.Geschichte.Basel Open Monograph Press (OMP) Subpress unter <https://emono.unibas.ch/stadtgeschichtebasel/>.
+
+## Hintergrund
+
+Das Stylesheet für die OMP-Instanz wurde entwickelt, um die visuelle Identität von Stadt.Geschichte.Basel auf der Publikationsplattform umzusetzen. Dabei galt es, technische Einschränkungen zu berücksichtigen und gleichzeitig Barrierefreiheit und Markenkonformität zu gewährleisten.
+
+## Base64-kodierte Schriftarten
+
+Eine zentrale technische Herausforderung bestand darin, dass auf die von der Universitätsbibliothek Basel verwaltete OMP-Instanz keine separaten, projektspezifischen Asset-Dateien (wie Schriftdateien) hochgeladen werden konnten. Um die [Corporate-Font](../corporate-identity/index.qmd#schriftarten) **Euclid Circular B** dennoch zu verwenden, wurden die Schriftarten als **Base64-kodierte Strings** direkt [ins CSS eingebettet](https://emono.unibas.ch/public/presses/5/styleSheet.css?v=3.4.0.7).
+
+Diese Lösung ermöglicht die Verwendung der Schrift ohne externe Dateien:
+
+```css
+@font-face {
+	font-display: swap;
+	font-family: 'Euclid Circular B';
+	src: url('data:font/woff2;charset=utf-8;base64,...') format('woff2');
+	font-style: normal;
+	font-weight: 400;
+}
+```
+
+Für verschiedene Schriftschnitte (Regular, Medium, SemiBold) wurden separate `@font-face`-Deklarationen mit entsprechend kodierten Daten erstellt.
+
+## Globale Schriftart
+
+Die Euclid Circular B wird als globale Schriftart für alle Textelemente gesetzt:
+
+```css
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a,
+li,
+div,
+blockquote,
+strong,
+em,
+input,
+textarea,
+button,
+label {
+	font-family: 'Euclid Circular B', sans-serif;
+}
+
+.pkp_block .title {
+	font-family: 'Euclid Circular B', sans-serif;
+}
+```
+
+Dies stellt sicher, dass die gesamte Plattform ein einheitliches typografisches Erscheinungsbild hat.
+
+## Farbkonzept und Barrierefreiheit
+
+Das Stylesheet nutzt das [Farbkonzept](../farbkonzept/index.qmd) von Stadt.Geschichte.Basel. Besonderes Augenmerk liegt auf der Barrierefreiheit durch konsistente Farbanwendung:
+
+### Textauswahl
+
+```css
+::selection {
+	background: #fff6cc;
+	color: black;
+}
+```
+
+### Interaktive Elemente
+
+Für Links, Navigation und Buttons wird ein charakteristisches Gelb (`#ffe880`) bei Hover und Focus verwendet:
+
+```css
+.pkp_navigation_primary > li > a {
+	&:hover {
+		color: #ffe880;
+		border-color: #ffe880;
+	}
+	&:focus {
+		background: #ffe880;
+		color: #3a1e3e;
+	}
+}
+```
+
+Die dunkle Akzentfarbe `#3a1e3e` dient als Kontrast und sorgt für gute Lesbarkeit.
+
+## Buttons und Formulare
+
+Buttons und Formularelemente folgen einem einheitlichen Design mit klaren Rahmen und angemessenem Kontrast:
+
+```css
+.cmp_button,
+.cmp_download_link,
+.cmp_form .buttons button {
+	display: inline-block;
+	padding: 0 1.0715rem;
+	background: #fff;
+	border: 1px solid #3a1e3e;
+	border-radius: 3px;
+	font-size: 0.93rem;
+	line-height: calc(2.143rem - 2px);
+	font-weight: 700;
+	color: #3a1e3e;
+	text-decoration: none;
+	text-shadow: 0px 1px #fff;
+}
+```
+
+Bei Interaktion (Hover/Focus) invertiert sich die Farbgebung für klares visuelles Feedback:
+
+```css
+.cmp_button:hover,
+.cmp_button:focus {
+	background: #3a1e3e;
+	border-color: #3a1e3e;
+	color: #fff;
+	text-shadow: none;
+}
+```
+
+## Formularelemente
+
+Eingabefelder haben ein konsistentes Erscheinungsbild:
+
+```css
+.cmp_form input[type='text'],
+.cmp_form input[type='email'],
+.cmp_form input[type='password'],
+.cmp_form select,
+.cmp_form textarea {
+	padding: 0 0.5em;
+	width: 100%;
+	height: calc(2.143rem - 2px);
+	background: #fff;
+	border: 1px solid #3a1e3e;
+	border-radius: 3px;
+	font-size: 0.93rem;
+	line-height: calc(2.143rem - 2px);
+}
+```
+
+## Überschriften
+
+Hauptüberschriften erhalten eine gelbe Unterstreichung als visuelles Markenzeichen:
+
+```css
+h1.title,
+h1.page_title,
+.page_catalog h1 {
+	text-decoration: underline #ffe880;
+	text-decoration-thickness: 4px;
+}
+```
+
+## Footer
+
+Der Footer nutzt die dunkle Markenfarbe als Hintergrund:
+
+```css
+.pkp_structure_footer_wrapper {
+	background: #3a1e3e;
+}
+
+.pkp_footer_content {
+	color: #fff;
+}
+
+.pkp_footer_content a {
+	text-decoration-color: #ffe880;
+	color: #ffe880;
+}
+```
+
+## Gestaltungsprinzipien
+
+Die Umsetzung folgt diesen Prinzipien:
+
+1. **Markenkonformität**: Verwendung der Corporate-Fonts und -Farben von Stadt.Geschichte.Basel
+2. **Barrierefreiheit**: Kontrastreiche Farbkombinationen und klare visuelle Zustände für interaktive Elemente
+3. **Konsistenz**: Einheitliches Erscheinungsbild über alle Seitenelemente hinweg
+4. **Technische Anpassung**: Pragmatische Lösung für Schrifteinbettung trotz Plattformeinschränkungen
+
+## Zusammenhang mit weiterer Dokumentation
+
+Diese Gestaltung steht im Zusammenhang mit weiteren dokumentierten Standards:
+
+- [Corporate Identity](../corporate-identity/index.qmd) für übergreifende Gestaltungsrichtlinien
+- [Farbkonzept](../farbkonzept/index.qmd) für die verwendete Farbpalette
+- [Barrierefreiheit](../barrierefreiheit/index.qmd) für Accessibility-Standards
+- [Inklusive Gestaltung](../inklusive-gestaltung/index.qmd) für Design-Prinzipien

@@ -1,0 +1,97 @@
+---
+title: Langzeitarchivierungsstrategie (LZA)
+category: Interna
+author: 
+    - name: Moritz Mähr
+      email: moritz.maehr@unibas.ch
+      affiliation: Universität Basel
+      orcid: 0000-0002-1367-1618
+date: 2025-12-08
+lang: de-CH
+---
+
+## 1. Strategische Grundsätze
+
+Die Langzeitarchivierung (LZA) des Projekts *Stadt.Geschichte.Basel* folgt dem Prinzip des **Minimal Computing**. Durch die Reduktion auf statische Webtechnologien (Static Site Generators), offene Standards (CSV, Markdown, JSON) und etablierte Infrastrukturen (Zenodo, DaSCH, GitHub) wird die Abhängigkeit von spezifischer Server-Software minimiert. Dies garantiert, dass die digitalen Artefakte auch ohne aktive Wartung langfristig lesbar und reproduzierbar bleiben.
+
+Die Strategie unterscheidet dabei strikt zwischen **Forschungsdaten** (Raw Data), **Präsentation** (Code/Web) und **Dokumentation** (Kontext).
+
+**Weiterführende Ressourcen:**
+
+-   [Endings Principles for Digital Longevity](https://endings.uvic.ca/principles.html)
+-   [Vortrag «Digital Longevity»](../../talks-posters/digital-longevity/index.qmd)
+
+## 2. Archivierung der Forschungsdaten
+
+Forschungsdaten bilden das Herzstück der digitalen Strategie. Sie werden nach den FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) archiviert.
+
+### 2.1 Strukturierte Primärdaten & Linked Data
+
+Komplexe, relationale Datenmodelle und Bilddatenbanken werden über die nationale Infrastruktur für Geisteswissenschaften gesichert.
+
+-   **Archiv:** **DaSCH** (Swiss National Data and Service Center for the Humanities)
+-   **Inhalte:** Personendatenbanken, Bildmetadaten, Netzwerkanalysen
+-   **Zugang:** [Projekt auf DaSCH (App RDU-13)](https://app.rdu-13.dasch.swiss/project/D-2Zmu5kQyW-sTZhCvvd3w/data)
+
+### 2.2 Tabellarische Daten & Datensätze
+
+Einzelne Datensätze, die als Grundlage für Grafiken, Karten oder statistische Auswertungen dienten, werden als "Flat Data" (z.B. CSV) publiziert.
+
+-   **Archiv:** **Zenodo** (Community `stadt-geschichte-basel`)
+-   **Inhalte:** Bereinigte Tabellen, GeoJSON-Dateien, statistische Reihen
+-   **Zugang:** [Zenodo-Community: Stadt.Geschichte.Basel](https://zenodo.org/communities/stadt-geschichte-basel/)
+-   **URL:** <https://zenodo.org/communities/stadt-geschichte-basel/>
+
+## 3. Archivierung von Code & Software
+
+Da das Portal und die digitalen Storys auf Code basieren, wird dieser nicht nur als Werkzeug, sondern als eigenständiges Forschungsergebnis betrachtet.
+
+### 3.1 Versionierung & Referenzierbarkeit
+
+Der Code wird über GitHub entwickelt. Bei jedem Release (z.B. Abschluss einer Projektphase) wird über die GitHub-Zenodo-Bridge ein unveränderlicher Snapshot erstellt und mit einer DOI (Digital Object Identifier) versehen.
+
+-   **Code-Repository:** [GitHub-Organisation 'Stadt.Geschichte.Basel'](https://github.com/Stadt-Geschichte-Basel)
+-   **Archiv:** **Zenodo** (Community `stadt-geschichte-basel`)
+-   **Inhalte:** Quellcode des Portals, der Data Stories und Analyse-Skripte.
+-   **Zugang:** Zenodo-Community, z.B. [10.5281/zenodo.15681536](https://doi.org/10.5281/zenodo.15681536)
+
+### 3.2 Langzeitsicherung des Quellcodes
+
+Zusätzlich zur DOI-Vergabe wird der Code in das universelle Software-Archiv *Software Heritage* gespiegelt, um unabhängig von kommerziellen Plattformen wie GitHub zu sein.
+
+-   **Archiv:** **Software Heritage**
+-   **Zugang:** [SWH Directory](https://archive.softwareheritage.org/browse/search/?q=Stadt.Geschichte.Basel&with_visit=true&with_content=true)
+
+## 4. Archivierung der Web-Präsenz (Look & Feel)
+
+Während Daten und Code die Substanz sichern, bewahrt das "Web Harvesting" das visuelle Erlebnis und die Funktionalität der Webseiten für künftige Nutzer:innen.
+
+-   **Archiv:** **e-Helvetica** (Schweizerische Nationalbibliothek)
+-   **Methode:** Regelmässige Snapshots der Domains `stadtgeschichtebasel.ch` und Subdomains.
+-   **Abdeckung:** Portal, Forschungsdatenplattform und Dokumentation. [Siehe Detail-Dokumentation zu e-Helvetica](https://www.e-helvetica.nb.admin.ch/en/search?term=Stadt.Geschichte.Basel&rows=25)
+
+## 5. Publikationen & Wissenschaftskommunikation
+
+### 5.1 Forschungsergebnisse (Open Access)
+
+Die wissenschaftlichen Bände und begleitende Artikel erscheinen im *Gold Open Access* oder *Green Open Access*.
+
+-   **Plattform:** **emono** (Repository der Universität Basel) und Zenodo.
+-   **Zugang:** [emono Collection](https://emono.unibas.ch/stadtgeschichtebasel/)
+
+### 5.2 Projekt-Blog
+
+Der begleitende Blog, der den Arbeitsprozess öffentlich machte, läuft auf der Plattform *de.hypotheses.org*. Diese garantiert die wissenschaftliche Zitierfähigkeit und Langzeitverfügbarkeit durch eigene Mechanismen (inkl. ISSN).
+
+-   **Archiv:** **Hypotheses / OpenEdition**
+-   **Zugang:** [sgb.hypotheses.org](https://sgb.hypotheses.org/)
+-   **Intern:** Der Redaktionsprozess und CMS-Details sind [separat dokumentiert](/products/interna/blog-cms/index.qmd).
+
+## 6. Projektdokumentation & Verwaltungsarchiv
+
+Die Dokumentation des Projektverlaufs selbst wird dual gesichert:
+
+1.  **Administrative Akten:** Verträge, Finanzunterlagen, Gremienprotokolle und formale Korrespondenz gehen an das **Staatsarchiv Basel-Stadt**.
+2.  **Technische & Inhaltliche Dokumentation:** Diese Plattform, `dokumentation.stadtgeschichtebasel.ch`, wird technisch wie Software behandelt. Sie liegt als statische Seite vor, deren Quelltext und Inhalt (Markdown) via GitHub und Zenodo archiviert wird. Dies stellt sicher, dass auch die Anleitungen, Konzepte und Entscheidungswege dauerhaft lesbar bleiben.
+
+*Dieser Artikel fasst den Stand des [Digitalkonzepts](../digitalkonzept/index.qmd) per Dezember 2025 zusammen.*
