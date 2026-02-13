@@ -1,0 +1,107 @@
+---
+title: Redaktioneller Workflow
+subtitle: Stadt.Geschichte.Basel
+category: Interna
+author:
+  - name: Lina Gafner
+    affiliation: Universität Basel
+  - name: Cristina Münch
+    affiliation: Universität Basel
+    orcid: 0000-0003-3885-248X
+  - name: Iris Becher
+    affiliation: Universität Basel
+  - name: Patrick Kury
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+---
+
+Der Workflow gliedert sich in die Bereiche Manuskripterstellung, Bild- und Grafikredaktion sowie die finalen Produktionsphasen. Ziel ist die Erstellung von neun Bänden im Format 180 × 245 mm sowie eines zehnten Bandes, jeweils als Buch und barrierefreies PDF für eine breite, historisch interessierte Öffentlichkeit.
+
+---
+
+## 1. Manuskripterstellung und Textvorgaben
+
+### 1.1 Textstruktur und Umfang
+
+* **Bandstruktur:** Pro Band rund 650'000 Zeichen und ca. 120 Abbildungen.
+* **Kapitelstruktur:** Dreistufige Gliederung (**Titel 1**, **Titel 2**, **Titel 3**); nur Titel 1 und Titel 2 erscheinen im Inhaltsverzeichnis. Pro Band sind maximal etwa zehn Hauptkapitel (Titel 1) vorgesehen.
+* **Vorwort/Einleitung:** Türöffner mit Zeitrahmen und Bezug zu Nachbarbänden, ca. 5–7 Seiten (13'000–19'000 Zeichen).
+* **Paratexte:**
+
+  * **Exemplifizierung:** Kurzformat zur Vertiefung eines Aspekts, max. eine halbe Seite (bis ca. 2'200 Zeichen).
+  * **Exkurs:** Längerer Einschub (2–4 Seiten, ca. 3'500–8'500 Zeichen), ggf. mit eigener Autorschaft, in der Regel mit Abbildung.
+
+### 1.2 Endnoten und Zitation
+
+* **Endnoten:** Sparsam einsetzen, primär für Literatur- und Quellenverweise; keine Auslagerung von Argumenten.
+* **Zählung:** Beginnt für jedes Kapitel (Titel 1) neu mit 1; Exkurse werden in die Endnotenzählung des jeweiligen Kapitels integriert.
+* **Zitierweise:** Zitierstil nach *infoclio.ch (Kurzbelege, Deutsch – Schweiz)* in einem projektspezifischen Stil.
+* **Literaturverwaltung:** Verbindlich über eine gemeinsame **Zotero**-Gruppenbibliothek mit Band- und Kapitelkollektionen.
+
+### 1.3 Formale Richtlinien
+
+* **Formatierung:** Inhaltsorientierte Struktur, linksbündiger Flattersatz; keine manuelle Gestaltung (Tabstopps, feste Silbentrennungen, Einzüge, willkürliche Fettungen). Das Bandmanuskript wird nach Möglichkeit als Gesamtdokument eingereicht.
+* **Rechtschreibung:** Neue deutsche Rechtschreibung mit Schweizer **ss-Schreibung** (kein ß).
+* **Gender-Regel:** Gendergerechte Sprache; bevorzugt Paarformen (z. B. Baslerinnen und Basler) oder **Doppelpunkt** (Basler:innen). Schrägstrich, Binnen-I, Sternchen oder Unterstrich werden nicht verwendet.
+* **Anführungszeichen:**
+
+  * Zitate: doppelte, spitze Guillemets **«…»**.
+  * Hervorhebungen/uneigentliche Begriffe: einfache, spitze Guillemets **‹…›**.
+
+---
+
+## 2. Bild- und Grafikredaktion
+
+Pro Band sind rund 120 visuelle Elemente (Abbildungen, Karten, Grafiken) vorgesehen. Die visuelle Gestaltung wird zentral durch die SGB-Bildredaktion in Zusammenarbeit mit Bandteams, Projektleitung, Verlag (CMV) und Grafik koordiniert.
+
+### 2.1 Prozess und Einreichung
+
+1. **Vorbereitung im Bandteam**
+
+   * Autor:innen erhalten eine standardisierte **Excel-Tabelle**, ein Muster für ein **Bildredaktions-Übersichtsdokument** sowie eine Liste zentral vergebener **Abbildungsnummern** (z. B. ABB10039).
+   * Im Manuskript werden Platzierungswünsche durch interne Anweisungen in Doppelklammern markiert, z. B. `((ABB10039))`.
+
+2. **Einreichung mit dem Manuskript**
+
+   * Abgabe von Manuskript, ausgefüllter Excel-Tabelle und Bildredaktions-Übersicht (mit Low-Res-Bildern und Legendenentwürfen).
+   * Vorlagen für Karten und Infografiken werden als Vektordateien oder einfache Tabellen (z. B. Excel) übermittelt.
+
+3. **Koordination und Rechteklärung**
+
+   * Die zentrale Bildredaktion stellt die verbindliche Bildauswahl sicher, veranlasst Rechteabklärungen und koordiniert mit Grafik und Verlag. Eigenständige Bildbestellungen durch Autor:innen sind nicht vorgesehen.
+
+### 2.2 Abbildungselemente
+
+* **Abbildungsgrössen:** Bild gross (ganzseitig), Bild mittel, Bild klein; randabfallende Platzierung ist möglich.
+* **Einstiegsbild:** Jedes Kapitel (Titel 1) beginnt mit einem vollflächigen, eingefärbten Bild oder Bildausschnitt auf der rechten Seite; dasselbe Motiv kann im Kapitel nochmals kontextualisiert erscheinen.
+* **Legenden und Alternativtexte:**
+
+  * **Legende kurz:** Basisangaben (Urheber:in, Titel, Datierung), bis ca. 100 Zeichen.
+  * **Legende lang:** Kontextualisierung, so formuliert, dass sie auch ohne Haupttext verständlich ist (optimal 200–600 Zeichen).
+  * **Alternativtext:** Für das barrierefreie PDF; wird nach der definitiven Platzierung im Layout formuliert.
+* **Infografiken/Karten:** Erhalten einen eigenen Grafiktitel sowie differenzierte Legenden; Sonderformate wie Zeitstrahl oder Bildstrecke sind möglich.
+
+---
+
+## 3. Produktionsphasen und Schlusselemente
+
+### 3.1 Produktionsphasen
+
+| Phase                        | Hauptverantwortung | Zentrale Aufgaben                                                                                                                                                |
+| :--------------------------- | :----------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **I. Lektorat**              | Bandteam/SGB       | Fachliches und sprachliches Lektorat, Konsolidierung des Gesamtmanuskripts; Konkretisierung der Bildauswahl, Verfassen und Lektorieren prioritärer Bildlegenden. |
+| **II. Satz/Umbruch (Start)** | CMV/Grafik         | Satzbeginn, erstes Layout; Platzierung der prioritären Abbildungen (High-Res), übrige vorläufig mit Platzhaltern.                                                |
+| **III. 1. Umbruch**          | Bandteam           | Korrektur des Groblayouts, letzte Anpassungen von Bildauswahl, -grössen und -platzierungen im Rahmen der Layoutvorgaben.                                         |
+| **IV. 2. Umbruch**           | Bandteam/SGB       | Verfassen aller definitiven Bildlegenden und **Alternativtexte**; Bildauswahl und Platzierung gelten ab hier als fix.                                            |
+| **V. 3. Umbruch**            | CMV/SGB            | Schlusskorrektorat, formale Vereinheitlichung; Erstellung des **Bildnachweises** und der druckfertigen Fassungen (inkl. barrierefreies PDF).                     |
+
+### 3.2 Anhänge und Schlusselemente
+
+* **Bibliographie:** Gesamtbibliografie im Anhang, gegliedert in **Quellen (ungedruckt/gedruckt)** und **Literatur**; Reihen- und Zeitschriftentitel werden grundsätzlich ausgeschrieben.
+* **Register:** Personen-, Orts- und Sachregister oder ein kombiniertes Register; bei Personen mit Lebensdaten. Die Auswahl erfolgt selektiv, nicht automatisch.
+* **Verzeichnis der Autor:innen:** Kurzporträts (ca. 800–1000 Zeichen) mit Geburtsjahr am Bandende.
+* **Bildnachweis:** Vollständige Copyright- und Quellenangaben für alle Abbildungen, Infografiken und Karten.
+* **Glossar:** Nur für die Bände 1 und 2 vorgesehen, zur Erklärung zentraler Begriffe.
+
+Dieses gekürzte Schema fasst die zentralen redaktionellen Abläufe und Zuständigkeiten zusammen und dient als Referenzrahmen für Bandteams, Bildredaktion und Verlag.
