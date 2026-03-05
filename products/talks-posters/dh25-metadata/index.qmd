@@ -60,11 +60,14 @@ other-links:
   - text: Panelprogramm (Conftool)
     icon: calendar4-range
     href: 'https://www.conftool.pro/dh2025/index.php?page=browseSessions&form_session=118'
+  - text: 'Videoaufzeichnung (Zenodo)'
+    icon: camera-reels
+    href: 'https://doi.org/10.5281/zenodo.18489018'
 ---
 
 ## Vortrag
 
-Das Panel findet als Teil der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa statt und beinhaltet eine thematische Einführung, drei [Projektvorstellungen](#projektvorstellungen) sowie eine Podiumsdiskussion.
+Das Panel findet als Teil der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa statt und beinhaltet eine thematische Einführung, drei [Projektvorstellungen](#projektvorstellungen) sowie eine Podiumsdiskussion. Eine Videoaufzeichnung des Panels ist [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.18489018).
 
 ```{=html}
 <!-- ::: {.callout-tip title="Slides anzeigen" icon="false" collapse="true"}
@@ -98,6 +101,11 @@ Das Panel wird vom [Handbuchprojekt](/products/publications/handbuch/) (Stadt.Ge
 4.  Publikumsdiskussion (10 Minuten)
 
 ## Projektvorstellungen {#projektvorstellungen}
+
+::: {.callout-note title="Videoaufzeichnungen" icon="false"}
+Die Vorstellungen der einzelnen Projekte sind Teil der Videoaufzeichnung des Panels, das [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.18489018) ist.
+:::
+
 
 ### NFDI4Memory
 

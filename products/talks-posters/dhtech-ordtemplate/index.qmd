@@ -44,7 +44,9 @@ other-links:
   - text: 'Proceedings Paper'
     icon: 'file-earmark-richtext'
     href: 'https://doi.org/10.63744/X90VnKkYV5Hb'
-
+  - text: 'Video Recording (Zenodo)'
+    icon: camera-reels
+    href: 'https://doi.org/10.5281/zenodo.18488961'
 code-links:
   - href: 'https://github.com/maehr/open-research-data-template/'
     text: Template-Repository
@@ -53,7 +55,7 @@ code-links:
 
 ## Vortrag
 
-Der Vortrag ist Teil des [Digital Humanities Tech Symposiums](https://dh-tech.github.io/2025/02/19/digital-humanities-tech-symposium/) der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa.
+Der Vortrag ist Teil des [Digital Humanities Tech Symposiums](https://dh-tech.github.io/2025/02/19/digital-humanities-tech-symposium/) der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa. Eine Videoaufzeichnung ist [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.18488961).
 
 ::: {.callout-tip title="Präsentation anzeigen (PDF)" icon="false" collapse="true"}
 <iframe src="/assets/files/20250714-DHTech_ORDTemplate.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="One Template to Rule Them All">

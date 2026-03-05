@@ -33,11 +33,14 @@ other-links:
   - text: Slides (Zenodo)
     icon: filetype-pdf
     href: 'https://doi.org/10.5281/zenodo.16042822'
+  - text: 'Videoaufzeichnung (Zenodo)'
+    icon: camera-reels
+    href: 'https://doi.org/10.5281/zenodo.18484300'
 ---
 
 ## Vortrag
 
-Der Vortrag ist Teil der Session [Long Paper-23](https://www.conftool.pro/dh2025/index.php?page=browseSessions&form_session=187) der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa.
+Der Vortrag ist Teil der Session [Long Paper-23](https://www.conftool.pro/dh2025/index.php?page=browseSessions&form_session=187) der Konferenz [Digital Humanities 2025](https://dh2025.adho.org/) an der Universidade NOVA de Lisboa. Eine Videoaufzeichnung des Vortrags ist [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.18484300).
 
 ::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
 Diese Ansicht zeigt eine komprimierte Vorschau der Präsentation. Die hochaufgelösten Original-Slides sind [auf Zenodo verfügbar](https://doi.org/10.5281/zenodo.16042822).

@@ -26,6 +26,9 @@ other-links:
   - text: Digital Humanities Tech Symposium (DH2025) Presentation
     href: '/products/talks-posters/dhtech-ordtemplate/'
     icon: easel
+  - text: 'Video Recording (Zenodo)'
+    icon: camera-reels
+    href: 'https://doi.org/10.5281/zenodo.18488961'
 code-links:
   - href: 'https://github.com/maehr/open-research-data-template'
     text: 'Template Repository'
@@ -35,7 +38,7 @@ code-links:
     icon: github
 ---
 
-The paper *One Template to Rule Them All: Interactive Research Data Documentation with Quarto* is part of the [proceedings of the Digital Humanities Tech Symposium](https://anthology.ach.org/volumes/vol0002/) at DH2025 in Lisbon ([Slides](/products/talks-posters/dhtech-ordtemplate/index.qmd)).
+The paper *One Template to Rule Them All: Interactive Research Data Documentation with Quarto* is part of the [proceedings of the Digital Humanities Tech Symposium](https://anthology.ach.org/volumes/vol0002/) at DH2025 in Lisbon ([Slides](/products/talks-posters/dhtech-ordtemplate/index.qmd), [Video Recording](https://doi.org/10.5281/zenodo.18488961)).
 
 ::: {.callout-tip title="Show Paper" icon="false" collapse="true"}
 <iframe src="/assets/files/251022-Maehr_Twente-Template.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="One Template to Rule Them All: Interactive Research Data Documentation with Quarto">
