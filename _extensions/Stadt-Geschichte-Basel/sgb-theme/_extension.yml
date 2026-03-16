@@ -27,11 +27,11 @@ contributes:
       #      sgb-theme-html:
       #        include-in-header:
       #          text: |
-      #            <script defer data-domain="your-domain.com" src="https://plausible.io/js/script.outbound-links.js"></script>
+      #            <script defer src="https://cloud.umami.is/script.js" data-website-id="your-website-id"></script>
       # 2. Or remove analytics by setting include-in-header: null
       include-in-header:
         text: |
-          <script defer data-domain="dokumentation.stadtgeschichtebasel.ch" src="https://plausible.io/js/script.outbound-links.js"></script>
+          <script defer src="https://cloud.umami.is/script.js" data-website-id="your-website-id"></script>
 
       # Resources
       resources:
