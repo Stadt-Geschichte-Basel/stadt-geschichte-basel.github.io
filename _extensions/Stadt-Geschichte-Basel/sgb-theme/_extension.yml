@@ -29,9 +29,7 @@ contributes:
       #          text: |
       #            <script defer src="https://cloud.umami.is/script.js" data-website-id="your-website-id"></script>
       # 2. Or remove analytics by setting include-in-header: null
-      include-in-header:
-        text: |
-          <script defer src="https://cloud.umami.is/script.js" data-website-id="your-website-id"></script>
+      include-in-header: null
 
       # Resources
       resources:
