@@ -59,6 +59,9 @@ website:
 format:
   sgb-theme-html:
     css: styles.css
+    include-in-header:
+      text: |
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="c8547c7f-8d9e-43d6-b7f3-07da9f3d9acc"></script>
 
 freeze: true
 
