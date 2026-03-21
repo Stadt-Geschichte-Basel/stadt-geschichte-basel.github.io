@@ -55,7 +55,7 @@ Cookies sind kleine Textdateien, die von unserem Server oder dem Server Dritter 
 Aus Sicherheitsgründen, um z. B. Missbrauchsfälle aufklären zu können und unsere Netzinfrastruktur sicherzustellen, werden sog. Zugriffsdaten, die beim Aufrufen der Webseiten [https://stadtgeschichtebasel.ch](https://stadtgeschichtebasel.ch) und [https://forschung.stadtgeschichtebasel.ch](https://forschung.stadtgeschichtebasel.ch) automatisch erhoben werden, gespeichert. Details entnehmen Sie den Datenschutzbestimmungen von Cloudflare wie sie unter [https://www.cloudflare.com/en-gb/privacypolicy/](https://www.cloudflare.com/en-gb/privacypolicy/) angegeben sind.
 
 ### Verwendet die Website Web-Analyse-Tools?
-Aktuell ist auf dieser Dokumentationsplattform kein Web-Analyse-Tool eingebunden. Falls künftig eine datenschutzfreundliche und Cookie-freie Web-Analyse eingesetzt wird, ist dafür Umami Cloud vorgesehen. Details entnehmen Sie den Datenschutzbestimmungen von Umami wie sie unter [https://umami.is/privacy](https://umami.is/privacy) einsehbar sind.
+Auf dieser Dokumentationsplattform wird für die datenschutzfreundliche und Cookie-freie Web-Analyse Umami Cloud eingesetzt. Details entnehmen Sie den Datenschutzbestimmungen von Umami wie sie unter [https://umami.is/privacy](https://umami.is/privacy) einsehbar sind.
 
 ### Welche Dienste von Dritten verwendet die Website?
 Wir binden Dienste von Dritten ein, achten dabei auf die Grundsätze des Datenschutzes (insbesondere Zweckbindung, Datenminimierung und nach Möglichkeit ohne Datentransfer in unsichere Drittländer).
