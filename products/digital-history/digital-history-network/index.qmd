@@ -3,7 +3,7 @@ title: Digital History Network Switzerland
 categories: Community
 date-modified: last-modified
 lang: de
-appendix-cite-as: false
+appendix-cite-as: display
 other-links:
   - text: Website
     icon: house

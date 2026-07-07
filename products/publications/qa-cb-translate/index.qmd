@@ -19,7 +19,11 @@ code-links:
   - href: 'https://github.com/CollectionBuilder/cb-translate/'
     text: GitHub Repository
     icon: github
-citation: true
+citation:
+  type: webpage
+  title: 'Q&A with Moritz Mähr, Stadt.Geschichte.Basel and cb-translate'
+  container-title: CollectionBuilder Blog
+  url: 'https://collectionbuilder.github.io/2024-04-22-cb-moritz-mahr/'
 appendix-cite-as: display
 ---
 
