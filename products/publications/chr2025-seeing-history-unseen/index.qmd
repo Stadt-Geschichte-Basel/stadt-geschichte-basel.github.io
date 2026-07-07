@@ -13,28 +13,49 @@ author:
     orcid: 0009-0005-7187-9774
     affiliation: University of Basel
 date: 2025-11-21
+doi: 10.63744/njQVYcLndSPE
 categories: Publikation
 lang: en
-doi: 10.63744/njQVYcLndSPE
+citation:
+  type: article-journal
+  title: 'Seeing History Unseen: Evaluating Vision-Language Models for WCAG-Compliant Alt-Text in Digital Heritage Collections'
+  container-title: 'In: Arnold, Taylor; Margherita Fantoli and Ruben Ros (eds.): Computational Humanities Research 2025. Anthology of Computers and the Humanities Vol. 3, 1147–1167.'
+  doi: '10.63744/njQVYcLndSPE'
+appendix-cite-as: display
 other-links:
   - text: Paper (HTML)
     icon: filetype-html
     href: 'https://doi.org/10.63744/njQVYcLndSPE'
   - text: Paper (PDF)
     icon: filetype-pdf
-    href: 'https://anthology.ach.org/volumes/vol0003/10.63744@njQVYcLndSPE.pdf'
+    href: '/assets/files/20251121-Maehr_Twente-Seeing_History_Unseen.pdf'
+  - text: CHR25 Presentation
+    href: '/products/talks-posters/chr2025-unseen/'
+    icon: easel
   - text: Companion Website
     icon: globe
     href: 'https://maehr.github.io/chr2025-seeing-history-unseen/'
+  - text: Conference Proceedings
+    icon: filetype-html
+    href: 'https://anthology.ach.org/volumes/vol0003/'
 code-links:
   - href: 'https://github.com/maehr/chr2025-seeing-history-unseen/'
-    text: Code and Data Repository
+    text: Project Repository
     icon: github
-citation: true
-appendix-cite-as: display
+  - href: 'https://github.com/achorg/anthology-ch/'
+    text: anthology-ch Source Repository
+    icon: github
 ---
 
-The paper *Seeing History Unseen: Evaluating Vision-Language Models for WCAG-Compliant Alt-Text in Digital Heritage Collections* is part of the [proceedings of the Computational Humanities Research Conference 2025 (CHR 2025)](https://anthology.ach.org/volumes/vol0003/), published in the *Anthology of Computers and the Humanities*, Vol. 3, pp. 1147–1167. The study evaluates images from the [Open Research Data Platform](/products/coding/plattform/index.qmd) of Stadt.Geschichte.Basel; all code, data, and survey materials are available in the [companion repository](https://github.com/maehr/chr2025-seeing-history-unseen/).
+The paper *Seeing History Unseen: Evaluating Vision-Language Models for WCAG-Compliant Alt-Text in Digital Heritage Collections* is part of the [proceedings of the Computational Humanities Research 2025 conference](https://anthology.ach.org/volumes/vol0003/) at the Luxembourg Centre for Contemporary and Digital History (C^2^DH) at the University of Luxembourg, published in the *Anthology of Computers and the Humanities*, Vol. 3, pp. 1147–1167. Slides for the accompanying short paper presentation are also [available](/products/talks-posters/chr2025-unseen/index.qmd). The study evaluates images from the [Open Research Data Platform](/products/coding/plattform/index.qmd) of Stadt.Geschichte.Basel; all code, data, and survey materials are available in the [companion repository](https://github.com/maehr/chr2025-seeing-history-unseen/).
+
+::: {.callout-tip title="Show Paper" icon="false" collapse="true"}
+<iframe src="/assets/files/20251121-Maehr_Twente-Seeing_History_Unseen.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Seeing History Unseen: Evaluating Vision-Language Models for WCAG-Compliant Alt-Text in Digital Heritage Collections">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/20251121-Maehr_Twente-Seeing_History_Unseen.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
 
 ## Abstract
 
