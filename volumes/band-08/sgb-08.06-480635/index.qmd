@@ -1,0 +1,1511 @@
+---
+title: Anhang
+description: Kapitel 6 aus Band 8 «Auf dem Weg ins Jetzt. Seit 1960» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 6
+doi: 10.21255/sgb-08.06-480635
+license: CC BY-NC 4.0
+author:
+- name: Martin Lengwiler
+  orcid: 0000-0001-5420-6192
+citation:
+  type: chapter
+  title: Anhang
+  container-title: Auf dem Weg ins Jetzt. Seit 1960
+  page: 301-327
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2025
+  url: https://doi.org/10.21255/sgb-08.06-480635
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band8/chapter/355
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band8/85/958
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-note title="Lizenz" appearance="simple"}
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-08.06-480635](https://doi.org/10.21255/sgb-08.06-480635)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<h2>Abkürzungsverzeichnis</h2>
+<p>AG Aktiengesellschaft</p>
+<p>AJZ Autonomes Jugendzentrum</p>
+<p>AKW Atomkraftwerk</p>
+<p>ASG Alte Stadtgärtnerei</p>
+<p>AZ Arbeiter-Zeitung (ab 1963 Abend-Zeitung)</p>
+<p>BASNU Basler Arbeitsgemeinschaft zum Schutz von Natur und Umwelt</p>
+<p>BastA! Basels starke Alternative</p>
+<p>BaZ Basler Zeitung</p>
+<p>BII Basel Institute for Immunology</p>
+<p>BIZ Bank für Internationalen Zahlungsausgleich</p>
+<p>BKB Basler Kantonalbank</p>
+<p>BL Basel-Landschaft</p>
+<p>BLT Baselland Transport AG</p>
+<p>BN Basler Nachrichten</p>
+<p>BVB Basler Verkehrs-Betriebe</p>
+<p>bz Basellandschaftliche Zeitung (ab 2019 Zeitung für die Region Basel)</p>
+<p>CEO Chief Executive Officer</p>
+<p>CMS Christoph Merian Stiftung</p>
+<p>CVP Christlichdemokratische Volkspartei</p>
+<p>DSP Demokratisch-Soziale Partei</p>
+<p>EMOS OS-Klassen mit erweitertem Musikunterricht</p>
+<p>ETH Eidgenössische Technische Hochschule Zürich</p>
+<p>EU Europäische Union</p>
+<p>EVP Evangelische Volkspartei</p>
+<p>EWG Europäische Wirtschaftsgemeinschaft</p>
+<p>EWR Europäischer Wirtschaftsraum</p>
+<p>FCB Fussballclub Basel</p>
+<p>FDP Freisinnig-Demokratische Partei</p>
+<p>GGG Gesellschaft für das Gute und Gemeinnützige</p>
+<p>GLP Grünliberale Partei</p>
+<p>GP Grüne Partei</p>
+<p>habs Homosexuelle Arbeitsgruppen Basel</p>
+<p>HAR Historisches Archiv Roche</p>
+<p>HMB Historisches Museum Basel</p>
+<p>IWB Industrielle Werke Basel</p>
+<p>KVA Kehrichtverbrennungsanlage</p>
+<p>LDP Liberal-Demokratische Partei</p>
+<p>LdU Landesring der Unabhängigen</p>
+<p>muba Mustermesse Basel</p>
+<p>NA Nationale Aktion gegen Überfremdung von Volk und Heimat</p>
+<p>NPM New Public Management</p>
+<p>NZ National-Zeitung</p>
+<p>NZZ Neue Zürcher Zeitung</p>
+<p>OFRA Organisation für die Sache der Frau</p>
+<p>ÖKK Öffentliche Krankenkasse</p>
+<p>OS Orientierungsschule</p>
+<p>ÖV Öffentlicher Verkehr</p>
+<p>PdA Partei der Arbeit</p>
+<p>PLM Progressive Lehrlinge und Mittelschüler</p>
+<p>POB Progressive Organisationen Basel</p>
+<p>POCH Progressive Organisationen Schweiz</p>
+<p>PSB Progressive Studentenschaft Basel</p>
+<p>PTT Post-, Telefon- und Telegrafenbetriebe</p>
+<p>RDP Radikal-Demokratische Partei</p>
+<p>REKABAS Redimensionierung der Kantonsaufgaben im Kanton Basel-Stadt</p>
+<p>SBB Schweizerische Bundesbahnen</p>
+<p>SBV Schweizerischer Bankverein</p>
+<p>SfG Schule für Gestaltung Basel</p>
+<p>SP Sozialdemokratische Partei</p>
+<p>SRG Schweizerische Radio- und Fernsehgesellschaft</p>
+<p>StABS Staatsarchiv Basel-Stadt</p>
+<p>StatJB Statistisches Jahrbuch des Kantons Basel-Stadt</p>
+<p>SVP Schweizerische Volkspartei</p>
+<p>SWA Schweizerisches Wirtschaftsarchiv</p>
+<p>TA Tages-Anzeiger</p>
+<p>UB Basel Universitätsbibliothek Basel</p>
+<p>UNESCO United Nations Educational, Scientific and Cultural Organization</p>
+<p>UTC Union Trading Company</p>
+<p>VPOD Verband des Personals öffentlicher Dienste</p>
+<p>VSK Verband Schweizerischer Konsumvereine</p>
+<p>WBS Weiterbildungsschule</p>
+<p>WoVe Verein Studentische Wohnvermittlung</p>
+<p>Zeba Zentralwäscherei Basel</p>
+<p>ZHdK Zürcher Hochschule der Künste</p>
+<h2>Quellen- und Literaturverzeichnis</h2>
+<h3>Quellen Ungedruckte Quellen</h3>
+<p><em>Novartis Archiv</em></p>
+<p>Novartis Archiv, Ciba-Geigy, Division Pharma, PH 4.04.08, Biotechnikum.</p>
+<p><em>Schweizerisches Wirtschaftsarchiv (SWA)</em></p>
+<p>SWA, Verkehr A 32, Danzas.</p>
+<p>SWA, H+I C 716, Union Trading Company.</p>
+<p>SWA, H+I Bb 136, Tally Weijl.</p>
+<p>SWA, H + I C5M, Magazine zur Rheinbrücke AG Basel.</p>
+<p><em>Staatsarchiv Basel-Stadt (StABS)</em></p>
+<p>StABS, ED-REG 1c, 923-4-1 (1), Kommission zur Beaufsichtigung wissenschaftlicher Versuchstiere.</p>
+<p>StABS, ED-REG 54, Abteilung Sport / Sportamt, 1950–2012.</p>
+<p>StABS, KK 2 1959 XVII 700/87, Kriminalnachrichten Nr. 19, undatiert.</p>
+<p>StABS, NHA 1, Aussenbeziehungen und Standortmarketing 1995–2014.</p>
+<p>StABS, PA 933, Progressive Organisationen Basel (POB).</p>
+<p>StABS, PA 933a C 7-1 5, Aktionskomitee gegen den Cityring, 1971–1973.</p>
+<p>StABS, PA 1008, Basel Tourismus (bis 1996 Verkehrsverein Basel).</p>
+<p>StABS, PD-REG 8d (1) 5-1 6, Konkubinat.</p>
+<p>StABS, SK-REG 2-0-1-2 (4) 35, Basler Woche in New York, Einladung Swiss Institute, 1987.</p>
+<p><em>Archiv Kantonsblätter Basel-Stadt</em></p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 111.100, Verfassung des Kantons Basel-Stadt vom 23.03.2005. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/ 111.100, abgerufen am 30.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 123.400, Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15.11.2007. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_ law/123.400, abgerufen am 27.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 497.100, Gesetz über den Denkmalschutz vom 20.03.1980. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/497. 100/versions/2487, abgerufen am 27.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 772.100: Energiegesetz vom 16.11.2016. Online: https://www.gesetzessammlung.bs.ch/ app/de/texts_of_law/772.100, abgerufen am 27.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 789.700, Baumschutzgesetz vom 16.10.1980. Online: https://www.gesetzessammlung.bs.ch/ app/de/texts_of_law/789.700, abgerufen am 27.06.2023.</p>
+<p><em>Fernsehsendungen, Filme, Audioaufnahmen</em></p>
+<p>«AKW-Gegner besetzen Kaiseraugst (1975)», SRF-Archiv, 11.06.2015. Online: https://www. youtube.com/watch?v=gHZt_xIab0E, abgerufen am 26.06.2023.</p>
+<p>«Arbeitslose in der Schweiz», Antenne, SRF, 20.11.1974. Online: https://www.srf.ch/play/ tv/antenne/video/arbeitslose-in-der-schweiz?urn=urn:srf:video:d3ff8006-b7c4-4a61-a58c-d5407e4fe47e, abgerufen am 27.06.2023.</p>
+<p>«Asylantenschiff Ursula», DRS aktuell, SRF, 14.12.1987. Online: https://www.srf.ch/play/ tv/drs-aktuell/video/asylantenschiff-ursula ?urn=urn:srf:video:27e3c03d-5f8c-49f0-94 bc-5bca4335b125, abgerufen am 30.03.2023.</p>
+<p>«Asylbewerber Basel», DRS aktuell, SRF, 01.11.1985. Online: https://www.srf.ch/play/tv/ drs-aktuell/video/asylbewerber-basel?urn= urn:srf:video:7bae5057-b309-42cc-bc0e-1e9f75288edc, abgerufen am 20.03.2023.</p>
+<p>«Basel will neue gesetzliche Grundlagen für WG’s [sic] erarbeiten», Antenne, SRF, 05.02.1973. Online: https://www.srf.ch/play/ tv/-/video/-?urn=urn:srf:video:822e21c8-fe4c-4a7a-8c16-1d3a3bdd7f2c, abgerufen am 27.06.2022.</p>
+<p>«Beuys, Basel und die Fasnacht», SRF Audio, 27.04.2021. Online: https://www.srf.ch/audio/ kontext/beuys-basel-und-die-fasnacht? partId=11970230, abgerufen am 27.06.2023.</p>
+<p>«Das Horburg-Quartier in Basel», Bericht vor 8, SRF, 10.02.1977. Online: https://www.srf.ch/ play/tv/bericht-vor-8/video/das-horburg-quartier-in-basel?urn=urn:srf:video:d875 b750-798e-4320-9b11-aa8cc74aabea, abgerufen am 27.06.2023.</p>
+<p>«Das Picasso-Wunder von Basel», Film von Urs Kern, Sternstunde Kunst, SRF, 17.03.2013. Online: https://www.srf.ch/play/tv/sternstunde-kunst/video/das-picasso-wunder-von-basel?urn=urn:srf:video:470872bc-6b60-4713-9c92-b1ebdd67d59c, abgerufen am 27.06.2023.</p>
+<p>«Demonstration in Basel», Blickpunkt, SRF, 23.06.1980. Online: https://www.srf.ch/play/ tv/blickpunkt/video/demonstration-in-basel?urn=urn:srf:video:23bfdbfe-e120-4cff-bac4-6c937cd27b35, abgerufen am 23.03.2023.</p>
+<p>«Der Rest ist Risiko», Schweizerisches Sozialarchiv, Vid V_015. Online: https://www.bild-video-ton.ch/bestand/objekt/Sozarch_Vid_ V_015, abgerufen am 29.06.2023.</p>
+<p>«Die Steinenvorstadt und ihr schlechter Ruf», Seismo Nachtschicht, SRF, 08.06.1989. Online: https://www.srf.ch/play/tv/archivperlen/video/steinenvorstadt-basel-und-ihr-schlechter-ruf-1989?urn=urn:srf:video:84d90d0b-f89c-4db3-89b8-7a2fa7abb895, abgerufen am 27.06.2023.</p>
+<p>«Drogenkette Basel», CH-Magazin, SRF, 21.05.1976. Online: https://www.srf.ch/play/ tv/ch-magazin/video/drogenkette-basel?urn=urn:srf:video:cc503aa9-209e-4bc3-bc6e-124fffdc5a79, abgerufen am 03.04.2023.</p>
+<p>«Familienplanung», Blickpunkt, SRF, 20.04.1977. Online: https://www.srf.ch/play/tv/blickpunkt/video/familienplanung?urn=urn: srf:video:fb694fdb-d929-450b-9e09-3d3ffa715272, abgerufen am 30.03.2023.</p>
+<p>«Fichen-Affaire in Basel», Schweiz aktuell, SRF, 25.06.2008. Online: https://www.srf.ch/ play/tv/schweiz-aktuell/video/fichen-affaire-in-basel?urn=urn:srf:video:949fc471-f54f-4dcb-b5ee-e6f82308e7f0, abgerufen am 28.12.2024.</p>
+<p>«Frauen - jetzt langt’s», Schweizerisches Sozialarchiv, Vid V_031, 1978/1979. Online: https://www.bild-video-ton.ch/bestand/ objekt/Sozarch_Vid_V_031, abgerufen am 24.03.2023.</p>
+<p>Godet, Alain: «Faustrecht – Dokumentation über die Basler Ultras» (1993), «Einmal Schläger, immer Schläger? Basler Fussball-Rowdies einst und heute» (1998), «Narben der Gewalt (Basler Hooligans)» (2012).</p>
+<p>«Immobilienmarkt, Überangebot an neuen Bürohäusern», Tagesschau, SRF, 11.01.1993. Online: https://www.srf.ch/play/tv/-/video/-? urn=urn:srf:video:58343a62-302c-4002-8d d3-30248761d033, abgerufen am 27.06.2023.</p>
+<p>«Kinderkrippe Basel», Antenne, SRF, 11.11.1971. Online: https://www.srf.ch/play/tv/antenne/video/kinderkrippe-basel?urn=urn:srf:v ideo:0c5db448-0a28-4860-9622-3c6223f 47885, angerufen am 03.04.2023.</p>
+<p>«Klein Istanbul», Schweiz aktuell, SRF, 10.06.1993. Online: https://www.srf.ch/play/tv/schweiz-aktuell/video/klein-istanbul?urn=urn:srf: video:b0843374-7174-4621-a457-58df0f5 e63cf, abgerufen am 30.03.2023.</p>
+<p>«Konzert Rolling Stones», Karussell, SRF, 21.05.1982. Online: https://www.srf.ch/play/ tv/karussell/video/konzert-rolling-stones? urn=urn:srf:video:abb63ce6-0c18-4cfb-ab9 2-9cdb8b1d3028, abgerufen am 27.06.2023.</p>
+<p>«Lohngleichheit», 10 vor 10, SRF, 02.11.1993. Online: https://www.srf.ch/play/tv/10-vor-10/ video/lohngleichheit?urn=urn:srf:video:cd b5d699-dcd7-4e0f-9fb9-81615278f8f5, abgerufen am 27.03.2023.</p>
+<p>«Prozess gegen Eric Weber», DRS aktuell, SRF, 10.09.1986. Online: https://www.srf.ch/play/ tv/drs-aktuell/video/prozess-gegen-eric-weber?urn=urn:srf:video:2d76e244-a22a-4b6f-9a92-1f720987cdde, abgerufen am 26.06.2023.</p>
+<p>«Sparpaket für die Sanierung der Kantons-Finanzen», Tagesschau, SRF, 13.10.1992. Online: https://www.srf.ch/play/tv/tagesschau/video/sparpaket-fuer-die-sanierung-der-kantons-finanzen?urn=urn:srf:video:4d233 e81-264e-4016-a680-34e8019d8bbf, abgerufen am 26.06.2023.</p>
+<p>«Sperrung der Innenstadt in Basel», Antenne, SRF, 22.03.1972. Online: https://www.srf.ch/ play/tv/antenne/video/blickpunkt-region-sperrung-der-innenstadt-in-basel?urn= urn:srf:video:47ca4154-f709-47b3-91d9-8b3182f268a7, abgerufen am 26.06.2023.</p>
+<p>«Vom Fussgänger zum Bussgänger», Antenne, SRF, 28.01.1966. Online: https://www.srf.ch/ play/tv/antenne/video/vom-fussgaenger-zum-bussgaenger?urn=urn:srf:video:91a 3c334-b6a5-4cae-a18d-145ca140a6b8, abgerufen am 26.06.2023.</p>
+<p>«Z. B. Ryffstrasse», Schweizerisches Sozialarchiv, Vid V_075. Online: https://www.bild-video-ton.ch/bestand/objekt/Sozarch_Vid_ V_075, abgerufen am 27.06.2023.</p>
+<h3>Gedruckte Quellen</h3>
+<p><em>Zeitungs- und Zeitschriftenbeiträge</em></p>
+<p>«Abschaffung der Beihilfen: Die Hauptakteure kommen zu Wort», in: bz Basel, 11.04.1998.</p>
+<p>«Als Wohnraum nicht mehr gefragt», in: NZ, 24.01.1976.</p>
+<p>«Also doch ‹Fehlplanung des Jahrhunderts›», in: BN, 14.02.1968</p>
+<p>«Alternative zum Vogel-Gryff in Kleinbasel», in: SRF News, 13.01.1999.</p>
+<p>«Ausländerproblem am Stammtisch lösen?», in: TA, 29.02.1996.</p>
+<p>Baetcke, Friederike: Da scheiden sich die Geister. Das neue Museum der Kulturen in Basel ist umstritten: Herzog &amp; de Meuron rechneten mit Sinnlichkeit – nun kommt die Ausstellung spröde daher: Ein Missverständnis?, in: Hochparterre 24 (11), 2011, S. 54–57.</p>
+<p>«‹Basel 75›: Vom Verwalten zum Regieren», in: NZ, 01.03.1975.</p>
+<p>«Basel liebt die Kunst», in: St. Galler Tagblatt, 14.06.2013.</p>
+<p>«Basel verliert die Traditionsmarke Danzas», in: NZZ, 01.11.2002.</p>
+<p>«Basler Museumsnacht: Fortführung gesichert», in: BaZ, 30.05.2001.</p>
+<p>«Basler Tangenten-Entscheid als Gordischer Knoten im Bundeshaus?», in: BN, 29./ 30.08.1964.</p>
+<p>«Bell möchte gern in Basel bleiben, aber …», in: BN, 23.04.1965.</p>
+<p>Bischof, Alois: Little Istanbul, in: Das Magazin / Tages-Anzeiger und Berner Zeitung BZ, Nr. 52, 1991.</p>
+<p>«Basler Verein kämpft für regionales Fernsehfenster», in: TA, 29.08.1986.</p>
+<p>Borner, Silvio: «Setzt sich die Basler Wirtschaft ins Ausland ab?», in: BaZ, 29.08.1991.</p>
+<p>«Calatrava löst Grundwelle der Begeisterung aus», in: BaZ, 16.04.1988.</p>
+<p>«Chancengleichheit beim Staat wird umgesetzt», in: BaZ, 11.04.1997.</p>
+<p>«Der Basler Weg», in: TagesWoche, 06.03.2013.</p>
+<p>«Der Mensch als Gestalter in Natur und Umwelt», in: Thurgauer Zeitung, 09.04.1980.</p>
+<p>«Depressionen in einer kranken Welt», in: NZ, 06.08.1975.</p>
+<p>«Die Basler essen wieder mehr Fleisch», in: NZ, 09.05.1967.</p>
+<p>«Die Basler Schule aus zehn verschiedenen Gesichtspunkten», in: BaZ, 18.05.2000.</p>
+<p>«‹Die Fusion der LDP mit der FDP ist vom Tisch›», in: bz Basel, 17.11.2015.</p>
+<p>«Die Messe ist tot, es lebe die Messe», in: Blick, 08.02.2019.</p>
+<p>«Die Wut der Privatisierten», in: Wochenzeitung, 27.09.1996.</p>
+<p>Diener, Roger; Schett, Wolfgang: Subventionierter Wohnungsbau in Basel: Architekten Diener &amp; Diener, in: Werk, Bauen + Wohnen 68 (12), 1981, S. 36–43.</p>
+<p>du – Zeitschrift für Kultur (9), September 1995.</p>
+<p>«Einen Kontrahenten müssen die grossen Pharmafirmen fürchten: das Silicon Valley», in: TagesWoche, 12.12.2016.</p>
+<p>«Einfach und konsequent», in: NZZ Folio, April 2010.</p>
+<p>«Er wollte Zigeuner genannt werden», in: NZZ am Sonntag, 18.06.2023.</p>
+<p>«Es geht uns zu gut», in: bz Basel, 25.04.2019.</p>
+<p>«Geschlecht darf nicht den Ausschlag geben», in: NZ, 17.04.1975.</p>
+<p>«Hafenbecken 3 nimmt Volksschwelle – Für Realisierung fehlen aber noch einige Entscheide», in: bz Basel, 29.11.2020.</p>
+<p>«Hanfläden: Das Leben in der Grauzone», in: BaZ, 09.09.2002.</p>
+<p>Hochparterre (Hg.): 113 Hektar Chancenland. Basel vor dem Boom: Ein Heft über riesige Transformationsareale und Quartiere im Wandel, über fordernde Stimmbürger und das Leben im Dreiland, 32 (15) 2019, S. 1–40.</p>
+<p>«Ich wollte die längst fällige Diskussion in Gang bringen», in: BaZ, 19.01.1996.</p>
+<p>«In Basel geht’s: Verträge statt Krawall», in: Cash, 19.11.1993</p>
+<p>«In Beziehungsnetzen können sich Frauen besser fördern», in: BaZ, 21.11.1994.</p>
+<p>«Jeder Basler Einwohner ass 56 ½ Kilo Fleisch», in: Basler Volksblatt, 15.05.1950.</p>
+<p>Keller, Christoph: Geschlossene Gesellschaft. Der Basler Daig ist nicht mehr, was er einmal war, trotzdem hält er in der Kultur noch alle Fäden in der Hand, in: Das Magazin / Tages-Anzeiger und Berner Zeitung BZ, Nr. 27, 2001.</p>
+<p>«Khaki-Hosen ausgezogen», in: Die Weltwoche, 02.07.1998.</p>
+<p>«Kinderbetreuung in Basel: endlich ein Gesamtkonzept!», in: bz Basel, 12.04.1999.</p>
+<p>«Kleinbasler Ehrengesellschaften nehmen neu Frauen auf», in: BaZ, 10.06.2022.</p>
+<p>Küng, Zita; Stingelin, Christine; Meyer, Marianne: Abtreibung, in: Emanzipation 8 (5), 1982, S. 4–5.</p>
+<p>Mall-Haefeli, Marianne: Der sozialmedizinische Dienst an der Universität Basel, in: Zeitschrift für Präventivmedizin 18 (3), 1973, S. 91–98.</p>
+<p>«Männer auch benachteiligt», in: Blick Basel, 29.10.1988.</p>
+<p>«Migrantenvereine machen Politik», in: BaZ, 07.06.2005.</p>
+<p>«Orientierungsschule – wie weiter?», in: BaZ, 14.05.1998.</p>
+<p>«Pro und kontra Spitalvorlage», in: NZ, 29.01.1964.</p>
+<p>«Roche-Jubiläum: Plädoyers für Pioniergeist», in: bz Basel, 02.10.1996.</p>
+<p>Ryser, Werner: Die Basellandschaftliche Zeitung schliesst sich den AZ Medien an: vom Kampfblatt zur Forumszeitung, in: Akzent. Magazin für Kultur und Gesellschaft 26 (4), 2011, S. 20–25.</p>
+<p>Ryser, Werner: Zwischen Mitgliederschwund, Priestermangel und knappen Finanzen: Seelsorge unter erschwerten Bedingungen, in: Akzent. Magazin für Kultur und Gesellschaft 27 (6), 2012, S. 16–20.</p>
+<p>Schaller, Esther: «Wie ihr denkt, so werdet ihr schaffen». Das zweite Prinzip der Macht, in: Emanzipation 6 (4), 1980, S. 6–8.</p>
+<p>«Schulen werden zu anregenden Lernorten», in: bz Basel, 14.08.2007.</p>
+<p>«Selbstbedienung – die grosse Versuchung», in: NZ, 11.12.1973.</p>
+<p>«Selbstporträts», in: Frau ohne Herz. Zeitschrift für Frauen und andere Lesben 4 (25), 1989, S. 28–29.</p>
+<p>«Sexarbeiterinnen sind Frauen mit Würde», in: 20 Minuten, 04.11.2016.</p>
+<p>«Sonderbeilage Spedition», in: BaZ, 09.05.1980.</p>
+<p>«Sozialhilfe: Basel sprengt Prognosen», in: bz Basel, 31.07.2003.</p>
+<p>«SP-Sekretariat besetzt», in: AZ – Abendzeitung, 08.05.1984.</p>
+<p>Stadelmann, Lukas: Ohne Güter keine Stadt, in: Hochparterre 34 (6/7), 2021, S. 12–16.</p>
+<p>«‹Strassendirnen› werden von der Claramatte weggewiesen», in: bz Basel, 07.10.1999.</p>
+<p>Tamm, Sabine; Heilmann, Rosemarie: Diese Frau gehört nicht in den Ständerat: keine Stimme für Frau Mall, in: Emanzipation 9 (8), 1983, S. 22.</p>
+<p>Thiriet, Roger: Musik an der Basler Fasnacht: mit Lippen, Lungen, Handgelenken und Stimmbändern, in: Akzent. Magazin für Kultur und Gesellschaft 32 (1), 2017, S. 16–20.</p>
+<p>«Traditionsmarke Danzas verschwindet», in: BaZ, 01.11.2002.</p>
+<p>«Verbotsschilder im Milieu: Fragwürdiger Nutzen», in: BaZ, 12.11.1999.</p>
+<p>«Chancengleichheit beim Staat wird umgesetzt», in: BaZ, 11.04.1997.</p>
+<p>Währen, Sabine: Theater ums Theater – Basel tickt nicht anders. Das Basler Stadttheater, in: Akzent. Magazin für Kultur und Gesellschaft 24 (4), 2009, S. 2–7.</p>
+<p>Währen, Sabine; Ryser, Werner: Ein Stück Basler Pressegeschichte: Eine Monopolzeitung entsteht, in: Akzent. Magazin für Kultur und Gesellschaft 26 (4), 2011, S. 10–13.</p>
+<p>«Werbung Möbel Pfister», in: NZ, 12.02.1965.</p>
+<p>«Wie Basel seine Picassos rettete: eine Heldengeschichte», in: BaZ, 15.03.2013.</p>
+<p>«Wir hatten wunderschöne Zeiten als Halbstarke», in: BaZ, 26.01.1999.</p>
+<p>«Wir wollen doch kein Trampolin», in: Nordschweiz, 09.04.1988.</p>
+<p>«Zum Tod von Werner Düggelin: Die Lebenselixiere des grossen Verzauberers», in: St. Galler Tagblatt, 07.12.2019.</p>
+<p>«1 Haus, 25 Jahre, 94 Menschen, 1000 Stories», in: BaZ 16.06.1999.</p>
+<p>«17 Frauen mit Papas Segen», in: Emanzipation 15 (10), 1989, S. 21.</p>
+<p><em>Amtliche Schriften</em></p>
+<p>Abteilung Gleichstellung von Frauen und Männern: Gleichgestellt? Facts &amp; Figures 2019, Basel 2019.</p>
+<p>Amt für Umwelt und Energie Basel-Stadt: Abteilung Abfall und Rohstoffe. Online: https:// www.bs.ch/wsu/aue/abteilung-abfall-und-rohstoffe, abgerufen am 12.12.2024.</p>
+<p>Amt für Umwelt und Energie Basel-Stadt: Basel tickt anders – auch im Energiebereich, Basel 2001.</p>
+<p>Amt für Umwelt und Energie Basel-Stadt: Bericht über den Umsetzungsstand der Massnahmen zur Anpassung an den Klimawandel im Kanton Basel-Stadt, Basel 2017.</p>
+<p>Basel-Stadt Departement für Wirtschaft, Soziales und Umwelt; Basel-Landschaft Volkswirtschafts- und Gesundheitsdirektion; Kanton Jura Département de l’économie et de la santé: Gemeinsamer Wirtschaftsbericht der Kantone Basel-Stadt, Basel-Landschaft und Jura, Basel 2020.</p>
+<p>Bau- und Verkehrsdepartement Basel-Stadt: Parkplatzkataster. Online: https://www.bs. ch/bvd/mobilitaet/grundlagen-und-strategien/zahlen-und-fakten#parkplatzkataster, abgerufen am 12.12.2024.</p>
+<p>Bericht der Bildungs- und Kulturkommission des Grossen Rates zum Ratschlag und Entwurf zu einem Gesetz betreffend die Tagesbetreuung von Kindern sowie Bericht des Regierungsrates zu zwölf Anzügen, einer Petition und einer Initiative vom 18. August 2003.</p>
+<p>Bundesamt für Kultur, Schweizerische Akademie der Geistes- und Sozialwissenschaften: Lebendige Traditionen in der urbanen Gesellschaft, Baden 2015.</p>
+<p>Bundesamt für Statistik: Historischer Atlas der Eidgenössischen Volkszählungen, Grafische Darstellung nach Gemeinden. Online: https://www.atlas.bfs.admin.ch/maps/193/ de/14450_14904_14445_14426/23013.html, abgerufen am 27.06.2023.</p>
+<p>Bundesamt für Statistik: Mietwohnungen. Online: https://www.bfs.admin.ch/bfs/de/ home/statistiken/bau-wohnungswesen/ wohnungen/mietwohnungen.html, abgerufen am 28.06.2023.</p>
+<p>Bundesamt für Statistik: Printmedien: Entwicklung der Titelzahl und der Auflage von Zeitungen, nach Daten des Verbands Schweizer Medien, WEMF, 13.07.2018.</p>
+<p>Bundesamt für Umwelt: Analyse klimabedingter Risiken und Chancen in der Schweiz: Regionale Fallstudie Kanton Basel-Stadt, Zürich 2015.</p>
+<p>Departement für Wirtschaft, Soziales und Umwelt, Kanton Basel-Stadt: Klimaschutzbericht. Auf dem Weg in eine ressourcenschonende und CO2-arme Zukunft, Basel 2019.</p>
+<p>Eidgenössische Expertenkommission für Fragen einer schweizerischen Kulturpolitik: Beiträge für eine Kulturpolitik in der Schweiz, August 1975. Online: http://www.kulturkonferenz.ch/Clottu_Bericht_Deutsch.pdf, abgerufen am 27.06.2023.</p>
+<p>Erziehungsdepartement Basel-Stadt: Basler Schulreform. Die Orientierungsschule im Kanton Basel-Stadt, Basel 1994.</p>
+<p>Erziehungsdepartement Basel-Stadt: Zahlenspiegel Bildung 2020/21. Schulen und Angebote im Kanton Basel-Stadt, Basel 2021.</p>
+<p>Fedlex: SR 444.1 Bundesgesetz vom 20. Juni 2003 über den internationalen Kulturgütertransfer (Kulturgütertransfergesetz). Online: https://www.fedlex.admin.ch/eli/cc/2005/ 317/de, abgerufen am 27.06.2023.</p>
+<p>Gesundheitsdepartement Basel-Stadt: Vision «Gut und gemeinsam älter werden im Kanton Basel-Stadt». Online: https://www.bs. ch/gd/alter, abgerufen am 12.12.2024.</p>
+<p>Grundlagen für die Gestaltung der Alterspolitik im Kanton Basel-Stadt. Bericht der Fachkommission Richtplan Alter, Oktober 1998.</p>
+<p>Kantonale Denkmalpflege: Zukunft Kirchenraum. Zur Neunutzung von Sakralbauten in Basel. Abendführungen der Kantonalen Denkmalpflege, April bis November 2012, Basel 2012.</p>
+<p>Medienmitteilung des Bundesrats: Bund bewilligt erstes Gesuch für einen Cannabis-Pilotversuch in Basel-Stadt, 19.04.2022. Online: https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-88047.html, abgerufen am 27.06.2023.</p>
+<p>Medienmitteilung Grosser Rat: Das Basler Parlament verabschiedet Resolution zum Klimawandel, 20.02.2019. Online: https://www. bs.ch/nm/2019-das-basler-parlament-verabschiedet-resolution-zum-klimawandel-gr. html, abgerufen am 27.06.2023.</p>
+<p>Präsidialdepartement Basel-Stadt: Die Initiative «Kultur divers gestalten» geht in die nächste Runde, 17.11.2022. Online: https://www.bs. ch/medienmitteilungen/pd/2022-die-initiative-kultur-divers-gestalten-geht-die-naechste-runde, abgerufen am 12.12.2024</p>
+<p>Präsidialdepartement Basel-Stadt: Entwicklungsgebiete. Online: https://www.bs.ch/ pd/kantons-und-stadtentwicklung/stadtteile/entwicklungsgebiete, abgerufen am 12.12.2024.</p>
+<p>Präsidialdepartement Basel-Stadt: Kultur divers gestalten. Online: https://www.bs.ch/ pd/kultur/engagements-initiativen/kultur-divers-gestalten, abgerufen am 12.12.2024.</p>
+<p>Präsidialdepartement Basel-Stadt: Provenienzforschung, 15.09.2022. Online: https:// www.bs.ch/medienmitteilungen/pd/2022-provenienzforschung-die-kantonalen-museen-durchleuchten-aktiv-und-gezielt-ihre-sammlungen, abgerufen am 12.12.2024.</p>
+<p>Präsidialdepartement Basel- Stadt: Vielfalt als Potential im Kulturbetrieb, 12.02.2021. Online: https://www.bs.ch/medienmitteilungen/pd/2021-vielfalt-als-potential-im-kulturbetrieb, abgerufen am 12.12.2024.</p>
+<p>Protokolle des Grossen Rats (StABS, Protokolle: Grosser Rat)</p>
+<p>Protokolle des Regierungsrates (StABS, Protokolle: Regierungsrat)</p>
+<p>Ratschläge des Regierungsrates an den Grossen Rat (StABS, STA DS BS 9)</p>
+<p>Regierungsrat Basel-Stadt: Aktionsprogramm Stadtentwicklung Basel: Ergebnisse der Werkstadt Basel, Basel 1999.</p>
+<p>Regierungsrat Basel-Stadt: Basel 75: Hauptziele eines Stadtkantons. Zielvorstellungen des Regierungsrats zu den wichtigsten grundlegenden Aspekten der baselstädtischen Entwicklung, Basel 1975.</p>
+<p>Regierungsrat Basel-Stadt: Bericht über die Folgen des Klimawandels im Kanton Basel-Stadt: Handlungsmöglichkeiten und Handlungsbedarf aufgrund der Klimaänderung in Basel-Stadt, Basel 2011.</p>
+<p>Regierungsrat Basel-Stadt: Ratschlag Erlenmatt Erschliessung Mitte und Parkanlagen an den Grossen Rat, 16.02.2007. Online: https://www.grosserrat.bs.ch/dokumente/100236/000000236214.pdf, abgerufen am 27.06.2023.</p>
+<p>Regierungsrat Basel-Stadt: Regierungsrat verabschiedet seine kulturpolitische Strategie bis 2025, 06.07.2020. Online: https://www. bs.ch/medienmitteilungen/2020-regierungsrat-verabschiedet-seine-kulturpolitische-strategie-bis-2025, abgerufen am 12.12.2024.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: CO2-Emissionen. Online: https://www. bs.ch/schwerpunkte/umweltbericht-beider-basel/indikatoren-uebersicht/indikator-0808, abgerufen am 12.12.2024.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Energiestatistik. Online: https://statistik.bs. ch/indikatorenset/energiestatistik, abgerufen am 12.12.2024.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Geschlechterverhältnis im Grossen Rat. Online: https://statistik.bs.ch/indikatorenportal/8457, abgerufen am 12.12.2024.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Sozialberichterstattung, 2019. Online: https:// statistik.bs.ch/files/berichte-analysen/Sozialberichterstattung-2019.pdf, abgerufen am 28.06.2023.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Stromverbrauch pro Einwohner. Online: https://www.bs.ch/schwerpunkte/umweltbericht-beider-basel/indikatoren-uebersicht/indikator-0607, 12.12.2024.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Studierende der Universität Basel nach Heimat und Geschlecht. Online: https://statistik.bs.ch/indikatorenportal/9475, abgerufen am 12.12.2024.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Tabelle «Ordentlich Eingebürgerte nach bisheriger Staatsangehörigkeit und Geschlecht», 02.11.2020. Online: https://statistik.bs.ch, abgerufen am 13.12.2024.</p>
+<p>abgerufen am</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Tabelle «Wohnbevölkerung nach Staatsangehörigkeit und Ausländeranteil», 23.01.2024. Online: https://statistik.bs.ch/files/webtabellen/t01-1-04.xlsx, abgerufen am 12.12.2024.</p>
+<p>Statistisches Amt: Von den Anfängen der Telefonie. Online: https://www.statistik.bs.ch/ zahlen/statistisches-jahrbuch/daten-geschichte/telefon.html, abgerufen am 06.02.2023.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Jahresmitteltemperatur. Online: https://statistik.bs.ch/indikatorenportal/4301, abgerufen am 12.12.2024.</p>
+<p>Statistisches Jahrbuch des Kantons Basel-Stadt (StatJB)</p>
+<p>Unabhängige Expertenkommission Schweiz – Zweiter Weltkrieg (UEK): Die Schweiz, der Nationalsozialismus und der Zweite Weltkrieg. Schlussbericht, Zürich 2002. Online: https://www.uek.ch/de/schlussbericht/synthese/uekd.pdf, abgerufen am 27.06.2023.</p>
+<p>Verwaltungsberichte des Regierungsrates an den Grossen Rat (StABS, DS BS 8)</p>
+<p><em>Chroniken</em></p>
+<p>Chronik, Basler Stadtbuch</p>
+<p><em>Weitere gedruckte Quellen</em></p>
+<p>Ackermann, Rodolphe: Der FC Basel – ein Stück Tradition, in: Basler Stadtbuch, 1973, S. 181–185.</p>
+<p>Achermann, Christin: Einbürgerungspraxis und Integrationspolitik in der Stadt Basel, in: Basler Stadtbuch, 2002. S. 112–115.</p>
+<p>Aiolfi, Sergio: Die neue Landschaft der Basler Chemie: Spin-offs, neue Firmen, neue Beteiligungen, in: Basler Stadtbuch, 2001, S. 118–120.</p>
+<p>Anklin, Reto: Sex and the City, in: Basler Stadtbuch 2011, S. 95–97.</p>
+<p>Arbeitsgruppe Basler Fernsehen: Bericht der Arbeitsgruppe über regionales Fernsehen im Raume Basel, Januar 1985.</p>
+<p>Banz, Marcel: Die Berufstätigkeit der Ehefrauen im Kanton Basel-Stadt, in: Wirtschaft und Verwaltung, 1964a, S. 119–124.</p>
+<p>Banz, Marcel: Die deutschen und französischen Grenzgänger auf dem baselstädtischen Arbeitsmarkt, Basel 1964b.</p>
+<p>Banz, Marcel: Ehescheidungen im Kanton Basel-Stadt, in: Wirtschaft und Verwaltung, 1966, S. 20–24.</p>
+<p>Basler Handelskammer: Die Auswirkungen des EWR-Abkommens auf die Wirtschaft der Nordwestschweiz, Basel 1992.</p>
+<p>Bär, Markus: ‹Fair Banking› statt Banking-Affären, in: Basler Stadtbuch, 2015, S. 35–37.</p>
+<p>Baumann, Christoph Peter: Religionen in Basel. Von der reformierten Vergangenheit zur multireligiösen Gegenwart, in: Basler Stadtbuch, 2005, S. 20–25.</p>
+<p>Baur, Simon: Wo welcher Raum für wen, in: Basler Stadtbuch, 2013, S. 130–135.</p>
+<p>Becher, Jörg: Soziokulturelles Wurzelgeflecht, in: Basler Stadtbuch, 2011, S. 64–70.</p>
+<p>Benz, Max: 100 Jahre RTV 1879, in: Basler Stadtbuch, 1979, S. 227–234.</p>
+<p>Bertschinger, Antonia: Verborgene Verstrickungen: Basler Forscher und der Kolonialismus, in: Basler Stadtbuch, 2013, S. 168–173.</p>
+<p>Bessenich, Wolfgang: Basels 1. Internationale Kunstmesse, in: Basler Stadtbuch, 1971, S. 184–192.</p>
+<p>Bichsel, Kathrin; Gerster, Eva; Baumgartner, Monika: Lesben, in: Müggler, Katja; Organisation für die Sache der Frau (Hg.): Frauenhandbuch Kanton Basel-Stadt. Nachschlagewerk, Porträts und Adressen von Nonprofit-Frauengruppen, Organisationen, Projekten und Beratungsstellen, Basel 1996, S. 140–143.</p>
+<p>Blome, Peter: Die Basler Museen und ihr Publikum, in: Basler Stadtbuch, 1994, 106–108.</p>
+<p>Bollag, Yvonne: Die Basler Lohnklage – ein Musterprozess in Sachen Gleichstellung, in: Basler Stadtbuch, 1994a, S. 56–58.</p>
+<p>Bollag, Yvonne: Spätestens heute! Vereinbarkeit von Beruf und Familie für Frau und Mann, Basel 1994b.</p>
+<p>Brodbeck, Martin: Die Spitallandschaft der beiden Basel. Zersplitterung statt Fusion, in: Basler Stadtbuch, 2003, S. 47–50.</p>
+<p>Bühler, Thomas: Stadtautobahn oder Umfahrungsstrasse. Grundsätzliche Erörterungen zur zukünftigen Führung der Autobahnen im Raume Basel, Basel 1963.</p>
+<p>Burri, Peter: «Kunstterror» – oder Zorn-Entladung am hilflosen Objekt?, in: Basler Stadtbuch, 1976, S. 193–196.</p>
+<p>Cadalbert Schmid, Yolanda: Die neue Frau wirft ihren Frosch nicht mehr an die Wand, sondern zurück in den Teich, in: Basler Stadtbuch, 2001, S. 130–134.</p>
+<p>Dubois, Hervé: Die Häuserbesetzung an der Ryffstrasse, in: Basler Stadtbuch, 1980, S. 105–108.</p>
+<p>Ehret, Rebekka: Leitbild und Handlungskonzept des Regierungsrates zur Integrationspolitik des Kantons Basel-Stadt, Basel 1999.</p>
+<p>Erzberger, Willi: Die CMS übernimmt das Café Spitz, in: Basler Stadtbuch, 1986, S. 185–187.</p>
+<p>Fabbri, Alfredo: Basel und das Asylproblem, in: Basler Stadtbuch, 1985, S. 37–45.</p>
+<p>Fäh, Peter: 100 Jahre Patria, 1878–1978, in: Basler Stadtbuch, 1978, S. 193–198.</p>
+<p>Förster, Till: Cafés und Beizen in Basel, in: Basler Stadtbuch, 2003, S. 67–73.</p>
+<p>Frauenzentrale Basel: Gewalt gegen Frauen. Untersuchung der Frauenzentrale Basel im Jahre 1978, Basel 1979.</p>
+<p>Frey, René L.: Städtische Wirtschaft, Mobilität und Umwelt, in: Schweizerischer Städteverband (Hg.): Die Stadt von morgen, Bern 1997, S. 19–28.</p>
+<p>Frey, René L.: Basel in der Rezession, in: Basler Stadtbuch, 1975, S. 73–82.</p>
+<p>Friedmann, Fritz: Der Detailhandel im Kanton Basel-Stadt, in: Basler Stadtbuch, 1986, S. 97–102.</p>
+<p>Geering, Matthias: Ausbau einer Partnerschaft, in: Basler Stadtbuch, 2013, S. 149–151.</p>
+<p>Gessler, Verena: Frauen – ihre alten und neuen Ansprüche, in: Basler Stadtbuch, 1977, S. 139–146.</p>
+<p>Giger, Beat: Wo Rauch ist, sind auch Fümoars, in: Basler Stadtbuch, 2010, S. 97–100.</p>
+<p>Giudici, Thomas: Sanierung der Kantonsfinanzen. Ein Überblick über das Sanierungsprogramm des Regierungsrates, in: Basler Stadtbuch, 1993, S. 11–16.</p>
+<p>Gujer, Lotti; Hunziker, Edith; Hungerbühler, Ruth: Basler Frauenuntersuchung, Basel 1982.</p>
+<p>Gutzwiller, Beat: Hat Basel eine Zukunft?, in: Basler Stadtbuch, 1973, S. 219–231.</p>
+<p>Haefliger, Christian J.: Die Regio-S-Bahn beginnt zu rollen, in: Basler Stadtbuch, 1997, S. 100–102.</p>
+<p>Hafner, Felix: Gewalt von Jugendlichen und Jugendbanden in Basel, in: Basler Stadtbuch, 1987, S. 43–48.</p>
+<p>Hagmann, Peter: Kultur, Mäzene und Politik: Paul Sacher. Zum Tod des grossen Mäzens, in: Basler Stadtbuch, 1999, S. 119–123.</p>
+<p>Hänggi, Alexandra: Frauenzentrale Basel und HABS am Ende. Zwei wichtige Basler Sozialbewegungen lösen sich auf, in: Basler Stadtbuch, 2006, S. 165–167.</p>
+<p>Hess, Franz Carl; Schneider, Willi; Latscha, Fritz: Die Ungleichheit der Bildungschancen, Olten 1966.</p>
+<p>Holliger, Erich: «In Basel ist alles anders» – Max Frisch und Basel, in: Basler Stadtbuch, 1991, S. 197–203.</p>
+<p>Heute-Bluhm, Gudrun: Basel – eine Dreiländerstadt. Dreigeteilte Region oder Dreilandregion, in: Basler Stadtbuch, 1998, S. 18–21.</p>
+<p>Hobi, Urs: 17 Jahre, die (Fussball-)Geschichte machten, in: Basler Stadtbuch, 1982, S. 177–181.</p>
+<p>Industrie- und Handelskammer Hochrhein: Wirtschaftliche Entwicklungsbedingungen im deutsch-schweizerischen Grenzgebiet, Schopfheim 1971.</p>
+<p>Jenny, Susann: Frauenhaus als Zufluchtsort, in: Basler Stadtbuch, 1981, S. 203–208.</p>
+<p>Jordan, Martin: FCB, Federer und die Veteranen des FC Allschwil, in: Basler Stadtbuch, 2010, S. 216–221.</p>
+<p>Jundt, Esther: Die erste grenzüberschreitende Tramverbindung in Europa seit 50 Jahren, in: Basler Stadtbuch, 2008, S. 133–135.</p>
+<p>Kachler, Karl Gotthilf: Zur Entstehungsgeschichte des neuen Basler Stadttheaters, in: Basler Stadtbuch, 1975, S. 19–42.</p>
+<p>Keller, Christoph: Die Bilder kehren zurück, in: Basler Stadtbuch, 2002, S. 145–150.</p>
+<p>Kern, Jörg; Sury, Ernst: Die Katze aus dem Sack gelassen: Ciba-Geigy. Selbstkritische Betrachtungen in Bild und Wort drei Jahre nach der Fusion, Basel 1973.</p>
+<p>Kessler, Thomas: Ich, Du – Wir, in: Kanyar, Helena (Hg.): Die Schweiz und die Fremden: 1798 – 1848 – 1998, Basel 1998, S. 11–12.</p>
+<p>Klein, Christoph: Der Start von Radio Basilisk, in: Basler Stadtbuch, 1983, S. 159–162.</p>
+<p>Kobler, Markus: Wirtschaftsstandort Basel. Basler Wirtschaftsförderung mit neuen Impulsen, in: Basler Stadtbuch, 1995, S. 71–74.</p>
+<p>Koller, Basil; Müller, Elena; Reusser, Sylvana: Der Rhein – Viel mehr als nur eine ‹Badi›, in: Seminar für Kulturwissenschaft und Europaische Ethnologie, Universität Basel (Hg.): «Z Basel an mim Rhy», Basel 2016, S. 9–16.</p>
+<p>Kunz, Alfred: Die Stadt dem Kind zurückerobern, in: Basler Stadtbuch, 1975, S. 109–112.</p>
+<p>Leibbrand, Kurt: Verkehr und Städtebau, Basel 1964.</p>
+<p>Leibbrand, Kurt: Gesamtverkehrsplan Basel: Gutachten im Auftrag des Regierungsrates des Kantons Basel-Stadt, Zürich 1958.</p>
+<p>Leibbrand, Kurt: Verkehrsingenieurwesen. Städtische Verkehrsplanungen für Schiene und Strasse, Basel; Stuttgart 1957.</p>
+<p>Leuppi, Felix: Entstehung, Wirkung und Bekämpfung von Luftverunreinigungen, in: Basler Stadtbuch, 1980, S. 117–127.</p>
+<p>Leuzinger, Fridolin: Wenn der Basler ‹seinen› Rhein entdeckt, in: Basler Stadtbuch, 1981, S. 62.</p>
+<p>Lichtenhahn, Stephan: Ende des SVP-freien Sektors Basel, in: Basler Stadtbuch, 1999, S. 140–144.</p>
+<p>Ludwig, Carl: Erinnerungen an die Schwimmschule, in: Basler Stadtbuch, 1962, S. 84–92.</p>
+<p>Lüem, Barbara: Abschied von den «roten Schweizern», in: Basler Stadtbuch, 2000, S. 112–117.</p>
+<p>Maegli, Rolf: Das neue Bild der Armut. Sozialhilfe im Umbruch, Basler Stadtbuch 2000, S. 100–104.</p>
+<p>Mäder, Ueli: Die ‹Gesellschaft zum Bären›, in: Basler Stadtbuch, 2000, S. 109–111.</p>
+<p>Meyer, Piet: Franz Meyer, der Museumsmann. Ein Vaterbuch, Bern 2022.</p>
+<p>Meyer-Gutzwiller, Paul: 50 Jahre Radio Basel, in: Basler Stadtbuch, 1976, S. 93–104.</p>
+<p>-minu (Hanspeter Hammel): Sommerissimo, in: Basler Stadtbuch, 2003, S. 23–25.</p>
+<p>Miville, Carl: Für Basel immer wichtiger: die Altersfragen, in: Basler Stadtbuch, 1982, S. 41–53.</p>
+<p>Monteil, Annemarie: Die Tugend der Leichtigkeit, in: Basler Stadtbuch, 1993, S. 129–133.</p>
+<p>Moser, Hans-Rudolf: 2003 – ein «Jahrhundertsommer», in: Basler Stadtbuch, 2003, S. 26–30.</p>
+<p>Müggler, Katja; Organisation für die Sache der Frau (Hg.): Frauenhandbuch Kanton Basel-Stadt. Nachschlagewerk, Porträts und Adressen von Nonprofit-Frauengruppen, Organisationen, Projekten und Beratungsstellen, Basel 1996.</p>
+<p>Müry, Albert: Die Paul Sacher Stiftung und ihre Musik-Autographen, in: Basler Stadtbuch, 1986, S. 163–168.</p>
+<p>Organisation für die Sache der Frauen Sektion Basel (Hg.): Frauen machen Geschichte. 20 Jahre OFRA Basel – ein Rückblick in die Zukunft, Bern 1997.</p>
+<p>Perrig, Caesar: Konzertsommer im Stadion St. Jakob, in: Basler Stadtbuch, 1983, S. 165–166.</p>
+<p>Petignat, Raymond: Treffpunkte der Basler Jugend, in: Basler Stadtbuch, 1975, S. 113–122.</p>
+<p>Pichler, Ruth: Basels Wohngemeinschaften 1973, in: Basler Stadtbuch, 1973, S. 127–134.</p>
+<p>Rhein, Dennis L.: Basel – Cultural Heart of Switzerland, in: Basler Stadtbuch, 1988, S. 159–160.</p>
+<p>Roter, Sybille: Kultur, Mäzene und Politik: Wer gibt, bekommt noch mehr. Andreas Spillmann über staatliche und private Kulturförderung, in: Basler Stadtbuch, 1999, S. 124–127.</p>
+<p>Ruffli, Theo: Drei neue Sozialeinrichtungen. Basel Lighthouse, in: Basler Stadtbuch, 1989, S. 39–40.</p>
+<p>Sandoz (Hg.): Schweizerhalle. Der Brand vom 1. November 1986 und seine Folgen, Basel 1987.</p>
+<p>Saner, Luc: Der Versuch einer legalen Opiatabgabe, in: Basler Stadtbuch, 1994, S. 64–66.</p>
+<p>Schulthess, Marinka; Leu-Weber, Charlotte: Abklärung und Planung der Jugendhilfe Basel-Stadt: Zwischenbericht, Basel 1971.</p>
+<p>Seiler, Alexander J.; Frisch, Max; Eichenberger, Suzanne u. a.: Siamo Italiani: Die Italiener. Gespräche mit italienischen Arbeitern in der Schweiz, Zürich 1965.</p>
+<p>Spirgi, Dominique: Fasnachtslaterne und Nagelfigur. Das Museum der Kulturen wirft einen neuen Blick auf die Kulturen der ‹Anderen›, in: Basler Stadtbuch, 2011, S. 47–53.</p>
+<p>Stark, Hans: BN + NZ = BaZ, in: Basler Stadtbuch, 1976, S. 225–228.</p>
+<p>Stoll, Felix Jonas: Das Drogenproblem in Kleinbasel, in: Basler Stadtbuch, 1991, S. 102–106.</p>
+<p>Strasser, Walter: Basel braucht die lange Piste!, in: Basler Stadtbuch, 1976, S. 135–138.</p>
+<p>Sutter, Kaspar: Basel-Stadt steht finanziell auf sehr gesunden Beinen, in: Basler Stadtbuch, 2015, S. 12–17.</p>
+<p>Thomann, Felix: Die 184 Tage der Grün 80, in: Basler Stadtbuch, 1980, S. 9–28.</p>
+<p>Verfassung des Kantons Basel-Stadt vom 2. Dezember 1889, in: Buser, Denise; Hafner, Felix; Huber, Lukas; Lötscher, Bruno (Hg.): Die Baselstädtische Kantonsverfassung. Materialien zur Totalrevision, Basel 1999, S. 215–228.</p>
+<p>Vischer, Lilo Roost: Afrikastudien in Basel, jetzt!, in: Basler Stadtbuch, 2002, S. 25–28.</p>
+<p>Vogel, Christina: Denn niemand kennt die Stunde. 20 Jahre überleben mit dem Aidsvirus, Basel 2003.</p>
+<p>Vogel, Christina: Die geschenkte Zeit. Erfahrungen mit Aids, Basel 1991.</p>
+<p>Vogel, Christina: Es ist wunderbar, leben zu dürfen. Der Lebensweg einer jungen aids-kranken Mutter, Basel 1989.</p>
+<p>Von Falkenstein, Patricia: Nachfrage grösser als Angebot. Bei der familienergänzenden Tagesbetreuung besteht Handlungsbedarf, in: Basler Stadtbuch, 2001, S. 103–105.</p>
+<p>Von Ungern-Sternberg, Jürgen: Von Schweizerhalle zum Programm ‹Mensch-Gesellschaft-Umwelt› (MGU), in: Basler Stadtbuch, 1991, S. 259–264.</p>
+<p>Vontobel, Christian: Das Quartiersekretariat Unteres Kleinbasel muss sich bewähren, in: Basler Stadtbuch, 2001, S. 162–165.</p>
+<p>Wronsky, Dieter: Begrenzte Stadt?, in: Basler Stadtbuch, 1998, S. 32–40.</p>
+<p>Wunderle, Karl: Was Basler Frauen von ihrer Küche halten. Eine Umfrage der Frauenzentrale, in: Wirtschaft und Verwaltung, 1963, S. 7–36.</p>
+<p>Wunderle, Karl: Hauptziele eines Stadtkantons, in: Basler Stadtbuch, 1975, S. 43–56.</p>
+<p>Wyss, Barbara: Schwesterchen, komm streik mit mir … Gleiche Rechte fordern wir! Der Frauenstreiktag in Basel, in: Basler Stadtbuch, 1991, S. 130–133.</p>
+<p>Ziltener, Alfred: Saniert und neu eröffnet: das Rheinbad Breite, in: Basler Stadtbuch, 1994, S. 154–158.</p>
+<h3>Online-Quellen</h3>
+<p><em>Online-Artikel</em></p>
+<p>«11 Ranglisten zur Lebensqualität in Schweizer Städten», in: SRF News, 23.02.2023. Online: https://www.srf.ch/news/gesellschaft/lebensqualitaet-ranking-2023-11-ranglisten-zur-lebensqualitaet-in-schweizer-staedten, abgerufen am 03.05.2023.</p>
+<p>«Als Basel ein Hanfmekka war», in: TagesWoche, 10.11.2011. Online: https://tageswoche. ch/politik/als-basel-ein-hanfmekka-war/ index.html#comments, abgerufen am 27.06.2023.</p>
+<p>«Basel macht Rheinschwimmer zu Werbebotschaftern», in: htr.ch, 29.07.2019. Online: https://www.htr.ch/story/tourismus/basel-macht-rheinschwimmer-zu-werbebotschaftern-24108.html, abgerufen am 27.06.2023.</p>
+<p>«Basel ruft als erste Schweizer Stadt den ‹Klimanotstand› aus. Was bedeutet das?», in: NZZ, 20.02.2019. Online: https://www.nzz.ch/ schweiz/schuelerstreik-zeigt-wirkung-basel-ruft-klimanotstand-aus-ld.1461370?reduced=true, abgerufen am 26.06.2023.</p>
+<p>«Basler Raucherverein ‹Fümoar› wird aufgelöst», in: bz Basel, 29.10.2015. Online: https:// www.bzbasel.ch/basel/basel-stadt/basler-raucherverein-fumoar-wird-aufgelost-ld.1728447, abgerufen am 27.06.2023.</p>
+<p>Baumann, Nathalie: Basel in der Corona-Krise (I), in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www.baslerstadtbuch. ch/dossier/2020/2020-03.html, abgerufen am 30.06.2023.</p>
+<p>«Beat Jans: Diese Schwerpunkte will der Basler Regierungspräsident setzen», in: bz Basel, 10.05.2021. Online: https://www.bzbasel.ch/ basel/100-tage-im-amt-beat-jans-diese-schwerpunkte-will-der-basler-regierungspraesident-setzen-ld.2135270, abgerufen am 26.06.2023.</p>
+<p>Brunner, Dagmar: Frauenstreik – Widerstand und Solidarität, in: Basler Stadtbuch, Online-Dossier 2019. Online: http://www.baslerstadtbuch.ch/dossier/2019/2019-08.html, abgerufen am 30.06.2023.</p>
+<p>«Coop wächst im Onlinehandel», in: Handelszeitung, 06.01.2020. Online: https://www. handelszeitung.ch/unternehmen/coop-wachst-im-onlinehandel, abgerufen am 27.06.2023.</p>
+<p>«Das Basler Rotlicht wird grün eingegrenzt», in: bz Basel, 27.06.2016. Online: https://www. bzbasel.ch/basel/basel-stadt/das-basler-rotlicht-wird-grun-eingegrenzt-ld.1565301, abgerufen am 03.04.2023.</p>
+<p>«Das Frauenhaus beider Basel baut sein Angebot aus: Nimmt die häusliche Gewalt zu?», in: bz Basel, 21.01.2020. Online: https://www. bzbasel.ch/basel/basel-stadt/das-frauenhaus-beider-basel-baut-sein-angebot-aus-nimmt-die-hausliche-gewalt-zu-ld.1406284, abgerufen am 27.03.2023.</p>
+<p>«Das Problem mit Picasso», in: SRF News, 08.04.2023. Online: https://www.srf.ch/kultur/kunst/die-dunkle-seite-des-genies-das-problem-mit-picasso, abgerufen am 27.06.2023.</p>
+<p>«Das Tor zur Welt am Rheinknie», in: Swissinfo, 26.07.2003. Online: https://www.swissinfo. ch/ger/das-tor-zur-welt-am-rheinknie/ 3429528, abgerufen am 27.06.2023.</p>
+<p>Davies, Catherine: Gegen die Sprachlosigkeit. Als häusliche Gewalt einen Namen bekam: zur Geschichte der Frauenhaus-Bewegung, Geschichte der Gegenwart, 11.12.2019. Online: https://geschichtedergegenwart.ch/ gegen-die-sprachlosigkeit-als-haeusliche-gewalt-einen-namen-bekam-zur-geschichte-der-frauenhaus-bewegung/, abgerufen am 24.03.2023.</p>
+<p>«Der Turm, der Basels Stadtbild in Schieflage brachte», in: TagesWoche, 14.09.2015. Online: https://tageswoche.ch/gesellschaft/ der-turm-der-basels-stadtbild-in-schieflage-brachte/index.html, abgerufen am 27.06.2023.</p>
+<p>«Die Unkonventionelle – die Offene Kirche Elisabethen bricht seit 25 Jahren kirchliche Traditionen», in: bz Basel, 26.04.2019. Online: https://www.bzbasel.ch/basel/basel-stadt/ die-unkonventionelle-die-offene-kirche-elisabethen-bricht-seit-25-jahren-kirchliche-traditionen-ld.1359555, abgerufen am 27.06.2023.</p>
+<p>Diener &amp; Diener Architekten: Wohnhäuser Hammerstrasse, Basel, 1978–1981. Online: http://www.dienerdiener.ch/de/project/ apartment-buildings-hammerstrasse, abgerufen am 27.06.2023.</p>
+<p>Eigenmann, Laura: Warum viele Lesben die Ehe für alle lange ablehnten. Vom «Macht-Instrument der Männer» zum Zeichen der Gleichstellung, Mannschaft, 29.06.2022. Online: https://mannschaft.com/warum-lesben-die-ehe-fuer-alle-lange-ablehnten/, abgerufen am 09.02.2023.</p>
+<p>«Eine Frage der Grundwerte und Weitsicht», in: bajour, 05.04.2023. Online: https://bajour. ch/a/clg0zv90c48266054ixntr2800v/basler-festivals-foerdern-genderdiversitaet-unterschiedlich-wenig-frauen-im-lineup-auch-2023, abgerufen am 27.06.2023</p>
+<p>Eurostat: Municipal waste generated 2006 and 2021. Online: https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Municipal_waste_statistics, abgerufen am 30.06.2023</p>
+<p>Fasciati, Oriana; Rohrmann, Aurelia; Suter, Tamara: Die Stärke der Frauen ist ihre Zahl und ihre Unentbehrlichkeit, Stadtgeschichte Basel, 2019. Online: https://www.stadtgeschichtebasel.ch/index/geschichten/2019-2022/01/frauenstreik.html, abgerufen am 27.03.2023.</p>
+<p>Faulhaber, Daniel: TANGRAM 43, Ein seifiges Terrain. Online: https://www.ekr.admin.ch/ publikationen/d825.html#, abgerufen am 27.06.2023.</p>
+<p>«Frauen auf der Bühne? ‹Eine Frage des Willens›», in: bz Basel, 05.06.2023. Online: https://www.bzbasel.ch/basel/basel-stadt/festivalsommer-frauen-auf-der-buehne-eine-frage-des-willens-die-openair-saison-in-der-region-basel-ist-eroeffnet-ld.2457540?reduced=true, abgerufen am 27.06.2023.</p>
+<p>«Grossbaustelle im Fluss: Jetzt wird der Rhein tiefer gelegt», in: bz Basel, 19.07.2018. Online: https://www.bzbasel.ch/basel/basel-stadt/ grossbaustelle-im-fluss-jetzt-wird-der-rhein-tiefer-gelegt-ld.1518754, abgerufen am 26.06.2023.</p>
+<p>«Grosser Rat vervierfacht Beiträge an die Provenienzforschung», in: bz Basel, 10.05.2023. Online: https://www.bzbasel.ch/kultur/basel/museen-grosser-rat-vervierfacht-beitraege-an-die-provenienzforschung-ld. 2456056, abgerufen am 27.06.2023.</p>
+<p>Gschwind, Eva: 50 Jahre Frauen im Basler Parlament, in: Basler Stadtbuch, Online-Dossier 2018. Online: http://www.baslerstadtbuch. ch/dossier/2018/2018-01.html, abgerufen am 20.03.2023.</p>
+<p>House of Switzerland: «Zurich vitaparcours» – mehr als ein sportliches Konzept, eine Institution. Online: https://houseofswitzerland. org/de/swissstories/gesellschaft/zurich-vitaparcours-mehr-als-ein-sportliches-konzept-eine-institution, abgerufen am 27.06.2023.</p>
+<p>«Kanton benennt neun Strassen und Plätze in Basel nach Pionierinnen», in: bz Basel, 07.04.2022. Online: https://www.bzbasel. ch/basel/basel-stadt/nomenklaturkommission-kanton-benennt-neun-strassen-und-plaetze-in-basel-nach-pionierinnen-ld. 2273640, abgerufen am 27.06.2023.</p>
+<p>Koch, Béatrice: Gescheiterte Spitalfusion, in: Basler Stadtbuch, Online-Dossier 2019. Online: https://www.baslerstadtbuch.ch/ dossier/2019/2019-06.html, abgerufen am 30.06.2023.</p>
+<p>Kunstmuseum Basel: Fun Feminism. Online: https://kunstmuseumbasel.ch/de/ausstellungen/2022/fun-feminism, abgerufen am 27.06.2023.</p>
+<p>Kunstmuseum Basel: Rückschau. Online: https://kunstmuseumbasel.ch/de/ausstellungen/rueckschau, 27.06.2023.</p>
+<p>Loser, Philipp: Parkplätze. Kleine Fläche, grosser Streit, in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www.baslerstadtbuch.ch/dossier/2020/2020-01.html, abgerufen am 20.03.2023.</p>
+<p>«Lumpenlieder und andere Fiesheiten», in: TagesWoche, 11.10.2012. Online: https://tageswoche.ch/sport/lumpenlieder-und-andere-fiesheiten/, abgerufen am 27.06.2023</p>
+<p>Mangold, Thilo: Basel in der Corona-Krise (II), in: Basler Stadtbuch, Online-Dossier 2020.</p>
+<p>abgerufen am Online: https://www.baslerstadtbuch.ch/ dossier/2020/2020-09.html, abgerufen am 30.06.2023.</p>
+<p>«Market talk: anger and sadness as Panalpina sign falls at Basel HQ», in: The Load Star, 08.06.2020. Online: https://theloadstar. com/market-talk-anger-and-sadness-as-panalpina-sign-falls-at-basel-hq/, abgerufen am 27.06.2023.</p>
+<p>«Mitbestimmen auch ohne Schweizer Pass», SRF News, 27.10.2018. Online: https://www. srf.ch/news/regional/basel-baselland/migrantensession-in-basel-mitbestimmen-auch-ohne-schweizer-pass, abgerufen am 30.03.2023.</p>
+<p>«Neues Gleichstellungsgesetz sorgt für Zwist unter Feministinnen», in: SRF News, 05.02.2023. Online: https://www.srf.ch/ news/schweiz/basel-will-lgbtqi-einbinden-neues-gleichstellungsgesetz-sorgt-fuer-zwist-unter-feministinnen, abgerufen am 27.06.2023.</p>
+<p>«Ohne Chemie wäre Basel bloss eine Provinzstadt», in: TagesWoche, 13.12.2016. Online: https://tageswoche.ch/politik/ohne-chemie-waere-basel-bloss-eine-provinzstadt/ index.html, abgerufen am 27.06.2023.</p>
+<p>Pro Infirmis: Wildwuchs. Online: https://www. kulturinklusiv.ch/it/rete/membri/detail/ news/wildwuchs.html, 27.06.2023.</p>
+<p>RFV Basel: Vorstudie «Frauenanteil in Basler Bands», Basel 2018. Online: https://www. musikbuerobasel.ch/dam/jcr:2946f621-56fc-47bf-95f4-6513152fa331/RFV%20 Basel%20Vorstudie%20Frauenanteil%20 in%20Basler%20Bands.pdf, abgerufen am 27.06.2023.</p>
+<p>Stahlhut, Heinz: 50 Jahre Art Basel, in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www.baslerstadtbuch.ch/dossier/2020/2020-04.html abgerufen am 30.06.2023.</p>
+<p>Stibler, Linda: Fünfzig Jahre nach 1968 – ein Jubiläum?, in: Basler Stadtbuch, Online-Dossier 2018. Online https://www.baslerstadtbuch.ch/dossier/2018/2018-06.html, abgerufen am 30.06.2023.</p>
+<p>Stiftung Frauenhaus beider Basel: Gemeinsam gegen Gewalt gegen Frauen – 35 Jahre Frauenhaus beider Basel. Jahresbericht 2015, 2016. Online: https://frauenhaus-basel.ch/ wp-content/uploads/2016/04/Frauenhaus_ JB15.pdf, abgerufen am 24.03.2023.</p>
+<p>«Verkehrte Welt: So reden Messe und Kanton das Baselworld-Fiasko schön», in: TagesWoche, 09.11.2017. Online: https://www.tageswoche.ch/wirtschaft/verkehrte-welt-reden-messe-und-kanton-das-baselworld-fiasko-schoen/index.html, abgerufen am 27.06.2023.</p>
+<p>«Warum Schweizer Städte immer häufiger links regiert werden», in: NZZ, 13.02.2018. Online: https://www.nzz.ch/zuerich/warum-schweizer-staedte-immer-haeufiger-links-</p>
+<p>abgerufen am regiert-werden-ld.1356569, abgerufen am 30.06.2023.</p>
+<p>Werkstadt Basel: Konsens zum Thema: Auf zu neuen (Rhein-)Ufern, 1999. Online: http:// www.werkstadt-basel.ch/aktion/Konsenskonferenzen/ergebnisse/kk_rhein.php, abgerufen am 05.12.2022.</p>
+<p>Werkstadt Basel: Die Zielsetzungen des Regierungsrats, 1999. Online: http://www.werkstadt-basel.ch/information/zielsetzungen. php, abgerufen am 26.06.2023.</p>
+<p>«Wie weit dürfen Fasnächtler gehen?», in: SRF News, 12.03.2019. Online: https://www.srf.ch/ news/schweiz/rassismus-und-fasnacht-wie-weit-duerfen-fasnaechtler-gehen, abgerufen am 27.06.2023.</p>
+<p>Zehnder, Matthias: Wahlüberraschungen: Legislatur 2021–2024, in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www. baslerstadtbuch.ch/dossier/2020/2020-10. html, abgerufen am 30.06.2023.</p>
+<p>«Zum Gedenken an Alfred E. Sarasin», in: NZZ, 11.05.2005. Online: https://www.nzz.ch/articleCT092-ld.344089, abgerufen am 02.08.2024.</p>
+<p><em>Webseiten</em></p>
+<p>Basel Area, https://baselarea.swiss/de/about-us/, abgerufen am 27.06.2023.</p>
+<p>Gesellschaft zum Bären, https://www.baerengesellschaft.ch/gruendung/, abgerufen am 27.06.2023.</p>
+<p>Helvetia: Helvetia Campus Basel, https://www. helvetia.com/ch/web/de/ueber-uns/informationen/campus-basel.html?rid=campus, abgerufen am 27.06.2023.</p>
+<p>Historische Statistik der Schweiz (HSSO). Online: https://hsso.ch/de/2012/n/27, abgerufen am 27.06.2023.</p>
+<p>Historisches Lexikon der Schweiz (HLS), https:// hls-dhs-dss.ch/, abgerufen am 23.06.2023.</p>
+<p>Inforel, https://www.inforel.ch/, abgerufen am 27.06.2023.</p>
+<p>Museen Basel: Museen. Online: https://www. museenbasel.ch/de/museen, abgerufen am 27.06.2023.</p>
+<p>Offene Kirche Elisabethen, https://offenekirche.ch/, abgerufen am 27.06.2023.</p>
+<p>Sotheby’s: Zurich. https://www.sothebys.com/ ch/%C3%BCber/adressen/zurich, abgerufen am 27.06.2023.</p>
+<p>Statistisches Amt, https://www.statistik.bs.ch/, abgerufen am 30.06.2023.</p>
+<p>Skyscraper Source Media, https://skyscraperpage.com/diagrams/links/, abgerufen am 30.06.2023.</p>
+<p>Sinfonieorchester Basel, https://www.sinfonieorchesterbasel.ch/de/orchester/orchesterchronik/1876-bis-1988.html, abgerufen am 27.06.2023.</p>
+<p>UNESCO: Basel Carnival. Online: https://ich. unesco.org/en/RL/basel-carnival-01262, abgerufen am 27.06.2023.</p>
+<p>UNESCO: Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property. Online: https://www.unesco.org/en/ legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural, abgerufen am 27.06.2023.</p>
+<p>Universität Basel: Unigeschichte seit 1460. Online: https://www.unigeschichte.unibas.ch/, abgerufen am 26.06.2023.</p>
+<p>Verein Mitstimme, https://www.mitstimme.ch/, abgerufen am 26.06.2023.</p>
+<h3>Literatur</h3>
+<p>Achermann, Christin; Gass, Stefanie: Staatsbürgerschaft und soziale Schliessung. Eine rechtsethnologische Sicht auf die Einbürgerungspraxis der Stadt Basel, Zürich 2003.</p>
+<p>Akgünlü, Gülten: Deutsch- und Integrationskurse für Migrantinnen und Migranten im Kanton Basel-Stadt. Eine Untersuchung zur Integration von türkischsprachigen Teilnehmenden der Integrationskurse in Basel-Stadt, unveröff. Masterarbeit, Universität Basel, Basel 2016.</p>
+<p>Altherr, Wendy; Blumer, Daniel; Oldörp, Heike u. a.: How do Stakeholders and Legislation Inﬂuence the Allocation of Green Space on Brownﬁeld Redevelopment Projects? Five Case Studies from Switzerland, Germany and the UK, in: Business Strategy and the Environment 16, 2007, S. 512–522.</p>
+<p>Amstutz, Irene: Die Revision der Kantonsverfassung 1999–2006. Rückblick einer Verfassungsratspräsidentin, in: Verein Geschichte der Basler Sozialdemokratie (Hg.): 125 Jahre Basler Sozialdemokratie. Ein Lesebuch, Basel 2016, S. 160–161.</p>
+<p>Angst, Zamira: Hans Peter Tschudi: «Pragmatischer Revolutionär»?, unveröff. Masterarbeit, Universität Basel, Basel 2011.</p>
+<p>Appenzeller, Stephan: Basel und sein Tram. Die Geschichte der Basler Verkehrs-Betriebe, Basel 1995.</p>
+<p>Argast, Regula: Von Dörräpfeln und Netzwerken. 80 Jahre Frauenzentrale Basel 1916–1996, Basel 1997.</p>
+<p>Arnold, Marco: Fussballfans und Pyrotechnik in der Schweiz. Eine historische Analyse von den Anfängen bis Ende der 1990er-Jahre, unveröff. Masterarbeit, Universität Basel, Basel 2015.</p>
+<p>Aschwanden, Alain: Der Centralbahnhof. Seine Entwicklung und seine Auswirkungen auf das Gundeldingen, in: Neutraler Quartierverein Gundeldingen (Hg.): Das Gundeli. Ein Basler Stadtquartier im Wandel, Basel 2017, S. 64–75.</p>
+<p>Atici, Mustafa: Wäre die SP keine Partei, hätte sie 2004 alle Integrationspreise gewonnen – ein Erfahrungsbericht, in: Verein Geschichte der Basler Sozialdemokratie (Hg.): 125 Jahre Basler Sozialdemokratie. Ein Lesebuch, Basel 2016, S. 236–237.</p>
+<p>Bachmann, Guido; Burri, Peter; Maissen, Toya (Hg.): Das Ereignis. Chemiekatastrophe am Rhein, Basel 1986.</p>
+<p>Bänziger, Peter-Paul; Herzig, Michael; Koller, Christian u. a.: Die Schweiz auf Drogen. Szenen, Politik und Suchthilfe, 1965–2022, Zürich 2022.</p>
+<p>Basler Fasnachts-Comité: Fasnacht in Basel. Eine Gebrauchsanleitung, Basel 2003.</p>
+<p>Bauer, Hans: Basel, gestern, heute, morgen. Hundert Jahre Basler Wirtschaftsgeschichte, Basel 1981.</p>
+<p>Bauer, Hans: 100 Jahre Schweizerischer Bankverein, Frankfurt a. M. 1972.</p>
+<p>Baumeister, Miriam: Wohin mit Gammlern, Rockern und Kommunarden. Notschlafstelle für Jugendliche in Basel, in: Verein Basler Geschichte (Hg.): Im Kleinen das Grosse entdecken. Kurzgeschichten aus der Basler Stadtgeschichte, Basel 2022, S. 99–101.</p>
+<p>Beck, Ulrich: Risikogesellschaft. Auf dem Weg in eine andere Moderne, Frankfurt a. M. 2020 [1986].</p>
+<p>Behringer, Yannick: Die 80er-Bewegung in Basel. Geschichte einer Bewegung anhand von Oral History, unveröff. Masterarbeit, Universität Basel, Basel 2019.</p>
+<p>Berlinger, Vreni; Gloor, Christoph: Der Bär kommt, Basel 1998.</p>
+<p>Berner, Hans; Sieber-Lehmann, Claudius; Wichers, Hermann: Kleine Geschichte der Stadt Basel, Karlsruhe 2012.</p>
+<p>BIA, BSA, FSAI: Gesamtplan der Stadt Basel. Zusammenfassender Bericht über die Planungsarbeit der Fachverbände BIA Basler Ingenieur- und Architektenverein, BSA Ortsgruppe Basel des Bundes Schweizer Architekten, FSAI Ortsgruppe Basel der Freierwerbenden Schweizer Architekten, in: Schweizerische Bauzeitung 81 (16), 1963, S. 253–273.</p>
+<p>Bieri, Alexander Lukas: Gesundheit darstellen. Die Ursprünge des Pharma-Designs, Basel 2009.</p>
+<p>Bieri, Alexander Lukas (Hg.): Roche in der Welt 1896–2021. Eine globale Geschichte, Lörrach, 2021.</p>
+<p>Binnenkade, Alexandra: «Eine Küche soll freundlich und inspirierend sein. Daraus entstehen die guten Menüs». Werbung und Widerstand zum Thema der Einbauküche, in: Andersen, Arne (Hg.): Perlon, Petticoats und Pestizide. Mensch-Umwelt-Beziehung in der Region Basel der 50er Jahre, Basel; Berlin 1994, S. 150–153.</p>
+<p>Blum, Roger: Wandel und Konstanten bei den Progressiven Organisationen (POCH) 1971–1986, in: Schweizerisches Jahrbuch für politische Wissenschaft 26, 1986, S. 119–150.</p>
+<p>Blumer, Daniel: «Werkstadt Basel». Partizipation als Verfahren in der Stadtentwicklung, in: Tec21 128 (4), 2002, S. 19–21.</p>
+<p>Blumer, Daniel: Partizipation und Stadtentwicklung. Eine Analyse der Werkstadt Basel, Bern 2001.</p>
+<p>Blumer, Florian (Hg.): Foto Jeck Basel. Eine Welt aus Bildern, Basel 2024.</p>
+<p>Bodenmann, Karin: Wenn Kunst zum Politikum wird. Konstruktion und Funktion der «Picasso-Story» 1967, unveröff. Masterarbeit, Universität Basel, Basel 2014.</p>
+<p>Bodmer, Frank: Die Determinanten des kantonalen Wirtschaftswachstums, Basel 2005.</p>
+<p>Boerlin-Brodbeck, Yvonne: Öffentliche Kunstförderung in Basel vom 16. bis zum 20. Jahrhundert, in: Geschichte einer städtischen Gesellschaft, Basel 2000, S. 395–404.</p>
+<p>Bonilla Gurzeler, Veronica: Erfolgreiche Basler Energiepolitik unter Druck, in: Energie und Umwelt 3, 1999, S. 4–7.</p>
+<p>Bonvin, Maurice: «Ohne Chemie geht’s nicht, mit Chemie gehen wir». Künstlerische Protestaktionen im Rahmen der Brandkatastrophe von Schweizerhalle vom 01. November 1986, unveröff. Seminararbeit, Universität Basel, Basel 2020.</p>
+<p>Borio, Claudio; Claessens, Stijn; Clement, Piet u. a.: Promoting Global Monetary and Financial Stability. The Bank for International Settlements after Bretton Woods, 1973–2020, Cambridge 2020.</p>
+<p>Borner, Silvio; Brunetti, Aymo; Straubhaar, Thomas: Schweiz AG. Vom Sonderfall zum Sanierungsfall?, Zürich 1990.</p>
+<p>Bossert, Markus: Schweizerischer Gewerbeverband, Lobbying-Organisation für kleinere und mittlere Unternehmen (KMU), in: Ueli Mäder (Hg.): macht.ch. Geld und Macht in der Schweiz, Zürich 2015, S. 427–448.</p>
+<p>Bosshardt, Claudia: Basler Bodenstiftungen – erfinderisch und erstaunlich erfolgreich, in: Gerber, Brigitta; Kriese, Ulrich (Hg.): Boden behalten – Stadt gestalten, Zürich 2019, S. 235–247.</p>
+<p>Braunschweig, Sabine: Die GGG im 20. Jahrhundert. Die Bedeutung der «Gesellschaft für das Gute und Gemeinnützige» im kulturellen, sozialen und wirtschaftlichen Basel, Basel 2016.</p>
+<p>Braunschweig, Sabine: Beraten – begleiten – fördern. 50 Jahre Personalarbeit Basel-Stadt, 1970–2020, Basel 2020.</p>
+<p>Breitenmoser, Albin: Basel – goldenes Tor der Schweiz, in: Schweizer Schule 47 (13), 1960, S. 441–443.</p>
+<p>Brunner, Dagmar: Basler AZ. Geschichte einer Arbeiter-Zeitung, Fribourg 1994a.</p>
+<p>Brunner, Dagmar: Toya Maissen. Journalistin, 1939–1991. Eine werkbiographische Studie, Fribourg 1994b.</p>
+<p>Brutschin, Sandra: Schweizerhalle: Wann wird eine Umweltkatastrophe zu einem Umweltskandal?, in: Looser, Heinz; Kolbe, Christian; Schaller, Roland u. a. (Hg.): Die Schweiz und ihre Skandale, Zürich 1995, S. 185–196.</p>
+<p>Bucher, Annemarie: Naturen ausstellen. Schweizerische Gartenbauausstellungen zwischen Kunst und Ökologie, unveröff. Dissertation, ETH Zürich, Zürich 2008.</p>
+<p>Bucher, Nathalie: Bericht über die Situation der Familie im Kanton Basel-Stadt. Eine Untersuchung in den Quartieren Breite, St. Alban und St. Johann, Basel 2000.</p>
+<p>Bühler, Rahel: Jugend beobachten. Debatten in Öffentlichkeit, Politik und Wissenschaft, 1945–1979, Zürich 2019.</p>
+<p>Burckhardt, Lucius: «Ausfallstrasse» Aeschenvorstadt: ein Lehrstück für Basel, in: Pecinska, Ursula (Hg.): Basel: Visionen und verpasste Chancen. Erinnerungen, Stellungnahmen, Polemiken, Basel 2000, S. 151–156.</p>
+<p>Bürgi, Jürg: Chronologie der laufenden Ereignisse, in: Bachmann, Guido; Burri, Peter; Maissen, Toya (Hg.): Das Ereignis. Chemiekatastrophe am Rhein, Basel 1986, S. 16–43.</p>
+<p>Bürgi, Michael: Pharmaforschung im 20. Jahrhundert. Arbeit an der Grenze zwischen Hochschule und Industrie, Zürich 2011.</p>
+<p>Buser, Barbara: Gundeldinger Feld: Pilotprojekt der 2000-Watt-Gesellschaft, in: Neutraler Quartierverein Gundeldingen (Hg.): Das Gundeli. Ein Basler Stadtquartier im Wandel, Basel 2017, S. 180–189.</p>
+<p>Businger, Susanne; Janett, Mirjam; Ramsauer, Nadja: «Gefährdete Mädchen» und «verhaltensauffällige Buben». Behördliche Fremdplatzierungspraxis in den Kantonen Appenzell Innerrhoden, Basel-Stadt und Zürich, in: Hauss, Gisela; Gabriel, Thomas; Lengwiler, Martin (Hg.): Fremdplatziert. Heimerziehung in der Schweiz, 1940–1990, Zürich 2018, S. 77–99.</p>
+<p>Büttner, Jonathan; Piller, Gudrun; Suter Daniel (Hg.): Zeitsprünge. Basler Geschichte in Kürze, Basel 2020.</p>
+<p>Carson, Rachel Louise: Der stumme Frühling, München 2007 [1962].</p>
+<p>Caty, Gilbert-François: Die umstrittenen Erben. Longo Maï und die europäischen Medien, Giessen 1983.</p>
+<p>Christ-von Wedel, Christine; Kuhn, Thomas K. (Hg.): Basler Mission. Menschen, Geschichte, Perspektiven 1815–2015, Basel 2015.</p>
+<p>Clivio, Carlo; Richter, Tilo: 365 Tage Basel, Basel 2021.</p>
+<p>Cuénod, Tim: Die Abspaltung der Demokratisch-Sozialen Partei (DSP), in: Verein Geschichte der Basler Sozialdemokratie (Hg.): 125 Jahre Basler Sozialdemokratie. Ein Lesebuch, Basel 2016, S. 143–147.</p>
+<p>Christoph Merian Stiftung: 125 Jahre Christoph Merian Stiftung, Basel 2011.</p>
+<p>Dall, Ilona Genoni: Art Basel. Geschichte und Geschichten, in: Jaccard, Paul André; Guex, Sébastien (Hg.): Le marché de l’art en Suisse, du XIXe siècle à nos jours, Zürich; Lausanne 2011, S. 193–213.</p>
+<p>David, Thomas; Etemad, Bouda: Gibt es einen schweizerischen Imperialismus?, in: Traverse 5 (2), 1998, S. 17–27.</p>
+<p>Degen, Bernard: Neue Krisen, neue Wege, in: Boillat, Valérie; Degen, Bernard; Joris, Elisabeth u. a. (Hg.): Vom Wert der Arbeit. Schweizer Gewerkschaften – Geschichte und Geschichten, Zürich 2006.</p>
+<p>Degen, Bernard: Arbeitslosigkeit, in: Kreis, Georg; von Wartburg, Beat (Hg.): Basel – Geschichte einer städtischen Gesellschaft, Basel 2000, S. 360–363.</p>
+<p>Degen, Bernard: Das Basel der andern. Geschichte der Basler Gewerkschaftsbewegung, Basel 1986.</p>
+<p>Degen, Bernard; Maeder, Pascal (Hg.): Breite-Lehenmatt: historischer Rundgang durch ein junges Basler Quartier, Basel 2011.</p>
+<p>Dejung, Christof: Die Fäden des globalen Marktes. Eine Sozial- und Kulturgeschichte des Welthandels am Beispiel der Handelsfirma Gebrüder Volkart 1851–1999, Köln 2013.</p>
+<p>Delessert, Thierry: Homosexualités masculines en Suisse. De l’invisibilité aux mobilisations, Lausanne 2012.</p>
+<p>Dettwiler, Walter: 25 Jahre Novartis, 250 Jahre Innovation, Basel 2021.</p>
+<p>Diallo, Amadou (Hg.): 200 Jahre Logistik: Danzas und DHL prägen eine Industrie, Berlin 2015.</p>
+<p>Dommann, Monika: Materialfluss. Eine Geschichte der Logistik an den Orten ihres Stillstands, Frankfurt a. M. 2023.</p>
+<p>Drews, Jürgen: Die verspielte Zukunft. Wohin geht die Arzneimittelforschung?, Basel 1998.</p>
+<p>Dubach, Philipp; Stutz, Heidi; Calderón, Ruth: Armutsbericht Basel-Stadt. Ursachen – Dynamiken – Handlungsempfehlungen, Basel 2010.</p>
+<p>Egger, Josef: «Ein Wunderwerk der Technik». Frühe Computernutzung in der Schweiz (1960–1980), Zürich 2014.</p>
+<p>Ehrenbold, Tobias: Die Imperien der Schweiz, in: NZZ Geschichte (32), Februar 2021a, S. 60–73.</p>
+<p>Ehrenbold, Tobias: Rapp. Umwelt gestalten seit 125 Jahren, Basel 2021b.</p>
+<p>Ehrenbold, Tobias: Roche in Asien und Ozeanien, in: Bieri, Alexander Lukas (Hg.): Roche in der Welt 1896–2021. Eine globale Geschichte, Lörrach 2021c.</p>
+<p>Ehrenbold, Tobias: Samuel Koechlin und die Ciba-Geigy. Eine Biografie, Zürich 2017.</p>
+<p>Ehrenbold, Tobias; Hafner, Urs: Stähelin, Staehelin, Stehelin. Eine Basler Familie seit 1520, Basel 2020.</p>
+<p>Ehret, Roger: Auf dem hellen Hügel. Das Basler Stadtquartier Bruderholz, Basel 2021.</p>
+<p>Eiche, Philipp: Kontinuität oder Bruch? Die Basler Verkehrsplanung 1958–1979, unveröff. Masterarbeit, Universität Basel, Basel 2015.</p>
+<p>Eidgenössische Kommission für Frauenfragen: Gleiche Rechte für Frau und Mann: Institutionelle Gleichstellungspolitik, in: Frauen Macht Geschichte. Zur Geschichte der Gleichstellung in der Schweiz 1848–2000, Bern 2009a, Kap. 3.1, S. 1–11.</p>
+<p>Eidgenössische Kommission für Frauenfragen: Gleicher Lohn für gleichwertige Arbeit, in: Frauen Macht Geschichte. Zur Geschichte der Gleichstellung in der Schweiz 1848–2000, Bern 2009b, Kap. 3.2, S. 1–13.</p>
+<p>Eidgenössische Kommission für Frauenfragen: Die Stellung von Frau und Mann im Bürgerrecht, in: Frauen Macht Geschichte. Zur Geschichte der Gleichstellung in der Schweiz 1848–2000, Bern 2009c, Kap. 3.6, S. 1–7.</p>
+<p>Epple, Ruedi; Fridrich, Anna C.; Hagmann, Daniel: Nah dran, weit weg. Geschichte des Kantons Basel-Landschaft, Bd. 6: Wohlstand und Krise: 19. und 20. Jahrhundert, Liestal 2001.</p>
+<p>Erbacher, Felix: Die Brandkatastrophe von Schweizerhalle. Das Ereignis und der technisch-juristische Umgang damit, in: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Bd. 2: Kreis, Georg u. a.: Wechselwirkungen einer Beziehung – Aspekte und Materialien, Basel 2016, S. 193–204.</p>
+<p>Erbacher, Felix: Pioniere der Basler Wirtschaft, Basel 2014.</p>
+<p>Erni, Paul: Die Basler Heirat. Geschichte der Fusion Ciba-Geigy, Zürich 1979.</p>
+<p>Escher, Markus von; Lüönd, Karl: Sicherheit als Prinzip. 150 Jahre und eine Zukunft für die Basler, Reinach 2013.</p>
+<p>Espahangizi, Kijan: «Migration». Ein neues Konzept zwischen Politik und Wissenschaft in der Schweiz, 1987–1995, in: Zeitschrift für Migrationsforschung 1 (2), 2021, S. 5–38.</p>
+<p>Eugster, Timm: 75 Jahre Jugendarbeit Basel. Chronik der JuAr Basel, Basel 2017.</p>
+<p>Falk, Francesca: Gender Innovation and Migration in Switzerland, Cham 2019.</p>
+<p>Fasnacht, René: Alterspolitik im Kanton Basel-Stadt, in: Regio Basiliensis 47 (3), 2006, S. 195–201.</p>
+<p>Fasnachts-Comité (Hg.): Basler Fasnacht – vorwärts, marsch! «Lääse – loose – luege!», Basel 2009.</p>
+<p>Fässler, Hans: Reise in Schwarz-Weiss. Schweizer Ortstermine in Sachen Sklaverei, Zürich 2005.</p>
+<p>Felder, Esther: Stadtplanung in Basel von 1950 bis 1975. Vom stadtgerechten Verkehr zur verkehrsgerechten Stadt, unveröff. Masterarbeit, Universität Basel, Basel 2010.</p>
+<p>Felder, Pierre: Für alle! Die Basler Volksschule seit ihren Anfängen, Basel 2019.</p>
+<p>Felder, Pierre: Der Kanton Basel-Stadt. Eine Einführung in Staat und Politik, Basel 1991.</p>
+<p>Feldges, Uta: «Die schöne Stadt Basel war unser Ziel». Zur Geschichte des Basler Heimatschutzes 1905–2005, Basel 2005.</p>
+<p>Ferel, Alexa; Frauenhaus Basel, Frauenhaus-Beratungsstelle Basel (Hg.): Jubiläum. 25 Jahre FH – 15 Jahre FHB, Basel 2006.</p>
+<p>Fetz, Anita: Wir wollten alles und haben viel bewegt. Ein persönlicher Rückblick auf die Neue Frauenbewegung in Basel, in: Kreis, Georg (Hg.): Das Basler Frauenstimmrecht. Der lange Weg zur politischen Gleichberechtigung von 1966, Basel 2016, S. 247–278.</p>
+<p>Fierz, Gaby: The Blank Spots: Making Migratory Archives Visible by Exploring Photographs, in: Visual Anthropology 34 (4), 2021, S. 368–384.</p>
+<p>Fingerhuth, Carl: Neues Wohnen in der alten Stadt. Die Sanierung staatlicher Liegenschaften in der Basler Altstadt 1978–1990, Basel 1991.</p>
+<p>Flubacher, Mi-Cha: Integration durch Sprache – die Sprache der Integration. Eine kritische Diskursanalyse zur Rolle der Sprache in der Schweizer und Basler Integrationspolitik 1998–2008, Göttingen 2014.</p>
+<p>Flühmann, Beatrice: Lebens- und Arbeitssituation von hochqualifizierten MigrantInnen im Kanton Basel-Stadt. Ein ethnographischer Blick auf Integration, unveröff. Masterarbeit, Universität Basel, Basel 2013.</p>
+<p>Forter, Martin: Falsches Spiel. Die Umweltsünden der Basler Chemie vor und nach «Schweizerhalle», Zürich 2010.</p>
+<p>Forter, Martin: Farbenspiel. Ein Jahrhundert Umweltnutzung durch die Basler chemische Industrie, Zürich 2000.</p>
+<p>Franc, Andrea: Im Austausch mit der Welt. Schweizer Unternehmen im 19. und 20. Jahrhundert, Zürich 2021.</p>
+<p>Francini, Esther Tisa: Provenienzforschung in der Schweiz. Eine Übersicht über die «Raubkunst»-Debatte und die Bedeutung der Schweiz für internationale Recherchen, in: AKMB-news 11 (2), 2005, S. 33–37.</p>
+<p>Frei, Alban: Sichtbare Netzwerke. Forschungspolitik und Life-Sciences zwischen 1990 und 2016 in der Schweiz: eine Fallstudie zu SystemsX.ch, Zürich 2018.</p>
+<p>Freiplatzaktion Basel (Hg.): «Und plötzlich standen sie da». 20 Jahre Freiplatzaktion Basel, Basel 2005.</p>
+<p>Früh, Anja: Europäisierung(en) im musealen Feld. Zur Transformation der ethnografischen Museen in Basel, Berlin und Marseille (2000–2015), in: Brait; Andrea; Früh, Anja (Hg.): Museen als Orte geschichtspolitischer Verhandlungen. Ethnografische und historische Museen im Wandel 43, 2017, S. 141–155.</p>
+<p>Furger, Thierry: Graffiti an der Linie in Basel 1985–1990, Basel 2020.</p>
+<p>Gampp, Axel: Basler Kunstsammlungen und ihre Geschichte, in: Uni nova 122 (2), 2013, S. 35–36.</p>
+<p>Genoni, Ilona: «Just What Is It That Makes It So Different, So Appealing?» Art Basel: Von der Verkaufsmesse zum Kulturereignis, Zürich 2009.</p>
+<p>Gerber, Brigitta; Kriese, Ulrich (Hg.): Boden behalten – Stadt gestalten, Zürich 2019.</p>
+<p>Gilcher-Holtey, Ingrid: Die 68er Bewegung. Deutschland, Westeuropa, USA, München 2017.</p>
+<p>Gilg, Peter: Jugendliches Drängen in der schweizerischen Politik. Struktur, Ziele und Aktionsformen von politischen Gruppen der jungen Generation, Bern 1974.</p>
+<p>Gloor, Lukas: Die Art Basel – von der internationalen Kunstmesse zum globalen Kunstforum, in: Kury, Patrick; Baur, Esther (Hg.): Im Takt der Zeit. Von der Schweizer Mustermesse zur MCH Group, Basel 2016, S. 257–272.</p>
+<p>Götz, Ulrich; Hicklin, Martin; Battegay, Manuel: Aids in Basel. Vom Sterben an Aids zum Leben mit HIV, Basel 2018.</p>
+<p>Gräf, Ulrich; Schelbert, Sandra: Steuerstatistik Basel-Stadt. Auswertungen, Karten und Kommentare, Basel 2010.</p>
+<p>Grivat, Olivier; Gorskey, Mike: 75 Jahre Schweizer Marine auf den Weltmeeren, Genf 2016.</p>
+<p>Grossmann, Flavia: Über das Bleiben. Das basel-städtische Migrationsregime (1960–1980), unveröff. Dissertation, Universität Basel, Basel 2019.</p>
+<p>Gschwend, Hanspeter: Die Umweltbewegung verändert die Parteienlandschaft – oder umgekehrt, in: Schweizerisches Jahrbuch für politische Wissenschaft 26, 1986, S. 243–256.</p>
+<p>Gschwind, Eva: Auf zur Urne! Direkte Demokratie in Basel von den Anfängen bis heute, Basel 2022.</p>
+<p>Gugerli, David: Wie die Welt in den Computer kam. Zur Entstehung digitaler Wirklichkeit, Frankfurt a. M. 2018.</p>
+<p>Guntern, Manuel; Thoma, Luca; Fankhauser, Maximilian Karl: Lebändigi Gschicht. Eine Hommage an 30 Jahre Basler Mundartrap, Basel 2022.</p>
+<p>Gusset, Silas; Zahn, Anina: Verlierer der Globalisierung. Der Basler Finanzplatz im Wandel 1960–2010, in: Basler Zeitschrift für Geschichte und Altertumskunde 120, 2020, S. 169–200.</p>
+<p>Häberlin, Ursula: Zentralwäscherei Basel: Migrantinnen gewinnen einen Streik, in: Boillat, Valérie; Degen, Bernard; Joris, Elisabeth u. a. (Hg.): Vom Wert der Arbeit. Schweizer Gewerkschaften – Geschichte und Geschichten, Zürich 2006, S. 320–321.</p>
+<p>Haberthür, Beat: Die Wiedervereinigungsdebatte im Verfassungsrat beider Basel (1960–1969), Basel 1989.</p>
+<p>Habicht, Peter: Lifting the Mask. Your Guide to Basel Fasnacht, Basel 2001.</p>
+<p>Habicht, Peter: Pfyffe, ruesse, schränze. Eine Einführung in die Basler Fasnacht, Basel 2004.</p>
+<p>Haenger, Peter: Das Fleisch und die Metzger. Fleischkonsum und Metzgerhandwerk in Basel seit der Mitte des 19. Jahrhunderts, Zürich 2001.</p>
+<p>Hagmann, Daniel: Verdachtsmomente. Fichen und Dossiers aus dem Archiv des Staatsschutzes, Basel 2022.</p>
+<p>Halbeisen, Patrick; Müller, Margrit; Veyrassat, Béatrice (Hg.): Wirtschaftsgeschichte der Schweiz im 20. Jahrhundert, 2. Auflage, Basel 2017.</p>
+<p>Haldemann, Anita; Werthemann, Sereina; Zimmer, Nina: Die Picassos sind da! Eine Retrospektive aus Basler Sammlungen. Katalog zur gleichnamigen Ausstellung, Kunstmuseum Basel, Basel 2013.</p>
+<p>Haller, Lea: Transithandel. Geld- und Warenströme im globalen Kapitalismus, Berlin 2019.</p>
+<p>Häner, Flavio: Dinge sammeln, Wissen schaffen. Die Geschichte der naturhistorischen Sammlungen in Basel, 1735–1850, Bielefeld 2017.</p>
+<p>Häni, David: Kaiseraugst besetzt! Die Bewegung gegen das Atomkraftwerk, Basel 2018.</p>
+<p>Hardegger, Angelika: Die 2010er-Jahre, in: Schmid, Denise (Hg.): Jeder Frau ihre Stimme. 50 Jahre Frauengeschichte 1971–2021, Zürich 2020, S. 235–280.</p>
+<p>Hauser-Schäublin, Brigitta: Böen der Erinnerung. Eine Spurensuche im Reich der Dinge, in: Paideuma: Mitteilungen zur Kulturkunde 65, 2019, S. 7–30.</p>
+<p>Hauser-Schäublin, Brigitta: Neu eröffnete Völkerkundemuseen: Gewohntes, neue Ausrichtungen und Irrungen. Kommentar zu ethnologischen Ausstellungen vor dem Hintergrund internationaler Diskussionen und Praxen, in: Zeitschrift für Ethnologie 137 (2), 2012, S. 241–252.</p>
+<p>Held, Felix: Felix Tschudi. Der erste Basler Industriepfarrer im inter- und intragenerationellen Vergleich, unveröff. Masterarbeit, Universität Basel, Basel 2012.</p>
+<p>Henger, Gregor: Informatik in der Schweiz. Eine Erfolgsgeschichte verpasster Chancen, Zürich 2008.</p>
+<p>Hess, Stefan (Hg.): Basel und Riehen. Eine gemeinsame Geschichte, Basel 2021.</p>
+<p>Heuss, Robert: Basler Polizei 1816–2016, Basel 2016.</p>
+<p>Hicklin, Martin: Das Institut für Immunologie, das Friedrich-Miescher-Institut und das Biozentrum. Morgenrot der Life-Sciences, in: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Bd. 2: Kreis, Georg u. a.: Wechselwirkungen einer Beziehung – Aspekte und Materialien, Basel 2016, S. 112–117.</p>
+<p>Hilzinger, Christian: Kampf dem Ungeheuer Film. Die Geschichte der Filmzensur in Basel, in: Basler Magazin, Basel, 2000.</p>
+<p>Historisches Seminar Basel (Hg.): 100 Jahre Frauen an der Uni Basel. D’Studäntin kunnt! Katalog zur Ausstellung von HistorikerInnen und StudentInnen des Historischen Seminars der Universität Basel, Basel 1991.</p>
+<p>Hobsbawm, Eric: The Invention of Tradition, Cambridge 2012.</p>
+<p>Hochreiter, Walter: Roche in Basel und Westeuropa, Bd. 1, in: Bieri, Alexander Lukas (Hg.): Roche in der Welt 1896–2021. Eine globale Geschichte, 3. Bde, Lörrach 2021.</p>
+<p>Hochreiter, Walter: 125 Jahre Handelskammer beider Basel. Die letzten fünfzig Jahre, Ubstadt-Weiher 2001.</p>
+<p>Hochschule Luzern – Technik &amp; Architektur, Institut für Innenarchitektur (Hg.): Dieter Waeckerlin und Idealheim. Schweizer Wohnkultur 1950–1980, Basel 2018.</p>
+<p>Hodel, Jan: Werkst@dt Basel. Kann das Internet zur interaktiven Plattform für eine Bürgerbeteiligung werden?, in: Wiener, Daniel (Hg.): Wir sind die Stadt. Das Beispiel Werkstadt Basel, Basel 2001, S. 126–127.</p>
+<p>Hodel, Jan: Die Abfall-Lawine im Kopf. Technischer Wandel bei der Abfallbeseitigung in der Region Basel 1943 bis 1963/1969, unveröff. Lizentiatsarbeit, Universität Basel, Basel 1995.</p>
+<p>Hofmann, Matthias: Lernen aus Katastrophen. Nach den Unfällen von Harrisburg, Seveso und Sandoz, Berlin 2008.</p>
+<p>Hofmann, Urs: Innenansichten eines Niedergangs. Das protestantische Milieu in Basel 1920 bis 1970, Baden 2013.</p>
+<p>Holenstein, André; Kury, Patrick; Schulz, Kristina: Schweizer Migrationsgeschichte. Von den Anfängen bis zur Gegenwart, Baden 2018.</p>
+<p>Huber, Dorothee: Architekturführer Basel. Die Baugeschichte der Stadt und ihrer Umgebung, Basel 2014.</p>
+<p>Huber, Thomas: Das Schwulen- und Lesbenzentrum in Basel. Entstehung, Betrieb, Kultur, Umfeld 19.01.1991 bis 28.06.1997, Basel 2016.</p>
+<p>Ideli, Mustafa; Kieser, Hans-Lukas; Suter Reich, Virgina: Neue Menschenlandschaften. Migration Türkei – Schweiz 1961–2011, Zürich 2011.</p>
+<p>Imhof, Madeleine: Migration und Stadtentwicklung. Aktualgeographische Untersuchungen in den Basler Quartieren Iselin und Matthäus, Basel 1998.</p>
+<p>Imhof, Madeleine: Der Liegenschaftsmarkt in der Stadt Basel von 1989 bis 1991. Filz - Fakten - Feststellungen, Basel 1991.</p>
+<p>Janett, Mirjam: Verwaltete Familien. Vormundschaft und Fremdplatzierung in der Deutschschweiz, 1945–1980, Zürich 2022.</p>
+<p>Janett, Sandra: Wohnen als Basis der sozialen Integration, in: Piñeiro, Esteban; Winzeler, Seraina (Hg.): Wohnungsnot als gesellschaftlicher Konflikt. Alfred Kunz und die Gemeinnützige Stiftung Wohnhilfe Basel, Basel 2017, S. 145–184.</p>
+<p>Jehle-Schulte Strathaus, Ulrike: Vom Industrieareal zum Campus: Industriebauten als Sehenswürdigkeiten - Architektur von Roche und Novartis, in: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Bd. 2: Kreis, Georg u. a.: Wechselwirkungen einer Beziehung – Aspekte und Materialien, Basel 2016, S. 72–87.</p>
+<p>Jungkind, Thilo: Die Dioxin-Katastrophe von Seveso. Der Störfall als Teil der Unternehmensgeschichte, in: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Bd. 2: Kreis, Georg u. a.: Wechselwirkungen einer Beziehung – Aspekte und Materialien, Basel 2016, S. 181–190.</p>
+<p>Museum für Gestaltung Zürich; Janser, Andres; Junod, Barbara (Hg.): Corporate Diversity. Schweizer Grafik und Werbung für Geigy 1940–1970, Baden 2009.</p>
+<p>Kälin, Judith: Heimerziehung im Brennpunkt der Kritik. Das Bürgerliche Waisenhaus seit den 1950er Jahren, in: Bürgergemeinde der Stadt Basel (Hg.): Zuhause auf Zeit. 350 Jahre Bürgerliches Waisenhaus Basel, Basel 2019, S. 127–149.</p>
+<p>Kammann, George: Mit Autobahnen die Städte retten? Städtebauliche Ideen der Expressstrassen-Planung in der Schweiz 1954–1964, Zürich 1990.</p>
+<p>Keller, Esther: Ernst Beyeler. Von Kunst bewegt, Basel 2014.</p>
+<p>Kielbasa, Nico: «Im Kreuzfeuer der Kritik». Der problematische Wandel der Philanthropie im 20. Jahrhundert am Beispiel der Christoph Merian Stiftung und deren Landgut Brüglingen nach 1980, unveröff. Seminararbeit, Universität Basel, Basel 2015.</p>
+<p>Kinderkrippen Bläsistift: 150 Jahre Kinderkrippen Bläsistift – die älteste Kita der Schweiz, Basel 2021.</p>
+<p>Knill, Mara: «Vom Schwarzen Peter zum Musterschüler». Die Entwicklung der schweizerischen Drogenpolitik in den 1980er-Jahren am Beispiel von Basel, unveröff. Masterarbeit, Universität Basel, Basel 2019.</p>
+<p>Koch, Philippe: Bringing Power Back In: Collective and Distributive Forms of Power in Public Participation, in: Urban Studies 50 (14), 2013, S. 2976–2992.</p>
+<p>Koellreuter, Isabel; Schürch, Franziska: Schaufenster zur Welt: Uhren und Schmuck an den Messen in Basel, in: Kury, Patrick; Baur, Esther (Hg.): Im Takt der Zeit. Von der Schweizer Mustermesse zur MCH Group, Basel 2016, S. 219–239.</p>
+<p>Koellreuter, Isabel: Angst vor Schwarzenbach: Diskussionen um die Überfremdungsinitiative vom 7. Juni 1970, in: Verein Geschichte der Basler Sozialdemokratie (Hg.): 125 Jahre Basler Sozialdemokratie. Ein Lesebuch, Basel 2016, S. 231–232.</p>
+<p>Koellreuter, Isabel; Unternährer, Nathalie: Brot und Stadt. Bäckerhandwerk und Brotkonsum in Basel vom Mittelalter bis zur Gegenwart, Basel 2006.</p>
+<p>Kohn, Michael: Energieszene Schweiz, Zürich 1990.</p>
+<p>König, Mario: Besichtigung einer Weltindustrie – 1859 bis 2016, Basel 2016 (= Bd. 1: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Basel 2016).</p>
+<p>König Mario: Transit Basel. Die Basler Verbindungsbahn – Nadelöhr im europäischen Schienenverkehr, Basel 2004.</p>
+<p>König, Mario: In eigener Sache. Die Universität Basel unterwegs zu Autonomie und neuer Trägerschaft 1985–2010, Liestal 2010.</p>
+<p>Kopf, Elias: Das Basler Tram und die SP, in: Verein Geschichte der Basler Sozialdemokratie (Hg.): 125 Jahre Basler Sozialdemokratie. Ein Lesebuch, Basel 2016, S. 204–205.</p>
+<p>Krebs, Marc; Schneitter, Andreas: Pop Basel. Musik und Subkultur, Basel 2009.</p>
+<p>Kreis, Georg: Am Rande der Stadt. Aus der Geschichte der Basler Agglomerationsproblematik seit 1887, Liestal 2019.</p>
+<p>Kreis, Georg: Basel in den Jahren 1945 bis 1970, in: Burckhardt, Lukas; Frey, René L.; Kreis, Georg; Schmid, Gerhard (Hg.): Das politische System Basel-Stadt. Geschichte, Strukturen, Institutionen, Politikbereiche, Basel; Frankfurt a. M. 1984, S. 87–116.</p>
+<p>Kreis, Georg: Basel und seine Chemie. Ein wenig aufgearbeitetes Verhältnis, in: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Bd. 2: Kreis, Georg u. a.: Wechselwirkungen einer Beziehung – Aspekte und Materialien, Basel 2016a, S. 10–64.</p>
+<p>Kreis, Georg: Der Aufbruch der 1960er und 1970er Jahre, in: Verein Geschichte der Basler Sozialdemokratie (Hg.): 125 Jahre Basler Sozialdemokratie. Ein Lesebuch, Basel 2016b, S. 148–152.</p>
+<p>Kreis, Georg: Die Brandkatastrophe von Schweizerhalle. Die Folgen in Basel, in: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Bd. 2: Kreis, Georg u. a.: Wechselwirkungen einer Beziehung – Aspekte und Materialien, Basel 2016c, S. 205–215.</p>
+<p>Kreis, Georg: Die Dioxin-Katastrophe von Seveso. Basler Reaktionen, in: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Bd. 2: Kreis, Georg u. a.: Wechselwirkungen einer Beziehung – Aspekte und Materialien, Basel 2016d, S. 191–192.</p>
+<p>Kreis, Georg: Fünf Anläufe zum Basler Frauenstimmrecht, 1916–1966, in: Kreis, Georg (Hg.): Das Basler Frauenstimmrecht. Der lange Weg zur politischen Gleichberechtigung von 1966, Basel 2016e, S. 13–123.</p>
+<p>Kreis, Georg: Goldene Jahre mit irritierenden Erfahrungen, in: Kreis, Georg; von Wartburg, Beat (Hg.): Basel – Geschichte einer städtischen Gesellschaft, Basel 2000, S. 268–312.</p>
+<p>Kreis, Georg: Orte des Wissens. Die Entwicklung der Universität Basel entlang ihrer Bauten, Basel 2010.</p>
+<p>Kreis, Georg: Rekonstruktion aktueller Vergangenheit. Der vierte «Montagabend» des Basler Theaters vom November 1972, in: Mayoraz, Sandrine; Schenk, Frithjof Benjamin; Mäder, Ueli (Hg.): Hundert Jahre Basler Friedenskongress (1912–2012). Die erhoffte «Verbrüderung der Völker», Basel; Zürich 2015a, S. 73–39.</p>
+<p>Kreis, Georg: 150 Jahre im Dienst der Stadt. Zur Geschichte des Tiefbauamts Basel-Stadt, Basel 2015b.</p>
+<p>Kreis, Georg; Delley, Jean-Daniel; Kaufmann, Otto K.: Staatsschutz in der Schweiz. Die Entwicklung von 1935–1990: eine multidisziplinäre Untersuchung im Auftrage des schweizerischen Bundesrates, Bern; Stuttgart 1993.</p>
+<p>Kupper, Patrick: Atomenergie und gespaltene Gesellschaft. Die Geschichte des gescheiterten Projektes Kernkraftwerk Kaiseraugst, Zürich 2003.</p>
+<p>Labhardt, Robert: Wohngenossenschaften im Gundeli. Historische Streiflichter, in: Neutraler Quartierverein Gundeldingen (Hg.): Das Gundeli. Ein Basler Stadtquartier im Wandel, Basel 2017, S. 156–165.</p>
+<p>Lampugnani, Vittorio Magnago (Hg.): Novartis Campus. Eine moderne Arbeitswelt. Voraussetzungen, Bausteine, Perspektiven, Ostfildern 2009.</p>
+<p>Lanz, Anni: Die Fremdmacher. Widerstand gegen die schweizerische Asyl- und Migrationspolitik. Zum Jubiläum von Solidarité sans frontières (sosf), Zürich 2006.</p>
+<p>Lefkovits, Ivan: History of the Basel Institute for Immunology, Basel 2017.</p>
+<p>Koellreuter, Isabel; Kolb, Martin; Leypoldt, Patrick: Gemeinsam gestalten. Geschichte der Regionalplanungsstelle beider Basel, Basel 2017.</p>
+<p>Loeb, François: Museum ohne Grenzen. Schätze der Region entdecken, 3 Bd., Freiburg; Basel; Wien 2021.</p>
+<p>Loser, Philipp; Mangold, Thilo; Miozzari, Claudio u. a.: Der FC Basel und seine Stadt. Eine Kulturgeschichte, Basel 2018.</p>
+<p>Loser, Philipp: Überwacht. Die POCH im Visier des Basler Spezialdienstes. Eine Auswertung der kantonalen Staatsschutz-Akten von 1970–1989, unveröff. Lizentiatsarbeit, Universität Basel, Basel 2011.</p>
+<p>Lüem, Barbara: Heimathafen Basel. Die Schweizer Rhein- und Hochseeschifffahrt, Basel 2003.</p>
+<p>Lüpold, Martin: in: Kury, Patrick; Baur, Esther (Hg.): Im Takt der Zeit. Von der Schweizer Mustermesse zur MCH Group, Basel 2016, S. 317–332.</p>
+<p>Lüpold, Martin: Der Ausbau der «Festung Schweiz». Aktienrecht und Corporate Governance in der Schweiz, 1881–1961, Dissertation, Universität Zürich, Zürich 2008.</p>
+<p>Mach, André; David, Thomas; Bühlmann, Felix u. a.: Schweizer Wirtschaftseliten 1910–2010, Baden 2017.</p>
+<p>Mäder, Ueli (Hg.): Armut im Kanton Basel-Stadt, Basel 1991.</p>
+<p>Mäder, Ueli: macht.ch. Geld und Macht in der Schweiz, Zürich 2015.</p>
+<p>Mäder, Ueli: Erwerbsarbeit und Armut. Zur Dynamik von Integration und Ausschluss, in: Kutzner, Stefan; Nollert, Michael; Bonvin, Jean-Michel (Hg.): Armut trotz Arbeit. Die neue Arbeitswelt als Herausforderung für die Sozialpolitik, Zürich 2009, S. 60–73.</p>
+<p>Mäder, Ueli; Streuli, Elisa: Reichtum in der Schweiz. Porträts - Fakten - Hintergründe, Zürich 2002.</p>
+<p>Maissen, Toya: Links notiert. Ausgewählte Texte und Reden, 1976–1991, Basel 1992.</p>
+<p>Massmünster, Michel: Im Taumel der Nacht. Urbane Imaginationen, Rhythmen und Erfahrungen, Berlin 2017.</p>
+<p>Mateos, Inés: «Sprache als Schlüssel zur Integration» – eine Metapher und ihre Folgen, in: Piñeiro, Esteban; Bopp, Isabelle; Kreis, Georg (Hg.): Fördern und Fordern im Fokus. Leerstellen des schweizerischen Integrationsdiskurses, Zürich; Genf 2009, S. 98–123.</p>
+<p>Matti, René; Müller, Lukas; Riedo, Teddy: Als die Haare länger wurden. Die Sixties in Basel, Basel 2000.</p>
+<p>Mazacek, Jan; Ruppe, Steffen; Griesshaber, Dorrit u. a.: Vom Unfall zur präventiven Überwachung. Rheinüberwachungsstation (RÜS), in: Aqua &amp; Gas 96 (11), 2016, S. 66–75.</p>
+<p>Meadows, Dennis; Meadows, Donella; Milling, Peter u. a.: Die Grenzen des Wachstums. Bericht des Club of Rome zur Lage der Menschheit, Stuttgart 1972.</p>
+<p>Meier, Eugen A.: Fussball in der Nordwestschweiz, Basel 1979.</p>
+<p>Meier, Eugen A.: Basel einst und jetzt. Der Wandel des Basler Stadtbildes im Lauf der Zeit, Basel 1993.</p>
+<p>Meier, Lukas: Swiss Science, African Decolonization and the Rise of Global Health, 1940–2010, Basel 2014.</p>
+<p>Mensch, Christian; Imhof, Kurt: Enteignete Zeitung? Die Geschichte der «Basler Zeitung» – ein Lehrstück über den Medienwandel, Basel 2012.</p>
+<p>Merzweiler, Heinz H.; Vogt, Rolf M.: 100 Jahre moderne Rheinschifffahrt bis Basel, Basel 2004.</p>
+<p>Meyer, Franz: Picasso 1967, in: Müller, Hans-Joachim (Hg.): Nafea. Die Sammlung Rudolf Staechelin, Basel 1990, S. 175–187.</p>
+<p>Miescher, Stephan; Trüeb, Kuno: Männergeschichten. Schwule in Basel seit 1930, Basel 1988.</p>
+<p>Miozzari, Claudio; Rudin, Dominique; Wyss, Benedikt (Hg.): Freiraum in Basel seit 1968 – Menschen und Orte in Bewegung, Basel 2018.</p>
+<p>Miescher, Stephan; Trüeb, Kuno: Männergeschichten. Schwule in Basel seit 1930, Basel 1988.</p>
+<p>Moll, Christa; Sandtner, Martin; Saner, Dorothea: Zahlenmeer – mehr als Zahlen. Basel-Stadt – 100 Jahre statistisch begleitet, Basel 2002.</p>
+<p>Morawietz, Katharina: Von urbanen Protestaktionen zur ländlichen Kooperative. Die Entstehung der Kooperative Longo maï in den frühen 1970er Jahren, in: Ludi, Regula; Ruoss, Matthias; Schmitter, Leena (Hg.): Zwang zur Freiheit. Krise und Neoliberalismus in der Schweiz, Zürich 2018, S. 137–160.</p>
+<p>Fehr, Marianne; Keller, Stefan; Morgenthaler, Jan: Leben, Lieben, Leiden im Büro. Reportagen, Analysen, Geschichten aus der sauberen Arbeitswelt, Zürich 1991.</p>
+<p>Müller, Hans-Joachim: Nafea. Die Sammlung Rudolf Staechelin Basel, Basel 1990.</p>
+<p>Müller-Jentsch, Daniel: Schweizer Stiftungswesen im Aufbruch. Impulse für ein zeitgemässes Mäzenatentum, Zürich 2014.</p>
+<p>Museum der Kulturen Basel (Hg.): Mission Possible? Die Sammlung der Basler Mission. Spiegel kultureller Begegnungen, Basel 2015.</p>
+<p>Nanni, Mario: Die Geschichte der Brauereien beider Basel und Rheinfeldens, Basel 2009.</p>
+<p>Nanni, Mario: Die Geschichte der Basler Gastronomie, Basel 2006.</p>
+<p>Niederer-Schmidli, Susanne: Umweltschutz – Schlagwort der siebziger Jahre. Die Entstehung eines neuen Umweltbewusstseins Anfang der siebziger Jahre mit besonderer Berücksichtigung der Situation in Basel-Stadt, unveröff. Lizentiatsarbeit, Universität Basel, Basel 1991.</p>
+<p>Nigg, Heinz: Wir sind wenige, aber wir sind alle. Biografien aus der 68er-Generation in der Schweiz, Zürich 2008.</p>
+<p>Nonić, Suzana: Schweizermacher light. Der Einfluss des «Schweizermachers» im Einbürgerungsverfahren von Basel-Stadt, unveröff. Masterarbeit, Universität Basel, Basel 2016.</p>
+<p>Obrist, Peter; Straub, Patrick: Quick-March! 15 Jahre Basel Tattoo. Emotionen, Anekdoten, Impressionen, Basel 2022.</p>
+<p>Parak, Stephan: Asylpraxis der Schweiz von 1979 bis 2019. Eine Bestandesaufnahme, Bern-Wabern 2020.</p>
+<p>Pecinska, Ursula (Hg.): Basel: Visionen und verpasste Chancen. Erinnerungen, Stellungnahmen, Polemiken, Basel 2000.</p>
+<p>Pérez, José: Ausschreibungsverfahren bei öffentlichen Beschaffungen. Theorie und Praxis im Kanton Basel-Stadt, Basel 2004.</p>
+<p>Peyer, Peter F.: Vom Sternenfeld zum EuroAirport Basel-Mulhouse-Freiburg, Basel 1996.</p>
+<p>Pfister, Benedikt: Für Freiheit kämpfen. Die Geschichte des Basler Freisinns, Basel 2019.</p>
+<p>Pfister, Benedikt: Die Katholiken entdecken Basel. Der Weg aus dem Milieu in die Gesellschaft, Basel 2014.</p>
+<p>Pfister, Benedikt: Jubiläumsschrift. 175 Jahre Gewerbeverband Basel-Stadt, Basel 2009.</p>
+<p>Pfister, Dieter: Basel - Die Schweizer Möbelstadt. Zur Entwicklung des Nordwestschweizer Möbelhandwerks und -handels und des Nachfragemarktes für Möbel und Einrichtungen im 20. Jahrhundert, Basel 2023.</p>
+<p>Piatti, Barbara; Rogenmoser, Yvonne: Feste und Bräuche in der Schweiz, Zürich 2019.</p>
+<p>Pieth, Mark; Betz, Kathrin: Seefahrtsnation Schweiz. Vom Flaggenzwerg zum Reedereiriesen, Zürich 2022.</p>
+<p>Piñeiro, Esteban: Wohnungsnot als gesellschaftlicher Konflikt. Alfred Kunz und die Gemeinnützige Stiftung Wohnhilfe Basel, Basel 2017.</p>
+<p>Piñeiro, Esteban: Integration und Abwehr. Genealogie der schweizerischen Ausländerintegration, Zürich 2015.</p>
+<p>Platz, Christian: Basel Tattoo. Vom Morgestraich zum Zapfenstreich, Basel 2015.</p>
+<p>Portmann, Adolf: Naturschutz wird Menschenschutz, Zürich 1971.</p>
+<p>Prognos: Bevölkerung und Wirtschaft der Regio. Ökonomische und demographische Grundlagen-Untersuchung, Basel 1965.</p>
+<p>Prognos (Hg.): Das Phänomen PROGNOS. Ein Rückblick auf 40 Jahre Forschung und Beratung, Basel 2001.</p>
+<p>Purtschert, Patricia; Lüthi, Barbara; Falk, Francesca (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012.</p>
+<p>Ramseier, Claudia; Meneghini, Manuela: Das ethnographische Museum im Spannungsfeld von Wissenschaft und Publikums-Orientierung. Eine Standortbestimmung der ethnographischen Museen in der Schweiz, unveröff. Lizentiatsarbeit, Universität Bern, Bern 2003.</p>
+<p>Raz, Florian; Schaub, Daniel: 75 Jahre Fussballverband Nordwestschweiz 1939–2014, Basel 2014.</p>
+<p>Rechsteiner, Rudolf: Grün gewinnt. Die letzte Ölkrise und danach, Zürich 2003.</p>
+<p>Rechsteiner, Rudolf: Umweltschutz per Portemonnaie. Wege zur sauberen Wirtschaft, Zürich 1990.</p>
+<p>Regio-Forschungsinstitut Wenkenhof (Hg.): Grenzgänger in der Nordwestschweiz. Ein Bericht, Basel 1987.</p>
+<p>Regionalverband Wohnbaugenossenschaften Nordwestschweiz (Hg.): Wohngenossenschaften der Region Basel 1992–2012. Ein Projekt des Regionalverbands Wohnbaugenossenschaften Nordwestschweiz zum UNO-Jahr der Kooperativen, Basel 2012.</p>
+<p>Ritter, Markus: Nach Schweizerhalle – ökologische Projekte in Basel, in: Pecinska, Ursula (Hg.): Basel: Visionen und verpasste Chancen. Erinnerungen, Stellungnahmen, Polemiken, Basel 2000, S. 71–79.</p>
+<p>Ruby, Andreas; Shinohara, Yuma, S AM Schweizerisches Architekturmuseum: Swim City, Basel 2019.</p>
+<p>Ruckstuhl, Brigitte; Ryter, Elisabeth: Von der Seuchenpolizei zu Public Health. Öffentliche Gesundheit in der Schweiz seit 1750, Zürich 2017.</p>
+<p>Rudolf von Rohr, Christa: Rausch Ekstase Sucht. Geschichte der Suchtpolitik des Kantons Basel-Stadt, Basel 2014.</p>
+<p>Rüegg, Walter; Thiriet, Roger; Neumann-Braun, Klaus u. a. (Hg.): On Air. Dreissig Jahre Lokalradio in der Schweiz, Basel 2013.</p>
+<p>Salathé, René: Basler und Baslerinnen auf Reisen. Eine Anthologie, Basel 2013.</p>
+<p>Salvisberg, André: Vom Zollfreilager zum Freilager: Kleine Namensretusche und grosser Funktionswechsel, in: Neutraler Quartierverein Gundeldingen (Hg.): Das Gundeli. Ein Basler Stadtquartier im Wandel, Basel 2017, S. 214–224.</p>
+<p>Salvisberg, André: Die Basler Strassennamen, Basel 1999.</p>
+<p>Sancar, Annemarie: Integrationsleitbilder und Integrationspolitik. Zur kontroversen Leitbild-Debatte in Zürich, Bern und Basel, in: Widerspruch: Beiträge zu sozialistischer Politik 19 (37), 1999, S. 137–145.</p>
+<p>Sandoz, Yvonne: Kaiseraugst AG, Auf der Wacht, Parzelle 231, Pic, Grabung 1981, unveröff. Lizentiatsarbeit, Universität Basel, Basel 1987.</p>
+<p>Sarasin, Philipp: Stadt der Bürger. Bürgerliche Macht und städtische Gesellschaft. Basel 1846–1914, Göttingen 1997.</p>
+<p>Schaffner, Nicholas: Arbeitswelt Chemie im Werk Klybeck. Eine Ausstellung des Vereins für Industrie- und Migrationsgeschichte der Region Basel, Basel 2022.</p>
+<p>Schär, Bernhard: Tropenliebe. Schweizer Naturforscher und niederländischer Imperialismus in Südostasien um 1900, Frankfurt a. M. 2015.</p>
+<p>Scherz, Bernhard; Wyss, Kurt: Die Basler Picasso-Story, Basel; Boston; Stuttgart 1981.</p>
+<p>Schibli, Sigfried (Hg.): Musikstadt Basel. Das Basler Musikleben im 20. Jahrhundert, Basel 1999.</p>
+<p>Schmutz-Best, Rémy: Der Basler Bürgerspitalskandal der 1960er Jahre, unveröff. Lizentiatsarbeit, Universität Basel, Basel 1995.</p>
+<p>Schneider-Sliwa, Rita; Kampschulte, Andrea; Sandtner, Martin u. a.: Wirtschaftsstruktur und Wirtschaftsdynamik der Nordwestschweiz, Basel 2001.</p>
+<p>Schnyder, Arlette; Meyrat, Sibylle; Koellreuter, Isabel u. a.: Riehen – ein Portrait, Basel 2010.</p>
+<p>Schoch, Lukas: Muslime in der Integrationspolitik der Städte Zürich, Basel und Bern, unveröff. Masterarbeit, Universität Basel, Basel 2011.</p>
+<p>Schubert, Axel: habs. Geschichte, Ereignisse und Neues aus 40 Jahren habs, Basel 2012.</p>
+<p>Schumacher, Beatrice: Coolness (at) home. Der Kühlschrank und die eiskalte Revolution am heimischen Herd, in: Buomberger, Thomas; Pfrunder, Peter (Hg.): Schöner leben, mehr haben. Die 50er Jahre in der Schweiz im Geiste des Konsums, Zürich 2012, S. 69–83.</p>
+<p>Schürch, Franziska; Baumeister, Miriam: Schwimmen im Rhein, Lebendige Traditionen, Juni 2018. Online: https://www.lebendige-traditionen.ch/dam/tradition/de/dokumente/tradition/bs/schwimmen_im_rhein. pdf.download.pdf/schwimmen_im_rhein. pdf, abgerufen am 30.06.2023.</p>
+<p>Schuster, Meinhard: Ausländerinnen und Ausländer in Kleinbasel: türkisch-kurdische Läden, in: Meles; Brigitte; von Wartburg, Beat: Leben in Kleinbasel 1392, 1892, 1992. Das Buch zum Jubiläum ‹600 Joor Glai- und Grossbasel zämme›, Basel 1992, S. 168–179.</p>
+<p>Schütz, Dirk: Herr der UBS. Der unaufhaltsame Aufstieg des Marcel Ospel, Zürich 2008.</p>
+<p>Senn, Tobias: Hochkonjunktur, «Überfremdung» und Föderalismus. Kantonalisierte Schweizer Arbeitsmigrationspolitik am Beispiel Basel-Landschaft 1945–1975, Zürich 2017.</p>
+<p>Skenderovic, Damir; Späti, Christina (Hg.): 1968 - Revolution und Gegenrevolution. Neue Linke und Neue Rechte in Frankreich, der BRD und der Schweiz, Basel 2008.</p>
+<p>Skenderovic, Damir; D’Amato, Gianni: Mit dem Fremden politisieren. Rechtspopulismus und Migrationspolitik in der Schweiz seit den 1960er Jahren, Zürich 2008.</p>
+<p>Speck, Barbara J.; Walt, Erna: Noch immer die Hälfte der Macht. Feministische Politik – wie weiter? Zehn Jahre Frauenliste Basel. Eine Festschrift, Bern 2003.</p>
+<p>Sportmuseum Schweiz; Rohner, Noemi; Mangold, Thilo: Sport- und Freizeitangebote der Basler chemisch-pharmazeutischen Industrie, in: Kreis, Georg; von Wartburg, Beat (Hg.): Chemie und Pharma in Basel, Bd. 2: Kreis, Georg u. a.: Wechselwirkungen einer Beziehung – Aspekte und Materialien, Basel 2016, S. 286–293.</p>
+<p>Stalder, Robert: Gratis ins Theater, in: Pecinska, Ursula (Hg.): Basel: Visionen und verpasste Chancen. Erinnerungen, Stellungnahmen, Polemiken, Basel 2000, S. 59–64.</p>
+<p>Stefanovic, Jelena: Als aus Basel «Tschernobâle» wurde. Die Bevölkerungsproteste in Folge der Chemiekatastrophe von Schweizerhalle am 1. November 1986, unveröff. Lizentiatsarbeit, Universität Basel, Basel 2008.</p>
+<p>Steffenino, Teresa: «Ich gehe ins Florama, weil ich von Natur aus ein Gewinner bin». Die Grün 80 in den Tageszeitungen zwischen Text und Werbung, unveröff. Seminararbeit, Universität Basel, Basel 2020.</p>
+<p>Steinegger, Katharina: Aktuelle Herausforderungen ethnografischer Museen in Europa. (Postkoloniale) Kritik und das ethnografische Museum, Folgen und Herausforderungen am Beispiel der Neuausrichtung des Museums der Kulturen Basel 2011, unveröff. Masterarbeit, Universität Freiburg 2019.</p>
+<p>Stettler, Niklaus; Haenger, Peter; Labhardt, Robert: Baumwolle, Sklaven und Kredite. Die Basler Welthandelsfirma Christoph Burckhardt &amp; Cie. in revolutionärer Zeit (1789–1815), Basel 2004.</p>
+<p>Stirnimann, Charles: Basel im 20. Jahrhundert. Ein Essay zur politischen Sozialgeschichte, in: Stirnimann, Charles; Thalmann, Rolf (Hg.): Weltformat. Basler Zeitgeschichte im Plakat, Basel 2001, S. 8–62.</p>
+<p>Stolz, Philipp: Bewegte Frauen. Weibliche Perspektiven in der schweizerischen Jugendbewegung der frühen 1980er Jahre, unveröff. Seminararbeit, Universität Basel, Basel 2020.</p>
+<p>Straumann, Dominik: Stadt in Bewegung. 80er Jahre Jugendbewegung in Basel, unveröff. Lizentiatsarbeit, Universität Basel, Basel 2000.</p>
+<p>Straumann, Dominik: Jüdische Sportvereine in Basel, unveröff. Seminararbeit, Universität Basel, Basel 1999.</p>
+<p>Straumann, Tobias: Der kleine Gigant. Der Aufstieg Zürichs zu einem internationalen Finanzplatz, Bankhistorisches Archiv, Beiheft 45: Europäische Finanzplätze im Wettbewerb, 2006, S. 139–169.</p>
+<p>Studer, Brigitte; Schaufelbuehl, Janick Marina: Die 68er Bewegung und ihre Auswirkungen in der Schweiz, in: Schaufelbuehl, Janick Marina (Hg.): 1968–1978. Ein bewegtes Jahrzehnt in der Schweiz, Zürich 2009, S. 9–33.</p>
+<p>Studer, Tobias: Wirtschaftliche Rahmenbedingungen als Determinanten des Berufsbildes des Chemikers, in: Busset, Thomas; Rosenbusch, Andrea; Simon, Christian (Hg.): Chemie in der Schweiz. Geschichte der Forschung und der Industrie, Basel 1997, S. 233–252.</p>
+<p>Studer, Tobias: Die branchenmässige Struktur (Zusammenfassung), Basel 1979.</p>
+<p>Stumm, Reinhardt: Komödie Basel. Fünfzig Jahre Ach und Krach, Basel 2001.</p>
+<p>Suhr, Joel: Die Osttangente der N2 in Basel. Die Entstehung einer Opposition gegen die baselstädtische Verkehrsplanung, unveröff. Seminararbeit, Universität Basel, Basel 2018.</p>
+<p>Sulser, Hans-Ulrich: Der Strukturatlas der Regio, Basel 1967.</p>
+<p>Suter, Anja: 1980er-Jahre, in: Schmid, Denise (Hg.): Jeder Frau ihre Stimme. 50 Jahre Schweizer Frauengeschichte 1971–2021, Zürich 2020, S. 81–141.</p>
+<p>Sutter, Gaby: Von der Armenpflege zur Sozialhilfe. Methoden- und Funktionswandel der öffentlichen Fürsorge im 20. Jahrhundert, in: Mooser, Josef; Wenger, Simon (Hg.): Armut und Fürsorge in Basel, Basel 2011, S. 217–238.</p>
+<p>Tanner, Ariane: Spartakus – Hydra – Longo maï: eine transnationale 68er Geschichte, in: Schaufelbuehl, Janick Marina (Hg.): 1968–1978. Ein bewegtes Jahrzehnt in der Schweiz, Zürich 2009, S. 249–258.</p>
+<p>Tanner, Jakob: Geschichte der Schweiz im 20. Jahrhundert, München 2015.</p>
+<p>Thomann, Felix: Grün 80. Das Erinnerungsbuch, Basel 1980.</p>
+<p>Thomi, Matthias: Künstler mit nonkonformistischem Gedankengut provozieren die Schweiz. Zu den Skandalen um Kurt Fahrner und Josef Felix Müller im 20. Jahrhundert, unveröff. Masterarbeit, Universität Freiburg, Freiburg 2011.</p>
+<p>thuba AG: Examples, 90 Jahre thuba, Basel 2022.</p>
+<p>Timmermann, Carsten: Moonshots at Cancer. The Roche Story, Basel 2019.</p>
+<p>Toniolo, Gianni: Central Bank Cooperation at the Bank for International Settlements, 1930–1973, Cambridge 2005.</p>
+<p>Trachsler, Beat; Rhein, Dennis L.; von Rohr, Felix Rudolf: Basler Fasnacht für Basler und Nichtbasler, Basel 1992.</p>
+<p>Tréfás, David: Kleine Basler Pressegeschichte, Basel 2016.</p>
+<p>Tréfás, David: Die Kaserne in Basel. Der Bau und seine Geschichte, Basel 2012.</p>
+<p>Tréfás, David; Manasse, Christoph: Vernetzt, versorgt, verbunden. Die Geschichte der Basler Energie- und Wasserversorgung, Basel 2006.</p>
+<p>Vahrenkamp, Richard: Die logistische Revolution. Der Aufstieg der Logistik in der Massenkonsumgesellschaft, Frankfurt a. M. 2011.</p>
+<p>Villard-Traber, Anneliese: Weit gebracht? Eine Chronik aus Basel über den langen Weg zur Gleichberechtigung, 1916–1991, Basel 1992.</p>
+<p>Vinken, Gerhard: Zone Heimat. Altstadt im modernen Städtebau, Bern 2010.</p>
+<p>Voirol, Jeannette: Lebendige Traditionen im urbanen Raum. Die Basler Fasnacht, in: Bulletin SAGW, Schweizerische Akademie der Geistes- und Sozialwissenschaften 14 (3), 2014, S. 46–47.</p>
+<p>Walser, Rahel: Der edle Tropfen der Oberschicht. Die Basler Nachrichten, in: Rüegg, Walter (Hg.): Herausgefordert. Die Geschichte der Basler Zeitung, Basel 2012, S. 13–33.</p>
+<p>Weber, Christian: Analyse der Wirtschaftsstruktur des Kantons Basel-Stadt (1945–2018), unveröff. Masterarbeit, Universität Basel, Basel 2021.</p>
+<p>Weick, Gabriel: Wohnungsmarkt und Wohnungspolitik im Kanton Basel-Stadt zwischen 1936 bis 1989. Mietpreiskontrolle – Mieterschutz – Staatlichkeit, unveröff. Masterarbeit, Universität Basel, Basel 2018.</p>
+<p>Wenger, Simon: Tradierung als Transfer? Das Konkubinatsverbot in der bürgerlichen Gesellschaft am Beispiel Basel 1837–1919, unveröff. Lizentiatsarbeit, Universität Basel, Basel 2009.</p>
+<p>Wenzel, Angelika: Von der Betreuung zur Integration. Wahrnehmungsmuster und -wandel der Arbeitsmigranten in der Ausländerbetreuung der Basler «Gesellschaft für das Gute und Gemeinnützige» (GGG) in den 1960er Jahren, in: Basler Zeitschrift für Geschichte und Altertumskunde (106), Basel 2006, S. 79–111.</p>
+<p>Wichmann, Nicole; D’Amato, Gianni: Migration und Integration in Basel-Stadt. Ein «Pionierkanton» unter der Lupe, Neuchâtel 2010.</p>
+<p>Wiener, Daniel: Urbane Visionen, in: Ders. (Hg.): Wir sind die Stadt. Das Beispiel Werkstadt Basel, Basel 2001, S. 10–19.</p>
+<p>Wild, Roman: «Frau Mode ist launenhaft». Überlegungen zum Niedergang der Basler Seidenbandindustrie in den 1920er Jahren, in: Köhler, Ingo; Rossfeld, Roman (Hg.): Pleitiers und Bankrotteure. Geschichte des ökonomischen Scheiterns vom 18. bis 20. Jahrhundert, Frankfurt a. M. 2012, S. 287–316.</p>
+<p>Willy A. und Hedwig Bachofen-Henn-Stiftung (Hg.): Wilhelm Arnold Bachofen (1912–2000). Leben und Werk des Gründers der Basler Maschinenfabrik Willi A. Bachofen AG, Basel 2008.</p>
+<p>Wilpert, Clara B.: Paradigmenwechsel unter dem Museumsdach. Vom ehrwürdigen Museum für Völkerkunde und Schweizerischen Museum für Völkerkunde zum publikumsnahen Museum der Kulturen Basel, in: Baessler-Archiv: Beiträge zur Völkerkunde 49, 2001, S. 35–40.</p>
+<p>Wunderlin, Dominik: Menschen zwischen Tag und Traum. Für Auswärtige und Nichtfasnächtler: um was es bei der Basler Fasnacht geht, in: Basler Magazin (6), 1999, S. 1–3.</p>
+<p>Wyss, Benedikt: Fasnacht 1974: «Dr gross Bums», in: Verein Basler Geschichte (Hg.): Im Kleinen das Grosse entdecken. Kurzgeschichten aus der Basler Stadtgeschichte, Basel 2022, S. 82–85</p>
+<p>Wyss, Oliver: Sozialismus ohne Wachstum und Technologie? Die Linke in der Schweiz und die Umweltfrage 1968–1990, unveröff. Dissertation, Universität Bern, Bern 2014.</p>
+<p>Zahn, Anina: Wider die Verunsicherung. Arbeitslosenkomitees in der Schweiz, 1975–2002, Zürich 2021.</p>
+<p>Zangger, Andreas: Koloniale Schweiz. Ein Stück Globalgeschichte zwischen Europa und Südostasien (1860–1930), Bielefeld 2011.</p>
+<p>Zeller, Christian: Globalisierungsstrategien. Der Weg von Novartis, Berlin 2001.</p>
+<p>Zindel, Josef: FC Basel 1893. Die ersten 125 Jahre, Basel 2018.</p>
+<p>Zimmer, Nina: «All you need is Pablo». Das «Picasso-Jahr» 1967, in: Menges Bürgi, Bernhard; Zimmer, Nina (Hg.): Kunstmuseum Basel. Gegenwart, Moderne, Alte Meister. Ein Museumsführer mit ausgewählten Werken, Basel 2016, S. 80–83.</p>
+<p>Zürcher, Daniel: Die Haltung der Basler Gewerkschaften zur Arbeitsimmigration. Gewerkschaftskartell, SMUV und GTCP (1960–1981), in: Basler Zeitschrift für Geschichte und Altertumskunde 115, 2015, S. 207–234.</p>
+<p>Zürcher, Johannes Max: Umweltschutz als Politikum, unveröff. Dissertation, Universität Bern, Langenthal 1978.</p>
+<h2>Bildnachweis</h2>
+<h3>Umschlagabbildung:</h3>
+<p>Fassadendetails der Roche-Türme, Foto: icona</p>
+<p>basel, Christoph Gysin</p>
+<h3>Zeitstrahl S. 18:</h3>
+<p>Oben links: Plakatsammlung der SfG Basel, CH-000957-X:9639, Celestino Piatti</p>
+<p>Oben rechts: 1335022/Keystone, Foto Silvio Mettler</p>
+<p>Unten links: Alamy Stock Foto, 2GMDCE0</p>
+<h3>Zeitstrahl S. 19:</h3>
+<p>Oben links: 44242990/Keystone, Foto Michael Kupferschmidt</p>
+<p>Oben rechts: Roche Ltd, Foto Beat Ernst</p>
+<p>Unten links: Schweizerisches Sozialarchiv, F Pd-0841, Foto Claude Giger 1 Privatarchiv Kurt Wyss 2 Quelle: https://statistik.bs.ch/apps/jahrbuch; https://statistik.bs.ch/files/webtabellen/t11-1-01.xlsx. Bearbeitung: Nico Görlich / Moritz Twente 3 Aus: BIA, BSA, FSAI 1963, S. 254–255, Tafel 23</p>
+<p>4 Privatsammlung, courtesy Galerie Mueller, Basel 5 StABS, BSL 1022 KA 6143 57, Foto Peter Moeschlin 6 StABS, BSL 1013 1-5540-1, Foto Hans Bertolf 7 StABS, BSL 1045h 2-3-13, Foto Hoffmann 8 Quelle: https://statistik.bs.ch/apps/jahrbuch; Moll; Sandtner; Saner 2002, Anhang 2.1; https://www.statistik.bl.ch/web_portal/1_9; https://www.statistik.bl.ch/web_ portal/1_1_3?sheet=6&amp;Jahr=34. Bearbeitung: Nico Görlich / Moritz Twente 9 StABS, BSL 1013 1-1558 3, Foto Hans Bertolf</p>
+<p>10 Links: StABS, NEG 1472, Foto Wolf; Mitte: StABS, NEG 2100, Foto Wolf; rechts: Foto Hans Lobsiger</p>
+<p>11 119619131/Keystone</p>
+<p>12 ETH Zürich, Bildarchiv, Com_FC04-4000-007, Foto Jules Vogt</p>
+<p>13 StABS, ABL. 2011/10, Foto Peter Armbruster</p>
+<p>14 Chemiemuseum Basel, Foto icona basel, Christoph Gysin</p>
+<p>15 Privatbesitz Silas Gusset</p>
+<p>16 StABS, PA 1306d B 1-4 (1) 3, Foto Harald Strub</p>
+<p>17 33174950/Keystone, Foto Michael Kupferschmidt</p>
+<p>18 624916135/Keystone, Foto Rolf Haid</p>
+<p>19 HMB, Inv. 2007.371., Foto Natascha Jansen; Santiago Calatrava, 1988 / 2024, ProLitteris, Zürich</p>
+<p>20 477_Dreispitz Nord, Herzog &amp; de Meuron</p>
+<p>21 Quelle: Geodaten Kanton Basel-Stadt; Hochparterre 2019, S. 4–5. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>22 Privatbesitz Dominik Plüss</p>
+<p>23 178337764/Keystone, Foto Georgios Kefalas</p>
+<p>24 Foto Michael Fritschi</p>
+<p>25 Privatarchiv Kurt Wyss</p>
+<p>26 338974413/Keystone, Foto Josef Zimmermann</p>
+<p>27 Plakatsammlung der SfG Basel, CH-000 957-X:6450, Foto Ludwig Bernauer</p>
+<p>28 Quelle: https://www.bs.ch/regierungsrat/ alt-regierungsraete. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>29 Quelle: Statistisches Amt Basel-Stadt, https://statistik.bs.ch/files/webtabellen/ t17-3-06.xlsx; https://statistik.bs.ch/files/ webtabellen/t17-1-01.xlsx; Bundesamt für Statistik, https://www.bfs.admin.ch/asset/ de/14836245. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>30 Quelle: Bundesamt für Statistik, https:// www.bfs.admin.ch/asset/de/je-d-17.02. 01_12BS. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>31 Quelle: Bundesamt für Statistik, https:// www.bfs.admin.ch/asset/de/je-d-17.02. 01_12BS. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>32 101251014/Keystone, Foto Kurt Baumli</p>
+<p>33 Quelle: WEMF-Archiv: Auflagebulletins. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>34 StABS, BSL 1013 1-3026 4, Foto Hans Bertolf</p>
+<p>35 Privatarchiv Claude Giger</p>
+<p>36 Schweizerisches Sozialarchiv, F 5107-Na-22-072-002, Foto Gertrud Vogler</p>
+<p>37 Schweizerisches Sozialarchiv, F Ka-0001-769</p>
+<p>38 HMB, Inv. 2019-378., Foto Philipp Emmel</p>
+<p>39 UB Basel, UBH Ztg 10:1992, S. 32</p>
+<p>40 Privatbesitz</p>
+<p>41 StABS, BSL 1013 1-3549 2, Foto Hans Bertolf</p>
+<p>42 Quelle: https://statistik.bs.ch/apps/jahrbuch. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>43 Privatarchiv Dominik Labhardt</p>
+<p>44 HMB, Inv. 2019.337., Foto Andreas Niemz</p>
+<p>45 Foto Roland Schmid</p>
+<p>46 Privatbesitz Semseddin Yilmaz</p>
+<p>47 Quelle: https://statistik.bs.ch/apps/jahrbuch. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>48 HMB, Inv. 2011-333., Foto Peter Portner</p>
+<p>49 225952344/Keystone, Foto Georgios Kefalas</p>
+<p>50 Foto Roland Schmid</p>
+<p>51 Plakatsammlung der SfG Basel, CH-000 957-X:9747, Edi Hauri</p>
+<p>52 Quelle: https://www.bfs.admin.ch/asset/ de/30245369. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>53 StABS, BSL 1022 KT 983, Foto Peter Moeschlin</p>
+<p>54 Surprise Strassenmagazin, Foto Ruben Hollinger</p>
+<p>55 Aus: ETH-Studio Basel (Hg.): MetroBasel. Ein Modell einer europäischen Metropolitan-Region, Basel 2009, S. 86–87</p>
+<p>56 Firmenarchiv Novartis, N Publ MI 000.334 #198</p>
+<p>57 Foto Peter Heman</p>
+<p>58 Foto Kathrin Schulthess</p>
+<p>59 Foto Hans-Joerg Walter</p>
+<p>60–74 Novartis Archiv, CG_059-D3_1-3</p>
+<p>75 Quelle: Interpharma Verband der forschenden pharmazeutischen Firmen der Schweiz, https://www.interpharma.ch/wp-content/ uploads/2022/05/Booklet_BSL_DE.pdf, S. 14–15. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>76 Privatarchiv Kurt Wyss</p>
+<p>77 Privatarchiv Kurt Wyss</p>
+<p>78 Plakatsammlung, ZHdK, Foto Richard Avedon</p>
+<p>79 ETH-Bibliothek Zürich, Bildarchiv, Com_ LC0623-000-007, Foto Comet Photo AG</p>
+<p>80 Foto Christian Flierl</p>
+<p>81 Schweizerisches Sozialarchiv, F 5107-Na-01-057-019, Foto Gertrud Vogler</p>
+<p>82 Foto Daniel Häni</p>
+<p>83 Privatarchiv Kurt Wyss</p>
+<p>84 Schweizerisches Sozialarchiv, F Pb-0005-325</p>
+<p>85 Schweizerisches Sozialarchiv, F Pb-0006-066; https://www.anyway-basel.ch/</p>
+<p>86 Schweizerische Nationalbibliothek, Rf 3627/ 1929–1972 (Wochenzeitschrift ‹Sie+Er›, Nr. 34/1971)</p>
+<p>87 Quelle: https://statistik.bs.ch/apps/jahrbuch. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>88 HAR, PH.100 501652</p>
+<p>89 Privatarchiv Dominik Labhardt</p>
+<p>90 Schweizerisches Sozialarchiv, F 5133-Ob-013, Foto Hans Kämpf</p>
+<p>91 Fotostiftung Schweiz, 2007.79.098, Foto Barnabás Bosshart</p>
+<p>92 StABS, BSL 1013 1-7091 1, Foto Hans Bertolf</p>
+<p>93 Quelle: https://statistik.bs.ch/apps/jahrbuch. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>94 StABS, BSL 1013 1-6051 1, Foto Hans Bertolf</p>
+<p>95 StABS, PD-REG 5b 2-5</p>
+<p>96 Tages-Anzeiger, 24.07.2017, Karikatur Felix Schaad</p>
+<p>97 StABS, ABL. 2021/103 (Dieter Ehrlich), Foto icona basel, Christoph Gysin</p>
+<p>98 Foto Kathrin Schulthess</p>
+<p>99 Foto Roland Schmid</p>
+<p>100 Quelle: https://statistik.bs.ch/apps/jahrbuch. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>101 StABS, ABL. 2011/10, Foto Peter Armbruster</p>
+<p>102 Emanuel Hoffmann-Stiftung, Depositum in der Öffentlichen Kunstsammlung Basel, Foto Kunstmuseum Basel, Martin P. Bühler; The Andy Warhol Foundation for the Visual Arts, Inc. / 2024, ProLitteris, Zürich</p>
+<p>103 Aus: Sonderbeilage der Basler Nachrichten vom 18.10.1961, Foto Paul Merkle</p>
+<p>104 StABS, BSL 1022 KT 2863, Foto Peter Moeschlin</p>
+<p>105 Bank for International Settlements, Basel, Archive, Historical.photos.025, 1972</p>
+<p>106 Architekturzentrum Wien, Foto Margherita Spiluttini</p>
+<p>107 Diener &amp; Diener Architekten</p>
+<p>108 Foto Margherita Spiluttini</p>
+<p>109 Vittorio Magnago Lampugnani, Studio di Architettura</p>
+<p>110 Foto Walter Mair</p>
+<p>111 paolacorsini_WLG_27, Foto Paola Corsini</p>
+<p>112 Foto Christian Flierl</p>
+<p>113 Aus: Rhein 1988, S. 159–160</p>
+<p>114 Privatarchiv Kurt Wyss</p>
+<p>115 StABS, BSL 1013 1-7131 1, Foto Hans Bertolf</p>
+<p>116 Hip Hop Museum Schweiz</p>
+<p>117 Sammlung Clubkultur in der Schweiz, CCCH_APL_043, Foto Andy Pal</p>
+<p>118 https://www.festzeit.ch/</p>
+<p>119 338974494, Keystone, Foto Jaques Gardin</p>
+<p>120 Quelle: Kanton Basel-Stadt: Jahresbericht Abteilung Kultur 2014; Bundesamt für Statistik: https://www.bfs.admin.ch/asset/ de/30145093. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>121 Foto Peter Armbruster, aus: Genossenschaft Stadion St. Jakob-Park (Hg.): Kraft der Visionen. Die Genossenschaft Stadion St. Jakob-Park Basel, 1953–2003, Basel 2004, S. 79</p>
+<p>122 Quelle: https://www.fcb-archiv.ch/auswertungen/zuschauerschnitt; Genossenschaft Stadion St. Jakob-Park, Basel 2004, S. 275. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>123 LkL/joggeli.ch</p>
+<p>124 Museum FC Basel</p>
+<p>125 Quelle: https://statistik.bs.ch/apps/jahrbuch; StABS ED-REG 37a 7-1 (2), Besucherstatistik nach Jahren. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>126 Privatarchiv Claude Giger</p>
+<p>127 Privatarchiv Roland Schmid</p>
+<p>128 StABS, BSL 1060c 3/12/492A, Foto Jeck, Rolf Walter</p>
+<p>129 StABS, BSL 1013 1-1293 1, Foto Hans Bertolf</p>
+<p>130 Museum der Kulturen Basel, Foto Omar Lenke</p>
+<p>131 235987186/Keystone, Foto Georgios Kefalas</p>
+<h2>Personenregister</h2>
+<h3>A</h3>
+<p>Arber, Werner (geb. 1929) 151</p>
+<p>Arslan, Sibel (geb. 1980) 116</p>
+<p>Atici, Mustafa (geb. 1969) 116</p>
+<p>Avedon, Richard (1923–2004) 170</p>
+<h3>B</h3>
+<p>Bachmann, Guido (1940–2003) 50</p>
+<p>Ballmer, Theo (1902–1965) 258</p>
+<p>Baur, Hermann (1894–1980) 249</p>
+<p>Benthaus, Helmut (geb. 1935) 280</p>
+<p>Beuys, Joseph (1921–1986) 287</p>
+<p>Beyeler, Ernst (1921–2010) 247, 258</p>
+<p>Beyeler, Hilda (genannt Hildy) (1922–2008) 247</p>
+<p>Black Tiger (eigentlich Urs Bauer) (geb. 1972) 268</p>
+<p>Blank, Eduard (1924–1997) 105</p>
+<p>Blocher, Christoph (geb. 1940) 89</p>
+<p>Borner, Silvio (1941–2020) 136</p>
+<p>Brunetti, Aymo (geb. 1963) 136</p>
+<p>Bühler, Alfred (1900–1981) 292</p>
+<p>Burckhardt, Lucius (1925–2003) 37</p>
+<p>Bruckner, Trudl (1916–2018) 258</p>
+<h3>C</h3>
+<p>Calatrava, Santiago (geb. 1951) 54–55</p>
+<p>Carson, Rachel (1907–1964) 40–41</p>
+<h3>D</h3>
+<p>Davis, Miles (1926–1991) 284</p>
+<p>de Meuron, Pierre (geb. 1950) 248</p>
+<p>Diener, Roger (geb. 1950) 248</p>
+<p>Dietschi, Eugen (1896–1986) 85</p>
+<p>Düggelin, Werner (1929–2020) 264</p>
+<p>Dylan, Bob (geb. 1941) 277</p>
+<h3>E</h3>
+<p>Ehrlich, Dieter (geb. 1940) 224</p>
+<p>Elfassi-Weijl, Tally (geb. 1960) 176</p>
+<p>Elizabeth II. (1926–2022) 46</p>
+<p>Erbacher, Felix (geb. 1947) 36</p>
+<p>Eymann, Christoph (geb. 1951) 81</p>
+<h3>F</h3>
+<p>Facklam, Peter (1930–2023) 212, 272, 274</p>
+<p>Fahrner, Kurt (1932–1977) 267</p>
+<p>Federer, Roger (geb. 1981) 279</p>
+<p>Feldges, Mathias (1937–2022) 79, 109</p>
+<p>Felix, Hansruedi (geb. 1957) 234</p>
+<p>Fetz, Anita (geb. 1957) 85, 92, 94</p>
+<p>Forter, Martin (geb. 1963) 185</p>
+<p>Frey, René L. (geb. 1939) 56–57</p>
+<p>Frisch, Max (1911–1991) 244</p>
+<h3>G</h3>
+<p>Gasser, Adolf (1903–1985) 40</p>
+<p>Gehry, Frank (geb. 1929) 149</p>
+<p>Gerster, Trudi (1919–2013) 80</p>
+<p>Gerstner, Karl (1930–2017) 258</p>
+<p>Glaser, Curt (1879–1943) 290, 296</p>
+<p>Grass, Günter (1927–2015) 262</p>
+<p>Grossert, Michael (1927–2014) 266–267</p>
+<p>Gwen, Anouchka (geb. 1997) 297</p>
+<p>Gysin, Remo (geb. 1945) 79</p>
+<h3>H</h3>
+<p>Hadid, Zaha (1950–2016) 55</p>
+<p>Hammel, Hans-Peter (alias -minu) (geb. 1947) 228</p>
+<p>Hauri, Edi (1911–1988) 130</p>
+<p>Heeb, Christian (geb. 1953) 87</p>
+<p>Herrmann, Walter (geb. 1943) 50, 53</p>
+<p>Herzog, Eva (geb. 1961) 85, 120</p>
+<p>Herzog, Jacques (geb. 1950) 248</p>
+<p>Hill, Lauryn (geb. 1975) 284</p>
+<p>Hilt, Balz (1921–1997) 258</p>
+<p>Hofmann, Armin (1920–2020) 258</p>
+<p>Hoffmann, Emanuel (1896–1932) 245</p>
+<p>Hoffmann, Maja (geb. 1956) 245</p>
+<p>Huber, Dorothee (geb. 1952) 248</p>
+<h3>J</h3>
+<p>Jackson, Michael (1958–2009) 277</p>
+<p>Jans, Beat (geb. 1964) 120</p>
+<p>Jerne, Niels (1911–1994) 151</p>
+<h3>K</h3>
+<p>Kappeler, Beat (geb. 1946) 175</p>
+<p>Keller, Esther (geb. 1984) 86</p>
+<p>Keller, Sam (geb. 1966) 260</p>
+<p>Kessler, Thomas (geb. 1959) 212</p>
+<p>Köhler, Georges (1946–1995) 151</p>
+<p>Kunz, Alfred (1922–2012) 201</p>
+<h3>L</h3>
+<p>Lampugnani, Vittorio Magnago (geb. 1951) 254</p>
+<p>Lanz, Anni (geb. 1945) 109</p>
+<p>Leibbrand, Kurt (1914–1985) 25–27, 29</p>
+<p>Lewin, Ralph (geb. 1953) 56</p>
+<p>Luana (eigentlich Stephanie Cea) (1968) 269</p>
+<h3>M</h3>
+<p>Maeglin, Rudolf (1892–1971) 28</p>
+<p>Mäder, Ueli (geb. 1951) 140</p>
+<p>Maissen, Toya (1939–1991) 143</p>
+<p>Marden, Brice (1938–2023) 55</p>
+<p>Mascarin, Ruth (geb. 1945) 78</p>
+<p>Miville, Carl (1921–2021) 85</p>
+<p>Moret, Marc (1923–2006) 51</p>
+<p>Morin, Guy (geb. 1956) 83</p>
+<p>Müller, Paul (1899–1965) 40</p>
+<p>Munck, Eckehard (1934–2016) 152</p>
+<h3>O</h3>
+<p>Oeri, Gisela (genannt Gigi) (geb. 1955) 280</p>
+<p>Oeri, Maja (geb. 1955) 245–246</p>
+<p>Oppenheim, Meret (1913–1985) 296</p>
+<p>Ospel, Marcel (1950–2020) 165–167</p>
+<h3>P</h3>
+<p>Paravicini, Mary (1912–2002) 40</p>
+<p>Piano, Renzo (geb. 1937) 247</p>
+<p>Picasso, Pablo (1881–1973) 242–244, 296</p>
+<p>Plattner, Gian-Reto (1939–2009) 85</p>
+<p>Pletscher, Alfred (1917–2006) 151</p>
+<p>Portmann, Adolf (1897–1982) 40–41</p>
+<h3>R</h3>
+<p>Rasser, Alfred (1907–1977) 80, 128</p>
+<p>Ratti, André (1935–1986) 208</p>
+<p>Rechsteiner, Rudolf (geb. 1958) 67</p>
+<p>Renz, Irène (geb. 1961) 99</p>
+<p>Ruder, Emil (1914–1970) 258</p>
+<p>Rudin, Nelly (1928–2013) 258</p>
+<h3>S</h3>
+<p>Sacher, Paul (1906–1999) 245</p>
+<p>Sacher-Hoffmann (-Stehlin), Maja (1896–1989) 245–246</p>
+<p>Sarasin, Alfred E. (1922–2005) 162, 165, 167</p>
+<p>Schaller, Veronica (geb. 1955) 92, 97</p>
+<p>Schild, Jörg (geb. 1946) 212</p>
+<p>Schneider, Barbara (geb. 1953) 60</p>
+<p>Schnyder, Karl (1931–2016) 80</p>
+<p>Schmid, Anna (geb. 1960) 292–294</p>
+<p>Schwarzenbach, James (1911–1994) 105</p>
+<p>Serra, Richard (1938–2024) 267</p>
+<p>Spiess, Gertrud (1914–1995) 91</p>
+<p>Spillmann, Andreas (geb. 1959) 247</p>
+<p>Staechelin, Peter G. (1922–1977) 242–243</p>
+<p>Steffen, Thomas (geb. 1961) 64</p>
+<p>Straubhaar, Thomas (geb. 1957) 136</p>
+<p>Strawinsky, Igor (1882–1971) 245</p>
+<p>Striebel, Hans-Rudolf (geb. 1930) 50</p>
+<p>Sulzer, Alain Claude (geb. 1953) 295</p>
+<h3>T</h3>
+<p>Tinguely, Jean (1925–1991) 245, 287</p>
+<p>Tonegawa, Susumu (geb. 1939) 151</p>
+<p>Tschudi, Hans-Peter (1913–2002) 28, 120, 192–193</p>
+<p>Tschudi-Steiner, Irma (1912–2003) 192–193</p>
+<p>Turner, Tina (1939–2023) 277</p>
+<h3>V</h3>
+<p>Vischer, Ueli (geb. 1951) 54</p>
+<p>Vogel, Christina (1959–2013) 204–205, 207, 213</p>
+<h3>W</h3>
+<p>Wanner, Aeneas (geb. 1979) 64</p>
+<p>Warhol, Andy (1928–1987) 246</p>
+<p>Weder, Hansjürg (1928–2018) 48, 80</p>
+<p>Weingart, Wolfgang (1941–2021) 258</p>
+<p>Wenk, Willi (1914–1994) 85</p>
+<p>Wiener, Daniel (geb. 1953) 58</p>
+<p>Wilpert, Clara (geb. 1941) 291–292</p>
+<p>Wullschleger, Max (1910–2004) 44, 116–117</p>
+<p>Wyss, Edmund (1916–2002) 280</p>
+<h3>Y</h3>
+<p>Yilmaz, Semseddin (geb. 1966) 112</p>
+<h3>Z</h3>
+<p>Zumthor, Peter (geb. 1943) 247</p>
+<h2>Sach- und Ortsregister</h2>
+<h3>A</h3>
+<p>Abfall 12, 32, 42–44, 46, 66</p>
+<p>Abtreibung 198</p>
+<p>Abwasser 32, 42</p>
+<p>Actelion 158</p>
+<p>Agglomeration 31, 34–35, 103–104, 119, 135, 141, 223</p>
+<p>Aids 204, 207–213, 312</p>
+<p>Aids-Hilfe beider Basel 204, 208, 210</p>
+<p>Aktivismus 40–41, 45, 49–50, 75, 78, 92, 97, 208</p>
+<p>Altersheim 34, 222–223</p>
+<p>Alte Stadtgärtnerei (ASG) 49, 273–274</p>
+<p>Arbeiterschaft 13, 33–34, 43, 79, 99, 102–106, 114, 127, 138, 139, 145–147, 174, 234, 264, 269</p>
+<p>Arbeitslosigkeit 104, 132–134, 138–139</p>
+<p>Architektur 26, 54, 132, 142, 149, 168, 214, 219, 247–257</p>
+<p>Armut 33, 56–57, 138–140</p>
+<p>Art Basel 169, 171, 258–261</p>
+<p>A-Stadt 57</p>
+<p>Asyl 102, 106–111</p>
+<p>Atomkraftwerke (AKW) 12, 47–49, 150</p>
+<p>Aufwertung 36, 59, 169, 228</p>
+<p>Ausländerpolitik, siehe Migrationspolitik</p>
+<p>Ausländerstimmrecht 58, 116</p>
+<p>Ausschaffung 106, 110–111</p>
+<p>Autobahn 26–29, 36, 44, 49, 60</p>
+<p>Autonomes Jugendzentrum (AJZ) 18, 79–80, 207 – Autonomes Jugendzentrum Claragraben 79, 205 – Autonomes Jugendzentrum Hochstrasse 79, 205</p>
+<h3>B</h3>
+<p>Balkan 109</p>
+<p>Bank für Internationalen Zahlungsausgleich (BIZ) 164–165, 251</p>
+<p>Bar 224, 227</p>
+<p>Bärentag 289</p>
+<p>Basel-Landschaft 34–35, 52, 96, 102, 116–119, 137, 142, 169, 170, 212, 265</p>
+<p>Basels starke Alternative (BastA!) 83, 85</p>
+<p>Basel Tattoo 283–286</p>
+<p>Basler Arbeitsgemeinschaft zum Schutz von Natur und Umwelt (BASNU) 42</p>
+<p>Basler Börse 162–164</p>
+<p>Basler Handelsgesellschaft / Union Trading Company (UTC) 175–177</p>
+<p>Basler Kantonalbank (BKB) 167</p>
+<p>Basler Mission 175, 291</p>
+<p>Basler Nachrichten (BN) 87, 89</p>
+<p>Basler Verkehrs-Betriebe (BVB) 56, 119, 283</p>
+<p>Basler Versicherung 168</p>
+<p>Basler Zeitung (BaZ) 54, 87–89, 101, 131, 175</p>
+<p>Behinderungen 14, 86, 296</p>
+<p>Bell 29, 62, 181, 274</p>
+<p>Beratungsstelle 93, 106, 111, 209</p>
+<p>Besetzung 41, 45, 49, 75, 79, 92, 106–107, 205, 219–220, 272–274</p>
+<p>Bettingen 33, 83, 88, 117</p>
+<p>Bildung 31, 99–102, 201</p>
+<p>Biotechnologie 119, 149, 157</p>
+<p>Biozentrum 31, 150–151</p>
+<p>Bischoff + Rüegg 54</p>
+<p>Brauerei 134, 274</p>
+<p>Breite 28, 29, 34, 114</p>
+<p>Brücke 31, 54–55, 58, 209, 226, 229</p>
+<p>Bruderholz 33, 87, 114, 201, 264</p>
+<p>Bruttoinlandprodukt (BIP) 129, 159, 183</p>
+<p>Burckhardt + Partner 251</p>
+<p>Bürgergemeinde 65, 115, 139</p>
+<p>Büro 9, 109, 144, 149, 161, 166, 170, 179, 181, 183, 215, 221, 248</p>
+<h3>C</h3>
+<p>Cannabis 213</p>
+<p>Chemisch-pharmazeutische Industrie 14–15, 43, 53, 131, 144–146, 158, 185, 244</p>
+<p>Christ &amp; Gantenbein 256</p>
+<p>Christlichdemokratische Volkspartei (CVP, ab 2021 Die Mitte) 13, 43, 74, 79, 84–87, 91</p>
+<p>Christoph Merian Stiftung (CMS) 63, 115, 244, 246</p>
+<p>Ciba 131, 144–145, 148, 152</p>
+<p>Ciba-Geigy (bis 1970 Ciba und Geigy) 18, 40, 45, 53, 131, 144–145, 147–148, 152, 154, 258</p>
+<p>Cityring 26, 36, 39–41, 45</p>
+<p>Club of Rome 41</p>
+<p>Cluster 142–143, 152, 158, 177</p>
+<p>Computer 175, 180–183</p>
+<p>Container 174, 177–178</p>
+<p>Coop 29, 162, 180–181</p>
+<p>Covid-19, Corona 120–121, 171, 183, 275, 279</p>
+<h3>D</h3>
+<p><em>Daig</em> (Bezeichnung für Patriziat) 14, 160, 166, 246</p>
+<p>Danzas 131, 174–175, 179</p>
+<p>Deindustrialisierung 127–128, 134, 138, 146, 148</p>
+<p>Dekolonialisierung 175–176, 292</p>
+<p>Demokratisch-Soziale Partei Basel-Stadt (DSP) 13, 79–80, 84</p>
+<p>Demonstration 41, 48, 51, 64, 75–77, 79, 95, 107, 138, 197, 274, 294–295</p>
+<p>Denkmalschutz 38–39</p>
+<p>Detailhandel 30, 181</p>
+<p>Diener &amp; Diener Architekten 149, 219, 248, 253</p>
+<p>Dienstleistungssektor 136, 138, 161</p>
+<p>Digitalisierung 89, 126–128, 138, 175, 180–183, 185</p>
+<p>Disco 205, 227, 272, 274</p>
+<p>Diversität 14, 290, 295, 297</p>
+<p>DNA 152–153</p>
+<p>Dreispitz 61–62, 179, 285</p>
+<p>Drogenpolitik 205, 207, 210–212</p>
+<p>Drogensucht 204, 207, 211</p>
+<h3>E</h3>
+<p>Ehe 197, 199–201</p>
+<p>Einbürgerung 115</p>
+<p>Einwohnerzahl 12</p>
+<p>Elsass 32–33, 48, 119, 145</p>
+<p>Energiepolitik 67</p>
+<p>Energieverbrauch 46, 65</p>
+<p>Erlenmattquartier 63–64, 180</p>
+<p>Esch Sintzel Architekten 256</p>
+<p>Europa / EU 16, 25, 38, 88, 109, 136–137, 141, 167, 172, 174, 176, 201, 212, 262, 264, 268, 278, 280</p>
+<p>Expats 16, 113–114, 141</p>
+<p>Exportwirtschaft 15, 158, 176–178</p>
+<h3>F</h3>
+<p>Fabrik 43, 104, 128, 132, 135, 137, 144, 179</p>
+<p>Familie 46, 94, 104, 109, 162, 172, 192–193, 201, 204, 214, 245, 284</p>
+<p>Fasnacht 15, 19, 165, 260, 262, 287–289, 294–295</p>
+<p>FC Basel (FCB) 245, 264, 277–282</p>
+<p>Fernsehen 88, 208, 214, 281, 284</p>
+<p>Festival 15, 241, 283–286, 296–297</p>
+<p>Fichenaffäre 75</p>
+<p>Finanzplatz 167, 241</p>
+<p>Fixerstübli, siehe Gassenzimmer</p>
+<p>Flughafen 120, 130–131, 176, 258</p>
+<p>Fondation Beyeler 19, 247, 260</p>
+<p>Forschung 150–156, 162, 185</p>
+<p>Frauenanteil 13, 19, 74, 91, 96, 99</p>
+<p>Frauenbewegung 91–93, 95, 97–99, 198</p>
+<p>Frauenhaus 93</p>
+<p>Frauenliste Basel 97–99</p>
+<p>Frauenrechte, siehe Gleichstellung</p>
+<p>Frauenstimmrecht 76, 90–91, 202</p>
+<p>Frauenstreik 96, 98–99</p>
+<p>Frauenzentrale 91, 93, 97–98</p>
+<p>Frauenzimmer 92, 197</p>
+<p>Freiraum 80, 272, 274</p>
+<p>Freisinnig-Demokratische Partei (FDP) 13–14, 74, 77, 79, 81–82, 84–87, 111, 211</p>
+<p>Fremdenfeindlichkeit 82, 105–106, 109</p>
+<p>Fremdenpolizei 104–105, 109</p>
+<p>Fremdplatzierung 192–194</p>
+<p>Fusion – Fusion, Kanton 116–119 – Fusion, Unternehmen 18, 87–88, 119, 141, 145, 148–149, 165–166 – Fusion, Parteien 81</p>
+<p>Fussball 230, 265, 279–280, 282</p>
+<h3>G</h3>
+<p>Gassenzimmer 210–212</p>
+<p>Gastronomie 95, 134, 226–227</p>
+<p>Gefängnis 110–111</p>
+<p>Geigy 40, 131, 145, 258</p>
+<p>Genossenschaft 114, 217, 221–222, 277</p>
+<p>Gentechnologie 15, 150</p>
+<p>Gesamtverkehrsplan 25–26</p>
+<p>Gesellschaft für das Gute und Gemeinnützige (GGG) 106</p>
+<p>Gesundheitswesen 32, 56, 119, 158</p>
+<p>Gewalt 93, 95, 193–194, 205, 209, 281</p>
+<p>Gewerbe 134, 136–138</p>
+<p>Gewerbeverband 138</p>
+<p>Gewerkschaften 105–106, 138–139</p>
+<p>Gleichstellung 73, 80, 83, 90–99, 139, 198</p>
+<p>Gleichstellungsbüro 96–97</p>
+<p>Graffiti 15, 267–269</p>
+<p>Grafik 27, 130, 258</p>
+<p>Grenzgängerinnen, Grenzgänger 13, 26, 33, 118, 139, 141</p>
+<p>Grossbasel 289</p>
+<p>Grosser Rat 13, 29, 49, 60, 64, 73–74, 80, 82, 84, 86, 91, 94, 97, 100, 102, 112, 116, 168, 203, 213, 242, 275</p>
+<p>Grün 80 18, 46–47, 119</p>
+<p>Grüne Partei (GP) 83</p>
+<p>Grünliberale Partei (GLP) 14, 84, 86</p>
+<p>Guggenmusik 295</p>
+<p>Gundeldingen 114, 134</p>
+<h3>H</h3>
+<p>Hafen 16, 42, 62, 64–65, 172–174, 177</p>
+<p>Handelskammer 88, 129, 137–138, 141</p>
+<p>Hanfläden 213</p>
+<p>Haus der Elektronischen Künste 276, 286</p>
+<p>Hauseigentümerverband 221</p>
+<p>Haushalt 32, 97, 191, 193, 204, 214, 221, 228</p>
+<p>Heimatschutz 38, 54, 80</p>
+<p>Heimwesen, siehe Fremdplatzierung</p>
+<p>Heizung 32, 65</p>
+<p>Helvetia 90, 161, 166, 168</p>
+<p>Heroin 212</p>
+<p>Herzog &amp; de Meuron 61, 149, 248, 253</p>
+<p>Heterosexualität 198, 201</p>
+<p>Hip-Hop 241, 268–269</p>
+<p>HIV, siehe Aids</p>
+<p>Hochhaus 59, 149, 152, 154, 160–161, 169, 177, 181</p>
+<p>Hochkonjunktur 34, 36, 38, 104, 128, 133, 146, 161, 215–216, 223</p>
+<p>Homosexuelle Arbeitsgruppen Basel (habs) 195–196</p>
+<p>Hooligans 281</p>
+<p>Hydra 78</p>
+<h3>I</h3>
+<p>Industrie 14–15, 42–43, 45, 53, 61, 87, 127, 129, 131, 134–135, 139, 144–147, 149, 158–159, 185, 228, 244</p>
+<p>Industrielle Werke Basel (IWB) 56, 67</p>
+<p>Inklusion 58, 86, 296–297</p>
+<p>Integration 14, 73, 86, 102, 111–113, 116, 129, 137, 231</p>
+<p>Iselin 160, 222</p>
+<p>Islam 111, 232–234</p>
+<p>Italienerinnen, Italiener 107–108, 115, 139</p>
+<h3>J</h3>
+<p>Judentum 230, 232, 234, 276, 290, 296</p>
+<p>Jugendamt 192, 194, 206</p>
+<p>Jugendkultur 14, 194, 224, 275</p>
+<p>Jugendliche 35, 48, 52, 73, 76, 79, 80, 99, 191–194, 196, 205–206, 213, 217–218, 226, 243, 265, 267–268, 271–272, 274</p>
+<p>Jugendtreffpunkte 226, 272, 274</p>
+<h3>K</h3>
+<p>Kaiseraugst 12, 47–49, 145, 150</p>
+<p>Kartelle 136–137</p>
+<p>Kaserne 93, 197–198, 209, 213, 275, 285, 297</p>
+<p>Kinderbetreuung 86, 92, 97, 202–203</p>
+<p>Kino 76, 192, 272, 283–284</p>
+<p>Kirche 232–233</p>
+<p>Kleinbasel 26, 31, 33, 58, 102–103, 111, 114, 165, 201, 204, 207, 209–210, 224, 226, 228, 284, 289</p>
+<p>Kleinhüningen 33, 172–173, 179, 195, 264, 269</p>
+<p>Klimanotstand, Klimapolitik 12, 64, 67</p>
+<p>Klybeck 33, 63, 112, 147–148, 180, 197, 264</p>
+<p>Kolonialismus 175–176, 290–293, 297</p>
+<p>Kommune 194, 217–219</p>
+<p>Konkubinatsverbot 199–200</p>
+<p>Konsum 23–24, 32, 75, 172, 191, 205–206, 210, 230</p>
+<p>Konzern 131, 143, 147, 158, 167, 175, 177, 178, 183, 185</p>
+<p>Kreativwirtschaft 142</p>
+<p>Kulturelle Aneignung 296</p>
+<p>Kulturstadt Jetzt 275</p>
+<p>Kunsthalle 162, 285</p>
+<p>Kunstmuseum Basel 242–244, 247, 256, 260, 262, 267</p>
+<p>Kurdinnen, Kurden 108, 112, 116</p>
+<h3>L</h3>
+<p>Labor 40, 143–144, 149, 152, 154, 185</p>
+<p>Landesgrenzen 46, 61, 119–121, 129, 141</p>
+<p>Landesring der Unabhängigen (LdU) 40, 80, 84, 91</p>
+<p>Landwirtschaft 128, 143, 152, 156, 158</p>
+<p>Lesben 195, 197, 201</p>
+<p>LGBTQI+ 195–198</p>
+<p>Liberal-Demokratische Partei Basel-Stadt (LDP) 13–14, 54, 74, 79, 81, 86–87, 91, 160, 212, 221, 275</p>
+<p>Life Sciences 14, 59, 127, 142–143, 149, 151–152, 158–159, 177, 185</p>
+<p>Literaturfestival Basel (BuchBasel) 285</p>
+<p>Littering, siehe Abfall</p>
+<p>Lohn 96, 98, 105, 134–135, 139</p>
+<p>Lonza 158, 251</p>
+<p>LSD 144</p>
+<h3>M</h3>
+<p>Manager 127, 137, 165–167</p>
+<p>Manor (bis 1994 Rheinbrücke) 31, 179</p>
+<p>Marketing 145, 260</p>
+<p>Matthäus 33, 111, 114, 264</p>
+<p>Mäzenatentum 244–247</p>
+<p>MCH Group 16, 169, 171</p>
+<p>Medikamente 144–145</p>
+<p>Meisterfeier 280–281</p>
+<p>Miete 30, 139, 183, 220–221</p>
+<p>Mieterverband 220</p>
+<p>Migrantenorganisation 58, 114, 116, 231</p>
+<p>Migrationspolitik 81, 102, 105–106, 111, 113</p>
+<p>Museum 233, 243–245, 247, 276, 286, 290–294, 296</p>
+<p>Museum der Kulturen Basel 276, 291–294</p>
+<p>Museum für Gegenwartskunst 244, 246, 276</p>
+<p>Museumsnacht 283, 285</p>
+<p>Mustermesse Basel (muba) 88, 91, 169–170</p>
+<h3>N</h3>
+<p>Nationale Aktion gegen Überfremdung von Volk und Heimat (NA) 13, 81</p>
+<p>National-Zeitung (NZ) 36, 87–89, 132, 205</p>
+<p><em>Negro Rhygass</em> 294–295</p>
+<p>Neubad 196</p>
+<p>Neue Linke 76, 78, 91</p>
+<p>Nordtangente, siehe Autobahn</p>
+<p>Novartis 18, 59, 62, 148–149, 158, 166, 254</p>
+<h3>O</h3>
+<p>Öffentliche Krankenkasse (ÖKK Basel) 168</p>
+<p>Organisation für die Sache der Frau (OFRA) 92, 97–98</p>
+<p>Orientierungsschule (OS) 100–102</p>
+<p>Osttangente, siehe Autobahn</p>
+<h3>P</h3>
+<p>Panalpina 131, 175</p>
+<p>Park (nur Grünanlagen) 47, 63, 66, 96, 119, 195, 201, 204, 207, 242, 274</p>
+<p>Parkplatz 24, 60</p>
+<p>Partei der Arbeit (PdA) 74–75, 78, 84</p>
+<p>Party 63, 271</p>
+<p>Patria 160–161, 166, 168</p>
+<p>Pendlerinnen, Pendler, siehe Grenzgängerinnen, Grenzgänger</p>
+<p>Picasso-Story 144, 245, 296</p>
+<p>Polizei 76–77, 79–80, 95, 107, 109, 165, 195, 205, 209, 213, 217, 267, 272–273, 278, 287</p>
+<p>Prävention 65, 206, 208, 212, 213</p>
+<p>Progressive Organisationen Basel (POB) / Progressive Organisationen Schweiz (POCH) 13, 39, 76–78, 83, 91–92</p>
+<p>Prostitution 209, 265</p>
+<p>Protest 37, 48, 73, 76–77, 95–96, 106, 139, 197, 220, 262</p>
+<p>Provenienzforschung 294</p>
+<p>Psychiatrie 192</p>
+<p>Punk 241, 271–272</p>
+<h3>Q</h3>
+<p>Quartiersekretariat 58</p>
+<p>Quartiertreffpunkt 204</p>
+<h3>R</h3>
+<p>Radikal-Demokratische Partei (RDP) 43, 81–82</p>
+<p>Radio 50, 87–88, 215, 245</p>
+<p>Rassismus 109, 284, 289, 294</p>
+<p>Raubkunst 290</p>
+<p>Rechtspopulismus 13, 80–82</p>
+<p>Regierungsrat 44, 49, 75, 80, 83–84, 86, 93–94, 99, 100, 109–110, 113, 169, 210, 212, 220, 222, 272, 280</p>
+<p>Regio Basiliensis 129</p>
+<p>Region 15, 43, 47, 50, 57, 64, 87–89, 104, 129–130, 135, 138, 142–143, 145–148, 151, 158–159, 169, 173, 177, 185, 231, 247, 271, 276, 279–282, 284, 297</p>
+<p>Rezession 18–19, 54, 104, 107, 132–133, 138, 164, 215, 216 – 1990er-Jahre 54, 138–140 – Dotcom-Blase 2000 182 – Finanzkrise 2007 167–168 – Ölpreiskrise der 1970er-Jahre 33, 35, 132, 146, 258</p>
+<p>Rhein 26, 35, 42–43, 50–53, 58, 65, 128, 172, 174, 213, 227–228, 283, 289</p>
+<p>Riehen 19, 33, 83, 110, 114, 117, 205, 223, 247</p>
+<p>Roche 19, 23, 43, 59, 62, 131, 137, 145–146, 149, 152, 158, 162, 203, 245</p>
+<p>Rockförderverein (ab 2021 Musikbüro Basel) 275–276, 297</p>
+<p>Rock’n’Roll 224, 241, 269–271</p>
+<p>Rolling Stones 144, 277–278</p>
+<h3>S</h3>
+<p>Saisonniers 33, 103–107</p>
+<p>Sandoz (ab 1996 Novartis) 50–51, 53, 131, 146, 148, 150, 152, 215</p>
+<p>Schappe (auch Florettseide) 135</p>
+<p>Scheidung 143, 194, 200</p>
+<p>Schifffahrt, siehe Hafen</p>
+<p>Schlachthof 29–30, 32</p>
+<p>Schweizerhalle 12, 15, 18, 23, 50–53</p>
+<p>S AM Schweizerisches Architekturmuseum (bis 2006 Architekturmuseum) 248, 276</p>
+<p>Schweizerischer Bankverein (SBV) 131, 162, 182</p>
+<p>Schweizerische Volkspartei (SVP) 14, 82</p>
+<p>Schwulenbewegung 195, 197, 207–208</p>
+<p>Seveso 43, 87, 148</p>
+<p>Sexismus 93, 95, 289</p>
+<p>Sexualität 92–93, 192, 195, 197–198, 200, 208, 267</p>
+<p>Shift 285</p>
+<p>Silvia Gmür und Livio Vacchini 254</p>
+<p>Sinfonieorchester 245, 276, 297</p>
+<p>Skulptur 266–267</p>
+<p>Sommercasino 272, 274</p>
+<p>Sozialdemokratische Partei (SP) 13, 29, 43–44, 56, 60, 67, 74–75, 77–80, 83, 85–86, 97, 105–106, 109, 112, 116, 120, 275</p>
+<p>Soziale Bewegungen 73, 78, 97 – 68er-Bewegung 39, 75–80, 194, 198, 202, 217, 271 – 80er-Jugendbewegung 15, 79–80, 274</p>
+<p>Sozialhilfe 115, 139</p>
+<p>Spekulation 167, 221</p>
+<p>Spielplatz 201, 204, 242</p>
+<p>Spital, siehe Gesundheitswesen</p>
+<p>Sport 64, 226, 230</p>
+<p>Spritzen 210–212</p>
+<p>Staatshaushalt 19, 34–35, 56</p>
+<p>Stadtcasino 55, 245, 260, 262, 269, 271</p>
+<p>Städtepartnerschaft 262</p>
+<p>Standortpolitik 121</p>
+<p>Start-up 158</p>
+<p>Steinenvorstadt 272, 274, 284</p>
+<p>Steuern 129, 165</p>
+<p>Stiftungswesen 246, 247</p>
+<p>St. Alban 33, 160, 168, 244</p>
+<p>St. Jakob-Stadion, St. Jakob-Park 59, 277–279</p>
+<p>St. Johann 49, 66, 111, 114, 214–215, 219, 222, 274</p>
+<p>Subkulturen 241, 268–269, 272, 274–276</p>
+<p>Subventionen 93, 202, 264, 274–276, 297</p>
+<p>Surprise, Strassenmagazin 140</p>
+<p>Suter + Suter 36, 251</p>
+<p>Swiss Indoors 278–279</p>
+<p>Syngenta 158</p>
+<h3>T</h3>
+<p>Techno 270, 272, 283</p>
+<p>Telefon 55, 214</p>
+<p>Textilproduktion 135</p>
+<p>Theater 15, 162, 213, 241, 262, 264–265, 271, 273, 275–276, 283</p>
+<p>Tourismus 260, 262</p>
+<p>Transformationsareal 61–62, 179</p>
+<p>Türkinnen, Türken 108, 116, 231</p>
+<h3>U</h3>
+<p>UBS 165–168</p>
+<p>Ueli-Bier 134</p>
+<p>Ultra Brag 177</p>
+<p>Umnutzung 179, 184, 221, 233, 273</p>
+<p>Umweltschutz 12, 39–40, 42–44, 46, 57, 65, 67, 80, 83, 169</p>
+<p>UNESCO 19, 287, 294</p>
+<p>Universität Basel 16, 18, 31, 40, 53, 56, 76, 97, 98, 117–118, 150–151, 166, 179, 192, 217, 292</p>
+<p>Unser Bier 134</p>
+<h3>V</h3>
+<p>Verein Studentische Wohnvermittlung (WoVe) 219</p>
+<p>Verfassung 83, 94, 116–117, 201</p>
+<p>Versicherung 160–161, 166, 168, 230</p>
+<p>Verwaltung 14, 45, 54, 56, 58, 95, 96, 98, 128, 212</p>
+<p>Vier-Säulen-Modell 210–212</p>
+<p>Vogel Gryff 111, 289</p>
+<h3>W</h3>
+<p>Warteck Brauerei 134, 274</p>
+<p>Werkstadt Basel 57–58</p>
+<p>Wiedervereinigung, siehe Fusion, Kanton</p>
+<p>Wirtschaftskrise, siehe Rezession</p>
+<p>Wohnfläche 12, 214</p>
+<p>Wohngemeinschaften 191, 194, 206, 217, 219</p>
+<p>Wohnungsbau 58, 83, 221–222</p>
+<p>Wohnungsmarkt 216, 220, 222</p>
+<h3>Z</h3>
+<p>Zeitung 87–89</p>
+<p>Zensur 265, 267, 287</p>
+<p>Zentralwäscherei Basel (Zeba) 138–139</p>
+<p>Zwischennutzung 63, 274</p>
+<h2>Autorin und Autoren</h2>
+<h3>Tobias Ehrenbold</h3>
+<p>Geboren 1982. Studium der Geschichte und der Kulturwissenschaften an den Universitäten Basel</p>
+<p>und Luzern sowie an der Northeastern University, Boston, USA. Internationale Vermittlungs- und</p>
+<p>Archivprojekte im Bereich der Wirtschafts- und Kulturgeschichte, Verfasser diverser Publikatio</p>
+<p>nen, unter anderem über die Geschichte der Basler Pharmaindustrie und ihre globalen Verflech</p>
+<p>tungen.</p>
+<h3>Silas Gusset</h3>
+<p>Geboren 1992. Studium der Geschichte und der Deutschen Philologie an der Universität Basel.</p>
+<p>Forschungs- und Vermittlungsprojekte in der Sozial- und Medizingeschichte, insbesondere zur</p>
+<p>Geschichte der Psychiatrie in der Schweiz. Seit 2020 Mitarbeiter in einer Agentur für Kulturma</p>
+<p>nagement und Kommunikation in der Region Basel.</p>
+<h3>Martin Lengwiler</h3>
+<p>Geboren 1965. Seit 2009 Professor für Neuere Allgemeine Geschichte an der Universität Basel.</p>
+<p>Forscht und lehrt zur Wirtschafts- und Sozialgeschichte, zur Geschichte des Sozialstaats und zur</p>
+<p>Wissenschaftsgeschichte. Forschungsaufenthalte in Paris, Irvine (USA) und Berlin. Er war Mitglied</p>
+<p>der Unabhängigen Expertenkommission zur Aufarbeitung der administrativen Versorgung und</p>
+<p>des Leitungsgremiums des Nationalen Forschungsprogramms 76 «Fürsorge und Zwang».</p>
+<h3>Anina Zahn</h3>
+<p>Geboren 1987. Studium der Geschichte und Philosophie in Fribourg und Zürich. Promotion an der</p>
+<p>Universität Basel zur Geschichte von Arbeitslosenbewegungen in der Schweiz, 1975–2002. Wei</p>
+<p>tere Forschungs- und Vermittlungsarbeiten zur Geschichte des Sozialstaates und zu sozialen Be</p>
+<p>wegungen. Seit 2023 Geschichts- und Philosophielehrerin am Gymnasium Muttenz.</p>
+<h2>Dank</h2>
+<p>Im Sommer 1992, als Basel mit finanziellen Schwierigkeiten zu kämpfen hatte, stimmte die Bevölkerung gegen das Projekt einer neuen Basler Stadtgeschichte. Erst im zweiten Anlauf klappte es – dieser Band ist eines der Ergebnisse davon. In erster Linie wollen wir uns also bei allen bedanken, die das Projekt Stadt.Geschichte.Basel ermöglicht haben: dem Verein Basler Geschichte, dem Kanton und seinen Bewohnerinnen und Bewohnern sowie allen privaten Geldgebern. Dieser Band profitierte von der Begleitung durch einen Beirat, dem Georg Kreis, Philipp Loser und Stefanie Mahrer angehörten. Ihnen gilt unser besonderer Dank für die sorgfältige Lektüre verschiedener Textfassungen. Wir möchten uns auch bei den früheren Mitarbeiterinnen und Mitarbeitern dieses Bandes bedanken, die einen wichtigen Anteil an der Konzeption hatten: Ina Serif, Eric Decker und Lukas Hartmann. Zudem danken wir Anna Wolf für die Überarbeitung der Endnoten. Unser Dank gilt auch dem Team von Stadt.Geschichte.Basel, insbesondere den Mitarbeiterinnen und Mitarbeitern von Band 7 und Band 9, der Projektleitung und dem Stiftungsrat für die gute und stets anregende Zusammenarbeit. Herzlich danken wir all jenen, die uns Einblicke in ihre Forschung gewährten oder Teile des Manuskripts gelesen und kritisch kommentiert haben: Benjamin Adler, Miriam Baumeister, Alexander Bieri, Jennifer Burri, Walter Dettwiler, Laura Eigenmann, Flavio Häner, Mirjam Janett, Verena Labhardt, Flavia Grossmann, Jonathan Pärli, Nicholas Schaffner, Tobias Straumann, Daniel Zürcher. Wichtig für diesen Band waren viele kürzere und längere Gespräche mit Zeitzeuginnen und Zeitzeugen, die wir nicht alle namentlich erwähnen können: Mitarbeiterinnen und Mitarbeiter des Projekts, Familie, Freundinnen und Freunde, Bekannte, flüchtige Begegnungen mit Unbekannten. Ausführlicher durften wir mit folgenden Personen sprechen, bei denen wir uns herzlich bedanken: Maria Caminati, Peter Flubacher, René L. Frey, Ernst Jost, Eva Keller, Robert Labhardt, Jörg Reinhardt, Markus Ritter, Evelyne Rudin, Ingrid Rusterholtz, Christine Stingelin, Katharina Stoll, Leila Straumann, Daniel Weissberg. Weiter danken wir allen Mitarbeiterinnen und Mitarbeitern von Archiven und Dokumentationsstellen, die uns beraten und Materialien zur Verfügung gestellt haben: allen Mitarbeitern und Mitarbeiterinnen des Staatsarchivs Basel-Stadt und des Schweizerischen Wirtschaftsarchivs, insbesondere Irene Amstutz, Sabine Strebel und Hermann Wichers, sowie Patrick Moser und Gudrun Piller (Historisches Museum Basel), Marcel Bitter (Plakatsammlung der Schule für Gestaltung Basel), Irene Kühler (WEMF AG für Werbemedienforschung) und Nathalie Grillon sowie Christa Moll (Statistisches Amt Basel-Stadt). Dem Fotografen Roland Schmid danken wir für die Hilfe beim Finden geeigneter zeitgenössischer Fotografien, den Fotografen Claude Giger und Kurt Wyss für den Zugang zu ihren Privatarchiven, Dieter Ehrlich und Lukas Müller für die Mithilfe bei der Identifizierung von abgebildeten Personen. Für das sorgfältige Korrektorat danken wir Katharina Böhmer, für die gelungene Buchgestaltung Christoph Gysin und Katharina Marti von icona basel und für die Erstellung der Infografiken Nico Görlich und Moritz Twente. An Iris Becher und Oliver Bolanz vom Christoph Merian Verlag geht unser Dank für die gute Zusammenarbeit bei der Buchproduktion.</p>
+</div>
+````

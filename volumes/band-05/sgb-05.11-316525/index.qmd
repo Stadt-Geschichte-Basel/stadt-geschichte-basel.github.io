@@ -1,0 +1,1015 @@
+---
+title: Anhang
+description: Kapitel 11 aus Band 5 «Hinter der Mauer, vor der Moderne. 1760 – 1859» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 11
+doi: 10.21255/sgb-05.11-316525
+license: CC BY-NC 4.0
+author:
+- name: André Salvisberg
+citation:
+  type: chapter
+  title: Anhang
+  container-title: Hinter der Mauer, vor der Moderne. 1760 – 1859
+  page: 317-335
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-05.11-316525
+  editor:
+  - Marc Fehlmann
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band5/chapter/333
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/902
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-note title="Lizenz" appearance="simple"}
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-05.11-316525](https://doi.org/10.21255/sgb-05.11-316525)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<h2>Quellen- und Literaturverzeichnis</h2>
+<h3>Quellen Ungedruckte Quellen</h3>
+<p><em>GLA: Generallandesarchiv Karlsruhe</em></p>
+<p>GLAK, 238 Kriegsministerium – Militärsachen, Nr. 210: Detachierung eines Commandos des Infanterie-Regiments Erbgroßherzog in Freiburg nach Lörrach zur Bewachung der diesseitigen Grenze wegen der im Canton Basel ausgebrochenen Unruhen und die zur Sicherung der diesseitigen Grenze wegen der im Canton Schaffhausen ausgebrochenen Unruhen getroffenen Maßregeln.</p>
+<p>GLAK, 49 Gesandtschaften – Gesandtschaften in die Schweiz, Nr. 2366: Verletzung des Großherzoglichen Gebiets durch den Durchmarsch Baseler Truppen und desfallsige Beschwerde; und Trennung des Kantons Basel in Basel-Stadt und Basel-Landschaft und die Anerkennung der Regierung der letzteren.</p>
+<p>GLAK, 48 Staatssachen − Beziehungen zur Schweiz, Nr. 3062: Die Trennung im Kanton Basel und die Errichtung einer Regierung des Kantons Basel-Landschaft.</p>
+<p><em>HMB: Historisches Museum Basel</em></p>
+<p>HMB, 1938.179: Gürtelschnalle mit Perlmutter um 1830–1840.</p>
+<p><em>KM: Museum HAARUNDKAMM Mümliswil</em></p>
+<p>KM 5051, Heidelberger Musterbuch (HM*) für Zierkämme, 1830.</p>
+<p>KM 9000, Hauptbuch B (1819–1822).</p>
+<p>KM 9001, Hauptbuch A (1822–1830).</p>
+<p>KM, Chignonkamm aus dunklem Horn mit Mandorla in Schabtechnik, um 1830−1835. Dauerleihgabe des Historischen Museums Solothurn 1929.101.</p>
+<p><em>RZZ: Archiv des Regionalen Zivilstandsamtes Zurzach</em></p>
+<p>RZZ, Familienregister von Kaiserstuhl I/128, Gösy, Florian.</p>
+<p><em>StABS: Staatsarchiv Basel-Stadt</em></p>
+<p>StABS, Spital AA 2,2: Sterbe und Beerdigungsregister 1842−1864.</p>
+<p>StABS, Bürgerrecht B4, Bürgerrechtsgesetz vom 27. Januar 1849, 1872 – 1879 – 95. Darin: Allgemeine Schweizer Zeitung, 27. August 1878. Das neue Bürgerrechtsgesetz (Korrespondenz aus Basel).</p>
+<p>StABS, Bürgerrecht E4: Tabellarisches Verzeichnis der in das Stadtbürgerrecht aufgenommenen Bürger 1816–1829.</p>
+<p>StABS, Civilia.</p>
+<p>StABS, Criminalia.</p>
+<p>StABS, Gemeindearchive Bürgergemeinde Basel C3: Bürgerrechtsbegehren 1800−1966.</p>
+<p>StABS, Gerichtsarchiv A: Schultheissengericht der mehrern Stadt, Stadtgericht, Distriktsgericht, Zivilgericht: Protokolle.</p>
+<p>StABS, Gerichtsarchiv BB: Distriktsgericht Basel: Polizei-Protokoll und Dekreten-Protokoll.</p>
+<p>StABS, Gerichtsarchiv CC: Ober-Kriminalgericht: Protokoll.</p>
+<p>StABS, Gerichtsarchiv DD: Korrectionelles Gericht: Protokolle.</p>
+<p>StABS, Gerichtsarchiv HH 1: 1 bis 297: Correctionelle Fälle.</p>
+<p>StABS, Gerichtsarchiv HH 2: 1 bis 454: Kriminalgerichtsakten.</p>
+<p>StABS, Gerichtsarchiv P: Schultheissengericht der mindern Stadt: Gerichtsbücher, Gerichtsmanualien, Gerichtsprotokolle, Protokoll-Minuten.</p>
+<p>StABS, Handel und Gewerbe YY 5: Tapezierer.</p>
+<p>StABS, JD-REG 6e: Register zu den pfarramtlichen Registern (Kirchenbüchern) bis 1869.</p>
+<p>StABS, Niederlassung A1: Niederlassung und Aufenthalt, Fremdenpolizei, Ausweisschriften, allgemeines.</p>
+<p>StABS, Kirchenarchiv D 1,9: Acta ecclesiastica, 1853−1880.</p>
+<p>StABS, PA 92: Biografische Aufzeichnungen von Mitgliedern der Familie Iselin, 1693–1830.</p>
+<p>StABS, PA 101: Nachlass von Ratsherr Samuel Minder-Merian (1782−1868) [Familien Minder, Gessler, Gernler, Merian, Zäslin, Spreng].</p>
+<p>StABS, PA 115a: Archiv der Familie Ryhiner.</p>
+<p>StABS, PA 212a: Sarasin’sches Familienarchiv.</p>
+<p>StABS, PA 511: Familie Vischer.</p>
+<p>StABS, PA 594: Burckhardt’sches Familienarchiv.</p>
+<p>StABS, PA 633c: Nachlass Peter Ochs-Vischer (1752–1821).</p>
+<p>StABS, PA 636a: Archiv der Familie Passavant.</p>
+<p>StABS, PA 658a: Archiv der Basler Familie Horner (mit Stammbuch).</p>
+<p>StABS, PA 694a: Archiv der Familie Huber.</p>
+<p>StABS, PA 729: Familie Bischoff.</p>
+<p>StABS, PA 816a: Archiv der Familie von Brunn.</p>
+<p>StABS, PA 1237b: Nachträge 2014 zum Archiv der Jenny Adèle Burckhardt-Stiftung.</p>
+<p>StABS, Protokolle: Grosser Rat.</p>
+<p>StABS, Protokolle: Kleiner Rat</p>
+<p>StABS, Zunftarchiv Rebleuten 12: Protokoll VI.</p>
+<p>StABS, Safranzunft 26: Eintrittsrodel III, Register 1600−1825, Blatt 262.</p>
+<p>StABS, Spitalarchiv V 15,2: Krankenregister des Nervenfieber-Lazaretts im Almosen.</p>
+<p>StABS, Spitalarchiv V8: Kranken und Pfründerregister.</p>
+<p>StABS, STA Bf 1: Rechtsquellen: Mandate, Gesetze, Verordnungen, Erlasse.</p>
+<p>StABS, STA H 43: Adressbuch der Stadt Basel und der Gemeinden Bettingen und Riehen.</p>
+<p>StABS, Standestruppe A1: Allgemeines und Einzelnes.</p>
+<p>StABS, Straf und Polizei C 19: Mord und Totschlag.</p>
+<p>StABS, Straf und Polizei C 24: Körperverletzung, Schlaghändel, Unfugen, Eigentumsbeschädigung, Nachtfrevel, Misshandlungen, Nachtlärm, Ruhestörer, Belästigungen.</p>
+<p>StABS, Straf und Polizei C 26: Zweikampf, Duell.</p>
+<p>StABS, Straf und Polizei C 28: Drohung, Hausfriedensbruch, Erpressung, Freiheitsentziehung.</p>
+<p>StABS, Straf und Polizei C 29: Ehrbeleidigung, Schimpf- und Scheltworte, Streitigkeiten, Pasquille, Beschimpfung von Behörden und Beamten.</p>
+<p>StABS, Straf und Polizei C 30: Diebstahl, Einbruch.</p>
+<p>StABS, Straf und Polizei C 33: Unterschlagung.</p>
+<p>StABS, Straf und Polizei C 36, Betrug.</p>
+<p>StABS, Straf und Polizei C 37: Leichtsinniger und betrügerischer Bankrott, Massadefraudation.</p>
+<p>StABS, Straf und Polizei C 39: Hehlerei.</p>
+<p>StABS, Straf und Polizei Q 5: Zwangsmittel bei Untersuchungen, Tortur.</p>
+<p>StABS, Trennung T 1: Entschädigungen und Pensionen an Verwundete und an Hinterlassene von Gefallenen, allgemeines.</p>
+<p><em>StATG: Staatsarchiv Kanton Thurgau</em></p>
+<p>StATG, Slg. 13.2.0/202: Sterberegister der katholischen Pfarrei Kreuzlingen.</p>
+<p>StATG, Slg. 13.2.0/233: Evangelische Bürger Mühlheim. Familienbuch Bridler-Birch, S. 269.</p>
+<p>StATG, Slg. 13.2.0/234: Taufbuch evangelisch Müllheim.</p>
+<p>StATG, ZA 1: Zivilstandsregister der Munizipalgemeinde Altnau 1891−1896, S. 106.</p>
+<p><em>SWA: Schweizerisches Wirtschaftsarchiv</em></p>
+<p>SWA, HS 258 U (1800–1847): Firmenarchiv Forcart-Weiss &amp; Söhne (Württembergerhof).</p>
+<p>SWA, HS 345 M (1824–1872): Firmenarchiv J. S. Alioth &amp; Cie.</p>
+<p>SWA, H XI 2b.</p>
+<p>SWA, Vo M 14-27: Arbeitsverhältnisse Dienstboten und Hausangestellte Dokumentensammlung, Broschüren.</p>
+<p><em>UB Basel: Universitätsbibliothek Basel</em></p>
+<p>UB Basel, UBH AG III 10: Johann Heinrich Munzinger, Haus-Chronik mein Mag. Joh. Heinrich Munzinger. Als Fortsetzung der Fol. XXXII im Jahr 1802 abgebrochnen Denkwürdigkeiten.</p>
+<p>UB Basel, UBH Mscr H V 75l: Johannes Otteney, Tage-Buch Eines Militairs, Ueber Röligiöse, Politisch-Kritische und Bürgerliche Gegenstände. Sechster Band, Basel 1816.</p>
+<p>UB Basel, UBH Mscr H V 75m: Johannes Otteney, Tagebuch Eines Militairs, Ueber Röligiöse, Politisch-Kritisch und Bürgerliche Gegenstände. Siebender Band, Basel 1816.</p>
+<p>UB Basel, UBH NL 128 A.4.2: Emanuel Burckhardt-Sarasin, Ratsherrenkasten.</p>
+<p>UB Basel, UBH NL 128 B.1.1: Emanuel Burckhardt-Sarasin, Ratsherrenkasten.</p>
+<p>UB Basel, UBH NL 152: Briefe von Esther Burckhardt-Socin an Valeria Thurneysen-Fäsch, 1803–1825, sowie Briefe zwischen den Eheleuten Johann Rudolf und Esther Burckhardt-Socin, 1815 und 1822–1825.</p>
+<p>UB Basel, UBH VB Mscr P 34: Johannes Otteney, Mein Leben und Schicksahle für Freunde des Guten.</p>
+<h3>Gedruckte Quellen</h3>
+<p>21. Verwaltungsbericht des Stadtraths zu Basel an den Grossen Stadtrath 1854.</p>
+<p>Adressbuch der Stadt Basel, Basel 1854.</p>
+<p>Akten, betreffend die in das Publikum geworfenen Verdächtigungen gegen Bern, in Rücksicht auf den Einmarsch der alliirten Truppen in die Schweiz, im Dezember 1813. Extra-Beylage [zu den Nummern 168–172], in: Gemeinnützige schweizerische Nachrichten, Ausgaben vom 25.10.1814–1.11.1814.</p>
+<p>Allgemeine Schweizer Zeitung, 1829–1846.</p>
+<p>Allgemeine Zeitung des Judenthums. Ein unpartheiisches Organ für alles jüdische Interesse in Betreff von Politik, Religion, Literatur, Geschichte, Sprachkunde und Belletristik, Leipzig/ Berlin 1837–1922.</p>
+<p>Archives israélites (Vorg. Archives israélites de France). Revue mensuelle historique, biographique, bibliographique et littéraire, Paris 1840–1935.</p>
+<p>Basler Adressbuch, 1798 ff., unter wechselnden Titeln.</p>
+<p>Baseler Zeitung, 1830–1859.</p>
+<p>Basellandschaftliches Volksblatt, 1835–1853.</p>
+<p>Basler Nachrichten, 1844–1972.</p>
+<p>Baslerische Mittheilungen zur Förderung des Gemeinwohls, 1826–1831.</p>
+<p>Beck, Jacob Christoff: Ungrund des Separatismus, Oder Beantwortung der fürnehmsten Ursachen, derentwegen sich die Separatisten von dem öffentlichen Gottesdienste absöndern; den Irrenden zur heilsamen Unterweisung, andern aber zur Wahrnung, Basel 1753.</p>
+<p>Bericht über den Erfolg der Schullehrer-Bildungsanstalt in Basel vom Jahre 1821, Basel 1821.</p>
+<p>Bernoulli, Christoph: Über den nachtheiligen Einfluss der Zunftverfassung auf die Industrie, Basel 1822.</p>
+<p>Bernoulli, Eduard: Jahres-Predigt gehalten zu Basel den 7. Juni 1832, Basel [1832].</p>
+<p>Botschaft des Bunderathes an die hohe Bundesversammlung, betreffend die Handhabung des eidgenössischen Werbeverbots für ausländischen Militärdienst vom 13. Juli 1855, in: Schweizerisches Bundesblatt, Jahrgang VII, Band II, Nr. 36, 4.8.1855.</p>
+<p>Bowring, John: Bericht an das englische Parlament über den Handel, die Fabriken und Gewerbe der Schweiz, Zürich 1837.</p>
+<p>Bruckner-Eglinger, Ursula: Tagebuch = Hagenbuch, Bernadette (Hg.): «Heute war ich bey Lisette in der Visite». Die Tagebücher der Basler Pfarrersfrau Ursula Bruckner-Eglinger 1816–1833, Basel 2014.</p>
+<p>Brunn, Niklaus von: Leichenrede bey der Beerdigung des Hochgeachten Herrn Peter Ochs, J. U. D. StaatsRath und Präsident Löbl. Deputaten Collegiums gehalten zu den Predigern den 22. Juny 1821, Basel o. J. [1821].</p>
+<p>Bürgerrechts-Gesetz, vom 8. Februar 1838, in: Sammlung der Gesetze und Beschlüsse wie auch der Polizei-Verordnungen welche seit 26. August 1833 für den Kanton Basel-Stadt erlassen worden, Band 2, S. 329–339.</p>
+<p>Bürgerrechtsgesetz, vom 4. December 1848, in: Sammlung der Gesetze und Beschlüsse wie auch der Polizei-Verordnungen welche seit 26. August 1833 für den Kanton Basel-Stadt erlassen worden, Band 5, S. 153–162.</p>
+<p>Bundesverfassung der Schweizerischen Eidgenossenschaft, vom 12. Herbstmonat [September] 1848, in: Offizielle Sammlung der das schweizerische Staatsrecht betreffenden Aktenstücke, Bundesgesetze, Verträge und Verordnungen, seit der Einführung der neuen Bundesverfassung vom 12. September 1848 bis 8. Mai 1850, Bern 18502, S. 3–35.</p>
+<p>Burckhardt, Ludwig August: Der Kanton Basel, historisch, geographisch, statistisch geschildert. Beschreibung seiner Lage, natürlichen Beschaffenheit, seiner Bewohner, politischen und kirchlichen Verhältnisse und Ortschaften. Ein Hand- und Hausbuch für Kantonsbürger und Reisende. Erste Hälfte: Basel-Stadttheil, St. Gallen/Bern 1841.</p>
+<p>Cahen, Samuel: Inauguration de la synagogue consistoriale de Metz, in: Archives israélites, 1.10.1850, S. 510–512.</p>
+<p>Commissionsberichte über den Anschluss des Grossherzogthums Baden an den grossen deutschen Zollverein, erstattet von den Abgeordneten Hoffmann, Regenauer und Geheimer Hofrath Dr. Rau, Karlsruhe [1835].</p>
+<p>Criminal-Gesetzbuch für den Canton Basel, [Basel] 1821.</p>
+<p>Der aufrichtige und wohlerfahrene Schweizer-Bote, Luzern 1798–1800 und Aarau 1804–1878.</p>
+<p>Der evangelische Heidenbote.</p>
+<p>Der religiöse Zustand von Basel im Jahr 1800 und 1850 [Bernoulli, Eduard], in: Kirchenblatt für die reformirte Schweiz, Nr. 7 vom 4. April 1850, Jg. 6 1850, S. 53−55.</p>
+<p>Der Statt Basel Statuta und Gerichts-Ordnung: hiebevor durch vielfaltige Mandata und Erkanntnussen an Tag gegeben, nun aber auf hoch-obrigkeitlichen Befehl zusammen getragen, in gute Ordnung gebracht, verbessert, vermehrt und durch offentlichen Druck public gemacht. MDCCXIC. Neu abgedruckt, nebst einem Anhang enhaltend eine Sammlung der von 1719–1830 ergangenen und noch in Kraft bestehenden die Gerichtsordnung betreffenden Gesetze und Verordnungen. Basel 1830.</p>
+<p>Der Zofinger-Verein schweizerischer Studirender in Basel an die Vereins-Abtheilungen in andern Kantonen, Basel 1831.</p>
+<p>De Wette, Wilhelm M. L.: Über das Verhältniß der Kirche zum Staate, in: Lehrer der Baseler Hochschule (Hg.): Wissenschaftliche Zeitschrift, Heft 2, Jg. 5, Basel 1827, S. 1–42.</p>
+<p>Die neue Hochschule der schweizerischen Eidgenossenschaft und die alte Universität Basel, Basel 1851.</p>
+<p>Disteli, Martin (Hg.): Schweizerischer Bilderkalender für das Jahr 1844, Solothurn o. J.</p>
+<p>Effner, Carl von: Berichte und Vorschläge über die Promenaden und Anlagen von Basel und Umgebung, Basel 1860.</p>
+<p>Engels, Friedrich (Pseudonym ‹Friedrich Oswald›): Lombardische Streifzüge, in: Athenäum. Zeitschrift für das gebildete Deutschland 48, 1841, S. 751.</p>
+<p>Faesch, J. J.: Predigt über 1. Petri 5. v. 6. 7. Gehalten in der Kirche zu St. Theodor den 4. May 1817 von J. J. Faesch, Pfr. allda. Auf Begehren und zum Besten der Armen der St. Theodors Gemeinde dem Drucke überlassen, Basel 1817.</p>
+<p>Freimühtige Gedanken über die Entvölkerung unserer Vaterstadt [Iselin, Isaak], o. O. 17582.</p>
+<p>Gemeinnützige Schweizerische Nachrichten, Bern 1801–1817.</p>
+<p>General-Bericht des Cholera-Ausschusses an den E. Kleinen Rath, Basel 1856.</p>
+<p>Gesetze 1: Bundesverfassung der Schweizerischen Eidgenossenschaft, vom 12. September 1848.</p>
+<p>Gesetze 2: Bürgerrechts-Gesetz, vom 8. Februar 1838.</p>
+<p>Gesetze 3: Bürgerrechtsgesetz, vom 4. Dezember 1848.</p>
+<p>Gesetze 4: Criminalgesezbuch [sic] für den Canton Basel 1821.</p>
+<p>Gesetze 5: Der Statt Basel Statuta und Gerichts-Ordnung: hiebevor durch vielfaltige Mandata und Erkanntnussen an Tag gegeben … Neu abgedruckt, nebst einem Anhang enhaltend eine Sammlung der von 1719–1830 ergangenen und noch in Kraft bestehenden die Gerichtsordnung betreffenden Gesetze und Verordnungen, 1830.</p>
+<p>Gesetze 6: Gesetz für die öffentlichen Lehranstalten in Basel, vom 18. Juni 1817.</p>
+<p>Gesetze 7: Gesetz über die Ertheilung der Bürgerrechte, vom 20. December 1803.</p>
+<p>Gesetze 8: Gesetz über eine Stempelgebühr, vom 7. Mai 1839.</p>
+<p>Gesetze 9: Gesetz und Verordnungen betreffend Dienstboten-Verhältnisse, vom 2. Dezember 1850 und 16. April 1851.</p>
+<p>Gesetze 10: Gesetz wegen Bürgerrechtsgebühren der Stadt Basel, vom 2. April 1816.</p>
+<p>Gesetze 11: Reglement für den Grossen Rath des Kantons Basel, vom 3.4.1822.</p>
+<p>Gesetze 12: Reglement für den Grossen Rath des Kantons Basel, vom 4.8.1831.</p>
+<p>Gesetze 13: Verfassung des Kantons Basel-Stadt, vom 8. April 1847.</p>
+<p>Gesetze 14: Verordnung in Betreff gemeineidgenössischer Gesundheitspolizeianstalten zu Sicherung vor ansteckenden Seuchen von Außen und vorzunehmender Maßregeln im Jnnern der Schweiz, beschloßen von der eidgenössischen Tagsatzung den 7. August 1829. Ausgabe von 1831.</p>
+<p>Gesetze 15: Verordnung über Aufnahm von Fremden, und wie sich Gastwirthe, Hauseigenthümer und Kostgeber in der Stadt Basel zu benehmen haben, vom 10. November 1813.</p>
+<p>Gesetze 16: Verordnung wegen dem Gassen-Bettel und Unterstützung der Armen, vom 26. Februar 1817.</p>
+<p>Gesetze 17: Verordnung wegen Auswanderung, vom 16. Mai 1817.</p>
+<p>Gesetze 18: Warnung wegen Behutsamkeit in Reden und Handlungen, vom 3. November 1813.</p>
+<p>Gutachten der von der Baslerischen Abtheilung der Schweizerischen Gemeinnützigen Gesellschaft aufgestellten Kommission über die Frage betreffend die Fabrikarbeiter-Verhältnisse, Basel 1843.</p>
+<p>Hagenbuch, Bernadette (Hg.): «Heute war ich bey Lisette in der Visite». Die Tagebücher der Basler Pfarrersfrau Ursula Bruckner-Eglinger 1816–1833, Basel 2014.</p>
+<p>Haller, Karl Ludwig von: Restauration der Staats-Wissenschaft oder Theorie des natürlich-geselligen Zustands der Chimäre des künstlich-bürgerlichen entgegengesetzt, Winterthur 1817–1834.</p>
+<p>Kantonsblatt, Basel 1798 ff.</p>
+<p>Kirchenblatt für die reformirte Schweiz.</p>
+<p>Kombst, Gustaf: Erinnerungen aus meinem Leben, Leipzig 1848.</p>
+<p>Küttner, Carl Gottlob: Briefe eines Sachsen aus der Schweiz an seinen Freund in Leipzig, Leipzig 1785.</p>
+<p>Linder, Johannes: Jahrespredigt, gehalten den 3. Mai 1832, Basel [1832].</p>
+<p>Linder, Johannes: Schreiben des vertriebenen Pfarrers und Dekans an seine Gemeinde in Zyfen, Basel 1834.</p>
+<p>L’univers israélite. Journal des principes conservateurs du judaïsme, Paris 1844–1939.</p>
+<p>Lutz, Markus: Chronik von Basel oder die Hauptmomente der Baßlerischen Geschichte, aus authentischen Quellen herausgehoben und dargestellt, Basel 1809.</p>
+<p>Lutz, Markus: Basel und seine Umgebungen neu beschrieben um Eingebohrne und Fremde zu orientiren. 2., ganz umgearbeitete Auflage, Basel 1814.</p>
+<p>Lutz, Markus: Baslerisches Bürger-Buch enthaltend alle gegenwärtig in der Stadt Basel eingebürgerte Geschlechter, Basel 1819.</p>
+<p>Meyer-Merian, Theodor: Die neue Zeit, in: Meyer-Merian, Theodor: Die Nachbarn. Ein städtisches Sittenbild aus der Gegenwart, Basel 1864, S. 1–6.</p>
+<p>Meyer-Merian, Theodor: Aus dem Tagesleben einer Stadt, in: Oser, Friedrich (Hg.): Entschwundene Zeiten. Nachgelassene Erzählungen und Bilder von Theodor Meyer-Merian, Basel 1869, S. 149–196.</p>
+<p>Meyer-Merian, Theodor; Ballmer-Rinck, Johann Jakob: Sicherer Wegweiser zu einer guten und gesunden Wohnung, Basel 1859.</p>
+<p>Morgenblatt für gebildete Stände.</p>
+<p>Müller, Johann Jakob: Geschichte der Provisorischen National Versammlung allhier zu Basel 1798 (Quellensammlung der Peter Ochs Gesellschaft 1), hg. von André Salvisberg, Basel 1997.</p>
+<p>Ochs, Peter: Geschichte der Stadt und Landschaft Basel, Band 7, Basel 1821.</p>
+<p>Ochs, Peter: Geschichte der Stadt und Landschaft Basel, Band 8, Basel 1822.</p>
+<p>Ostertag, Albert: Predigt über Ezechiel 33, 1-11, gehalten den 6. März 1838 in der Spital-Kirche zu Basel, Basel [1838].</p>
+<p>Rathschlag und Entwurf eines Bürgerrechts-Gesetzes, dem Grossen Rath eingegeben den 4. Dezember 1837.</p>
+<p>Rathschlag und Entwurf eines Bürgerrechtsgesetzes, dem Grossen Rath vorgelegt den 1. Oktober 1866.</p>
+<p>Rathschlag und Gesetzes-Entwürfe über 1) die Erweiterung der Stadt und 2) über Anlage und Correction von Strassen und über das Bauen an denselben, dem Grossen Rathe vorgelegt den 6. Juni 1859.</p>
+<p>Rathschlag und Gesetzesentwurf betreffend Erhöhung der Hundesteuer, dem Grossen Rath vorgelegt den 7. März 1864.</p>
+<p>Reglement für den Grossen Rath des Kantons Basel vom 3.4.1822.</p>
+<p>Reglement für den Grossen Rath des Kantons Basel vom 4.8.1831.</p>
+<p>Riggenbach, Christoph Johannes: Zur Beleuchtung des kirchlichen Concordats. Nebst einem Anhang, Basel 1864.</p>
+<p>Sammlung der Gesetze und Beschlüsse wie auch der PolizeyVerordnungen des Kantons Basel welche seit Anfangs 1803 bis [den 26 August 1833 (an welchem Tag die Tagsatzung die Trennung des Kantons Basel in zwei Gemeinwesen beschloß] gegeben und publicirt worden, Band 1 (1806) – Band 7 (1837).</p>
+<p>Sammlung der Gesetze und Beschlüsse wie auch der Polizei-Verordnungen welche seit 26. August 1833 für den Kanton Basel-Stadt erlassen worden, Band 1 (1838) – Band 52 (1981).</p>
+<p>Schweitzerisches Museum, 3. Jg., 1786.</p>
+<p>Schweizerische National-Zeitung, Basel 1842 ff.</p>
+<p>Streuber, Wilhelm Theodor: Die Stadt Basel, historisch-topographisch beschrieben, Basel 1854.</p>
+<p>Unpartheyische Betrachtung Der Freymüthigen Gedanken Uber Die Entvölckerung unserer Vatterstadt [Iselin, Johann Rudolf], o. O. o. J. [1758]. Abgelegt in: Staatsarchiv Basel-Stadt, Bürgerrecht B3.</p>
+<p>Wöchentliche Nachrichten aus dem Bericht-Haus zu Basel, Basel 1750−1840.</p>
+<p>Wohleingerichteter Schreib-Calender auf das Jahr nach der heilsamen Geburt Christi 1814, Basel [1813].</p>
+<p>Zeitung für die elegante Welt.</p>
+<p>Zschokke, Heinrich: Volksbildung ist Volksbefreiung! Eine Rede, gehalten in der Versammlung des schweizerischen Volksbildungsvereins zu Lausen den 10. April 1836, Sissach 1836.</p>
+<h3>Literatur</h3>
+<p>Abulafia, David: Das Mittelmeer. Eine Biographie, Frankfurt am Main 2013.</p>
+<p>Alder, Barbara u. a.: Seidenband. Kapital, Kunst und Krise, Liestal 2003.</p>
+<p>Anstein, Hans: Fünfzig Jahre Stadt-Mission in Basel. Rückblick auf die Tätigkeit der Evangelischen Gesellschaft für Stadt-Mission in Basel in den Jahren 1859 bis 1909 nebst Bericht über das fünfzigste Jahresfest (45. Gesellschaftsbericht), Basel 1909.</p>
+<p>Argast, Regula: Die Bürgerrechtsgesetze im Kanton Baselland von 1835 und 1877 als Indikatoren kantonaler, kommunaler und individueller Interessen, Lizentiatsarbeit Universität Basel, Basel 1995.</p>
+<p>Argast, Regula: Bürger machen? Das Scheitern der erleichterten Einbürgerung von Ausländern in der Stadt Zürich 1897–1905, in: Niederhäuser, Peter; Ulrich, Anita (Hg.): Fremd in Zürich – fremdes Zürich? Migration, Kultur und Identität im 19. und 20. Jahrhundert, Zürich 2005, S. 177–196.</p>
+<p>Argast, Regula: Staatsbürgerschaft und Nation. Ausschliessung und Integration in der Schweiz 1848–1933, Dissertation Universität Göttingen (Kritische Studien zur Geschichtswissenschaft 174), Göttingen 2007.</p>
+<p>Arlettaz, Silvia: Citoyens et étrangers sous la République Helvétique 1798–1803, Genf 2005.</p>
+<p>Arnold, Astrid: Die Réveillon-Tapete à l’étrusque. Antike auf Papier «nach Hamiltons bekanntem Werke», Basel 2006.</p>
+<p>Bachmann, Michael: Die Cholera in Basel 1831–1855, Lizentiatsarbeit Universität Basel, Basel 1989.</p>
+<p>Baleva, Martina: Von Basel und Bursa und zurück in die Geschichte einer Beziehung, in: Baleva, Martina (Hg.): Von Basel nach Bursa und zurück. Die Geschichte eines Fotoalbums von Sébah &amp; Joallier, Köln/Weimar/ Wien 2017, S. 7–18.</p>
+<p>Basel 1798. Vive la République Helvétique. Ausst.-Kat., Museum der Kulturen Basel; Karikatur &amp; Cartoon Museum Basel; Basler Papiermühle, Basel 1998.</p>
+<p>Baslerische Mittheilungen zur Förderung des Gemeinwohls, Basel 1826–1831.</p>
+<p>Bauer, Hans: Basel, gestern−heute−morgen. Hundert Jahre Basler Wirtschaftsgeschichte, Basel 1981.</p>
+<p>Bennewitz, Susanne: Basler Juden – französische Bürger. Migration und Alltag einer jüdischen Gemeinde im frühen 19. Jahrhundert, Basel 2008.</p>
+<p>Bennewitz, Susanne: Ein Aussenseiter handelt. Der Kaufmann Isaac Dreyfus (1785–1845) in Basel, Göttingen 2014.</p>
+<p>Berner, Hans; Sieber-Lehmann, Claudius; Wichers, Hermann: Kleine Geschichte der Stadt Basel, Leinfeld-Echterdingen 2008.</p>
+<p>Bergier, Jean-François: Wirtschaftsgeschichte der Schweiz. Von den Anfängen bis zur Gegenwart, Zürich 1990.</p>
+<p>Birkner, Othmar; Rebsamen, Hanspeter: Basel (Gesellschaft für Schweizerische Kunstgeschichte [Hg.]: INSA. Inventar der neueren Schweizer Architektur 2), Basel 1986.</p>
+<p>Blum, Roger: Für Volkssouveränität und Fortschritt. Die Volksbewegungen der Jahre 1830–1833, in: Baselland vor 150 Jahren. Wende und Aufbruch. Neun Beiträge mit Chronologie der Basler Wirren und der Eidgenössischen Regenerationszeit sowie vielen historischen Bildern, Liestal 1983, S. 11–28.</p>
+<p>Boerlin-Brodbeck, Yvonne: Hieronymus Hess, in: Historisches Lexikon der Schweiz (HLS), Version vom 7.5.2020. https://hls-dhs-dss. ch/de/articles/022030/2020-05-07/, abgerufen am 29.7.2021.</p>
+<p>Bolliger, Markus: Protoindustrialisierung und Industrialisierung in Mülhausen und im Elsass (1746–1870). Von Koechlin, Schmaltzer &amp; Cie. zum Manchester Frankreichs und der wirtschaftliche Austausch zwischen Basel und Mülhausen, Kapitel 1–13, unveröffentlichtes Manuskript [Schweizerisches Wirtschaftsarchiv PA 638A], Basel 2011.</p>
+<p>Bonjour, Edgar; Bruckner, Albert: Basel und die Eidgenossen. Geschichte ihrer Beziehungen zur Erinnerung an Basels Eintritt in den Schweizerbund 1501, Basel 1951.</p>
+<p>Bonjour, Edgar: Die Universität Basel von den Anfängen bis zur Gegenwart 1460−1960, Basel 1960.</p>
+<p>Bonvin, Maurice: Die Industriegesellschaft für Schappe Basel, in: Baleva, Martina (Hg.) Von Basel nach Bursa und zurück. Die Geschichte eines Fotoalbums von Sébah &amp; Joallier, Köln/Weimar/Wien 2017, S. 119–128.</p>
+<p>Bors, Marc: Abbitte, Widerruf und Ehrenerklärung. Zur Geschichte der Privatgenugtuung im Ehrverletzungsrecht des 19. Jahrhunderts, in: Kesper-Biermann, Sylvia; Ludwig, Ulrike; Ortmann, Alexandra (Hg.): Ehre und Recht. Ehrkonzepte, Ehrverletzungen und Ehrverteidigungen vom späten Mittelalter bis zur Moderne (Editionen + Dokumentationen 5), Magdeburg 2011, S. 133–141.</p>
+<p>Borutta, Manuel: Genealogie der Säkularisierungstheorie. Zur Historisierung einer grossen Erzählung der Moderne, in: Geschichte und Gesellschaft, Heft 3, Jg. 36, 2010, S. 347–376.</p>
+<p>Bossart, Irina: 150 Jahre Basler Stadtmission, in: Basler Stadtbuch, Basel 2009, S. 143–145.</p>
+<p>Brassel-Moser, Ruedi: Trennung als Preis der Einheit? «Übernationalität», Konfliktmanagement und Strukturwandel der Basler Missionsgesellschaft im 20. Jahrhundert in der Schweiz und in Süddeutschland, in: Bogner, Artur u. a. (Hg.): Weltmission und religiöse Organisationen. Protestantische Missionsgesellschaften im 19. und 20. Jahrhundert, Würzburg 2004, S. 355−395.</p>
+<p>Braun, Patrick: Die Römisch-katholische Kirche in Basel 1798–1998, in: Basler Stadtbuch, Basel 1998, S. 173–176.</p>
+<p>Braunschweig, Sabine: 750 Jahre Bürgerspital Basel. Vom geistlichen Armenspital zur modernen sozial-medizinischen Institution. Die bewegte Geschichte des Bürgerspital Basel, in: Horizont. Das Magazin des Bürgerspital Basel, Mai 2015, S. 7−20.</p>
+<p>Brönnimann, Stephan; Brugnara, Yuri: D’Annone’s Meteorological Series from Basel, 1755–1804, in: Brönnimann, Stephan (Hg.): Swiss Early Instrumental Meteorological Series (Geographica Bernensia G96), Bern 2020, S. 119–126.</p>
+<p>Brötel, Dieter: Die europäische und asiatische Seidenindustrie 1860−1930, in: Geschichte und Gesellschaft, Heft 1, Jg. 28, Göttingen 2002, S. 109–144.</p>
+<p>Brunner, Hans: Mümliswil in den Lebenserinnerungen von Beat Walter (25.1.1819 bis 23.5.1903), in: Historischer Verein des Kantons Solothurn (Gh.): Jahrbuch für solothurnische Geschichte 66, Trimbach 1993, S. 194− 196.</p>
+<p>Bubb, Werner: Das Stadtarztamt zu Basel. Seine Entwicklungsgeschichte vom Jahre 1529 bis zur Gegenwart. Inaugural-Dissertation zur Erlangung der Doktorwürde der medizinischen Fakultät der Universität Basel, Zürich 1942.</p>
+<p>Bühler, Hans: Rund um ‹Café Spitz› und Vogel Gryff, in: Basler Stadtbuch, Basel 1968, S. 207–226.</p>
+<p>Bürgergemeinde der Stadt Basel: Frauenstimmrecht in der BG, 11.2.21. https://bgbasel.ch/de/home/frauenstimmrecht-in-der-bg.html, abgerufen am 28.6.2021.</p>
+<p>Burckhardt, Abel Th.: Johann Rudolf Burckhardt eine Pfarrergestalt aus d. alten Basel, seine Frömmigkeit und sein Wirken, sein Familienleben und die religiösen und kirchlichen Verhältnisse seiner Zeit, Basel 1944.</p>
+<p>Burckhardt, Albrecht: Demographie und Epidemiologie der Stadt Basel während der letzten drei Jahrhunderte. 1601–1900 (Programm zur Rektoratsfeier der Universität Basel 1908), Basel 1908.</p>
+<p>Burckhardt, Paul: Die Geschichte der Stadt Basel von der Trennung des Kantons bis zur neuen Bundesverfassung, 1833–1848, 1. Teil (90. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1912.</p>
+<p>Burckhardt, Paul: Die Geschichte der Stadt Basel von der Trennung des Kantons bis zur neuen Bundesverfassung, 1833–1848, 2. Teil (91. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1913.</p>
+<p>Burckhardt, Paul: Die Geschichte der Stadt Basel von der Trennung des Kantons bis zur neuen Bundesverfassung, 1833–1848, 3. Teil (92. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1914.</p>
+<p>Burckhardt, Paul: Geschichte der Stadt Basel. Von der Zeit der Reformation bis zur Gegenwart, Basel 1942.</p>
+<p>Burckhardt-Burckhardt, Carl: Aus dem Tagebuche einer Baslerin zur Zeit des Durchmarsches der Allierten, in: Beiträge zur vaterländischen Geschichte, Jg. 14, Heft 4, Basel 1896, S. 365–399.</p>
+<p>Burckhardt-Finsler, Albert: Der Durchmarsch der Alliierten durch Basel, in: Jahrbuch für Schweizerische Geschichte 23, Zürich 1898, S. 31–88.</p>
+<p>Burckhardt-Sarasin, Carl: Die geschäftliche Tätigkeit von Johann Rudolf Forcart-Weis (1749–1834), Basel 1950.</p>
+<p>Burckhardt-Sarasin, Carl: Die Patenkinder und Mitpaten des Johann Rudolf Forcart-Weis 1749–1834 in ihren Familien- und Geschäftsbeziehungen, in: Der Schweizer Familienforscher 20, 1953a, S. 65–91.</p>
+<p>Burckhardt-Sarasin, Carl: Ratsherr Emanuel Burckhardt-Sarasin und sein ‹Ratsherrenkasten›, in: Basler Jahrbuch 1953b, S. 67–99.</p>
+<p>Burckhardt-Seebass, Christine: Konfirmation in Stadt und Landschaft Basel. Volkskundliche Studie zur Geschichte eines kirchlichen Festes, Bonn/Basel 1975.</p>
+<p>Burckhardt-Thurneysen, Valeria (Hg.): Jugenderinnerungen von Valeria Thurneysen geb. Ryhiner (1815–1894), Basel 1900.</p>
+<p>Burckhardt-Wildt, Daniel: Tag=buch der Merckwürdigsten Vorfällen, welche sich seit dem Jahr 1789 in diesen für unsere Stadt BASEL unvergesslichen Zeiten zugetragen haben, hg. von André Salvisberg, Basel 1997.</p>
+<p>Burghartz, Susanna; Herren, Madeleine: Seide, Sand, Papier. Ein Basler Sommerpalais und seine globalen Bezüge, Basel 2021.</p>
+<p>Carrière, Charles: Négociants marseillais au XVIIIe siècle, Marseille 1973.</p>
+<p>Christ, Heinrich, Zwischen Religion und Geschäft. Die Basler Missions-Handlungs-Gesellschaft und ihre Unternehmensethik, 1859−1917, Stuttgart 2015.</p>
+<p>Christ-von Wedel, Christine; Kuhn, Thomas K. (Hg.): Basler Mission. Menschen, Geschichte, Perspektiven 1815–2015, Basel 2015.</p>
+<p>Cimino, Paola: «Da hat die Geselligkeit edeln Gehalt». Das Riggenbach’sche Kränzchen als Beitrag zur Geselligkeit und zum Musikleben im Basel des 19. Jahrhunderts, Lizentiatsarbeit Universität Basel, Basel 2004.</p>
+<p>Cimino, Paola: Fremdsprachenerwerb in der Berufsausbildung von Söhnen patrizischer Unternehmerfamilien aus der Deutschschweiz um 1800, in: Häberlein, Mark; Kuhn, Christian (Hg.): Fremde Sprachen in frühneuzeitlichen Städten. Lernende, Lehrende und Lehrwerke, Wiesbaden 2010, S. 249–263.</p>
+<p>Cizakaya, Murat: A short history of the Bursa silk industry (1500−1900), in: Journal of the Economic and Social History of the Orient, Heft 1/2, Jg. 23, Leiden 1980, S. 142–152.</p>
+<p>Cottier, Maurice; Raciti, Silvio: From Honour to Subjectivity. Interpersonal Violence in Basel 1750–1868 and Berne 1861–1944, in: Crime, Histoire &amp; Sociétés / Crime, History &amp; Societies 17/2, 2013, S. 71–100.</p>
+<p>Décultot, Elisabeth; Fulda, Daniel (Hg.): Sattelzeit. Historiographiegeschichtliche Revisionen, Berlin 2016.</p>
+<p>Degen, Bernard: Consumer Societies in Switzerland: From Local Self-help Organizations to a Single National Co-operative, in: Hilson, Mary; Neunsinger, Silke; Patmore, Greg (Hg.): A Global History of Consumer Co-operation since 1850. Movements and Businesses (Studies in Global Social History 28), Leiden/Boston 2017, S. 614–641.</p>
+<p>Degen, Bernard; Sarasin, Philipp: Kultur und Bildung, Kirchen und religiöses Leben, in: Degen, Bernard u. a.: Basel-Stadt, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.5.2017. https://hls-dhs-dss.ch/ de/articles/007478/2017-05-30/, abgerufen am 10.10.2023.</p>
+<p>Degen, Bernard u. a.: Basel-Stadt, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.5.2017. https://hls-dhs-dss.ch/ de/articles/007478/2017-05-30/, abgerufen am 10.10.2023.</p>
+<p>Dejung, Christof: Die Fäden des globalen Marktes. Eine Sozial- und Kulturgeschichte des Welthandels am Beispiel der Handelsfirma Gebrüder Volkart 1851−1999, Köln/Weimar/Wien 2013.</p>
+<p>De Koster, Margo; Deruytter, Barbara; Vrints, Antoon: Police-Public Relations in Transition in Antwerp, 1840s–1914, in: European Review of History 25/1, 2017, S. 147–165.</p>
+<p>Doppler, Paul: Organisation und Aufgabenkreis der Stadtgemeinde Basel (1803–1876), Basel 1933.</p>
+<p>Dürr, Emil: Jacob Burckhardt als politischer Publizist. Mit seinen Zeitungsberichten aus den Jahren 1844/45, aus dem Nachlass hg. von Werner Kaegi, Zürich 1937.</p>
+<p>Dürr, Renate: «Der Dienstbote ist kein Taglöhner …». Zum Gesinderecht (16. bis 19. Jahrhundert), in: Gerhard, Ute (Hg.): Frauen in der Geschichte des Rechts. Von der Frühen Neuzeit bis zur Gegenwart, München 1997, S. 115–139.</p>
+<p>Durchhardt, Heinz. Europa am Vorabend der Moderne, 1650–1800 (Handbuch der Geschichte Europas 6), Stuttgart 2003.</p>
+<p>Earle, Rebecca: Introduction: letters, writers and the historian, in: Earle, Rebecca (Hg.): Epistolary selves. Letters and Letter-Writers, 1600–1945, Aldershot 1999, S. 1−12.</p>
+<p>Eggenschwiler, Diana: Vom Gwäsch, in: Quergängerin. Baselbieterinnen auf dem Weg, Heft 3, Basel 1994, S. 51–55.</p>
+<p>Ehmer, Josef: Soziale Traditionen in Zeiten des Wandels. Arbeiter und Handwerker im 19. Jahrhundert (Studien zur Historischen Sozialwissenschaft 22), Frankfurt am Main/ New York 1994.</p>
+<p>Eibach, Joachim: Das offene Haus. Kommunikative Praxis im sozialen Nahraum der europäischen Frühen Neuzeit, in: Zeitschrift für Historische Forschung 38, 2011, S. 621−664.</p>
+<p>Engehausen, Frank: Geschichte des Grossherzogtums Baden 1806−1918, Karlsruhe 2005.</p>
+<p>Epple, Ruedi; Schnyder, Albert: Wandel und Anpassung. Die Landwirtschaft des Baselbiets im 19. Jahrhundert, Liestal 1996.</p>
+<p>Erne, Emil: Die schweizerischen Sozietäten. Lexikalische Darstellung der Reformgesellschaften des 18. Jahrhunderts in der Schweiz, Zürich 1988.</p>
+<p>Etter, Hansueli F.: Armut, Krankheit, Tod im frühindustriellen Basel. Der Spitalfriedhof St. Johann in Basel (Veröffentlichungen aus dem Naturhistorischen Museum Basel), Basel 1993.</p>
+<p>Fankhauser, Andreas: Kontinentalsperre, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.10.2008. https://hls-dhs-dss.ch/ de/articles/013928/2008-10-30/, abgerufen am 20.10.2023.</p>
+<p>Fink, Paul: Vom Passementerhandwerk zur Bandindustrie. Ein Beitrag zur Geschichte des alten Basel (157. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1979.</p>
+<p>Fink, Paul: Geschichte der Basler Bandindustrie 1550–1800 (Basler Beiträge zur Geschichtswissenschaft 147), Basel/Frankfurt am Main 1983.</p>
+<p>Fischer, Andreas: Mauern, Schanzen, Tore. Basels Befestigungen im Wandel der Zeit, Basel 2007.</p>
+<p>Franc, Andrea: Im Austausch mit der Welt: Schweizer Unternehmen im 19. und 20. Jahrhundert, Baden 2021.</p>
+<p>Frei, Heinrich: Das Theologische Alumneum in Basel 1894–1944, Basel 1944.</p>
+<p>Frey, Hans: Die Staatsumwälzung des Cantons Basel im Jahre 1798 (54. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1876.</p>
+<p>Frey, Hans: Basel während der Helvetik (1798–1803) (55. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1877.</p>
+<p>Frey, Hans Peter (Red.): Index Typographorum Editorumque Basiliensium: Johann Georg Neukirch (1787–1857). https://ub.unibas.ch/ itb/druckerverleger/johann-georg-neukirch/, abgerufen am 24.8.2024.</p>
+<p>Fridrich, Anna C.: Industriegesellschaft für Schappe, in: Historisches Lexikon der Schweiz (HLS), Version vom 19.1.2007. https:// hls-dhs-dss.ch/de/articles/043013/2007-01-19/, abgerufen am 31.1.2024.</p>
+<p>Fritzsche, Bruno: Das Quartier als Lebensraum, in: Conze, Werner; Engelhardt, Ulrich (Hg.): Arbeiterexistenz im 19. Jahrhundert. Lebensstandard und Lebensgestaltung deutscher Handwerker (Industrielle Welt 33), Stuttgart 1981, S. 92–113.</p>
+<p>Füllberg-Stollberg, Katja: «Ein Sauerteig christlichen Lebens in der Masse afrikanischen Heidentums.» Westindische Konvertiten an der Goldküste (1843−1850), in: Habermas, Rebekka; Hölzl, Richard (Hg.): Mission global. Eine Verflechtungsgeschichte seit dem 19. Jahrhundert, Köln/Weimar/Wien 2014, S. 31−57.</p>
+<p>Gäbler, Ulrich: «Auferstehungszeit». Erweckungsprediger des 19. Jahrhunderts. Sechs Porträts, München 1991.</p>
+<p>Gäbler, Ulrich: Die Schweizer – ein «Auserwähltes Volk»?, in: Kuhn, Thomas K.; Sallmann, Martin (Hg.): Aufbrüche. Ausgewählte Aufsätze zur Geschichte des europäischen und amerikanischen Protestantismus, Leipzig 2022, S. 321–334.</p>
+<p>Gailus, Manfred: Contentious Food Politics: Sozialer Protest, Märkte und Zivilgesellschaft (18.–20. Jahrhundert), in: Schriftenreihe der Arbeitsgruppe Zivilgesellschaft: historisch sozialwissenschaftliche Perspektiven, Discussion Papers, Nr. SP IV 2004–504, Berlin 2004.</p>
+<p>Gantner, Theo: Volkskundliche Probleme einer konfessionellen Minderheit. Dargestellt an der römisch-katholischen Diaspora der Stadt Basel, Winterthur 1970.</p>
+<p>Gantner-Schlee, Hildegard: Hieronymus Annoni (1697–1770). Ein Wegbereiter des Basler Pietismus, Liestal 2001.</p>
+<p>Gartmann, Christian: Seuchen und Seuchenmassnahmen in Baselstadt und Baselland in den Jahren 1784–1815, Inauguraldissertation zur Erlangung der Doktorwürde der hohen medizinischen Fakultät der Universität Basel, Chur 1930.</p>
+<p>Gauss, Karl Otto u. a.: Geschichte der Landschaft Basel und des Kantons Basellandschaft, Liestal 1932.</p>
+<p>Gebhard, Rudolf: Umstrittene Bekenntnisfreiheit. Der Apostolikumstreit in den Reformierten Kirchen der Deutschschweiz im 19. Jahrhundert, Zürich 2003.</p>
+<p>Geiger, Max: Aufklärung und Erweckung. Beiträge zur Erforschung Johann Heinrich Jung-Stillings und der Erweckungstheologie, Zürich 1963.</p>
+<p>Gestrich, Andreas: Neuzeit, in: Gestrich, Andreas; Krause, Jens; Mitterauer, Michael: Geschichte der Familie, Stuttgart 2020, S. 364–652.</p>
+<p>Gossman, Lionel: Basel in der Zeit Jacob Burckhardts. Eine Stadt und vier unzeitgemässe Denker, Basel 2005.</p>
+<p>Graber, Rolf: Demokratie und Revolten. Die Entstehung der direkten Demokratie in der Schweiz, Zürich 2017.</p>
+<p>Graf, Friedrich Wilhelm: Die Wiederkehr der Götter. Religion in der modernen Kultur, 2. Auflage, München 2004.</p>
+<p>Grieder, Fritz: Von der Harzpfanne zum Gasometer (100 Jahre Basler Gasversorgung), in: Basler Jahrbuch 1952, S. 121–135.</p>
+<p>Grießinger, Andreas: Handwerksstreiks in Deutschland während des 18. Jahrhunderts. Begriff – Organisationsformen – Ursachenkonstellationen, in: Engelhardt, Ulrich (Hg.): Handwerker in der Industrialisierung. Lage, Kultur und Politik vom späten 18. bis ins frühe 20. Jahrhundert (Industrielle Welt 37), Stuttgart 1984, S. 407–434.</p>
+<p>Grütter, Karin: Verheimlichte Schwangerschaft und Niederkunft/Kindstötung. Frauen vor dem Basler Kriminalgericht 1845–1862, Basel 1983.</p>
+<p>Gruner, Erich: Die Arbeiter in der Schweiz im 19. Jahrhundert. Soziale Lage, Organisation, Verhältnis zu Arbeitgeber und Staat (Helvetia Politica. Schriften des Forschungszentrums für Geschichte und Soziologie der schweizerischen Politik an der Universität Bern, Serie 1, Band 3), Bern 1968.</p>
+<p>Gschwind, Eva: Auf zur Urne! Direkte Demokratie in Basel von den Anfängen bis heute, Basel 2022.</p>
+<p>Gschwind, Franz: Bevölkerungsentwicklung und Wirtschaftsstruktur der Landschaft Basel im 18. Jahrhundert. Ein historisch-demographischer Beitrag zur Sozial- und Wirtschaftsgeschichte mit besonderer Berücksichtigung der langfristigen Bevölkerungsentwicklung von Stadt (seit 1100) und Landschaft (seit 1500) Basel (Quellen und Forschungen zur Geschichte und Landeskunde des Kantons Baselland 15), Liestal 1977.</p>
+<p>Guyer, Franziska: «Geschickteste Handelsmänner» und «arme elende Menschen». Lebensverhältnisse in der Kleinbasler Ober-und Unterschicht (1770–1817), Lizentiatsarbeit Universität Basel, Basel 2009.</p>
+<p>Guyer, Franziska: Alltag in Kleinbasel – von den Sorgen der kleinen Leute, in: Hotz, Gerhard; Greyerz, Kaspar von; Burkart, Lucas (Hg.): Theo der Pfeifenraucher. Leben in Kleinbasel um 1800, Basel 2010, S. 178–199.</p>
+<p>Gyr, Ueli: Lektion fürs Leben. Welschlandaufenthalte als traditionelle Bildungs-, Erziehungs- und Übergangsmuster, Zürich 1989.</p>
+<p>Gysin, Werner: Zensur und Pressfreiheit in Basel während der Mediation und Restauration, Dissertation Universität Basel, Basel 1944.</p>
+<p>Habermas, Rebekka: Männer und Frauen des Bürgertums. Eine Familiengeschichte (1750–1850), Göttingen 2000.</p>
+<p>Habermas, Rebekka: Von Anselm von Feuerbach zu Jack the Ripper. Recht und Kriminalität im 19. Jahrhundert. Ein Literaturbericht, in: Rechtsgeschichte 3, 2003, S. 128–163.</p>
+<p>Habicht, Peter: Basel – Mittendrin am Rande. Eine Stadtgeschichte, Basel 2008.</p>
+<p>Habicht, Peter; Matt, Christoph: Das Spalentor und die Vorstadt. Geschichte eines Basler Wahrzeichens, Basel 2008.</p>
+<p>Haeberli, Wilfried: Die Geschichte der Basler Arbeiterbewegung von den Anfängen bis 1914 (164. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1968.</p>
+<p>Haenger, Peter: Sklaverei und Sklavenemanzipation an der Goldküste. Ein Beitrag zum Verständnis von sozialen Abhängigkeitsbeziehungen in Westafrika, Basel 1997.</p>
+<p>Haenger, Peter: Pioniere wider Willen: Die missionsinterne Sklavenbefreiung an der Goldküste, in: Christ-von Wedel, Christine; Kuhn, Thomas K. (Hg.): Basler Mission. Menschen, Geschichte, Perspektiven 1815−2015, Basel 2015, S. 101−106.</p>
+<p>Hagenbach, Karl R.: Kirchengeschichte von der ältesten Zeit bis zum 19. Jahrhundert. In Vorlesungen. Band 7. Die Kirche des 18. und 19. Jahrhunderts. Zweiter Theil, 4. Auflage, Leipzig 1872.</p>
+<p>Hagenbuch, Bernadette: Wissenschaftlicher Kommentar, in: Hagenbuch, Bernadette (Hg.): «Heute war ich bey Lisette in der Visite». Die Tagebücher der Basler Pfarrersfrau Ursula Bruckner-Eglinger 1816−1833, Basel 2014, S. 13–88.</p>
+<p>Haller, Lea: Transithandel. Geld- und Warenströme im globalen Kapitalismus, Berlin 2019.</p>
+<p>Haumann, Heiko: «Das Land des Friedens und des Heils». Russland zur Zeit Alexanders I. als Utopie der Erweckungsbewegung am Oberrhein, in: Pietismus und Neuzeit, Jg. 18, Göttingen 1992, S. 132–154.</p>
+<p>Haumann, Heiko (Hg.): Acht Jahrhunderte Juden in Basel. 200 Jahre Israelitische Gemeinde Basel, Basel 2005.</p>
+<p>Hauzenberger, Hans: Der «Verein zur Beförderung christlich-theologischer Wissenschaft und christlichen Lebens» und seine Stiftungsprofessur in Basel, in: Ramstein, Christoph; Dürr, Hans (Hg.): Basileia. Festschrift für Eduard Buess, Lörrach/Basel 1993, S. 127–144.</p>
+<p>Hauzenberger, Hans: Basel und die Bibel. Die Bibel als Quelle ökumenischer, missionarischer, sozialer und pädagogischer Impulse in der ersten Hälfte des 19. Jahrhunderts. Jubiläumsschrift der Basler Bibelgesellschaft, Basel 1996.</p>
+<p>Hebeisen, Erika: Zur Vergesellschaftung der pietistischen Bewegung am Übergang in die Moderne. Das Beispiel Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde. 104, Basel 2004, S. 183–211.</p>
+<p>Hebeisen, Erika: leidenschaftlich fromm. Die pietistische Bewegung in Basel 1750–1830, Köln/Weimar/Wien 2005.</p>
+<p>Hecht, Michael: Handeln in der Hungerkrise 1846/47: Nahrungsproteste und ‹Krisenmanagement› in Preußen, in: Collet, Dominik; Lassen, Thore; Schanbacher, Ansgar (Hg.): Handeln in Hungerkrisen. Neue Perspektiven auf soziale und klimatische Vulnerabilität, Göttingen 2012, S. 131–147.</p>
+<p>Heck, Brigitte: «Hart an der Grenze». Die Textilherstellung als Leitindustrie am Hochrhein, in: Kaufmann, Uri Robert: Die Schweiz und der deutsche Südwesten. Wahrnehmung, Nähe und Distanz im 19. und 20. Jahrhundert, Ostfildern 2006, S. 41–63.</p>
+<p>Heizmann, Lena: Lohn, Kündigung und Geschirr. Arbeit und Arbeitskonflikte vor dem Basler Dienstbotenrichter 1847–1849, Basel 2016.</p>
+<p>Herrmann, Bernd: «… mein Acker ist die Zeit». Aufsätze zur Umweltgeschichte, Göttingen 2011.</p>
+<p>Hess, Stefan: Eine Damnatio memoriae und ihre Folgen, in: Mortzfeld, Benjamin(Hg.): Menschenrechte und Revolution. Peter Ochs (1752–1821), Basel 2021, S. 117–147.</p>
+<p>Hess, Stefan; Lochman, Tomas: Basilea. Ein Beispiel städtischer Repräsentation in weiblicher Gestalt, Basel 2001.</p>
+<p>Hettling, Manfred: Bürgerlichkeit. Eine ungesellige Geselligkeit, in: Hettling, Manfred; König, Mario u. a.: Eine kleine Geschichte der Schweiz. Der Bundesstaat und seine Traditionen, Frankfurt am Main 1998.</p>
+<p>Heusler, Andreas: Die Trennung des Kantons Basel, 2 Bände, Zürich 1839−1842.</p>
+<p>Heusler, Andreas: Geschichte der Stadt Basel, Basel 1917.</p>
+<p>Heuss, Robert: Basler Polizei 1816–2016, Basel 2016.</p>
+<p>Higy, Camille: Vom Zunftzwang zur Gewerbefreiheit in Basel. Gewerbepolitik der Stadt Basel in den Jahren 1803−71, Olten 1919.</p>
+<p>Hippel, Wolfgang von; Stier, Bernhard: Europa zwischen Reform und Revolution, 1800–1850 (Handbuch der Geschichte Europas 7), Stuttgart 2012.</p>
+<p>Hirschfeld, Christian Cajus Lorenz: Die Basler vor 200 Jahren. Mit einem Essay von Markus Kutter, Basel 1985.</p>
+<p>His, Eduard: Geschichte des neuern schweizerischen Staatsrechts. Erster Band: Die Zeit der Helvetik und der Vermittlungsakte 1798 bis 1813, Basel 1920, S. 105–107.</p>
+<p>His, Eduard: Ratsherr Andreas Heusler und seine Politik in der Basler Zeitung, in: Basler Zeitschrift für Geschichte und Altertumskunde 28, 1929, S. 249–317.</p>
+<p>Hoffmann, Georg: Die grossbritannische Schweizer-Legion im Krimkrieg: Werbung und Schicksal, in: Zeitschrift für schweizerische Geschichte 22/4, 1942, S. 573–595.</p>
+<p>Hofmeier, Thomas: Der Mähly-Plan. Ein Abbild der Stadt Basel (Basler Kostbarkeiten 38), Basel 2017.</p>
+<p>Holenstein, André: Die Helvetik als reformabsolutistische Republik, in: Schläppi, Daniel (Hg.): Umbruch und Beständigkeit. Kontinuitäten in der Helvetischen Revolution von 1798, Basel 2009, S. 83–104.</p>
+<p>Holenstein, André: Hintersassen, in: Historisches Lexikon der Schweiz (HLS), Version vom 5.12.2014. https://hls-dhs-dss.ch/de/ articles/015998/2014-12-05/, abgerufen am 23.8.2021.</p>
+<p>Hotz, Gerhard; Gianola, Angelo; Huppenbauer, Hanns Walter; Meyer, Liselotte: Kranksein in Basel – der Anfang vom Ende, in: Hotz, Gerhard; Greyerz, Kaspar von; Burkart, Lucas (Hg.): Theo der Pfeifenraucher. Leben in Kleinbasel um 1800, Basel 2010, S. 200–209.</p>
+<p>Huber, Dorothee: Architekturführer Basel. Die Baugeschichte der Stadt und ihrer Umgebung, Basel 2014.</p>
+<p>Hug, Wolfgang: Kleine Geschichte Badens, Stuttgart 2006.</p>
+<p>Im Hof, Ulrich: Isaak Iselin und die Spätaufklärung, Bern/München 1967.</p>
+<p>Im Hof, Ulrich: Der Sozietätsgedanke im 18. Jahrhundert, in: Pietismus und Neuzeit 7, Göttingen 1981, S. 9–27.</p>
+<p>Inalcik, Halil: An economic and social history of the Ottoman Empire, Band 2, Cambridge 1994.</p>
+<p>Iseli, Andrea: Krisenbewältigung im 17. Jahrhundert. Die Rolle der guten Policey, in: Schlögl, Rudolf; Hoffmann-Rehnitz, Philip R.; Wiebelm, Eva (Hg.): Die Krise in der Frühen Neuzeit, Göttingen 2016, S. 147–167.</p>
+<p>Iselin, Isaak: Gesammelte Schriften Band 3 (= Schriften zur Pädagogik), hg. von Marcel Naas, Basel 2014.</p>
+<p>Jakob, Janine. Mode der sozialen Elite, in: Zürcher Kunstgesellschaft / Kunsthaus Zürich (Hg.): Fashion Drive. Extreme Mode in der Kunst, Bielefeld 2018.</p>
+<p>Janner, Sara: Judenmission in Basel in der ersten Hälfte des 19. Jahrhunderts. Ein Forschungsbericht, in: Basler Zeitschrift für Geschichte und Altertumskunde 104, Basel 2004, S. 31–81.</p>
+<p>Janner, Sara: Korporative und private Wohltätigkeit. «Stadtgemeinde» und Stadtbürgertum als Träger der Armenpflege im 19. Jahrhundert, in: Mooser, Josef; Wenger, Simon (Hg.): Armut und Fürsorge in Basel. Armutspolitik vom 13. Jahrhundert bis heute, Basel 2011, S. 101–109.</p>
+<p>Janner, Sara: Zwischen Machtanspruch und Autoritätsverlust. Zur Funktion von Religion und Kirchlichkeit in Politik und Selbstverständnis des konservativen alten Bürgertums im Basel des 19. Jahrhunderts, Basel 2012.</p>
+<p>Janner, Sara: GGG 1777–1914. Basler Stadtgeschichte im Spiegel der «Gesellschaft für das Gute und Gemeinnützige» (193./194. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 2015/16.</p>
+<p>Janner, Sara: Peter Ochs-Vischer (1752–1821): Geschichte als Vermächtnis, in: Basler Zeitschrift für Geschichte und Altertumskunde 121, 2021, S. 161–183.</p>
+<p>Jecker, Hanspeter: «Und ob es schon nicht in Kana wäre…». Die Rückkehr des Täufertums nach Basel und die Anfänge einer «unteren» und «oberen» Gemeinde 1770–1800, in: Mennonitica Helvetica 26/27, Biel 2004, S. 7–91.</p>
+<p>Jenkins, Paul: Die Basler Mission im kolonialen Spannungsfeld Indien: eine Einladung zu Imperialismus- und Nationalismusforschung im Archiv der Basler Mission, in: Traverse, Zeitschrift für Geschichte 5/2, 1998, S. 41−55.</p>
+<p>Jenny, Ernst: Basel zur Biedermeierzeit, in: Basler Jahrbuch 1949, S. 21–58.</p>
+<p>Jensen, Uffa: Können Eltern zu viel lieben? Adolf Matthias’ Ratgeber ‹Wie erziehen wir unsern Sohn Benjamin› (1897), in: Max-Planck-Institut für Bildungsforschung: Geschichte der Gefühle – Einblicke in die Forschung, Oktober 2013. https://hdl.handle. net/11858/00-001M-0000-0027-782F-3, abgerufen am 1.12.2021.</p>
+<p>Jessen, Ralph: Gewaltkriminalität im Ruhrgebiet zwischen bürgerlicher Panik und proletarischer Subkultur (1870–1914), in: Kift, Dagmar (Hg.): Kirmes – Kneipe – Kino. Arbeiterkultur im Ruhrgebiet zwischen Kommerz und Kontrolle (1850–1914) (Forschungen zur Regionalgeschichte 6), Paderborn 1992, S. 226–255.</p>
+<p>Jordan, Stefan: Die Sattelzeit – eine Epoche für die Theologiegeschichte?, in: Schweizerische Zeitschrift für Religions- und Kulturgeschichte 105, 2011;</p>
+<p>Joris, Elisabeth: «Der Himmel hat uns dagegen mit Gütern entschädigt…». Geschlechter-und Familienkonzeptionen in der Korrespondenz einer Schweizer Pfarrfamilie (1. Hälfte des 19. Jahrhunderts), in: Hämmerle, Christa; Saurer, Edith (Hg.): Briefkulturen und ihr Geschlecht. Zur Geschichte der privaten Korrespondenz vom 16. Jahrhundert bis heute, Wien/Köln/Weimar 2003, S. 89−112.</p>
+<p>Jütte, Daniel: Die Augen der Stadt, in: Neue Zürcher Zeitung, 27.2.2015. https://www.nzz. ch/feuilleton/die-augen-der-stadt-1.18 491900, abgerufen am 27.2.2021.</p>
+<p>Kaegi, Werner: Jacob Burckhardt. Eine Biographie. Band 2: Das Erlebnis der geschichtlichen Welt, Basel 1950.</p>
+<p>Kästli, Tobias: Die Schweiz – eine Republik in Europa. Geschichte des Nationalstaats seit 1798, Zürich 1998.</p>
+<p>Kahlbaum, Georg W. A.: Christian Friedrich Schönbein 1799–1868, Düsseldorf 1899.</p>
+<p>Kahlbaum, Georg W. A.: Aus Christian Schönbeins Leben, in: Basler Jahrbuch 1900, S. 205–227.</p>
+<p>Kalt, Monica: Europa im Ersten Koalitionskrieg und der Frieden von Basel, in: Simon, Christian (Hg.): Basler Frieden 1795. Revolution und Krieg in Europa, Basel 1995, S. 17–53.</p>
+<p>Kantonales Laboratorium Basel-Stadt (Hg.): Gewässerte Milch, verdorbenes Fett und radioaktives Gemüse. 125 Jahre Kantonales Laboratorium Basel-Stadt, Basel 2018.</p>
+<p>Kaschuba, Wolfgang: Vom Gesellenkampf zum sozialen Protest. Zur Erfahrungs- und Konfliktdisposition von Gesellen-Arbeitern in den Vormärz- und Revolutionsjahren, in: Engelhardt, Ulrich (Hg.): Handwerker in der Industrialisierung. Lage, Kultur und Politik vom späten 18. bis ins frühe 20. Jahrhundert (Industrielle Welt 37), Stuttgart 1984, S. 381–406.</p>
+<p>Keller, Christian: Visionen, Volkshetze, Betrügereien. Der Weg zum modernen Steuerstaat am Beispiel der Kantone Basel-Stadt und Basel-Landschaft (1833–1928), Zürich 2017.</p>
+<p>Keller, Eva: Verschlossene Türen zur Macht? Frauen in der Basler Straffälligenhilfe des 19. Jahrhunderts, in: Schweizerische Zeitschrift für Geschichte 68/1, 2018, S. 151–168.</p>
+<p>Keller, Eva: Auf Bewährung. Die Straffälligenhilfe im Raum Basel im 19. Jahrhundert, Tübingen 2019.</p>
+<p>Kobelt, Sandra: Nonkonformist am Pranger. Die Entwicklung von Johannes Frey vom Pietisten zum Anhänger der Revolution 1743–1800, Bern 1998.</p>
+<p>Koch, Arnd: Die Grundlagen des deutschen Strafverfahrens. Zehn verbreitete Fehlvorstellungen und ihre notwendige Korrektur, in: Steinberg, Georg (Hg.): Recht und Macht. Zur Theorie und Praxis von Strafe. Festschrift für Heinrich Rüping zum 65. Geburtstag, München 2008, S. 393–408.</p>
+<p>Koch, Arnd: Das Jahrhundert der Strafrechtskodifikation: Von Feuerbach zum Reichsstrafgesetzbuch, in: Zeitschrift für die gesamte Strafrechtswissenschaft 122, Berlin/ New York 2010, S. 741–756.</p>
+<p>Koelner, Paul: Die Safranzunft zu Basel und ihre Handwerke und Gewerbe, Basel 1935.</p>
+<p>Koelner, Paul: Basler Zunftherrlichkeit. Ein Bilderbuch der Zünfte und Gesellschaften, Basel 1942, S. 191.</p>
+<p>Konrad, Dagmar: Missionsbräute. Pietistinnen des 19. Jahrhunderts in der Basler Mission, 4. bearbeitete Auflage, Münster 2013.</p>
+<p>Koselleck, Reinhart: Einleitung, in: Ders. (Hg.): Geschichtliche Grundbegriffe. Historisches Lexikon zur politisch-sozialen Sprache in Deutschland, Band 1, Stuttgart 1972.</p>
+<p>Kradolfer, Wilhelm: Aus den Erinnerungsblättern eines Muttenzers, in: Basler Jahrbuch 1938, S. 103−115.</p>
+<p>Krämer, Daniel: «Menschen grasten nun mit dem Vieh». Die letzte grosse Hungerkrise der Schweiz 1816/17. Mit einer theoretischen und methodischen Einführung in die historische Hungerforschung, Basel 2015.</p>
+<p>Krämer, Daniel: «Theuerung! Hunger! War bald das allgemeine Losungswort». Die Teuerungs- und Hungerkrise der Jahre 1816/17, in: Traverse, Zeitschrift für Geschichte 24/3, 2017, S. 63–80.</p>
+<p>Krauthammer, Pascal: Die rechtliche und gesellschaftliche Stellung der Juden in der Schweiz, in: Schweizerischer Israelitischer Gemeindebund (Hg.): Jüdische Lebenswelt Schweiz, Zürich 2004, S. 101–119.</p>
+<p>Kreis, Georg; Wartburg, Beat von (Hg.): Basel – Geschichte einer städtischen Gesellschaft, Basel 2000.</p>
+<p>Kriemler, Daniel: Basler Lesegesellschaft 1825− 1915. Eine Kollektivbiographie im sozialen und politischen Kontext der Basler Geschichte des 19. Jahrhunderts, Basel 2016.</p>
+<p>Kuhn, Bärbel: Mitwohnen im 19. und frühen 20. Jahrhundert, in: Eibach, Joachim; Schmidt-Voges, Inken (Hg.): Das Haus in der Geschichte Europas. Ein Handbuch, Berlin/ Boston 2015, S. 373–388.</p>
+<p>Kuhn, Thomas K.: Der junge Alois Emanuel Biedermann. Lebensweg und theologische Entwicklung bis zur «Freien Theologie» 1819–1844, Tübingen 1997.</p>
+<p>Kuhn, Thomas K.: Basel – ein «Liebling Gottes». Die Stadt am Rhein als Ort der Erweckungsbewegung, in: Theologische Zeitschrift, Heft 2, Jg. 56, Basel 2000, S. 165–185.</p>
+<p>Kuhn, Thomas K.: Pädagogik und Religion im «Frommen Basel». Die Gründung des «Vereins der freiwilligen Armen-Schullehrer-Anstalt» (1817), in: Klueting, Harm; Rohls, Jan (Hg.): Reformierte Retrospektiven. Vorträge der zweiten Emder Tagung zur Geschichte des reformierten Protestantismus, Wuppertal 2001, S. 203–217.</p>
+<p>Kuhn, Thomas K.: Religion und neuzeitliche Gesellschaft. Studien zum sozialen und diakonischen Handeln in Pietismus, Aufklärung und Erweckungsbewegung, Tübingen 2003.</p>
+<p>Kuhn, Thomas K.: Krisen und Erweckungen. Anmerkungen zur Modernisierung des Protestantismus im 19. Jahrhundert, in: Schweizerische Zeitschrift für Religions- und Kulturgeschichte, Jg. 99, Fribourg 2005, S. 449–463.</p>
+<p>Kuhn, Thomas K.: «Eine in jeder Hinsicht merkwürdige Erscheinung». Johann Tobias Beck (1804–1878) in Basel, in: Theologische Zeitschrift 62, Basel 2006, S. 41–62 (Kuhn 2006a).</p>
+<p>Kuhn, Thomas K.: Erweckungsbewegungen, in: Jaeger, Friedrich (Hg.): Enzyklopädie der Neuzeit 3, Stuttgart 2006, S. 509–516 (Kuhn 2006b).</p>
+<p>Kuhn, Thomas K.: Reich-Gottes-Erwartung, in: Jaeger, Friedrich (Hg.): Enzyklopädie der Neuzeit 10, Stuttgart 2009, S. 889–895 (Kuhn 2009a).</p>
+<p>Kuhn, Thomas K.: Weder Lust noch Leidenschaft? Ehe und Sexualität in den Erweckungsbewegungen des 19. Jahrhunderts, in: Sträter, Udo u. a. (Hg.): Alter Adam und Neue Kreatur. Pietismus und Anthropologie. Beiträge zum II. Internationalen Kongress für Pietismusforschung 2005, Halle 2009, S. 393–406 (Kuhn 2009b).</p>
+<p>Kuhn, Thomas K.: «Erbauung und Communikation». Die Auseinandersetzungen um die mediale Präsenz in der Frühzeit der Deutschen Christentumsgesellschaft, in: Soboth, Christian u. a. (Hg.): «Schrift soll leserlich seyn». Der Pietismus und die Medien. Beiträge zum IV. Internationalen Kongress für Pietismusforschung 2013, Halle/Wiesbaden 2016, S. 285–300.</p>
+<p>Kuhn, Thomas K.: Erweckungsbewegung und Chiliasmus. Konzepte und Diskurse aus der ersten Hälfte des 19. Jahrhunderts, in: Kuhn, Thomas K.; Albrecht-Birkner, Veronika (Hg.): Zwischen Aufklärung und Moderne. Erweckungsbewegungen als historiographische Herausforderung, Berlin/Münster 2017, S. 159–197.</p>
+<p>Kuhn, Thomas K.: Bekenntnisfreiheit in der Schweiz. Historische Entwicklungen im 19. Jahrhundert und aktuelle Herausforderungen, in: Kuhn, Thomas K.; Ulrichs, Hans-Georg (Hg.): Bekenntnis im Konflikt. Streitgeschichten im reformierten Protestantismus. Vorträge der 12. Internationalen Emder Tagung zur Geschichte des reformierten Protestantismus, Göttingen 2020, S. 97–128.</p>
+<p>Kuhn, Thomas K.: Basel, in: Breul, Wolfgang; Hahn-Bruckart, Thomas (Hg.): Pietismus Handbuch, Tübingen 2021, S. 239–244.</p>
+<p>Kuhn, Thomas K.: «Wiederherstellung und Verbreitung ächt christlicher Religiosität». Frommes Schrifttum aus dem Basel des 19. Jahrhunderts, in: Albrecht-Birkner, Veronika u. a. (Hg.): Medien der Erweckungsbewegungen, Göttingen (in Vorbereitung).</p>
+<p>Kutter, Markus: Kann ein Jubiläum Geschichtsbewusstsein ändern?, in: Basler Stadtbuch, Basel 1999, S. 226–229 (Kutter 1999a).</p>
+<p>Kutter, Markus: Die kleine Geschichte eines grossen Geschichtsjubiläums, in: Basler Stadtbuch, Basel 1999, S. 230–235 (Kutter 1999b).</p>
+<p>Kyoto Costume Institute (Hg.): Fashion. Eine Modegeschichte vom 18. bis 20. Jahrhundert. Die Sammlung des Kyoto Costume Institute 1. 18. und 19. Jahrhundert, Köln 2012.</p>
+<p>Labhardt, Robert: Kapital und Moral. Christoph Merian. Eine Biografie, Basel 2011.</p>
+<p>Labhardt, Robert: Luft und Licht! Basels Stadtraum 1850–1920. Stadterweiterung und Aussenquartiere, unpubliziertes Manuskript, Basel 2019.</p>
+<p>Läser, Fenja: Bursas Seidenindustrie, in: Baleva, Martina (Hg.): Von Basel nach Bursa und zurück. Die Geschichte eines Fotoalbums von Sébah &amp; Joallier, Köln/Weimar/Wien 2017, S. 61–68.</p>
+<p>Landes, David S.: Der entfesselte Prometheus. Technologischer Wandel und industrielle Entwicklung in Westeuropa von 1750 bis zur Gegenwart, München 1983.</p>
+<p>Lengwiler, Martin: Wissenschaft und Sozialpolitik, in: Mooser, Josef; Wenger, Simon (Hg.): Armut und Fürsorge in Basel. Armutspolitik vom 13. Jahrhundert bis heute, Basel 2011, S. 111–122.</p>
+<p>Leuenberger, Martin: Die Landwirtschaft, in: Nah dran, weit weg. Geschichte des Kantons Basel-Landschaft 5: Armut und Reichtum. 19. und 20. Jahrhundert, Liestal 2001, S. 41–58.</p>
+<p>Limbach, Rabea: Die Briefkopierbücher der Speyerer Handelshäuser Joh. Hein. Scharpff und Lichtenberger &amp; Co. (1815−1840). Handeln in institutioneller Unsicherheit, Stuttgart 2018.</p>
+<p>Lindt, Andreas: C. F. Spittler und W. M. L. de Wette. Zur Begegnung von Erweckungsfrömmigkeit. Universitätstheologie im Basel des 19. Jahrhunderts, in: Geiger, Max (Hg.): Gottesreich und Menschenreich. Ernst Staehelin zum 80. Geburtstag, Basel 1969, S. 361–384.</p>
+<p>Linke, Angelika: Sprachkultur und Bürgertum. Zur Mentalitätsgeschichte des 19. Jahrhunderts, Stuttgart 1996.</p>
+<p>Loetz, Francisca: Welcher Sattel? Politische Geschichte der Schweiz um 1750–1850, in: Traverse, Zeitschrift für Geschichte 20/1, 2013, S. 88–102.</p>
+<p>Loschek, Ingrid. Reclams Mode- und Kostümlexikon, Stuttgart 2011.</p>
+<p>Lottes, Günther: Normalitätsverlust, Prozess und Entscheidung. Zur Dramaturgie des Kriseninterpretaments, in: Schlögl, Rudolf; Hoffmann-Rehnitz, Philip R.; Wiebelm, Eva (Hg.): Die Krise in der Frühen Neuzeit, Göttingen 2016, S. 109–119.</p>
+<p>Lüthi, Christian: Sozialgeschichte der Zuwanderung in die Stadt Bern 1850–1914, in: Pfister, Ulrich (Hg.): Stadt und Land in der Schweizer Geschichte: Abhängigkeiten – Spannungen – Komplementaritäten (Itinera 19), Basel 1998, S. 180–212.</p>
+<p>Lüthi, Walter: Der Basler Freisinn von den Anfängen bis 1914 (161. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1983.</p>
+<p>Maissen, Thomas: Geschichte der Schweiz, Baden 2010.</p>
+<p>Masson, Paul: Histoire du commerce français dans le Levant au XVIIe siècle, Paris 1896.</p>
+<p>Mattmüller, Markus: Die reformierte Basler Kirche vor den Herausforderungen der Neuzeit, in: Guggisberg, Hans R.; Rotach, Peter (Hg.): Ecclesia semper reformanda. Vorträge zum Basler Reformationsjubiläum 1529–1979, Basel 1980, S. 76–99.</p>
+<p>Maurer, Martin: Die soziale Differenzierung in Stadt und Landschaft Basel als Ursache der Kantonstrennung, Liestal 1985.</p>
+<p>Meier, Eugen A.: Aus dem alten Basel. Ein Bildband mit Geschichten aus der Anekdotensammlung von Johann Jakob Uebelin (1793− 1873), Basel 1970.</p>
+<p>Meier, Eugen A.: Das andere Basel. Stadtoriginale, Sandmännchen, Laternenanzünder, Orgelimänner, Heuwoogschangi, fliegende Händler und Stänzler im alten Basel, Basel 1975.</p>
+<p>Meier-Kern, Paul: Pietismus contra Freisinn, oder: Darf das Stadttheater am Sonntag spielen? Eine Episode um 1845, in: Basler Zeitschrift für Geschichte und Altertumskunde 102, 2002, S. 191–209.</p>
+<p>Meyer, Armin: Zwischen Baslerstab und Lilienbanner – Baselbieter in fremden Diensten, in: Baselbieter Heimatbuch 20. Fremd?!, Liestal 1995, S. 143–156.</p>
+<p>Meyer, Carl: Die Stadt Basel von 1848–1858. Teil II, in: Basler Jahrbuch 1908, S. 172–211.</p>
+<p>Meyer, Friedrich: Die Bibel in Basel. Schwerpunkte in der Bibelgeschichte der Stadt Basel seit der Zeit der Humanisten und Reformatoren bis zur Gründung der Bibelgesellschaft, Basel 2004.</p>
+<p>Miaslowski, August von: Isaak Iselin, in: Beiträge zur vaterländischen Geschichte 10, Basel 1875, S. 89–200.</p>
+<p>Mottu-Weber, Liliane: Seide, in: Historisches Lexikon der Schweiz (HLS), Version vom 16.9. 2020. https://hls-dhs-dss.ch/de/articles/01 3965/2020-09-16/, abgerufen am 24.12.2023).</p>
+<p>Mühll, Johanna von der: Basler Sitten. Herkommen und Brauch im häuslichen Leben einer städtischen Bürgerschaft, 3. Auflage, Basel 1985.</p>
+<p>Müller, Christian Adolf: Die Basler Torsperren im 19. Jahrhundert, in: Basler Stadtbuch, Basel 1963, S. 13–35.</p>
+<p>Müller, Hans: Die schweizerischen Konsumgenossenschaften. Ihre Entwicklung und ihre Resultate, Basel 1896.</p>
+<p>Münch, Anna Cristina: Evangelische Pfarrfrauen und -familien in Basel im 18. Jahrhundert, Masterarbeit Universität Basel, Basel 2019.</p>
+<p>Münch, Willy: Ehehindernisse und Ehenichtigkeitsgründe im Basler Stadtrecht, Basel 1947.</p>
+<p>Nagel, Anne; Möhle, Martin; Meles, Brigitte: Die Kunstdenkmäler des Kantons Basel-Stadt, Band VII, Die Altstadt von Grossbasel I, Profanbauten, Basel 2006.</p>
+<p>Neisen, Robert: Entstehung einer Industrieregion, in: Reiches Erbe – Industriekultur im Dreiland. Patrimoine industriel des Trois Pays. Begleitpublikation zur Ausstellung im Dreiländermuseum (1.7.–27.11.2016), Lörracher Heft 23, Lörrach 2016, S. 29–66.</p>
+<p>Notz, Emil: Die säkulare Entwicklung der Kaufkraft des Geldes. Für Basel in den Perioden 1800–1833 und 1892–1923 nebst internationalen Vergleichen dargestellt, Jena 1925.</p>
+<p>Opitz, Claudia: Von der Aufklärung zur Kantonstrennung, in: Kreis, Georg; Wartburg, Beat von (Hg.): Basel – Geschichte einer städtischen Gesellschaft, Basel 2000, S. 150–185.</p>
+<p>Opitz-Belakhal, Claudia: «Ueber Armut, Betteley und Wohlthätigkeit». Armut und Armutsbekämpfung im Zeitalter von Aufklärung, Helvetik und Restauration, in: Mooser, Josef; Wenger, Simon (Hg.): Armut und Fürsorge in Basel. Armutspolitik vom 13. Jahrhundert bis heute, Basel 2011, S. 73–100.</p>
+<p>Opitz-Belakhal, Claudia; Guzzi-Heeb, Sandro: Family, community and sociability, in: Troehler, Daniel (Hg.): Bloomsbury Cultural Histories of Education, Band 4, London 2020, S. 91–110.</p>
+<p>Orth, Karin: Nichtehelichkeit als Normalität. Ledige Mütter in Basel im 19. Jahrhundert, Göttingen 2022.</p>
+<p>Osterhammel, Jürgen: Die Verwandlung der Welt: eine Geschichte des 19. Jahrhunderts, München 2013.</p>
+<p>Panzac, Daniel: Crime ou débit? La législation sanitaire en Provence au XVIIIe siècle, in: Revue Historique, Heft 275, Band 557, Paris 1986, S. 39−71.</p>
+<p>Perrenoud, Alfred: Mortalität: Säuglings- und Kindermortalität, in: Historisches Lexikon der Schweiz (HLS), Version vom 26.1.2020. https://hls-dhs-dss.ch/de/articles/ 007976/, abgerufen am 19.9.2021).</p>
+<p>Pfister, Benedikt: Für Freiheit kämpfen. Die Geschichte des Basler Freisinns, Basel 2019.</p>
+<p>Pfister, Willy: Die Einbürgerung der Ausländer in der Stadt Basel im 19. Jahrhundert. Basler Bürgerbuch III (Quellen und Forschungen zur Basler Geschichte 8), Basel 1976.</p>
+<p>Pfister-Burkhalter, Margarete: Hieronymus Hess 1799−1850, Basel 1949, Kat.-Nrn. 30, 31, 60–64, 71, 194, 251.</p>
+<p>Picken, Mary Brooks: A dictionary of costume and fashion. Historic and Modern, New York 1999.</p>
+<p>Portmann, Rolf E.: Basler Einbürgerungspolitik 1358–1798, mit einer Berufs- und Herkunftsstatistik des Mittelalters. Basler Statistik 3, Basel 1979.</p>
+<p>Purtschert, Patricia u. a.: Eine Bestandesaufnahme der postkolonialen Schweiz, in: Dies. (Hg.): Postkoloniale Schweiz. Formen und Folgen eines Kolonialismus ohne Kolonien, Bielefeld 2012, S. 13−63.</p>
+<p>Quataert, Donald: The Age of Reforms, 1814–1914, in: Inalcik, Halil; Quataert, Donald (Hg.): An Economic and Social History of the Ottoman Empire, 1730–1914, Istanbul 2010.</p>
+<p>Raciti, Silvio: Konfliktgeladene Geselligkeit im Wirtshaus. Gewalt und Freizeitaktivitäten in Basler Gerichtsakten aus der ersten Hälfte des 19. Jahrhunderts, in: Hotz, Gerhard; Burkart, Lucas; Greyerz, Kaspar von (Hg.): Theo der Pfeifenraucher. Leben in Kleinbasel um 1800, Basel 2010, S. 140–151.</p>
+<p>Raciti, Silvio: Das Recht der Bürger? Justiz und Kriminalität in der Stadt: Basel 1750–1850, Dissertation Universität Bern, Bern 2013.</p>
+<p>Ramseyer, Adolf: Die geschichtliche Entwicklung des Basler Polizeiwesens, in: Polizeibeamten-Verband Basel-Stadt (Hg.): Die Basler Polizei. 1905–1980. 75 Jahre Polizeibeamten-Verband des Kantons Basel-Stadt, Basel 1980, S. 81–188.</p>
+<p>Ranft, Albert: Die Vormundschaft des Basler Stadtrechts von 1590 bis 1880, Basel 1928.</p>
+<p>Redolfi, Silke Margeritha: Die verlorenen Töchter. Der Verlust des Schweizer Bürgerrechts bei der Heirat eines Ausländers: rechtliche Situation und Lebensalltag ausgebürgerter Schweizerinnen bis 1952, Zürich 2019.</p>
+<p>Regenass, Daniel: Von der J. S. Alioth &amp; Cie. zur Burlington Schappe, in: Schappe. Die erste Fabrik im Baselbiet. Ein Porträt, Arlesheim 1993, S. 18–33.</p>
+<p>Reichel, Hellmut: Die Anfänge der Brüdergemeine in der Schweiz mit besonderer Berücksichtigung der Sozietät in Basel, in: Unitas Fratrum. Zeitschrift für Geschichte und Gegenwartsfragen der Brüdergemeine, Heft 23/24, Jg. 29/30, Hamburg 1991, S. 9–127.</p>
+<p>Reichensteiner Hof 1901: Der Reichensteiner Hof zur Zeit der Allierten 1813–1815, Basel 1901.</p>
+<p>Riesebrodt, Martin: Die Rückkehr der Religionen. Fundamentalismus und der «Kampf der Kulturen», 2. Auflage, München 2001.</p>
+<p>Rieser, Walther: Das Schweizerbürgerrecht. Separatabdruck aus der Zeitschrift für schweizerische Statistik, Bern 1892.</p>
+<p>Riggenbach, Christoph Johannes: Die deutsche Christenthumsgesellschaft, in: Zur hundertjährigen Gedächtnissfeier der Deutschen Christenthumsgesellschaft. Drei Reden gehalten den 17. Oktober 1880 von Professor D. Christoph Johannes Riggenbach, Antistes D. Immanuel Stockmeyer und Missionssekretär Hermann Prätorius, Basel 1880.</p>
+<p>Riklin, Alois: Neutralität, in: Historisches Lexikon der Schweiz (HLS), Version vom 9.11.2010. https://hls-dhs-dss.ch/de/articles/ 016572/2010-11-09/, abgerufen am 30.12.2023.</p>
+<p>Ritzmann, Heiner: Eine quantitative Interpretation der schweizerischen Übersee-Emigration im 19. und frühen 20. Jahrhundert. Kurvenverlauf und regionale Konzentration als Gegenstand von Regressionsanalysen, in: Mesmer, Beatrix (Hg.): Der Weg in die Fremde. Beiträge zur schweizerischen Auswanderungsgeschichte. Referate, gehalten am Schweizerischen Historikertag in Bern, Oktober 1989 (Itinera 11), Basel 1992, S. 195–250.</p>
+<p>Röthlin, Niklaus: Die Basler Handelspolitik und ihre Träger in der zweiten Hälfte des 17. und im 18. Jahrhundert, Basel 1986.</p>
+<p>Roth, Dorothee: Zur Vorgeschichte der liberal-konservativen Partei in Basel 1846–1875, in: Basler Zeitschrift für Geschichte und Altertumskunde 68, 1968, S. 177–221.</p>
+<p>Roth, Dorothea: Die Dreissiger Wirren – bedeutendste Krise der Basler Stadtgeschichte im 19. Jahrhundert, in: Baselland vor 150 Jahren. Wende und Aufbruch. Neun Beiträge mit Chronologie der Basler Wirren und der Eidgenössischen Regenerationszeit sowie vielen historischen Bildern, Liestal 1983, S. 67−84.</p>
+<p>Roth, Paul: Die Blüte der Textilindustrie in Basel, in: Beiträge zur Geschichte der Naturwissenschaften und der Technik in Basel, hg. von der Ciba aus Anlass ihres 75jährigen Bestehens als Aktiengesellschaft, Olten 1959, S. 125–141.</p>
+<p>Roth, Paul: Die Basler Casino-Gesellschaft, in: Basler Stadtbuch, Basel 1961, S. 139–166.</p>
+<p>Rothpletz, Emil: Die philhellenische Bewegung in Basel zur Zeit des griechischen Freiheitskampfes (1821–1829), in: Basler Zeitschrift für Geschichte und Altertumskunde 43, 1943, S. 119–134.</p>
+<p>Rothstein, Natalie: Silk: the industrial revolution and after, in: Jenkins, David: The Cambridge History of Western Textiles, Band 2, Cambridge 2003, S. 790–808.</p>
+<p>Ruckstuhl, Brigitte; Ryter, Elisabeth: Von der Seuchenpolizei zu Public Health. Öffentliche Gesundheit in der Schweiz seit 1750, Zürich 2017.</p>
+<p>Rüttimann, Johann Jakob: Über die Geschichte des schweizerischen Gemeindebürgerrechts. Akademischer Vortrag gehalten am 20. Februar 1862 im Grossrathssaale in Zürich, Zürich 1862.</p>
+<p>Ryter, Annemarie: Die Geschlechtsvormundschaft in der Schweiz. Das Beispiel der Kantone Basel-Landschaft und Basel-Stadt, in: Gerhard, Ute (Hg.): Frauen in der Geschichte des Rechts. Von der Frühen Neuzeit bis zur Gegenwart, München 1997, S. 494–506.</p>
+<p>Sabatino, Mario: Die Vorstadtgesellschaft zur Mägd. Von den Anfängen bis zur Gegenwart, Basel 1998.</p>
+<p>Salvisberg, André: Grüne – Blaue. Die Polizei des Kantons Basel-Stadt und der Umgang mit ihrer Mannschaft in den 1850er und 1860er Jahren, Lizentiatsarbeit Universität Basel, Basel 1991.</p>
+<p>Salvisberg, André: Revolution in Basel. Ein Lesebuch über Stadt und Landschaft Basel vom Beginn der Französischen Revolution bis zum Ende der Helvetischen Republik 1789–1803, Basel 1998.</p>
+<p>Salvisberg, André: Die Basler Strassennamen, Basel 1999.</p>
+<p>Salvisberg, André; Christoph Merian Stiftung (Hg.): Historischer Atlas der Region Basel. Geschichte der Grenzen, Basel 2010.</p>
+<p>Salvisberg, André: Die kurze Geschichte des Bezirks Birseck im ehemaligen Kanton Basel von der Inbesitznahme 1815 bis zur Kantonstrennung 1830–1833, in: Rebetez, Jean-Claude; Bregnard, Damien (Hg.): De la crosse à la croix − L’ancien Evêché de Bâle devient Suisse (Congrès de Vienne – 1815), Neuchâtel 2018, S. 221–239.</p>
+<p>Salvisberg, André: Stadt.Geschichte.Basel, Band 5: 1760 bis 1860 – eine ungewohnte Periodisierung, in: Basler Zeitschrift für Geschichte und Altertumskunde 122, 2022, S. 53–66.</p>
+<p>Sarasin, Philipp: Sittlichkeit, Nationalgefühl und frühe Ängste vor dem Proletariat. Untersuchungen zu Politik, Weltanschauung und Ideologie des Basler Bürgertums in der Verfassungskrise von 1846/47, in: Basler Zeitschrift für Geschichte und Altertumskunde 84, 1984, S. 51–127.</p>
+<p>Sarasin, Philipp: Stadt der Bürger. Struktureller Wandel und bürgerliche Lebenswelt, Basel 1870–1900, Basel 1990.</p>
+<p>Sarasin, Philipp: Stadt der Bürger. Bürgerliche Macht und städtische Gesellschaft: Basel 1864–1914, 2. Auflage, Göttingen 1997.</p>
+<p>Sarasin, Philipp: Basel auf dem Weg zur modernen Industriestadt (1833–1914), in: Basel 1501 2001 Basel (179. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 2000, S. 141–151.</p>
+<p>Schär, Bernhard C.: Tropenliebe. Schweizer Naturforscher und niederländischer Imperialismus in Südostasien um 1900, Frankfurt am Main 2015.</p>
+<p>Schaffner, Martin: Die Basler Arbeiterbevölkerung im 19. Jahrhundert. Beiträge zur Geschichte ihrer Lebensformen, Basel 1972.</p>
+<p>Schildt, Gerhard: Tagelöhner, Gesellen, Arbeiter. Sozialgeschichte der vorindustriellen und industriellen Arbeiter in Braunschweig 1830–1880 (Industrielle Welt 40), Stuttgart 1986.</p>
+<p>Schläpfer, Michael: Künderin des bevorstehenden Weltunterganges. Juliane von Krüdener in der Schweiz 1815−1817, Lizentiatsarbeit Universität Zürich, Zürich 1994.</p>
+<p>Schlatter, Wilhelm: Geschichte der Basler Mission 1815−1915, Band 3 (Die Geschichte der Basler Mission in Afrika), Basel 1916.</p>
+<p>Schlögl, Rudolf: ‹Krise› als historische Form der gesellschaftlichen Selbstbeobachtung, in: Schlögl, Rudolf; Hoffmann-Rehnitz, Philip R.; Wiebelm, Eva (Hg.): Die Krise in der Frühen Neuzeit, Göttingen 2016, S. 9–31.</p>
+<p>Schluchter, André; Kurmann, Fridolin: Die Bevölkerung der Schweiz um 1800. Eine Auswertung der Helvetischen Volkszählung von 1798 und anderer zeitnaher Erhebungen, mit Einbezug der Bevölkerungsentwicklung bis 1980, Bern 1988.</p>
+<p>Schmid, Pia: Väter und Forscher. Zu Selbstdarstellungen bürgerlicher Männer um 1800 im Medium empirischer Kinderbeobachtungen, in: Männlichkeiten. Feministische Studien 18/2, 2000, S. 35–48.</p>
+<p>Schmidlin, Antonia: Eine Pionierin des Frauenstimmrechts, in: bz Basellandschaftliche Zeitung, 2.3.2021, S. 16.</p>
+<p>Schmidt-Müller, Myriam: Johann Heinrich Sulgers «Neuwe Oost Indianische Reiß Beschreibung»: Das faszinierende Zeugnis eines Basler Kolonialsöldners, in: Basler Zeitschrift für Geschichte und Altertumskunde 122, 2022, S. 121–153.</p>
+<p>Schmitt, Oliver Jens: Levantiner. Lebenswelten und Identitäten einer ethnokonfessionellen Gruppe im osmanischen Reich im ‹langen 19. Jahrhundert›, München 2005.</p>
+<p>Schneider, Friedrich: Hieronymus Roggenbachs Erlebnisse, Band 1, Basel 1983.</p>
+<p>Schorno, Paul: Die Gewerbeschule: Zwei Jahrhunderte alt, in: Basler Stadtbuch, Basel 1996, S. 209–214.</p>
+<p>Schütze, Yvonne: Die gute Mutter. Zur Geschichte des normativen Musters ‹Mutterliebe›, Bielefeld 1986.</p>
+<p>Schweizer, Eduard: Die dreissiger Wirren im Kanton Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde. 9 Teile in Band 30 (1931), 33 (1934), 36 (1937), 38 (1939), 39 (1940), 40 (1941), 43 (1944), 45 (1946), 46 (1947), Basel 1931−1947.</p>
+<p>Schweizer, Peter A.: Mission an der Goldküste. Geschichte und Fotografie der Basler Mission im kolonialen Ghana, Basel 2002.</p>
+<p>Senn, Philipp: «Ein jeder schmachtet unter gleichem druk». Die Welt des Klein- und Grossbaslers Gewerbe 1770–1830, Lizentiatsarbeit Universität Basel, Basel 2009.</p>
+<p>Senn, Philipp: Die Zünfte, in: Hotz, Gerhard; Greyerz, Kaspar von; Burkart, Lucas (Hg.): Theo der Pfeifenraucher. Leben in Kleinbasel um 1800, Basel 2010, S. 120–131.</p>
+<p>Siegrist, Hansmartin: Auf der Brücke zur Moderne. Basels erster Film als Panorama der Belle Époque, Basel 2019.</p>
+<p>Simon, Christian: Untertanenverhalten und obrigkeitliche Moralpolitik. Studien zum Verhältnis zwischen Stadt und Land im ausgehenden 18. Jahrhundert am Beispiel Basels, Basel/Frankfurt am Main 1981.</p>
+<p>Simon, Christian: «Wollt ihr euch der Sklaverei kein Ende machen?» Der Streik der Basler Indiennearbeiter im Jahre 1794, Allschwil 1983.</p>
+<p>Simon, Christian: Basel 1789 bis 1795, in Simon, Christian (Hg.): Basler Frieden 1795. Revolution und Krieg in Europa, Basel 1995, S. 55–77.</p>
+<p>Simon, Christian: Die Helvetik in der nationalen Historiographie, in: Simon, Christian (Hg.): Blicke auf die Helvetik / Regards sur l’Helvétique. Dossier Helvetik / Dossier Helvétique, Bände 5/6, Basel 2000, S. 239–263.</p>
+<p>Smyrnelis, Marie-Carmen: Une société hors de soi. Identités et relations sociales à Smyrne aux XVIIIe et XIXe siècles, Leuven 2005.</p>
+<p>Sommer, Debora: Eine baltisch-adlige Missionarin bewegt Europa. Barbara Juliane v. Krüdener, geb. v. Vietinghoff gen. Scheel (1764–1824), Göttingen 2013.</p>
+<p>Staehelin, Andreas: Peter Ochs als Historiker, Dissertation Universität Basel, Basel 1952.</p>
+<p>Staehelin, Andreas: Gold aus Seide, in: Schwabe, Hansrudolf (Hg.): Schaffendes Basel. 2000 Jahre Basler Wirtschaft, Basel 1957, S. 102−117.</p>
+<p>Staehelin, Andreas: Geschichte der Universität Basel 1818–1835, Basel 1959.</p>
+<p>Staehelin, Ernst: Die Christentumsgesellschaft in der Zeit der Aufklärung und der beginnenden Erweckung. Texte aus Briefen, Protokollen und Publikationen, Basel 1970.</p>
+<p>Staehelin, Ernst: Die Christentumsgesellschaft in der Zeit von der Erweckung bis zur Gegenwart. Texte aus Briefen, Protokollen und Publikationen, Basel 1974.</p>
+<p>Staehelin, Heinrich: 1830−1833 Baselland und Aargau – zwei Revolutionskantone, in: Baselland vor 150 Jahren. Wende und Aufbruch. Neun Beiträge mit Chronologie der Basler Wirren und der Eidgenössischen Regenerationszeit sowie vielen historischen Bildern, Liestal 1983, S. 29−44.</p>
+<p>Stanley, Brian: «Commerce and Christianity»: Providence Theory, the Missionary Movement, and the Imperialism of Free Trade, 1842−1860, in: The Historical Journal 26/1, Cambridge 1983, S. 71−94.</p>
+<p>Steedman, Carolyn: A Boiling Copper and Some Arsenic: Servants, Childcare, and Class Consciousness in Late Eighteenth-Century England, in: Critical Inquiry 34/1, Chicago 2007, S. 36–77.</p>
+<p>Steiger, Anne von: Les rubans Bâlois (XVIIIe− XXe siècles). Composition de l’offre et mobilité de la demande, Genf 2012.</p>
+<p>Steiner, Gustav (Hg.): Korrespondenz des Peter Ochs (1752–1821), 3 Bände, Basel 1927–1937.</p>
+<p>Steiner, Rudolf: Die Wiesentäler Gemeinschaftsfabrikordnung von 1837. Eine Textquelle zur Behandlung der Industrialisierung und ihrer sozialen Auswirkungen, in: Archiv-Nachrichten. Quellenmaterial für den Unterricht 25, November 2002, S. 1–12.</p>
+<p>Stettler, Niklaus; Haenger, Peter; Labhardt, Robert: Baumwolle, Sklaven und Kredite. Die Basler Welthandelsfirma Christoph Burckhardt &amp; Cie. in revolutionärer Zeit (1789–1815), Basel 2004.</p>
+<p>Stolz, Peter: Basler Wirtschaft in vor- und frühindustrieller Zeit. Ökonomische Theorie und Wirtschaftsgeschichte im Dialog (Basler sozialökonomische Studien 6), Zürich 1977.</p>
+<p>Stolz, Peter: Technischer Wandel in der Wirtschaftsgeschichte Basels. Von der frühen Bandweberei bis zu den Anfängen der forschenden chemischen Industrie, in: Basler Zeitschrift für Geschichte und Altertumskunde 81, 1981, S. 71–96.</p>
+<p>Strasky, Anna Carolina: «Wir und die andern» – Zur Fremd- und Eigenwahrnehmung der Basler Bürgerschaft: Die Diskussion um ein neues Bürgerrechtsgesetz 1848–1866, Lizentiatsarbeit Universität Basel, Basel 1993.</p>
+<p>Stroux, Ulrich: Stammbäume der Basler Patrizierfamilien. Für Ursula Bruckner-Eglinger siehe https://www.stroux.org/patriz_f/st QV_f/EgE_f.pdf, abgerufen am 20.6.2022.</p>
+<p>Studer, Brigitte; Arlettaz, Gérald u. a.: Das Schweizer Bürgerrecht. Nationalität und Ordnung des Sozialen in der Schweiz von 1848 bis zur Gegenwart, unter Mitarbeit von Anina Gidkov, Erika Luce und Nicole Schwalbach, Zürich 2008.</p>
+<p>Suter, Andreas: Die Genese der direkten Demokratie. Aktuelle Debatten und wissenschaftliche Ergebnisse. Teil 2, in: Schweizerische Zeitschrift für Geschichte 63/1, 2013, S. 104−116.</p>
+<p>Suter, Andreas: Handeln in der Krise: Ergebnisse einer Fallstudie zum schweizerischen Bauernkrieg 1653, in: Schlögl, Rudolf; Hoffmann-Rehnitz, Philip R.; Wiebelm, Eva (Hg.): Die Krise in der Frühen Neuzeit, Göttingen 2016, S. 121–146.</p>
+<p>Tanner, Albert: Arbeitsame Patrioten – wohlanständige Damen. Bürgertum und Bürgerlichkeit in der Schweiz 1830–1914, Zürich 1995.</p>
+<p>Teuteberg, René: Basler Geschichte, Basel 1986.</p>
+<p>Thamer, Hans-Ulrich: Die Völkerschlacht bei Leipzig. Europas Kampf gegen Napoleon, München 2013.</p>
+<p>Topkaya, Yiğit: Seidener Handel. Basel und das Osmanische Reich im 19. Jahrhundert, Basel 2023.</p>
+<p>Tréfás, David: Kleine Basler Pressegeschichte (Publikationen der Universitätsbibliothek Basel 43), Basel 2016.</p>
+<p>Tréfás, David; Manasse, Christoph: Vernetzt, Versorgt, Verbunden. Die Geschichte der Basler Energie- und Wasserversorgung, Basel 2006.</p>
+<p>Trevisan, Luca: Das Wohnungselend der Basler Arbeiterbevölkerung in der zweiten Hälfte des 19. Jahrhunderts (168. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1989.</p>
+<p>Troxler, Werner P.: Johann Rudolf Forcart-Weiss &amp; Söhne. Ein Beitrag zur Unternehmergeschichte (Geist und Werk der Zeiten 36), Bern 1973.</p>
+<p>Tyrell, Hartmann: Weltgesellschaft, Weltmission und religiöse Organisationen – Einleitung, in: Bogner, Artur u. a. (Hg.): Weltmission und religiöse Organisationen. Protestantische Missionsgesellschaften im 19. und 20. Jahrhundert, Würzburg 2004, S. 13–134.</p>
+<p>Utz, Hans: Eine Fussnote der Geschichte. Französisches und baslerisches Birseck, 1792− 1833, Liestal 2015.</p>
+<p>Vischer, Wilhelm: Basel in der Zeit der Restauration 1814–1830. Teil 1: Die Jahre 1814 und 1815 (83. Neujahrsblatt der Gesellschaft zur Beförderung des Guten und Gemeinnützigen), Basel 1905.</p>
+<p>Vischer, Wilhelm: Basel in der Zeit der Restauration 1814–1830. Teil 2: Die Zeit von 1815 bis 1830 (84. Neujahrsblatt der Gesellschaft zur Beförderung des Guten und Gemeinnützigen), Basel 1906.</p>
+<p>Vöchting-Oeri, Luise: Die Schwestern Schorndorff und ihre Nachkommen, Zürich 1941.</p>
+<p>Voerkel, Elise: «Daher kommt es, dass in Basel jedermann Französisch spricht». Jugendliche Basler_innen im Welschland (18. und frühes 19. Jahrhundert), in: Genre &amp; Histoire 20, Herbst 2017. https://journals.openedition.org/genrehistoire/2834, abgerufen am 20.12.2021.</p>
+<p>Vogl, Joseph: Das Gespenst des Kapitals, Zürich 2020.</p>
+<p>Wackernagel, Rudolf (Hg.): Acten der Basler Revolution 1798, Basel 1898.</p>
+<p>Waldschütz, Ernst: Die schweizerischen Industrieunternehmungen im deutschen Grenzgebiet, Singen-Hohentwiel 1928.</p>
+<p>Wallerstein, Immanuel: The incorporation of the Ottoman Empire into the world-economy, in: Islamoglu-Inan, Huri (Hg.): The Ottoman Empire and the World Economy, Cambridge 1987, S. 88–97.</p>
+<p>Wanner, Gustaf Adolf: Aus den ersten sechs Jahrhunderten unseres Bürgerspitals, in: Bürgerspital Basel (Hg.): 700 Jahre Bürgerspital Basel 1265−1965, Basel 1965, S. 11–33.</p>
+<p>Wartburg, Beat von: Musen und Menschenrechte. Peter Ochs und seine literarischen Werke, Dissertation Universität Basel, Basel 1997.</p>
+<p>Weber, Karl: Die Revolution im Kanton Basel 1830−1833, Liestal 1907.</p>
+<p>Weber, Sascha: Kurmainz und die Hungerkrise 1770–72. Ursachen, Umgang, Folgen, in: Collet, Dominik; Lassen, Thore; Schanbacher, Ansgar (Hg.): Handeln in Hungerkrisen. Neue Perspektiven auf soziale und klimatische Vulnerabilität, Göttingen 2012, S. 87–109.</p>
+<p>Wecker, Regina: Geschlechtsvormundschaft im Kanton Basel-Stadt. Zum Rechtsalltag von Frauen – nicht nur im 19. Jahrhundert, in: Jaun, Rudolf; Studer, Brigitte (Hg.): weiblich-männlich. Geschlechterverhältnisse in der Schweiz: Rechtsprechung, Diskurs, Praktiken, Zürich 1995, S. 87–101. https://dg.phil hist.unibas.ch/fileadmin/user_upload/dg/ Personen/Wecker_Regina/Geschlechtsvormundschaft.pdf, abgerufen am 12.11.2021.</p>
+<p>Wecker, Regina: «Ehe ist Schicksal, Vaterland ist auch Schicksal und dagegen ist kein Kraut gewachsen». Gemeindebürgerrecht und Staatsangehörigkeitsrecht von Frauen in der Schweiz 1798–1998, in: L’Homme: Zeitschrift für feministische Geschichtswissenschaft, Citizenship 10/1, 1999, S. 13–37.</p>
+<p>Wecker, Regina: 1933 bis 1910: Die Entwicklung zur Grossstadt, in: Kreis, Georg; Wartburg, Beat von (Hg.): Basel – Geschichte einer städtischen Gesellschaft, Basel 2000, S. 195–224.</p>
+<p>Wernle, Paul: Der schweizerische Protestantismus im XVIII. Jahrhundert, 3 Bände, Tübingen 1923–1925.</p>
+<p>Wild, Roman: «Frau Mode ist launenhaft»: Überlegungen zum Niedergang der Basler Seidenbandindustrie in den 1920er Jahren, in: Köhler, Ingo; Rossfeld, Roman (Hg.): Pleitiers und Bankrotteure. Geschichte des ökonomischen Scheiterns vom 18. bis 20. Jahrhundert, Frankfurt am Main 2012, S. 287–316.</p>
+<p>Willems, Ulrich u. a. (Hg.). Moderne und Religion. Kontroversen um Modernität und Säkularisierung, Bielefeld 2013.</p>
+<p>Winkler, Stephan: Vom gewerblichen Stand zur geselligen Vereinigung, in: E. E. Zunft zu Schuhmachern (Hg.): Vom Gestern ins Heute, Basel 1994, S. 9–82.</p>
+<p>Wirz, Eduard: Wie man früher nach Amerika reiste, in: Basler Stadtbuch, Basel 1941, S. 79–102.</p>
+<p>Witschi, Beat: Schweizer auf imperialistischen Pfaden. Die schweizerischen Handelsbeziehungen mit der Levante 1848–1914, Stuttgart 1987.</p>
+<p>Wunder, Bernd: Kleine Geschichte der Kriege und Festungen am Oberrhein 1630–1945, Karlsruhe 2013.</p>
+<p>Wyler, Edwin: Die Geschichte des Basler Papiergewerbes, Basel 1927.</p>
+<p>Wyss, Edmund: Die soziale Politik des konservativen Bürgertums in Basel (1833–1875), Weinfelden 1948.</p>
+<p>Zihlmann-Märki, Patricia: «Gott gebe das wir das Liebe Engelein mit Freüden wieder sehen Mögen». Eine kulturgeschichtliche Untersuchung des Todes in Basel 1750–1850, Zürich 2010.</p>
+<p>Zihlmann-Märki, Patricia; Zimmermann, Christian von: Jeremias Gotthelf, Jacobs, des Handwerksgesellen, Wanderungen durch die Schweiz. Kommentar. (Jeremias Gotthelf, Historisch-kritische Gesamtausgabe A.6.2), Hildesheim/Zürich/New York 2016.</p>
+<h2>Bildnachweis</h2>
+<p>HMB Historisches Museum Basel</p>
+<p>KMB Kunstmuseum Basel</p>
+<p>StABS Staatsarchiv Basel-Stadt</p>
+<p>UB Basel Universitätsbibliothek Basel</p>
+<h3>Umschlagabbildung:</h3>
+<p>Detail der Stadtmauer beim St. Alban-Rheinweg</p>
+<p>gegenüber dem Letziturm. Foto icona basel,</p>
+<p>Christoph Gysin 1 StABS, NEG 3195 2 StABS, BILD Falk. Fa 3, 2 3 StABS, BILD Falk. A 505</p>
+<p>4 Drei Ehrengesellschaften, Foto Daniel Spehr 5 StABS, BILD Falk. A 133 6 UB Basel, UBH L III 23, S. 1 7 StABS, SMM Inv. 1990.6 8 StABS, BILD Falk. A 536 9 StABS, BILD Falk. A 511</p>
+<p>10 StABS BILD 13, 41</p>
+<p>11 StABS, PA 511a 800 O 2.1</p>
+<p>12 StABS, PA 574a 7, Bd. 1</p>
+<p>13 KMB, Inv. 1779</p>
+<p>14 HMB, Inv. 1974.392., Foto Natascha Jansen</p>
+<p>15 HMB, Inv. 1963.21., Foto Natascha Jansen</p>
+<p>16 Rijksmuseum Amsterdam, Wikimedia Commons</p>
+<p>17 Museum für Musikautomaten Seewen, MMA-78061, Foto Janine Jakob</p>
+<p>18 HMB, Inv. 1959.52., Foto Natascha Jansen</p>
+<p>19 Privatbesitz, Foto Janine Jakob</p>
+<p>20 HMB, Inv. 1913.9.b., Foto Natascha Jansen</p>
+<p>21 Privatbesitz, Foto Daniel Meyer</p>
+<p>22 HMB, Inv. 1893.87. / Inv. 1874.61.1.–2., Foto Peter Portner</p>
+<p>23 HMB, Inv. 1977.182., Foto Natascha Jansen</p>
+<p>24 StABS, BILD Wack. G 112</p>
+<p>25 StABS, BILD 2, 534</p>
+<p>26 UB Basel, UBH NL 128 A.4.2, o. S.</p>
+<p>27 HMB, Inv. 1901.132., Foto Natascha Jansen</p>
+<p>28 UB Basel, UBH NL 128 A.4.2, o. S.</p>
+<p>29 HMB, Inv. 1905.450., Foto Peter Portner</p>
+<p>30 HMB, Inv. 1906.2952., Foto Peter Portner</p>
+<p>31 HMB, Per qu 21:45-62., Foto Natascha Jansen</p>
+<p>32 StABS, Straf und Polizei F9a, 1808–1902</p>
+<p>33 StABS, AL 45, 8-46-4</p>
+<p>34 UB Basel, UBH NL 128</p>
+<p>35 StABS, NEG 10233</p>
+<p>36 UB Basel, UBH BE 4004</p>
+<p>37 StABS, BILD Schn. 221</p>
+<p>38 Archäologie und Museum Baselland, Inv. D1.23</p>
+<p>39 ZB Zürich, Graphische Sammlung und Fotoarchiv</p>
+<p>40 Quelle: Salvisberg 2010, S. 103; Kohli Kartografie. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>41 StABS, BILD Schn. 225</p>
+<p>42 StABS, BILD 13, 148</p>
+<p>43 UB Basel, UBH Ztg 1</p>
+<p>44 Archäologie und Museum Baselland, Inv. D1.48</p>
+<p>45 Archäologie und Museum Baselland, Inv. D1.494</p>
+<p>46 Archäologie und Museum Baselland, Inv. D1.43</p>
+<p>47 Stadtarchiv Karlsruhe, 8/PBS oXIVa 1239</p>
+<p>48 Staatliche Kunsthalle Karlsruhe, Inv. 2881</p>
+<p>49 Archäologie und Museum Baselland, Inv. D1.7</p>
+<p>50 Archäologie und Museum Baselland, Inv. D1.496</p>
+<p>51 KMB, Inv. 1914.100</p>
+<p>52 StABS, BILD 2, 1157</p>
+<p>53 Archiv der Christoph Merian Stiftung</p>
+<p>54 HMB, Inv. 1940.82., Foto Natascha Jansen</p>
+<p>55 Bayerische Staatsbibliothek, 4 Enc. 9-8, a,6</p>
+<p>56 StABS, BILD Visch. C 18</p>
+<p>57 Molo Audace, Wikimedia Commons</p>
+<p>58 KMB, Inv. Z.835.17</p>
+<p>59 UB Basel, UBH AV XIV 9</p>
+<p>60 Dreiländermuseum Lörrach, GrLLö 0051</p>
+<p>61 Collection Bibliothèque municipale de Mulhouse, Fonds patrimonial, Cote F800271 (Pl. XV de l’Histoire documentaire de l’industrie de Mulhouse et de ses environs au XIXe siècle / Société industrielle de Mulhouse. Mulhouse: Vve Bader et Cie. 1902)</p>
+<p>62 StABS, Erziehungsakten F 4, 1787–1790</p>
+<p>63 Bayerische Staatsbibliothek, 4 H.ref. 821 f-37/38, S. 25</p>
+<p>64 Bayerische Staatsbibliothek, H.ref. 821 f-37/38, S.6</p>
+<p>65 Basel Mission Archives / Mission 21, Inv. 97941a</p>
+<p>66 StABS, AL 45, 8-46-3</p>
+<p>67 Bayerische Staatsbibliothek, 2 Per. 26-3</p>
+<p>68 StABS, PA 565a</p>
+<p>69 StABS, AL 45, 5-53 1</p>
+<p>70 HMB, Inv. 1901.108., Foto Natascha Jansen</p>
+<p>71 StABS, AL 25, 4</p>
+<p>72 Grundbuch- und Vermessungsamt Kanton Basel-Stadt, Generalplan der Stadt Basel</p>
+<p>73 StABS, AL 45, 6-73-4</p>
+<p>74 StABS, AL 45, 5-54-1</p>
+<p>75 StABS, AL 45, 1-65</p>
+<p>76 StABS, NEG 2073</p>
+<p>77 StABS, AL 45, 2-88-6</p>
+<p>78 StABS, BILD Falk. A 170</p>
+<p>79 KMB, Inv. 170</p>
+<p>80 UB Basel, UBH ea 2338</p>
+<p>81 StABS, NEG A 1117</p>
+<p>82 StABS, AL 45, 6-98-1</p>
+<p>83 Museum für Kommunikation, Bern, BS_Ba_ 0054</p>
+<p>84 Österreichische Nationalbibliothek, PORT_ 00012392_01 POR MAG</p>
+<p>85 UB Basel, UBH Portr Falk 508</p>
+<p>86 Bibliothèque de Genève, BGE Ha 1062/5</p>
+<p>87 StABS, BILD 2, 2303</p>
+<p>88 StABS, NEG 1099</p>
+<p>89 StABS, NEG 2054</p>
+<p>90 StABS, AL 45, 2-81-3</p>
+<p>91 StABS, AL 45, 1-57-4</p>
+<p>92 StABS, AL 45, 7-21-3</p>
+<p>93 HMB, Inv. 2004.188., Foto Peter Portner</p>
+<p>94 Schweizerische Nationalbibliothek, GS-GUGE-ISENRING-A-3</p>
+<p>95 Bibliothèque de Genève, BGE Ha 1062/5</p>
+<p>96 StABS, AL 45, 4-5-2</p>
+<p>97 StABS, BILD Schn. 235</p>
+<p>98 HMB, Inv. 1949.51., Foto Peter Portner</p>
+<p>99 StABS, Hö B 168</p>
+<p>100 StABS, BILD Visch. C 14</p>
+<p>101 StABS, BILD 3, 1219</p>
+<p>102 StABS, NEG 1386</p>
+<h2>Personenregister</h2>
+<p>Es wurden nur Personen aufgenommen, von</p>
+<p>denen Lebensdaten gefunden werden konnten.</p>
+<h3>A</h3>
+<p>Abbatucci, Jean-Charles (1770–1796) 32</p>
+<p>Alexander I. von Russland (1777–1820) 115</p>
+<p>Alioth, Johann Siegmund (1788–1850) 186, 286</p>
+<p>Altherr, Alfred (1842–1918) 259</p>
+<p>Annone, Johann Jakob d’ (1728–1804) 30</p>
+<p>Annoni, Hieronymus (1697–1770) 241, 244, 246</p>
+<p>Arnold, Friedrich (1786–1854) 149</p>
+<h3>B</h3>
+<p>Banga, Benedikt (1802–1865) 159</p>
+<p>Baumgartner, Adolf (1855–1930) 103</p>
+<p>Beck, Jakob Christoph (1711–1785) 240</p>
+<p>Beck, Johann Tobias (1804–1878) 256</p>
+<p>Bell, Samuel (1792–1851) 217</p>
+<p>Bengel, Johann Albrecht (1687–1752) 250</p>
+<p>Bernoulli, Christoph (1782−1863) 116, 159, 171, 187</p>
+<p>Bernoulli, Eduard (1795–1875) 267</p>
+<p>Bernoulli, Nikolaus (1793–1876) 159</p>
+<p>Berri, Melchior (1801–1854) 223</p>
+<p>Biedermann, Alois Emanuel (1819–1885) 257–258</p>
+<p>Bischoff-Respinger, Dorothea (1798−1875) 60</p>
+<p>Blanchard, Jean Pierre (1753–1809) 25</p>
+<p>Blarer-Schwab, Anton von (1798–1864) 138, 144</p>
+<p>Blumhardt, Christian Gottlieb (1779−1838) 197</p>
+<p>Böhringer−Gutmann (später Gösi), Anna Dorothea (1820−1872) 62</p>
+<p>Böhringer-Gutmann, Georg (1812–1879) 62</p>
+<p>Bombelles, Ludwig Philipp von (1780–1843) 153</p>
+<p>Bonaparte, Napoleon (1769–1821) 33–38, 85, 126, 174, 250</p>
+<p>Brändlin-von Mechel, Magdalena (1800–?) 62</p>
+<p>Brenner, Karl (1814–1883) 159, 161, 216–218</p>
+<p>Brenner, Wilhelm (1723–1781) 240, 244</p>
+<p>Bridler, Friedrich (1806–1862) 63</p>
+<p>Bridler-(von) Birch, Amalia (1811−1893) 63</p>
+<p>Broglie, Achille Léon Victor de (1785–1870) 153</p>
+<p>Bruckner-Eglinger, Abraham (1790–1866) 50, 52, 58</p>
+<p>Bruckner-Eglinger, Ursula (1797–1876) 50–52, 55–58, 64</p>
+<p>Brunn, Nikolaus von (1766–1849) 98, 100</p>
+<p>Büchel, Emanuel (1705–1775) 24</p>
+<p>Burckhardt, Christoph (1740–1812) 192–193</p>
+<p>Burckhardt, Christoph (1783–1841) 62</p>
+<p>Burckhardt, Esther (1779–1826) 76</p>
+<p>Burckhardt, Johann Rudolf (1738–1820) 244, 248</p>
+<p>Burckhardt, Karl (1795–1850) 158</p>
+<p>Burckhardt, Wilhelm (1797–1880) 158</p>
+<p>Burckhardt-Finsler, Albert (1854–1911) 103</p>
+<p>Burckhardt-Merian, Dorothea (1744–1821) 66</p>
+<p>Burckhardt-Pelletier, Philipp (1765–1846) 173</p>
+<p>Burckhardt-Peyer, Amalia Carolina (1805–1868) 61</p>
+<p>Burckhardt-Sarasin, Emanuel (1776–1844) 82–83, 86–89, 91, 95</p>
+<p>Burckhardt-Socin, Johann Rudolf (1774–1829) 64</p>
+<p>Büren, Sebastian von (1793–1857) 243</p>
+<p>Buxtorf August Johann (1696–1765) 27</p>
+<h3>C</h3>
+<p>Charles X. von Frankreich (1757–1836) 124–125</p>
+<p>Clavel, Alexander (1805–1873) 232</p>
+<h3>D</h3>
+<p>De Wette, Wilhelm Martin Leberecht (1780–1849) 256, 261</p>
+<p>Disteli, Martin (1802–1844) 255</p>
+<p>Dreifuss, Isaac (1785–1845) 123</p>
+<p>Dusch, Alexander von (1789–1876) 148–149, 153–154</p>
+<h3>E</h3>
+<p>Engels, Friedrich (1820–1895) 114</p>
+<p>Engler, Maria Catharina (1766–1845) 94</p>
+<p>Esperlin, Joseph (1707–1775) 27</p>
+<h3>F</h3>
+<p>Faesch, Johann Jakob (1752–1832) 98–99, 185, 242, 246</p>
+<p>Falkeisen, Emanuel (1807−1869) 181–184</p>
+<p>Favre-Salomon, Antoine (1734–1820) 61</p>
+<p>Flick, Johann Jakob (1775–1847) 89</p>
+<p>Flick, Samuel (1772–1833) 158</p>
+<p>Flubacher, Heinrich (geb. 1793) 184, 186</p>
+<p>Follen, Karl (1796–1840) 117</p>
+<p>Follenweider, Adolf (1823–1895) 293</p>
+<p>Forcart, Dietrich (1581−1653) 172</p>
+<p>Forcart, Johann Rudolf (1749−1834) 172–174, 176</p>
+<p>Forrer, Friedrich (geb. um 1783) 286</p>
+<p>Francke, August Hermann (1663–1727) 245</p>
+<p>Frey, Hans (1837–1915) 101</p>
+<p>Frey, Johannes (1743–1800) 246–247</p>
+<p>Frey-Stickelberger, Johann Rudolf (1781–1859) 141</p>
+<h3>G</h3>
+<p>Geymüller, Salome (1718–1785) 29</p>
+<p>Gross, Johann Jakob (1823–?) 307</p>
+<p>Guise, Constantin (1881–1858) 130</p>
+<p>Gutzwiller, Sebastian (1798–1872) 54</p>
+<p>Gutzwiller, Stephan (1802–1875) 138, 144</p>
+<p>Gysendörfer, Christian Dagobert (1768–1840) 84</p>
+<h3>H</h3>
+<p>Haas, Wilhelm (1766–1838) 253</p>
+<p>Haberstroh, Sophie (1828–?) 292–295, 297</p>
+<p>Hagenbach, Karl Rudolf (1801–1874) 254</p>
+<p>Haller, Karl Ludwig von (1768–1854) 39</p>
+<p>Hanhart, Rudolf (1780–1856) 194</p>
+<p>Hegel, Georg Wilhelm Friedrich (1770–1831) 257</p>
+<p>Heinrich, Johann David (1739–1814) 254</p>
+<p>Herrenschwand, Johann Anton von (1764–1835) 84</p>
+<p>Herzog, Johann Wernhard (1726–1815) 244</p>
+<p>Hess, David (1770–1843) 68</p>
+<p>Hess, Hieronymus (1799–1850) 70, 121</p>
+<p>Hess-Meyer, Johann Jakob (1791–1857) 152</p>
+<p>Hess-Vischer, Salome (1782–1840) 51</p>
+<p>Heusler, Andreas (1802–1868) 159–161, 219</p>
+<p>Hirschfeld, Christian (1742–1792) 46</p>
+<p>His-Vischer, Charlotte (1780–1852) 58</p>
+<p>Hoffmann, Emanuel (1643−1702) 170, 285</p>
+<p>Hörler, Franz (1816–1888) 258</p>
+<p>Huber, Johann Jakob (1733–1798) 47</p>
+<p>Huber, Johann Rudolf (1766–1806) 47</p>
+<p>Hüglin, Gertrud (1730–1781) 71</p>
+<h3>I</h3>
+<p>Iselin, Isaak (1728–1782) 28, 246, 304</p>
+<p>Iselin, Isaak (1767–1838) 176</p>
+<p>Iselin, Johann Rudolf (1705–1779) 304</p>
+<p>Iselin-Forcart, Helene (1740–1810) 177</p>
+<p>Isert, Paul Erdmann (1756−1789) 200</p>
+<h3>J</h3>
+<p>Josenhans, Joseph (1812−1884) 202–204</p>
+<h3>K</h3>
+<p>Karl Friedrich, Markgraf von Baden (1728–1811) 188</p>
+<p>Keller, (Johann) David (1739–1812) 72</p>
+<p>Keller, Catharina Margarethe (1764–1827) 72, 74</p>
+<p>Keller, David, ‹Boppi› (1771–1839) 70–75, 160</p>
+<p>Keller, Rudolf (1766–1803) 72</p>
+<p>Keller-Streckeisen, Maria Magdalena (geb. 1743) 72</p>
+<p>Kelterborn, Ludwig Adam (1811–1878) 125, 158</p>
+<p>Klein, Salomon (1814–1867) 265</p>
+<p>Klein, Wilhelm (1825–1887) 162, 218–219</p>
+<p>Koechlin, André (1789–1875) 191, 196</p>
+<p>Koechlin, Nicolas (1781–1852) 189, 191</p>
+<p>Koechlin, Peter (1782–1841) 189</p>
+<p>Kombst, Gustaf (1806–1846) 160</p>
+<p>Krüdener, Baronin Juliane von (1764–1824) 22, 40, 98, 250, 252</p>
+<p>Küpfer, Friedrich (1708–1757) 189</p>
+<p>Kurz, Johannes (geb. um 1829) 276</p>
+<p>Kutter, Markus (1925–2005) 104–105</p>
+<h3>L</h3>
+<p>La Roche, Benedikt (1802–1876) 219</p>
+<p>Leber, Agatha (1806–?) 308</p>
+<p>Legrand, Lukas (1755–1836) 103</p>
+<p>Leopold von Baden (1790–1852) 146, 148–149, 155</p>
+<p>Levi, Leopold (1757–1814) 93–94</p>
+<p>Levy, Elias (ca. 1793−1846) 261–262</p>
+<p>Linder, Emilie (1797–1867) 70</p>
+<p>Linder, Johannes (1793−1853) 264</p>
+<p>Lotz, Achilles (1845–1921) 279</p>
+<p>Louis Philippe von Orléans (1773–1850) 124–150</p>
+<p>Ludwig XVI. von Frankreich (1754–1793) 31</p>
+<p>Lüthy, Johannes (1803−1873) 63</p>
+<p>Lutz, Markus (1772–1835) 100</p>
+<h3>M</h3>
+<p>Mähly, Johann Friedrich (1808–1848) 101, 222</p>
+<p>Maring, Ludwig Rudolf (1820–1893) 229–230</p>
+<p>Mechel, Maria von (1734–1791) 72</p>
+<p>Merian, Johann Jakob (1768–1841) 189, 193</p>
+<p>Merian, Peter (1795–1883) 30</p>
+<p>Merian-Burckhardt, Christoph (1800–1858) 196, 226, 259</p>
+<p>Merian-Burckhardt, Margaretha (1806–1886) 171</p>
+<p>Merian-Burckhardt, Ursula (1752–1833) 53</p>
+<p>Merian-Hoffmann, Christoph (1769–1849) 189, 193, 196</p>
+<p>Merian-Merian(-Wieland), Jakob (1648–1724) 188</p>
+<p>Metternich, Graf Klemens Wenzel Lothar von (1773–1859) 146, 153–154</p>
+<p>Meyenrock, Jakob Friedrich (1733–1799) 244</p>
+<p>Meyer, Friedrich-August (geb. 1846) 293</p>
+<p>Meyer-Merian, Theodor (1818–1867) 230</p>
+<p>Minder, Samuel (1782–1868) 290</p>
+<p>Miville, Johann Friedrich (1754–1820) 246, 248</p>
+<p>Müller, Jakob, ‹Pfluume-Joggi› (1793–1849) 160</p>
+<p>Münch, (Jakob) Heinrich (1792–1855) 72</p>
+<p>Münch, Lukas (1729–1797) 71</p>
+<p>Münch, Niklaus, ‹Niggi› (1775–1843) 70–75, 160</p>
+<p>Munzinger, Johann Heinrich (1762–1829) 84–85, 89</p>
+<p>Muralt, Hans Conrad von (1779–1869) 151</p>
+<h3>N</h3>
+<p>Nahl, Johann August der Jüngere (1752–1825) 102</p>
+<p>Nana Addo Dankwa I. (?–1838) 200</p>
+<p>Neukirch, Johann Georg (1787–1857) 159, 162</p>
+<p>Nietzsche, Friedrich (1844–1900) 70</p>
+<p>Nordmann, Moses (1809–1884) 262–266</p>
+<p>Nöslinger, Oberst (?–1796) 32</p>
+<h3>O</h3>
+<p>Ochs (später His), Eduard (1792–1871) 84</p>
+<p>Ochs, Peter (1752–1821) 29, 33–35, 59, 70, 84, 100–105</p>
+<p>Ochs-Brenner, Susanna (1725–1810) 240</p>
+<p>Ochs-Vischer, Salome (1760–1804) 59</p>
+<p>Olfers, Ignaz von (1793–1871) 153</p>
+<p>Otteney, Johannes (1767–1839) 86</p>
+<h3>P</h3>
+<p>Pitt, William (1759–1806) 126</p>
+<p>Planta, Marie Sophie (1664–1740) 240</p>
+<p>Preiswerk, Lucas (1788–1848) 196</p>
+<h3>Q</h3>
+<p>Quisling, Vidkun (1887–1945) 103</p>
+<h3>R</h3>
+<p>Rahm, Anna Catharina (1765–1823) 72</p>
+<p>Rehfuss, Carl (1792–1842) 261</p>
+<p>Riggenbach, Johannes (1818–1890) 257–258</p>
+<p>Riis, Andreas (1804−1854) 197, 199–201, 205</p>
+<p>Rousseau, Jean-Jacques (1712–1778) 48</p>
+<p>Rumigny, Marie-Théodore Comte de (1789–1860) 153</p>
+<p>Rumpf, Johann Wilhelm (1820–1876) 258</p>
+<h3>S</h3>
+<p>Sarasin, Felix (1771–1839) 161</p>
+<p>Schabelitz, Jakob Christian (1802–1866) 161</p>
+<p>Scherb, Emanuel (1815–1865) 159, 161, 216</p>
+<p>Schneider, Felix (1768–1854) 253</p>
+<p>Schneider, Johann Jakob (1820–1889) 122, 130</p>
+<p>Schönbein, Christian Friedrich (1799–1868) 112, 127, 159</p>
+<p>Schorndorff-Iselin, Magdalena (1760–1832) 58</p>
+<p>Schwarzenberg, Fürst von (1771–1820) 87</p>
+<p>Snell, Wilhelm (1789–1851) 117</p>
+<p>Speyr-Ryhiner, Theodor von (1780–1847) 53</p>
+<p>Spittler, Christian Friedrich (1782–1867) 249–250</p>
+<p>Spittler-Götz, Susanna (1787–1844) 250</p>
+<p>Spoerlin, Dorothea Emilie (1813–1880) 62</p>
+<p>Spoerlin-Merian, Sara (1795–1865) 62</p>
+<p>Spreng, Johann Jakob (1699–1768) 67</p>
+<p>Staehelin, Andreas (1926–2002) 104</p>
+<p>Strauß, David Friedrich (1808–1874) 257</p>
+<p>Streckeisen, Emanuel (1739–1818) 72</p>
+<p>Streckeisen-Pack, Salome (geb. 1742) 72</p>
+<p>Streuber, Theodor (1816–1857) 228</p>
+<p>Stückelberger, Johann Georg (1781–1814) 84, 94</p>
+<h3>T</h3>
+<p>Thoma, Barbara (geb. um 1828) 293</p>
+<p>Thurneysen, (Johann) Jakob (1729–1784) 188</p>
+<p>Thurneysen, Valeria (1815–1894) 68</p>
+<p>Troxler, Ignaz Paul Vital (1780–1866) 158</p>
+<p>Türkheim, Johann von (1778–1847) 146, 149, 155</p>
+<h3>U</h3>
+<p>Urlsperger, Johann August (1728–1806) 243</p>
+<h3>V</h3>
+<p>Valenti, Ernst Joseph Gustav de (1794–1871) 255</p>
+<p>Vischer, Anna (1783–1857) 87, 89</p>
+<p>Vischer, Emma (1794−1849) 65, 68</p>
+<p>Vischer, Lukas (1780–1840) 28, 53</p>
+<p>Vischer-Sarasin, Peter (1751−1823) 65, 69, 88</p>
+<p>von der Mühll, Johann Georg (1788–1853) 158</p>
+<h3>W</h3>
+<p>Wallbrunn, Gustav Magnus von (gest. 1772) 188</p>
+<p>Walser, Johann Ulrich (1798–1866) 159</p>
+<p>Walter, Urs Viktor (1787–1862) 62</p>
+<p>Wattenwyl, Niklaus Rudolf von (1760–1832) 84</p>
+<p>Weiss, Achilles (1725–1792) 172</p>
+<p>Weiss, Barbara (geb. um 1784) 274</p>
+<p>Weiss, Esther (1757−1789) 172</p>
+<p>Weiss, Verena (geb. 1816) 274–275</p>
+<p>Weitling, Wilhelm (1808–1871) 285</p>
+<p>Wick, Johann Jakob (1765–1843) 248</p>
+<p>Wieland, Johannes (1791−1832) 139</p>
+<p>Winter, Ludwig Georg (1778–1838) 146, 149, 151</p>
+<h3>Z</h3>
+<p>Zeller, Christian Heinrich (1779–1860) 253</p>
+<p>Zeller, Sophie (1791–1858) 253</p>
+<p>Zinzendorf, Nikolaus Graf von (1700–1760) 240</p>
+<p>Zschokke, Heinrich (1771–1848) 146</p>
+<p>Zurfluh, Johannes (geb. um 1790) 286</p>
+<p>Zwilchenbart, Andreas (1786–1866) 276</p>
+<p>Zwinger, Friedrich (1707–1766) 30</p>
+<h2>Autorinnen und Autoren</h2>
+<p>Regula Argast, Studium der Geschichte, Germanistik und Philosophie an der Universität Basel,</p>
+<p>1995 Lizentiat, 2005 Promotion an der Universität Zürich. Leiterin Professur für Didaktik der Ge</p>
+<p>sellschaftswissenschaften und ihre Disziplinen, Pädagogische Hochschule, Fachhochschule</p>
+<p>Nordwestschweiz (FHNW).</p>
+<p>Susanne Bennewitz, geboren 1968, 1995 Magister in Literaturwissenschaft, Judaistik und Informa</p>
+<p>tik, Freie Universität Berlin, 2005 Promotion in Jüdische Studien, Universität Basel. Professorin für</p>
+<p>Kulturwissenschaften, Hochschule Trier.</p>
+<p>Sabine Braunschweig, geboren 1961, Dr. phil., Historikerin und Erwachsenenbildnerin im eigenen</p>
+<p>Büro für Sozialgeschichte Basel. Diverse Publikationen und Ausstellungen zur Basler Geschichte.</p>
+<p>Flavio Häner, geboren 1983, Studium der Kulturanthropologie und Geschichte an der Universität</p>
+<p>Basel, Promotion mit einer Dissertation zur Basler Museumsgeschichte. 2017−2023 Fachstelle</p>
+<p>Kulturgüterschutz Basel-Stadt. Seit 2023 Kantonale Krisenorganisation Basel-Stadt.</p>
+<p>Kevin Heiniger, geboren 1979, Studium der Geschichte und Germanistik in Basel und Berlin, 2015</p>
+<p>Promotion mit einer Dissertation zur Geschichte der Erziehungsanstalt Aarburg. Postdoc an der</p>
+<p>Hochschule für Soziale Arbeit FHNW. Forschungen zu Fürsorgeregimen und Sozialstaat.</p>
+<p>Lena Heizmann, geboren 1989, Studium der Geschichte an der Universität Basel, 2016 Master.</p>
+<p>Forschungen zur Basler Geschichte und Geschichtsvermittlung im Verein Frauenstadtrundgang</p>
+<p>Basel.</p>
+<p>Stefan Hess, geboren 1965, Studium der Geschichte, der Deutschen Literaturwissenschaft und</p>
+<p>der Kunstgeschichte an der Universität Basel, 2007 Promotion in Kunstgeschichte. Diverse Pub</p>
+<p>likationen zur Basler Geschichte.</p>
+<p>Walter Hochreiter, geboren 1955, Studium der Geschichte in Darmstadt und Frankfurt, 1992 Pro</p>
+<p>motion. Geschäftsführer des ifu-Instituts für Unternehmensgeschichte. Diverse Publikationen zur</p>
+<p>NS-Geschichte, Stadt-, Wirtschafts- und Kulturgeschichte.</p>
+<p>Janine Jakob, Studium der Medien- und Kommunikationswissenschaften sowie der Wirtschafts-</p>
+<p>und Sozialgeschichte an der Universität Zürich (Lizentiat und M. A.). Forschungsfokus Materiel</p>
+<p>le Kultur und Modegeschichte der Frühen Neuzeit. Doktorandin am Departement Geschichte der</p>
+<p>Universität Basel, freie Journalistin.</p>
+<p>Daniel Kriemler, geboren 1970, Studium der Geschichte in Basel und der Pädagogik in Zürich, 2016</p>
+<p>Promotion mit einer Kollektivbiografie der Basler Lesegesellschaft. Diverse Publikationen zur</p>
+<p>Lokalgeschichte sowie zur Pharmaziegeschichte.</p>
+<p>Thomas K. Kuhn, geboren 1963, Studium der Theologie, Dissertation, Habilitation und Assistenz</p>
+<p>professor an der Universität Basel. Seit 2010 Professor für Kirchengeschichte an der Universität</p>
+<p>Greifswald. Diverse Publikationen zur Kirchengeschichte Basels und der Schweiz.</p>
+<p>Silvio Raciti, geboren 1976, Studium der Geschichte an der Universität Bern, 2006 Lizentiat, 2013</p>
+<p>Promotion mit einer Dissertation zur Kriminalitätsgeschichte Basels in der Sattelzeit. Seit 2015</p>
+<p>wissenschaftlicher Mitarbeiter der Forschungsstelle Jeremias Gotthelf an der Universität Bern.</p>
+<p>André Salvisberg, geboren 1965, Studium der Geschichte an der Universität Basel, 1992 Lizentiat.</p>
+<p>Diverse Publikationen zur Basler Geschichte (u. a. ‹Historischer Atlas der Region Basel›, 2010).</p>
+<p>David Tréfás, geboren 1974, Studium der Geschichte an der Universität Basel, 2001 Lizentiat, 2006</p>
+<p>Promotion. Diverse Publikationen zur Basler Geschichte (u. a. ‹Kleine Basler Pressegeschichte›,</p>
+<p>2016).</p>
+<p>Elise Voerkel, geboren 1985, Studium der Kulturwissenschaften in Leipzig und Lyon, 2014 Master.</p>
+<p>Seit 2019 Stadthistorikerin in Lahr/Schwarzwald. Forschungen und diverse Publikationen zu Bas</p>
+<p>ler Bürgerfamilien und Kindererziehung im 18. und 19. Jahrhundert.</p>
+<p>Yiğit Topkaya, geboren 1977, Studium der Geschichte und Philosophie unter anderem in Basel, 2011</p>
+<p>Promotion. Diverse Publikationen zur Basler und Schweizer Textilindustrie, zu Urbanisierung und</p>
+<p>Raumplanung sowie zur Religions- und Reformationsgeschichte.</p>
+<p>Patricia Zihlmann, geboren 1978, 2008 Promotion an der Universität Basel mit einer kulturge</p>
+<p>schichtlichen Untersuchung des Todes in Basel. Seit 2015 stellvertretende Leiterin der Forschungs</p>
+<p>stelle Jeremias Gotthelf an der Universität Bern.</p>
+<h2>Dank</h2>
+<p>‹Hinter der Mauer, vor der Moderne› ist in jeder Hinsicht ein Gemeinschaftswerk. Die folgenden Verdankungen richten sich neben den namentlich Erwähnten auch an die vielen anderen, die unermüdlich mitwirkten. In erster Linie existiert der Band dank der Autorinnen und Autoren, die geforscht und geschrieben haben: Regula Argast, Susanne Bennewitz, Sabine Braunschweig, Flavio Häner, Kevin Heiniger, Lena Heizmann, Stefan Hess, Walter Hochreiter, Janine Jakob, Daniel Kriemler, Thomas K. Kuhn, Silvio Raciti, Yiğit Topkaya, David Tréfás, Elise Voerkel, Patricia Zihlmann. Sie alle stehen für ein hervorragendes Netzwerk an Wissen, für Neugier, Einsatz und Vermittlung. Marc Fehlmann hat für diesen Band bis 2023 als Herausgeber gewirkt. Er übernahm die grundsätzliche Planung sowie die Auswahl der Autorinnen und Autoren. In dieser Phase begann auch die Arbeit von Dominik Sieber, die für die Detailstruktur wesentlich war und bis 2022 dauerte. Unterstützt wurden die redaktionellen Belange im Jahr 2020, als die Pandemie alles erschwerte, durch Kevin Heiniger. Mit den Nachbarbänden der Stadt.Geschichte.Basel wurde eng zusammengearbeitet. Die Gemeinsamkeiten und Abgrenzungen definierten wir mit Susanna Burghartz, Daniel Sidler und Markus Sandl von Band 4 sowie mit Patrick Kury, Isabel Koellreuter und Franziska Schürch von Band 6. Von ihnen und von den anderen Band-Teams kamen immer wieder wichtige Hinweise und Meinungen. Stellvertretend sei dafür Céline Angehrn, Eva Gschwind und Claudius Sieber-Lehmann gedankt. Die Autorinnen und Autoren konnten stets auf die Unterstützung der Institutionen vor Ort und auswärts zählen. Besonders seien erwähnt: Staatsarchiv Basel-Stadt, Universitätsbibliothek Basel, Historisches Museum Basel, Schweizerisches Wirtschaftsarchiv, Basler Mission, Generallandesarchiv Karlsruhe. Grosser Dank geht an Doris Tranter für ihr unverzichtbares Korrektorat und das weit darüber hinausgehende inhaltliche Feedback. Iris Becher und der Christoph Merian Verlag, Cristina Münch und die Projektleitung Stadt.Geschichte. Basel, Katharina Marti und das Grafikbüro icona basel haben den Produktionsprozess voller Umsicht begleitet. Der abschliessende Dank geht an das Departement Geschichte der Universität Basel, die Stiftung Stadt.Geschichte.Basel und an den Verein Basler Geschichte, insbesondere an den Vereinspräsidenten Robert Labhardt für die Anteilnahme am Werkprozess und seine stetige persönliche Unterstützung.</p>
+</div>
+````

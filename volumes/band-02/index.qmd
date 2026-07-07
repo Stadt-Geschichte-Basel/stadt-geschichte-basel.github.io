@@ -1,0 +1,54 @@
+---
+title: Eine Bischofsstadt zwischen Oberrhein und Jura. 800 – 1273
+subtitle: Stadt.Geschichte.Basel, Band 2
+description: Band 2 der neunbändigen Buchreihe Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Band
+order: 2
+doi: 10.21255/sgb-02-404936
+license: CC BY-NC 4.0
+author:
+- name: Claudius Sieber-Lehmann
+  orcid: 0000-0002-7145-8217
+citation:
+  type: book
+  title: Eine Bischofsstadt zwischen Oberrhein und Jura. 800 – 1273
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-02-404936
+  editor:
+  - Claudius Sieber-Lehmann
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2
+listing:
+- id: chapters
+  type: table
+  contents:
+  - sgb-*/index.qmd
+  sort: order
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  page-size: 100
+  fields:
+  - title
+  - author
+  field-display-names:
+    title: Titel
+    author: Autor:innen
+date-modified: last-modified
+---
+
+::: {.callout-note title="Lizenz" appearance="simple"}
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-02-404936](https://doi.org/10.21255/sgb-02-404936)
+:::
+
+## Kapitel
+
+::: {#chapters}
+:::

@@ -1,0 +1,1436 @@
+---
+title: Anhang
+description: Kapitel 9 aus Band 4 «Aufbrüche, Krisen, Transformationen. 1510 – 1790» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 9
+doi: 10.21255/sgb-04.09-675115
+license: CC BY-NC 4.0
+author:
+- name: Susanna Burghartz
+  orcid: 0000-0001-6173-6626
+citation:
+  type: chapter
+  title: Anhang
+  container-title: Aufbrüche, Krisen, Transformationen. 1510 – 1790
+  page: 315-335
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-04.09-675115
+  editor:
+  - Susanna Burghartz
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band4/chapter/321
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band4/80/878
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-note title="Lizenz" appearance="simple"}
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-04.09-675115](https://doi.org/10.21255/sgb-04.09-675115)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<h2>Quellen- und Literaturverzeichnis</h2>
+<h3>Quellen Ungedruckte Quellen</h3>
+<p><em>Staatsarchiv Basel-Stadt</em></p>
+<p>StABS, Auswanderung A 3.</p>
+<p>StABS, Protokolle Kleiner Rat, 49, 108.</p>
+<p>StABS, Handel und Gewerbe, MM 1.</p>
+<p>StABS, Protokolle N 1.6; 1.8.</p>
+<p>StABS, Bf 1 A (Mandate).</p>
+<p>StABS, PA 399a D 1, 2 Faeschisches Stammbuch.</p>
+<p>StABS, PA 633c A 3.1.4.</p>
+<p>StABS, Ratsbuch K 25: Ratsordnung 1533.</p>
+<p>StABS, Rep. H. 1. Johann Jakob Huber: Statutarium Basiliense, Manuskript 1792–1797.</p>
+<p>StABS, Z 1, Architektur- und Bauordnung der Stadt Basel, 1588.</p>
+<p>StABS, Grenzen A 2.</p>
+<p>StABS, Kirchenarchiv H 3.</p>
+<p>StABS, Zeitungen 23.</p>
+<p><em>Historisches Museum Basel</em></p>
+<p>Ryhiner, Johannes: Remarques über die Fabrication der getruckten Tücher, mscr. HMB, 1901_39.</p>
+<p><em>Universitätsbibliothek Basel</em></p>
+<p>UB Basel, UBH J I 8, Kochbuch Magdalena Ryhiner-Platter, Basel 1592.</p>
+<p>UB Basel, UBH KiAr G X 3:20, 13:19, 26:5, 41:2.</p>
+<p>UB Basel, UBH H IV,3.</p>
+<p>UB Basel, UBH Wack 2519, Bekanthnus unsers heyligen Christenlichen gloubens, Basel 1534.</p>
+<p>UB Basel, UBH A lambda I 3:12, Ordnung so ein Ersame Statt Basel […], Basel 1529.</p>
+<p>UB Basel, UBH A lambda II 46a, Andreas Ryff, Münz- und Mineralienbuch, 1594–1599.</p>
+<p>UB Basel, UBH AG II 23, Andreas Ryff, Empter Buoch, 1594.</p>
+<p><em>Schweizerisches Wirtschaftsarchiv</em></p>
+<p>Weiss, Markus: Handlungs-Hauptbücher, Rechnungsbücher HS 257, A 3, 1752–1763.</p>
+<p><em>Nationaal Archief, Den Haag</em></p>
+<p>1.05.03 Inventaris van het archief van de Sociëteit van Suriname, (1650) 1682–1795 (1796), Nr. 414 Stukken betreffende de zaak van de Zwitserse families, in Suriname gekomen onder leiding van Louis de Bussy, 1747–1751.</p>
+<h3>Gedruckte Quellen</h3>
+<p>[Balthasar, Franz Urs:] Patriotische Träume eines Eydgenossen, von einem Mittel, die veraltete Eydgnoßschaft wieder zu verjüngeren, Freystadt 1758.</p>
+<p>Basler Avisblatt. Mit hoch-obrigkeitlichem Privilegio begünstigtes Avis-Blättlein, Basel 1729 (erscheint unter wechselnden Titeln bis 1845).</p>
+<p>Beck, Jakob Christoph: Ungrund des Separatismus. Oder Beantwortung der fürnehmsten Ursachen, derentwegen sich die Separatisten von dem öffentlichen Gottesdienste absöndern. Den Jrrenden zur heilsamen Unterweisung, andern aber zur Wahrnung, Auf Gutbefinden E. Ehrw. Predig-Ammts allhier, Basel 1753.</p>
+<p>Bernoulli, Daniel: Anmerkungen über die neulich publicierte Tabelle der Einwohner unserer Stadt Basel, Basel 1780.</p>
+<p>Dollfus-Ausset, Daniel: Matériaux pour la coloration des étoffes, Paris 1865.</p>
+<p>Faesch, Hieronymus; Miville, Hans Ulrich: Kurzer Bericht auf das in Basel wider die von der Welt also genannten Separatisten herausgegebene Traktätlein, Zug 1753.</p>
+<p>Gengenbach, Pamphilus: Die.X. alter dyser welt, Basel 1515.</p>
+<p>Glaser, Hans Heinrich: Basler Kleidung aller hoh- und nidriger Standts-Personen, Basel 1634.</p>
+<p>Grossen, Johann Georg: Schrifftmässiger Bericht von Schwangern Weibs-personen, Basel 1619.</p>
+<p>Grynaeus, Johann Jakob: Das geistliche und herrliche Kleinot der Kirchen Gottes in Statt und Landschafft Basel […], Basel 1590.</p>
+<p>Hirschfeld, Christian Cay Lorenz: Neue Briefe über die Schweiz, Erstes Heft, Kiel 1785.</p>
+<p>Hofer, Johannes: Dissertatio medica De Nostalgia, oder Heimwehe, Basel 1688.</p>
+<p>Iselin, Isaak: Besprechung des ersten Bandes von Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations, in: Ephemeriden der Menschheit, 5. Stück (1777), S. 61–101.</p>
+<p>Iselin, Isaak: Verzeichniß der Profeßionisten in der Stadt Basel im Jahr 1780, in: Ephemeriden der Menschheit, 28, 2. Band (1780), S. 625–638.</p>
+<p>Justus, Heinrich: Ein Christliche, Lehr und Trostreiche Leichpredig, Basel 1605.</p>
+<p>Ochs, Peter: Geschichte der Stadt und Landschaft Basel. 8 Bde., Leipzig, später Basel 1786–1822.</p>
+<p>Pantaleon, Heinrich: Nutzliche unnd trostliche underrichtung, wie sich mencklich in diser gefahrlichen zeyt der pestelentz halten solle […] / auss den alten und neüwen Scribenten […] zusammen gestellet, Basel 1564.</p>
+<p>Rhagorius, Daniel: Pflantz-Gart, welicher gestalten 1. Obs-Gärten, 2. Kraut-Gärten, 3. Wein-Gärten. Mit Lust und Nutz an zu stellen, zu bauwen vnd zu erhalten, Buch 3, Basel 1669.</p>
+<p>Rosius, Jakob: Neuer und alter Schreib Kalender aufs Jahr MDCCXLV nach der heilsamen Geburt Jesu Christi, Basel 1745.</p>
+<p>Ryff, Andreas: Der Stadt Basel Regiment und Ordnung, Basel 1597.</p>
+<p>Wurstisen, Christian: Baszler Chronick/ Darinn alles/ was sich in Öberen Teutſchen Landen/ nicht nur in der Statt und Bistumbe Baſel/ von ihrem Ursprung her/ […] biß in das gegenwirtige M. D. L X X X Jar/ gedenckwirdiges zuogetragen […]: Sonder auch der Eydtgnoschafft, Burgund, Elsaß und Breißgow/ […]/ warhafftig beschrieben, Basel 1580.</p>
+<h3>Literatur</h3>
+<p>Allen, Percy Stafford (Hg.): Opus Epistolarum Des. Erasmi Roterodami, Bd. 8, Oxford 1934.</p>
+<p>Arnold, Matthieu: Strassburg und Basel im Briefwechsel Martin Bucers (1524–1531), in: Christ-von Wedel, Christine; Grosse, Sven; Hamm, Berndt (Hg.): Basel als Zentrum geistigen Austauschs in der frühen Reformationszeit, Tübingen 2014, S. 179–191.</p>
+<p>Bachmann, Manuel; Hofmeier, Thomas: Geheimnisse der Alchemie, Basel 1999.</p>
+<p>Barraz, Francis: Peter Stoppa 1621–1701. La vie d’un commandant de régiment suisse au service de la France, sous Louis XIV, Cully 1990.</p>
+<p>Barth, Ulrich; Hörack, Christian: Basler Goldschmiedekunst, Bd. 2: Katalog der Werke, Basel 2014.</p>
+<p>Basler Münsterbauverein (Hg.): Baugeschichte des Basler Münsters, Basel 1895.</p>
+<p>Becker, Maria: Architektur und Malerei. Studien zur Fassadenmalerei des 16. Jahrhunderts in Basel, Basel 1994.</p>
+<p>Benkert, Davina: Ökonomien botanischen Wissens. Praktiken der Gelehrsamkeit in Basel um 1600, Basel 2020.</p>
+<p>Berg, Maxine: Useful Knowledge, Industrial Enlightenment, and the Place of India, in: Journal of Global History 8 (1), 2013, S. 117–141.</p>
+<p>Berner, Hans: Basel und das Zweite Helvetische Bekenntnis, in: Zwingliana 15, 1979, S. 8–39.</p>
+<p>Berner, Hans: «die gute correspondenz». Die Politik der Stadt Basel gegenüber dem Fürstbistum Basel in den Jahren 1525–1585, Basel; Frankfurt a. M. 1989.</p>
+<p>Berner, Hans; Sieber-Lehmann, Claudius; Wichers, Hermann: Kleine Geschichte der Stadt Basel, Leinfelden-Echterdingen 2008.</p>
+<p>Bernhard, Jan-Andrea: Konsolidierung des reformierten Bekenntnisses im Reich der Stephanskrone. Ein Beitrag zur Kommunikationsgeschichte zwischen Ungarn und der Schweiz in der Frühen Neuzeit (1500–1700), Göttingen 2017.</p>
+<p>Bertelmann, Helmut: Die Anfänge der Industrialisierung im Lörracher Raum, in: Das Markgräflerland 2, 1981, S. 187–230.</p>
+<p>Bieri Thomson, Helen; Jacqué, Bernard; Jacqué, Jacqueline u. a.: Indiennes. Un tissu révolutionne le monde!, Lausanne 2018.</p>
+<p>Bietenholz, Peter G.: Basle and France in the Sixteenth Century. The Basle Humanists and Printers in Their Contacts with Francophone Culture, Genf 1971.</p>
+<p>Billeter, Heinrich: Die Landvogtei Mainthal (Valle Maggia und Lavizzara). Die eidgenössische Herrschaft von 1513 bis 1798, Zürich 1977.</p>
+<p>Bischoff, Carl: Aus der Geschichte eines alten Basler Hauses (Haus ‹zur Augenweide›), in: Basler Jahrbuch 1918, S. 174–213.</p>
+<p>Bisegger, Alfred: Die Silberversorgung der Basler Münzstätte bis zum Ausgang des 18. Jahrhunderts, Basel 1917.</p>
+<p>Bodmer, Walter: Schweizer Tropenkaufleute und Plantagenbesitzer in Niederländisch-Westindien im 18. und zu Beginn des 19. Jahrhunderts, in: Acta Tropica 3 (4), 1946, S. 289–321.</p>
+<p>Boerlin-Brodbeck, Yvonne: Zur Rezeption der Chinoiserie in der deutschsprachigen Schweiz des Ancien Régime, in: Basler Zeitschrift für Geschichte und Altertumskunde 106, 2006, S. 155–198.</p>
+<p>Bonjour, Edgar: Basel und die Eidgenossen. Geschichte ihrer Beziehungen zur Erinnerung an Basels Eintritt in den Schweizerbund 1501, Basel 1951.</p>
+<p>Bonjour, Edgar: Die Universität Basel von den Anfängen bis zur Gegenwart. 1460–1960, Basel 1960.</p>
+<p>Bourquin, Werner: Zur Geschichte der Viehseuchen, in: Blätter für bernische Geschichte, Kunst und Altertumskunde 16, 1920, S. 206–219.</p>
+<p>Brändle, Fabian: Nach oben und nach unten. Zwei Elsässer Vettern im Basel des 17. Jahrhunderts, in: Basler Zeitschrift für Geschichte und Altertumskunde 111, 2011, S. 23–44.</p>
+<p>Bräuer, Helmut: Almosenausteilungsplätze – Orte der Barmherzigkeit und Selbstdarstellung, des Gesprächs und der Disziplinierung, in: Bräuer, Helmut; Schlenkrich, Elke (Hg.): Die Stadt als Kommunikationsraum. Beiträge zur Stadtgeschichte vom Mittelalter bis ins 20. Jahrhundert. Festschrift für Karl Czok zum 75. Geburtstag, Leipzig 2011, S. 57–100.</p>
+<p>Braun, Bettina: Die Eidgenossen, das Reich und das politische System Karls V., Berlin 1997.</p>
+<p>Braus-Riggenbach, Helene: Das Erasmushaus zu Basel, Basel 1937.</p>
+<p>Brenner, Carl Walter: Basels Bevölkerung nach den Wohnquartieren zur Zeit des Dreißigjährigen Krieges (unter Beigabe des «Basler Adreßbuches» von 1634), in: Basler Zeitschrift für Geschichte und Altertumskunde 51, 1952, S. 35–106.</p>
+<p>Brotschi, Wilhelm: Der Kampf Jakob Christoph Blarers von Wartensee um die religiöse Einheit im Fürstbistum Basel (1575–1608), Freiburg 1956.</p>
+<p>Büchi, Tobias: Fortifikationsliteratur des 16. und 17. Jahrhunderts. Traktate deutscher Sprache im europäischen Kontext, Basel 2015.</p>
+<p>Büchi, Tobias: Die Festung Basel, Daniel Specklin und der Dreissigjährige Krieg. Gutachten, Ausführungen und Rahmenbedingungen, Basel 2021.</p>
+<p>Buess, Heinrich; Portmann, Marie-Louise; Molling, Peter A.: Theodor Zwinger III (1658–1724). Ein Basler Arzt und Kinderarzt der Barockzeit, Basel 1962.</p>
+<p>Bunke, Simon: Heimweh. Studien zur Kultur-und Literaturgeschichte einer tödlichen Krankheit, Freiburg i. Br. 2009.</p>
+<p>Burckhardt, Albert; Wackernagel, Rudolf: Geschichte und Beschreibung des Rathauses zu Basel, Basel 1886.</p>
+<p>Burckhardt, August: Das Direktorium der Kaufmannschaft zu Basel (1682–1798), in: Basler Stadtbuch 1963, S. 54–70.</p>
+<p>Burckhardt, Paul: Geschichte der Stadt Basel. Von der Zeit der Reformation bis zur Gegenwart, Basel 1942.</p>
+<p>Burckhardt, Paul: Basel in den ersten Jahren nach der Reformation, Basel 1946.</p>
+<p>Burckhardt, Paul: David Joris und seine Gemeinde in Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde 48, 1949, S. 5–106.</p>
+<p>Burckhardt-Finsler, Albert: Mitteilungen aus einer Basler Chronik des beginnenden XVIII. Jahrhunderts [Sam. v. Brunn], in: Basler Jahrbuch 1892, S. 165–196.</p>
+<p>Burckhardt-Piguet, Theophil: Bürgermeister Emanuel Socin, 1628–1717, in: Beiträge zur vaterländischen Geschichte 13 (3), 1893, S. 167–212.</p>
+<p>Burghartz, Susanna: Frauen – Politik – Weiberregiment. Schlagworte zur Bewältigung der politischen Krise von 1691 in Basel, in: Head-König, Anne-Lise; Tanner, Albert (Hg.): Frauen in der Stadt, Schweizerische Gesellschaft für Wirtschafts- und Sozialgeschichte 11, 1993, S. 113–134.</p>
+<p>Burghartz, Susanna: Geschlecht – Körper – Ehre. Überlegungen zur weiblichen Ehre in der Frühen Neuzeit am Beispiel der Basler Ehegerichtsprotokolle, in: Schreiner, Klaus; Schwerhoff, Gerd (Hg.): Verletzte Ehre. Ehrkonflikte in Gesellschaften des Mittelalters und der Frühen Neuzeit, Köln; Weimar; Wien 1995, S. 214–234.</p>
+<p>Burghartz, Susanna: «Lauter Extremitäten und kein Drittes». Die Ehe von Johann Rudolf Wettstein und Anna Maria Falkner, in: Historisches Museum Basel (Hg.): Johann Rudolf Wettstein und seine Zeit. Ausstellungskatalog, Basel 1998, S. 98–105.</p>
+<p>Burghartz, Susanna: Zeiten der Reinheit – Orte der Unzucht. Ehe und Sexualität in Basel während der Frühen Neuzeit, Paderborn etc. 1999a.</p>
+<p>Burghartz, Susanna: Verführung oder Vergewaltigung? Reden über sexuelle Gewalt vor dem Basler Ehegericht in der Frühen Neuzeit, in: Dausien, Bettina; Herrmann, Martina; Oechsle, Mechthild; u. a. (Hg.): Erkenntnisprojekt Geschlecht. Feministische Perspektiven verwandeln Wissenschaft, Opladen 1999b, S. 325–344.</p>
+<p>Burghartz, Susanna: 1691 – ein Ende mit Schrecken, in: Baur, Esther; Dettwiler, Walter (Hg.): Bildgeschichten. Aus der Bildersammlung des Staatsarchivs Basel-Stadt 1899–1999. Basel 1999c, S. 102–105.</p>
+<p>Burghartz, Susanna: Wandel durch Kontinuität? Zur Moralpolitik von Reformation und Konfessionalisierung, in: Traverse. Zeitschrift für Geschichte 1, 2000a, S. 23–35.</p>
+<p>Burghartz, Susanna: Das 17. und das 18. Jahrhundert, in: Kreis, Georg; von Wartburg, Beat (Hg.): Basel. Geschichte einer städtischen Gesellschaft, Basel 2000b, S. 116–147.</p>
+<p>Burghartz, Susanna: Wibrandis Rosenblatt – Die Frau der Reformatoren. Zum Andenken an Katharina Preiswerk (1917–2003), in: Theologische Zeitschrift 60 (4), 2004, S. 337–349.</p>
+<p>Burghartz, Susanna: Im Angesicht der Armut. Ordnung, Regulierung und Fürsorge im 16. und 17. Jahrhundert, in: Mooser, Josef; Wenger, Simon (Hg.): Armut und Fürsorge in Basel. Armutspolitik vom 13. Jahrhundert bis heute, Basel 2011, S. 49–72.</p>
+<p>Burghartz, Susanna: Die Renaissance des Infamen? Leonhard Thurneysser zwischen Geschichte und Gegengeschichte, in: Mass, Sandra; Tippelskirch, Xenia von (Hg.): Faltenwürfe der Geschichte. Entdecken, entziffern, erzählen, Frankfurt; New York 2014a, S. 335–365.</p>
+<p>Burghartz, Susanna: Frauenschleier und Fenstergitter. Reformationsmandate, Modekritik und Geschlechterordnung in Basel vom 16. bis 18. Jahrhundert, in: Braunschweig, Sabine (Hg.): «Als habe es die Frauen nicht gegeben». Beiträge zur Frauen- und Geschlechtergeschichte, Zürich 2014b, S. 21–37.</p>
+<p>Burghartz, Susanna: Covered Women? Veiling in Early Modern Europe, in: History Workshop Journal 80, 2015, S. 1–32.</p>
+<p>Burghartz, Susanna: Die «durchgehende» Reformation. Basler Mandate von 1529 bis 1780, in: Basler Zeitschrift für Geschichte und Altertumskunde 116, 2016a, S. 89–111.</p>
+<p>Burghartz, Susanna: Jagdfreunde? Der ‹liber amicorum› des Obersten Basler Schützenmeisters Jacob Götz (1594–1598), in: Burkart, Lucas; Müller, Camillo von; Müller, Johannes von (Hg.): Sprezzatura. Geschichte und Geschichtserzählung zwischen Fakt und Fiktion, Göttingen 2016b, S. 103–117.</p>
+<p>Burghartz, Susanna: Im Schnittpunkt – Basel zwischen Renaissance und Reformation, in: Zeitschrift für Schweizerische Archäologie und Kunstgeschichte 74, 2017a, S. 5–24.</p>
+<p>Burghartz, Susanna: La sexualité au XVIe siècle entre fascination et obsession, in: Christin, Olivier; Krummenacker, Yves (Hg.): Les protestants à l’époque moderne. Une approche anthropologique, Rennes 2017b, S. 451–466.</p>
+<p>Burghartz, Susanna: Die Wappenscheibe der medizinischen Fakultät aus dem Jahr 1613, in: Historisches Museum Basel. Jahresbericht 2019, S. 27–31.</p>
+<p>Burghartz, Susanna: Venustanz im Basler Münster. Eine satirische Spurensuche in Zeiten der Idolatrie, in: Becker, Anna; Höfert, Almut; Mommertz, Monika u. a. (Hg.): Körper – Macht – Geschlecht. Einsichten und Aussichten zwischen Mittelalter und Gegenwart, Frankfurt; New York 2020, S. 319–330.</p>
+<p>Burghartz, Susanna; Herren, Madeleine: Seide, Sand, Papier. Ein Basler Sommerpalais und seine globalen Bezüge, Basel 2021.</p>
+<p>Burghartz, Susanna: Localizing Globality in Early Capitalist Basel, in: Journal of Early Modern History 27, 2023, S. 83–107.</p>
+<p>Burghartz Susanna; Calvi, Sonia; Vogeler, Georg (Hg.): Urfehdenbuch X der Stadt Basel (1563–1569), in: Die Urfehdebücher der Stadt Basel – digitale Edition, Basel; Graz 2016. (zuletzt verändert am 31.1.2017), hdl:11471/1010.2.1 ). Online: &lt;http://gams.uni-graz.at/o:ufbas.1563&gt; (Stand: 15.07.2022).</p>
+<p>Buri, Fritz: Johann Jakob Grynaeus, in: Der Reformation verpflichtet. Gestalten und Gestalter in Stadt und Landschaft Basel aus fünf Jahrhunderten, Basel 1979, S. 55–58.</p>
+<p>Burnett, Amy Nelson: Simon Sulzer and the Consequences of the 1563 Strasbourg Consensus, in: Archive for Reformation History 83, 1992, S. 154–179.</p>
+<p>Burnett, Amy Nelson: Teaching the Reformation. Ministers and Their Message in Basel, 1529–1629, Oxford 2006.</p>
+<p>Burnett, Amy Nelson: Bucers letzter Jünger. Simon Sulzer und Basels konfessionelle Identität zwischen 1550 und 1570, in: Basler Zeitschrift für Geschichte und Altertumskunde 107, 2007, S. 137–172.</p>
+<p>Burnett, Amy Nelson: Basel, Beza, and the Development of Calvinist Orthodoxy in the Swiss Confederation, in: Dingel, Irene; Selderhuis, Herman J. (Hg.): Calvin und Calvinismus. Europäische Perspektiven, Göttingen 2011, S. 69–83.</p>
+<p>Burnett, Amy Nelson: The Reformation in Basel, in: Burnett, Amy Nelson; Campi, Emidio (Hg.): A Companion to the Swiss Reformation, Leiden 2016, S. 170–215.</p>
+<p>Burnett, Stephen G.: From Christian Hebraism to Jewish Studies. Johannes Buxtorf (1564–1629) and Hebrew Learning in the Seventeenth Century, Leiden; New York; Köln 1996.</p>
+<p>Busino, Giovanni: Italiani all’università di Basilea dal 1460 al 1601, in: Bibliothèque d’Humanisme et Renaissance 20, 1958, S. 497–526.</p>
+<p>Bycroft, Michael; Dupré, Sven: Introduction. Gems in the Early Modern World, in: Bycroft, Michael; Dupré, Sven (Hg.): Gems in the Early Modern World. Materials, Knowledge and Global Trade, 1450–1800, Cham 2019.</p>
+<p>Calvi, Sonia: «Zur inspection und handhabung der angestelten reformation». Die Basler Reformationsherren im 17. und 18. Jahrhundert, in: Basler Zeitschrift für Geschichte und Altertumskunde 118, 2018, S. 249–279.</p>
+<p>Campi, Emidio; Wälchli, Philipp (Hg.): Basler Kirchenordnungen 1528–1675, Zürich 2012.</p>
+<p>Caracausi, Andrea: Made in Italy. Seidenbänder im frühneuzeitlichen Europa, in: Schmidt-Funke, Julia A. (Hg.): Materielle Kultur und Konsum in der Frühen Neuzeit, Köln 2019, S. 39–60.</p>
+<p>Castellio, Sebastian: Das Manifest der Toleranz. Von Ketzern und ob man sie verfolgen soll. De haereticis an sint persequendi, hg. und übers. von Stingl, Werner; Plath, Uwe, Essen 2013.</p>
+<p>Chapman, Stanley D.; Chassagne, Serge: European Textile Printers in the Eighteenth Century. A Study of Peel and Oberkampf, London 1981.</p>
+<p>Christ, Bernhard: Die Basler Stadtgerichtsordnung von 1719 als Abschluss der Rezeption in Basel, Basel 1969.</p>
+<p>Christ-von Wedel, Christine: Glaubensgewissheit und Gewissensfreiheit. Die frühe Reformationszeit in Basel, Basel 2017.</p>
+<p>Cooper, Alix: Inventing the Indigenous. Local Knowledge and Natural History in Early Modern Europe, Cambridge 2007.</p>
+<p>Cottier, Maurice; Raciti, Silvio: From Honour to Subjectivity. Interpersonal Violence in Basel 1750–1868 and Berne 1861–1944, in: Crime, Histoire &amp; Sociétés 17 (2), 2013, S. 101–124.</p>
+<p>David, Thomas; Etemad, Bouda; Schaufelbuehl, Janick Marina: Schwarze Geschäfte. Die Beteiligung von Schweizern an Sklaverei und Sklavenhandel im 18. und 19. Jahrhundert, Zürich 2005.</p>
+<p>De Bruijn, Emile: The Use of Chinese Prints as Wall Coverings in Mid-18th Century Europe, in: Krist, Gabriela; Iby, Elfriede (Hg.): Investigation and Conservation of East Asian Cabinets in Imperial Residences (1700–1900). Lacquerware, Porcelain, Paper &amp; Wall Hangings, Wien 2018, S. 61–73.</p>
+<p>De Vries, Jan: The Industrial Revolution and the Industrious Revolution, in: The Journal of Economic History 54 (2), 1994, S. 249–270.</p>
+<p>Degler-Spengler, Brigitte: Anna Payer, die letzte Äbtissin des Klarissenklosters Gnadental in Basel. Näheres zu ihrem Leben, in: Basler Zeitschrift für Geschichte und Altertumskunde 91, 1991, S. 13–37.</p>
+<p>Dermigny, Louis: La Chine et l’Occident. Le commerce à Conton au XVIIIe siècle, 1719–1833, Bd. 2, Paris 1964.</p>
+<p>Dickmann, Lars: Topographien des Verlorenen. Zur Praxis des Verlierens und Findens im Basler Avisblatt, 1729–1844, Masterarbeit Universität Basel, Basel 2021.</p>
+<p>Dill, Ueli: Johannes Sapidus und die Familie Amerbach, in: Dill, Ueli; Jenny, Beat R. (Hg.): Aus der Werkstatt der Amerbach-Edition. Christoph Vischer zum 90. Geburtstag, Basel 2000, S. 13–50.</p>
+<p>Dill, Ueli: «Nautile, symbolum atque larva nostra». Theodor Zwinger unterwegs im Meer des Lebens, in: Basler Zeitschrift für Geschichte und Altertumskunde 110, 2010, S. 177–207.</p>
+<p>Dill, Ueli: Johann Frobens Entwicklung zum humanistischen Drucker, in: Dill, Ueli; Schierl, Petra (Hg.): Das bessere Bild Christi. Das Neue Testament in der Ausgabe des Erasmus von Rotterdam, Basel 2016, S. 45–59.</p>
+<p>Dill, Ueli; Jenny, Beat R. (Hg.): Aus der Werkstatt der Amerbach-Edition. Christoph Vischer zum 90. Geburtstag, Basel 2000.</p>
+<p>Dohrn-van Rossum, Gerhard: Die Geschichte der Stunde. Uhren und moderne Zeitmessung, München; Wien 1992.</p>
+<p>Donzel, Catherine; Marchal, Sabine; Walter, Marc: L’art de la passementerie et sa contribution à l’histoire de la mode et de la décoration, Paris 1992.</p>
+<p>Droz, Eugénie: Les étudiants français de Bâle, in: Bibliothèque d’Humanisme et Renaissance 20, 1958, S. 108–141.</p>
+<p>Dürr, Emil; Roth, Paul (Hg.): Aktensammlung zur Geschichte der Basler Reformation in den Jahren 1519 bis Anfang 1534, 6 Bde., Basel 1921–1950.</p>
+<p>Egger, Franz: «Das man dem almusen unnd spital zu lieb nit also jnsässe». Basler Hintersassen im 16. Jahrhundert, in: Basler Zeitschrift für Geschichte und Altertumskunde 91, 1991, S. 39–58.</p>
+<p>Egger, Franz: Zeichen der Macht – Macht der Zeichen. Visualisierung obrigkeitlicher Ordnung im 18. Jahrhundert. Der Basler Oberstknecht und seine Amtsstäbe, in: Basler Zeitschrift für Geschichte und Altertumskunde 102, 2002, S. 159–190.</p>
+<p>Egger, Franz: Von den Anfängen bis 1798, in: Historisches Museum Basel (Hg.): Schuldig. Verbrechen, Strafen, Menschen, Basel 2012, S. 13–50.</p>
+<p>Egger, Michael: Sebastian Castellio, David Joris und die Täufer in Basel und Zürich. ‹De haereticis an sint persequendi› im Spiegel der reformierten Täuferverfolgung und als Streitschrift gegen Heinrich Bullinger, in: Mahlmann-Bauer, Barbara (Hg.): Sebastian Castellio (1515–1563) – Dissidenz und Toleranz. Beiträge zu einer internationalen Tagung auf dem Monte Verità in Ascona 2015, Göttingen 2018, S. 385–422.</p>
+<p>Ehrensperger, Franz: Basels Stellung im internationalen Handelsverkehr des Spätmittelalters, Basel 1972.</p>
+<p>Eisele, Nicola: Das Basler Domkapitel im Freiburger Exil (1529–1628). Studien zum Selbstverständnis einer reichskirchlichen Institution, Freiburg; München 2004.</p>
+<p>Escher, Heinrich: Geschichte der Unruhen zu Basel im Jahr 1691, in: Archiv für Schweizerische Geschichte und Landeskunde 2, 1829, S. 161–262.</p>
+<p>Faesch, Remigius Sebastian; Salvisberg, André: Das Museum Faesch. Eine Basler Kunst- und Raritätensammlung aus dem 17. Jahrhundert, Basel 2005.</p>
+<p>Fairchilds, Cissie: The Production and Marketing of Populuxe Goods in Eighteenth-Century Paris, in: Brewer, John; Porter, Roy (Hg.): Consumption and the World of Goods, London 1993, S. 228–248.</p>
+<p>Fallet-Scheurer, M.: Die Zeitmessung im alten Basel. Kulturgeschichtliche Studie, in: Basler Zeitschrift für Geschichte und Altertumskunde 15, 1916, S. 237–366.</p>
+<p>Fatah-Black, Karwan: Suriname and the Atlantic World, 1650–1800, unveröffentlichte Dissertation Universität Leiden, Leiden 2013a.</p>
+<p>Fatah-Black, Karwan: A Swiss Village in the Dutch Tropics. The Limitations of Empire-Centred Approaches to the Early Modern Atlantic World, in: BMGN – Low Countries Historical Review 128 (1), 2013b, S. 31–52.</p>
+<p>Felici, Lucia: Erasmusstiftung. La fondazione erasmiana nella storia culturale e sociale europea, 1538–1600, Florenz 2000.</p>
+<p>Fiechter, Hans-Ulrich: Zur Entstehung der «Geschichte der Menschheit». Iselins Tagebücher 1760–1763, in: Gisi, Lucas Marco; Rother, Wolfgang (Hg.): Isaak Iselin und die Geschichtsphilosophie der europäischen Aufklärung, Basel 2011, S. 84–99.</p>
+<p>Fink, Paul: Vom Passementerhandwerk zur Bandindustrie. Ein Beitrag zur Geschichte des alten Basel, Basel 1979.</p>
+<p>Fink, Paul: Geschichte der Basler Bandindustrie. 1550–1800, Basel; Frankfurt a. M. 1983.</p>
+<p>Flueler, Elisabeth: Die Geschichte der Mädchenbildung in der Stadt Basel, Basel 1984.</p>
+<p>Follmann, Sigrid-Ursula: Gesellschaftsbild, Bildung und Geschlechterordnung bei Isaak Iselin in der Spätaufklärung, Münster; Hamburg; London 2002.</p>
+<p>Foucault, Michel: Geschichte der Gouvernementalität, 2 Bde., Frankfurt a. M. 2006.</p>
+<p>Füglister, Hans: Handwerksregiment. Untersuchungen und Materialien zur sozialen und politischen Struktur der Stadt Basel in der ersten Hälfte des 16. Jahrhunderts, Basel; Frankfurt a. M. 1981.</p>
+<p>Furrer Wälchli, Katharina: «Faesch, Johann Rudolf», in: Historisches Lexikon der Schweiz (HLS), elektronische Version vom 10.11.2004, &lt;https://hls-dhs-dss.ch/de/articles/019210/2004-11-10/&gt; (Stand: 28.02.2022).</p>
+<p>Fürstenberger, Markus: Die Mediationstätigkeit des Basler Bürgermeisters Johann Balthasar Burckhardt. 1642–1722, Basel; Stuttgart 1960.</p>
+<p>Fürstenberger, Markus; Ritter, Ernst: 500 Jahre Basler Messe, Basel 1971.</p>
+<p>Gampp, Axel Christoph: Der Markgräflerhof in Basel. Das erste Barockpalais der Schweiz, in: Insitu 1, 2012, S. 77–92.</p>
+<p>Gantner, Theo: Volkskundliche Probleme einer konfessionellen Minderheit. Dargestellt an der römisch-katholischen Diaspora der Stadt Basel, Winterthur 1970.</p>
+<p>Gantner-Schlee, Hildegard: Hieronymus Annoni (1697–1770). Ein Wegbereiter des Basler Pietismus, Liestal 2001.</p>
+<p>Gauss, Julia; Stöcklin, Alfred: Bürgermeister Wettstein. Der Mann. Das Werk. Die Zeit, Basel 1953.</p>
+<p>Geering, Traugott: Handel und Industrie der Stadt Basel. Zunftwesen und Wirtschaftsgeschichte bis zum Ende des 17. Jahrhunderts, Basel 1896.</p>
+<p>Geiger, Max: Die Basler Kirche und Theologie im Zeitalter der Hochorthodoxie, Zürich-Zollikofen 1952.</p>
+<p>Gelzer, Florian: «Immer aber werden wir einander lieben können, wenn schon unsere Denkungsart immer ungleich bleiben sollte». Christoph Martin Wieland und Isaak Iselin, in: Wieland-Studien 8, 2013, S. 225–263.</p>
+<p>Gelzer, Florian (Hg.): Neue Perspektiven auf Isaak Iselin. Jahrbuch der Schweizerischen Gesellschaft für die Erforschung des 18. Jahrhunderts 5, Basel 2014.</p>
+<p>Gilly, Carlos: Zwischen Erfahrung und Spekulation. Theodor Zwinger und die religiöse und kulturelle Krise seiner Zeit. in: Basler Zeitschrift für Geschichte und Altertumskunde 77, 1977, S. 57–137 und 79, 1979, S. 125–223.</p>
+<p>Gilly, Carlos: Spanien und der Basler Buchdruck bis 1600. Ein Querschnitt durch die spanische Geistesgeschichte aus der Sicht einer europäischen Buchdruckerstadt, Basel; Frankfurt a. M. 1985.</p>
+<p>Goetz, Karl: Die Verbindung von Kirche und Staat in der alten reformierten Kirche Basels, in: Basler Zeitschrift für Geschichte und Altertumskunde 40, 1941, S. 5–22.</p>
+<p>Goslinga, Cornelis Ch.; van Yperen, Maria J. L. (Hg.): The Dutch in the Caribbean and in the Guianas, 1680–1791, Assen; Maastricht 1985.</p>
+<p>Graf, J. H.: Das Leben und Wirken des Physikers und Astronomen Johann Jakob Huber aus Basel (1733–1798), Bern 1892.</p>
+<p>Greiner, Christian: Der deutsch-französische «Kriegsgarten» am Oberrhein, 1648–1697, in: Das Markgräflerland. Beiträge zu seiner Geschichte und Kultur 69, 2007, S. 205–226.</p>
+<p>Greyerz, Kaspar von: Alchemie, Hermetismus und Magie. Zur Frage der Kontinuitäten in der wissenschaftlichen Revolution, in: Lehmann, Hartmut; Trepp, Anne-Charlott (Hg.): Im Zeichen der Krise. Religiosität im Europa des 17. Jahrhunderts, Göttingen 1999, S. 415–432.</p>
+<p>Greyerz, Kaspar von: Das 16. Jahrhundert, in: Kreis, Georg; von Wartburg, Beat (Hg.): Basel. Geschichte einer städtischen Gesellschaft, Basel 2000, S. 80–109.</p>
+<p>Greyerz, Kaspar von; Heer, Peter W.: Exponenten des Radikalpietismus in Basel – Wilhelm Brenner (1723–1781) und Susanna Ochs-Brenner (1725–1810), in: Greyerz, Kaspar von; Heer, Peter W.; Guyer, Franziska (Hg.): Vom Weissgerber zum Bundesrat. Basel und die Familie Brenner, 17.–20. Jahrhundert, Basel 2009, S. 121–140.</p>
+<p>Greyerz, Kaspar von: Passagen und Stationen. Lebensstufen zwischen Mittelalter und Moderne, Göttingen 2010.</p>
+<p>Greyerz, Kaspar von: Basel, in: Adam, Wolfgang; Westphal, Siegrid (Hg.): Handbuch kultureller Zentren der Frühen Neuzeit. Städte und Residenzen im alten deutschen Sprachraum, Bd. 1, Berlin 2012, S. 89–131.</p>
+<p>Grimm, Alain: Von der lästigen Bürgerpflicht zu einem republikanischen Pflichtgefühl in der Freikompanie. Über Prozesse im baslerischen Wehrwesen vom Dreissigjährigen Krieg bis zum Ende des Ancien Régime, Masterarbeit, Universität Basel, Basel 2019.</p>
+<p>Grob, Rudolf Ernst: Die separatistischen Strömungen in Basel im XVIII. Jahrhundert, Zürich 1907.</p>
+<p>Groebner, Valentin: «Gemein» und «Geheym». Pensionen, Geschenke und die Sichtbarmachung des Unsichtbaren in Basel am Beginn des 16. Jahrhunderts, in: Schweizerische Zeitschrift für Geschichte 49, 1999, S. 445–469.</p>
+<p>Groebner, Valentin: Gefährliche Geschenke. Ritual, Politik und die Sprache der Korruption in der Eidgenossenschaft im späten Mittelalter und am Beginn der Neuzeit, Konstanz 2000.</p>
+<p>Gschwind, Franz: Bevölkerungsentwicklung und Wirtschaftsstruktur der Landschaft Basel im 18. Jahrhundert. Ein historisch-demographischer Beitrag zur Sozial- und Wirtschaftsgeschichte mit besonderer Berücksichtigung der langfristigen Bevölkerungsentwicklung von Stadt (seit 1100) und Landschaft (seit 1500) Basel, Liestal 1977.</p>
+<p>Guggenbühl, Dietegen: Mit Tieren und Teufeln, Liestal 2002.</p>
+<p>Guggisberg, Hans Rudolf: Basel in the Sixteenth Century. Aspects of the City Republic before, during, and after the Reformation, St. Louis 1959a.</p>
+<p>Guggisberg, Hans Rudolf: Die niederländischen Studenten an der Universität Basel von 1532 bis zum Ende des 17. Jahrhunderts, in: Basler Zeitschrift für Geschichte und Altertumskunde 58/59, 1959b, S. 231–288.</p>
+<p>Guggisberg, Hans Rudolf: Das reformierte Basel als geistiger Brennpunkt Europas im 16. Jahrhundert, in: Guggisberg, Hans Rudolf; Rotach, Peter (Hg.): Ecclesia semper reformanda. Vorträge zum Basler Reformationsjubiläum 1529–1979, Basel 1980, S. 50–75.</p>
+<p>Guggisberg, Hans Rudolf: Sebastian Castellio. 1515–1563. Humanist und Verteidiger der religiösen Toleranz im konfessionellen Zeitalter, Göttingen 1997.</p>
+<p>Guyer, Franziska: Ein Hosenlismer zwischen Zunft und Verlag – Johannes Brenner-Euler (1639–1700), in: Greyerz, Kaspar von; Heer, Peter W.; Guyer, Franziska (Hg.): Vom Weissgerber zum Bundesrat. Basel und die Familie Brenner, 17.–20. Jahrhundert, Basel 2009, S. 42–80.</p>
+<p>Hadorn, Wilhelm: Geschichte des Pietismus in den Schweizerischen Reformierten Kirchen, Konstanz; Emmishofen 1901.</p>
+<p>Hagemann, Hans-Rudolf: Die Rechtsgutachten des Bonifacius Amerbach. Basler Rechtskultur zur Zeit des Humanismus, Basel; Frankfurt a. M. 1997.</p>
+<p>Hagemann, Hans-Rudolf: Vielschichtiges Recht. Zivilrechtspflege im neuzeitlichen Basel, Basel 2009.</p>
+<p>Hagenbach, Carl Rudolph: Johann Jacob Wettstein, der Kritiker, und seine Gegner. Ein Beitrag zur Geschichte des theologischen Geistes in der ersten Hälfte des 18ten Jahrhunderts, in: Zeitschrift für historische Theologie 9, 1839, S. 73–152.</p>
+<p>Hamm, Berndt: Der Oberrhein als geistige Region von 1450 bis 1520, in: Christ-von Wedel, Christine; Grosse, Sven; Hamm, Berndt (Hg.): Basel als Zentrum geistigen Austauschs in der frühen Reformationszeit, Tübingen 2014, S. 2–50.</p>
+<p>Häner, Flavio: Dinge sammeln, Wissen schaffen. Die Geschichte der naturhistorischen Sammlungen in Basel, 1735–1850, Bielefeld 2017.</p>
+<p>Hatje, Frank: Leben und Sterben im Zeitalter der Pest. Basel im 15. bis 17. Jahrhundert, Basel; Frankfurt a. M. 1992.</p>
+<p>Hebeisen, Erika: Vom Rand zur Mitte – eine weibliche Genealogie aus dem pietistischen Milieu Basels 1750–1820, in: Schweizerische Zeitschrift für Geschichte 52, 2002, S. 463–476.</p>
+<p>Hebeisen, Erika: Zur Vergesellschaftung der pietistischen Bewegung am Übergang in die Moderne. Das Beispiel Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde 104, 2004, S. 183–211.</p>
+<p>Hebeisen, Erika: ‹leidenschaftlich fromm›. Die pietistische Bewegung in Basel 1750–1830, Köln; Weimar; Wien 2005.</p>
+<p>Herbster, Karl: Aus den Lörracher Tagen des ‹großbritannischen Hauptmanns› Georg Friedrich Gaupp, in: Das Markgräflerland 3, 1929/30, S. 74–82.</p>
+<p>Hess, Stefan; Lochman, Tomas (Hg.): Basilea. Ein Beispiel städtischer Repräsentation in weiblicher Gestalt, Basel 2001.</p>
+<p>Hess, Stefan: Herrscherideale und ideale Frauen. Tugendallegorien im frühneuzeitlichen Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde 111, 2011, S. 115–154.</p>
+<p>Hess, Stefan: Die ersessene Bischofskirche. Die Eigentumsverhältnisse am Basler Münster nach der Reformation, in: Basler Zeitschrift für Geschichte und Altertumskunde 118, 2018, S. 119–140.</p>
+<p>Heydrich, Christian: Die Malereien am Basler Rathaus 1608–11 von Hans Bock d. Ae. und seinen Söhnen. Beiträge zur Geschichte, insbesondere zur Restaurierungstradition, zum Bildprogramm und zur originalen Maltechnik, Bern 1990.</p>
+<p>Hieronymus, Frank: Gewissen und Staatskirchenraison. Basler Theologie und Zensur um 1578, in: Archiv für Reformationsgeschichte 82, 1991, S. 209–238.</p>
+<p>Hieronymus, Frank: 1488 Petri – Schwabe 1988. Eine traditionsreiche Basler Offizin im Spiegel ihrer frühen Drucke, 2 Bde., Basel 1997.</p>
+<p>Hirschfelder, Gunther: Europäische Esskultur. Eine Geschichte der Ernährung von der Steinzeit bis heute, Frankfurt a. M.; New York 2001.</p>
+<p>Hirstein, James: Wolfgang Capito and the Other Docti in Johann Froben’s Basel Print Shop, in: Rummel, Erika; Kooistra, Milton (Hg.): Reformation Sources. The Letters of Wolfgang Capito and His Fellow Reformers in Alsace and Switzerland, Toronto 2007, S. 19–45.</p>
+<p>Historisches Museum Basel; Alioth, Martin; Barth, Ulrich; Huber, Dorothee: Basler Stadtgeschichte, Teil 2. Vom Brückenschlag 1225 bis zur Gegenwart, Basel 1981.</p>
+<p>Historisches Museum Basel (Hg.): In der Fremde – Mobilität und Migration seit der Frühen Neuzeit, Basel 2010.</p>
+<p>Hoffmann, Barbara: Radikalpietismus um 1700. Der Streit um das Recht auf eine neue Gesellschaft, Frankfurt a. M.; New York 1996.</p>
+<p>Holenstein, André: Transnationale Politik. Eidgenössische Machteliten und der Dreissigjährige Krieg, in: Holenstein, André; Erlach, Georg von; Rindlisbacher, Sarah (Hg.): Im Auge des Hurrikans. Eidgenössische Machteliten und der Dreissigjährige Krieg, Bern 2015, S. 51–64.</p>
+<p>Holenstein, André; Kury, Patrick; Schulz, Kristina: Schweizer Migrationsgeschichte. Von den Anfängen bis zur Gegenwart, Baden 2018.</p>
+<p>Hölscher, Lucian: Die Entdeckung der Zukunft, Frankfurt a. M. 1999.</p>
+<p>Hufschmid, Thomas: Ein Kaufmann, ein Jurist und ein Künstler. Frühe Archäologie und Baudokumentation im Theater von Augusta Raurica, in: Hufschmid, Thomas; Pfäffli, Barbara (Hg.): Wiederentdeckt! Basilius Amerbach erforscht das Theater von Augusta Raurica, Basel 2015, S. 37–58.</p>
+<p>Im Hof, Ulrich: Vom politischen Leben im Basel des 18. Jahrhunderts, in: Basler Zeitschrift für Geschichte und Altertumskunde 48, 1949, S. 141–166.</p>
+<p>Im Hof, Ulrich: Isaak Iselin und die Spätaufklärung, Bern; München 1967.</p>
+<p>Im Hof, Ulrich: Isaak Iselin. Kritische Beschreibung der Schweiz, in: Basler Zeitschrift für Geschichte und Altertumskunde 71, 1971, S. 121–144.</p>
+<p>Im Hof, Ulrich: Die Entstehung der politischen Öffentlichkeit in der Schweiz. Struktur und Tätigkeit der Helvetischen Gesellschaft, Frauenfeld; Stuttgart 1983.</p>
+<p>Im Hof, Ulrich: Basel in Iselins «Ephemeriden», in: Basler Zeitschrift für Geschichte und Altertumskunde 91, 1991, S. 147–158.</p>
+<p>Iseli, Andrea: Krisenbewältigung im 17. Jahrhundert. Die Rolle der guten Policey, in: Schlögl, Rudolf; Hoffmann-Rehnitz, Philip R.; Wiebel, Eva (Hg.): Die Krise in der Frühen Neuzeit, Göttingen 2016, S. 147–167.</p>
+<p>Iselin, Isaak: Geschichte der Menschheit [1779]. Gesammelte Schriften. Kommentierte Ausgabe, Bd. 4, Basel 2018.</p>
+<p>Iselin-Rüthimeyer, Friedrich: Zur Geschichte der Vorstadtgesellschaften Basels, in: Beiträge zur vaterländischen Geschichte 11, 1882, S. 123–190.</p>
+<p>Isenmann, Eberhard: Die städtische Gemeinde im oberdeutsch-schweizerischen Raum (1300–1800), in: Blickle, Peter (Hg.): Landgemeinde und Stadtgemeinde in Mitteleuropa, München 1991, S. 191–261.</p>
+<p>Jacob-Friesen, Holger (Hg.): Profile der Aufklärung. Friedrich Nicolai – Isaak Iselin. Briefwechsel 1767–1782, Bern; Stuttgart; Wien 1997.</p>
+<p>Jacob-Friesen, Holger: Die «edlen Künste […] in hohe Ehren gesetzt»? Die Kunst in Basel während des 17. Jahrhunderts, in: Historisches Museum Basel (Hg.): Wettstein – Die Schweiz und Europa 1648, Basel 1998, S. 74–89.</p>
+<p>Jarzebowski, Claudia: Kindheit und Emotion. Kinder und ihre Lebenswelten in der europäischen Frühen Neuzeit, Berlin; Boston 2018.</p>
+<p>Jean-Richard, Anne: Kattundrucke der Schweiz im 18. Jahrhundert, Basel 1968.</p>
+<p>Jecker, Hanspeter: Die Basler Täufer. Studien zur Vor- und Frühgeschichte, in: Basler Zeitschrift für Geschichte und Altertumskunde 80, 1980, S. 5–131.</p>
+<p>Jecker, Hanspeter: Ketzer – Rebellen – Heilige. Das Basler Täufertum von 1580–1700, Liestal 1998.</p>
+<p>Jecker, Hanspeter: Die Bedeutung von Basel für die Anfänge des Täufertums, in: Christ-von Wedel, Christine; Grosse, Sven; Hamm, Berndt (Hg.): Basel als Zentrum geistigen Austauschs in der frühen Reformationszeit, Tübingen 2014, S. 257–272.</p>
+<p>Jenny, Beat Rudolf: Humanismus und städtische Eliten in Basel im 16. Jahrhundert unter besonderer Berücksichtigung der Basler Lateinschulen von 1529–1589, in: Meyer, Werner; von Greyerz, Kaspar (Hg.): Platteriana. Beiträge zum 500. Geburtstag des Thomas Platter, Basel 2002, S. 77–121.</p>
+<p>Joneli, Hans: Arbeitslosenfürsorge im alten Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde 6, 1907, S. 180–283.</p>
+<p>Jordan, John: The Non-Revolutionary Fabric. The Consumption, Chronology, and Use of Cotton in Early Modern Bern, in: Siebenhüner, Kim; Jordan, John; Schopf, Gabi (Hg.): Cotton in Context. Manufacturing, Marketing, and Consuming Textiles in the German-speaking World (1500–1900), Wien; Köln; Weimar 2019, S. 385–410.</p>
+<p>Jorio, Marco: Der Nexus Imperii – die Eidgenossenschaft und das Reich nach 1648, in: Jorio, Marco (Hg.): 1648. Die Schweiz und Europa. Aussenpolitik zur Zeit des Westfälischen Friedens, Zürich 1999, S. 133–146.</p>
+<p>Jütte, Daniel: Das Fenster als Ort sozialer Interaktion. Zu einer Alltagsgeschichte des Hauses im vormodernen Europa, in: Eibach, Joachim; Schmidt-Voges, Inken (Hg.): Das Haus in der Geschichte Europas. Ein Handbuch, Berlin; Boston 2015, S. 467–483.</p>
+<p>Jütte, Robert: Das Stadtviertel als Problem und Gegenstand der Forschung, in: Blätter für deutsche Landesgeschichte 127, 1991, S. 235–269.</p>
+<p>Kaiser, Wolfgang: Vicini stranieri. L’uso dei confini nell’area di Basilea (XVI-XVII secolo), in: Quaderni storici 90 (3), 1995, S. 601–630.</p>
+<p>Kaiser, Wolfgang: «Les étranges fantaisies des Welsch». Les débuts difficiles de la communauté réformée de langue française à Bâle (XVIe–XVIIe siècles), in: Audisio, Gabriel (Hg.): Religion et identité. Actes du colloque d’Aix-en-Provence, octobre 1996, Aix-en-Provence 1998, S. 77–87.</p>
+<p>Kaiser, Wolfgang: Der Oberrhein und sein «konfessioneller Grenzverkehr». Wechselbeziehungen und Religionskonflikte im 16. und 17. Jahrhundert, in: Kaiser, Wolfgang; Sieber-Lehmann, Claudius; Windler, Christian (Hg.): Eidgenössische «Grenzfälle». Mülhausen und Genf, Basel 2001, S. 155–185.</p>
+<p>Kaiser, Wolfgang: Gesellige Rivalität. Zum Umgang mit Grenzen im Basler Raum (16.–17. Jahrhundert), in: Basler Zeitschrift für Geschichte und Altertumskunde 102, 2002, S. 23–36.</p>
+<p>Kaspar, Albin: Geht auf die Indfabrik – ist zu haus in Jakob Meyers häuslein, in: Jahrbuch z’Rieche 2003, S. 15–25.</p>
+<p>Kaufmann, Pius: Gesellschaft im Bad. Die Entwicklung der Badefahrten und der «Naturbäder» im Gebiet der Schweiz und im angrenzenden südwestdeutschen Raum (1300–1610), Zürich 2009.</p>
+<p>Kaufmann, Thomas: Der Anfang der Reformation. Studien zur Kontextualität der Theologie, Publizistik und Inszenierung Luthers und der reformatorischen Bewegung, Tübingen 2012.</p>
+<p>Keller, Katrin: Ein Schweizer Gardehauptmann als französischer Unterhändler. Johann Peter Stuppas Werbeverhandlungen in der Eidgenossenschaft 1671, in: Rogger, Philippe; Weber, Nadir (Hg.): Beobachten, Vernetzen, Verhandeln. Diplomatische Akteure und politische Kulturen in der frühneuzeitlichen Eidgenossenschaft, Basel 2018, S. 92–115.</p>
+<p>Kiechel, Lucien: Huningue. Histoire d’une ancienne forteresse de Vauban, Montluçon 1975.</p>
+<p>Kilchenmann, Johann Eduard: Schweizersöldner im Dienste der englisch-ostindischen Kompagnie um die Mitte des 18. Jahrhunderts. Ein Beitrag zur Geschichte der englischen Unternehmungen in Vorderindien, Grüningen 1911.</p>
+<p>Kleinschmidt, Erich: Stadt und Literatur in der frühen Neuzeit. Voraussetzungen und Entfaltung im südwestdeutschen, elsässischen und schweizerischen Städteraum, Köln; Wien 1982.</p>
+<p>Klingenberg, Anneliese: Smith-Rezeption als ideologische Einleitung der Kunstperiode. Beziehungen von Ökonomie, Staatskritik und Kunstidee, in: Heinrich, Gerda; Klingenberg, Anneliese; Weber, Peter (Hg.): Kunstperiode. Studien zur deutschen Literatur des ausgehenden 18. Jahrhunderts, Berlin 1982, S. 73–101.</p>
+<p>Klooster, Wim: Curaçao as a Transit Center to the Spanish Main and the French West Indies, in: Oostindie, Gert; Roitman, Jessica V. (Hg.): Dutch Atlantic Connections, 1680–1800. Linking Empires, Bridging Borders, Leiden 2014, S. 25–51.</p>
+<p>Koelner, Paul: Die Kuchibücher der Safranzunft, in: Basler Jahrbuch 1929, S. 202–269.</p>
+<p>Koelner, Paul: Aus der Gerichtspraxis der Vorstadtgesellschaft zum Hohen Dolder, in: Basler Jahrbuch 1942, S. 2–81.</p>
+<p>Körner, Martin; Cassis, Youssef: «Banken», in: Historisches Lexikon der Schweiz (HLS), Version vom 17.08.2006, übersetzt aus dem Französischen, &lt;https://hls-dhs-dss.ch/de/ articles/014061/2006-08-17/&gt; (Stand: 21.05.2022).</p>
+<p>Körner, Martin: Solidarités financières suisses au XVIe siècle, Lausanne 1980.</p>
+<p>Koschorke, Albrecht: Das Panorama. Die Anfänge der modernen Sensomotorik um 1800, in: Segeberg, Harro (Hg.): Die Mobilisierung des Sehens. Zur Vor- und Frühgeschichte des Films in Literatur und Kunst, München 1996, S. 149–168.</p>
+<p>Kreis, Georg; von Wartburg, Beat (Hg.): Basel. Geschichte einer städtischen Gesellschaft, Basel 2000.</p>
+<p>Kriemler, Daniel: Die Anfänge der Basler Lesegesellschaft im Kontext von Aufklärung und Sozietätenbewegung in den Jahren 1787–1800, in: Basler Zeitschrift für Geschichte und Altertumskunde 105, 2005, S. 157–195.</p>
+<p>Krischer, André; Stollberg-Rilinger, Barbara (Hg.): Herstellung und Darstellung von Entscheidungen. Verfahren, Verwalten und Verhandeln in der Vormoderne, Berlin 2010.</p>
+<p>Kuhn, Thomas K.; Sallmann, Martin (Hg.): Das «Fromme Basel». Religion in einer Stadt des 19. Jahrhunderts, Basel 2002.</p>
+<p>Kuhr, Olaf: «Die Macht des Bannes und der Busse». Kirchenzucht und Erneuerung der Kirche bei Johannes Oekolampad (1482–1531), Bern 1999.</p>
+<p>Kümin, Beat: Wirtshäuser als frühneuzeitliche Kommunikationszentren, in: Morscher, Lukas; Scheutz, Martin; Schuster, Walter (Hg.): Orte der Stadt im Wandel vom Mittelalter zur Gegenwart. Treffpunkte, Verkehr, Fürsorge, Innsbruck; Wien; Bozen 2013, S. 91–106.</p>
+<p>Kundert, Ursula: Enzyklopädie im Wandel. Basler philosophische Disputationen zwischen 1585 und 1650, in: Schlierbaum, Martin (Hg.): Enzyklopädistik 1550–1650. Typen und Transformationen von Wissensspeichern und Medialisierung des Wissens, Berlin 2009, S. 379–412.</p>
+<p>Kutter, Markus: 1691. Ergebnislos, aber folgenschwer, in: Basler Stadtbuch 1991, S. 45–48.</p>
+<p>Labouvie, Eva: Andere Umstände. Eine Kulturgeschichte der Geburt, Köln; Weimar; Wien 1998.</p>
+<p>Landmann, Julius: Leu &amp; Co. 1755–1905. Ein Beitrag zur Geschichte der öffentlichen und privaten Kreditorganisation, Zürich 1905.</p>
+<p>Landolt, Elisabeth: Materialien zu Felix Platter als Sammler und Kunstfreund, in: Basler Zeitschrift für Geschichte und Altertumskunde 72, 1972, S. 246–306.</p>
+<p>Landolt, Elisabeth: Die Fenster- und Wappenschenkungen des Standes Basel, 1556–1626, in: Zeitschrift für Schweizerische Archäologie und Kunstgeschichte 34, 1977, S. 113–136.</p>
+<p>Landolt, Niklaus: Untertanenrevolten und Widerstand auf der Basler Landschaft im sechzehnten und siebzehnten Jahrhundert, Liestal 1996.</p>
+<p>Landolt, Niklaus: Revolte oder Krieg. Regional unterschiedliche Ausprägungen des Bauernkrieges 1653, in: Römer, Jonas (Hg.): Bauern, Untertanen und «Rebellen». Eine Kulturgeschichte des Schweizerischen Bauernkrieges von 1653, Zürich 2004, S. 87–104.</p>
+<p>Landwehr, Achim: Geburt der Gegenwart. Eine Geschichte der Zeit im 17. Jahrhundert, Frankfurt a. M. 2014.</p>
+<p>Lätt, Arnold: Der Anteil der Schweizer an der Eroberung Indiens, Zürich 1933.</p>
+<p>Lau, Thomas: «Stiefbrüder». Nation und Konfession in der Schweiz und in Europa (1656–1712), Köln; Weimar; Wien 2008.</p>
+<p>Leu, Urs B.: Hieronymus Annoni als Paläontologe, in: Basler Stadtbuch 1997, S. 205–210.</p>
+<p>Leu, Urs B.: The Book and Reading Culture in Basel and Zurich During the Sixteenth Century, in: Walsby, Malcolm; Kemp, Graeme (Hg.): The Book Triumphant. Print in Transition in the Sixteenth and Seventeenth Centuries, Leiden; Boston 2011, S. 295–319.</p>
+<p>Leu, Urs B.: Die Bedeutung Basels als Druckort im 16. Jahrhundert, in: Christ-von Wedel, Christine; Grosse, Sven; Hamm, Berndt (Hg.): Basel als Zentrum des geistigen Austauschs in der frühen Reformationszeit, Tübingen 2014, S. 53–78.</p>
+<p>Limbach, Saskia: Advertising Medical Studies in Sixteenth-Century Basel. Function and Use of Academic Disputations, in: Pettegree, Andrew (Hg.): Broadsheets. Single-Sheet Publishing in the First Age of Print, Leiden; Boston 2017, S. 376–398.</p>
+<p>Lindenmeyer, Max: Die Färberei in Basel, Basel 1959.</p>
+<p>Lodewig, F.: Basels alte Stadtbaukunst, in: Schweizerische Technische Zeitschrift 43, 1946, S. 209–215.</p>
+<p>Loetz, Francisca: Mit Gott handeln. Von den Zürcher Gotteslästerern der Frühen Neuzeit zu einer Kulturgeschichte des Religiösen, Göttingen 2002.</p>
+<p>Lötscher, Valentin: Der Henker von Basel, in: Basler Stadtbuch 1969, S. 74–114.</p>
+<p>Lötscher, Valentin (Hg.): Das Tagebuch des Felix Platter. Die Autobiografie eines Arztes und Humanisten, Tübingen 1976.</p>
+<p>Lüber, Alban Norbert: Die Basler Zensurpolitik in der zweiten Hälfte des 16. Jahrhunderts, in: Basler Zeitschrift für Geschichte und Altertumskunde 97, 1997, S. 77–141.</p>
+<p>Lüthy, Herbert: La banque protestante en France, 2 Bde., Paris 1959–1961.</p>
+<p>Mahlmann-Bauer, Barbara: Protestantische Glaubensflüchtlinge in der Schweiz (1540–1580), in: Laufhütte, Hartmut; Titzmann, Michael (Hg.): Heterodoxie in der Frühen Neuzeit, Tübingen 2006, S. 119–160.</p>
+<p>Maissen, Thomas: Zum politischen Selbstverständnis der Basler Eliten, 1501–1798, in: Basler Zeitschrift für Geschichte und Altertumskunde 100, 2000, S. 19–40.</p>
+<p>Maissen, Thomas: Die Geburt der Republic. Staatsverständnis und Repräsentation in der frühneuzeitlichen Eidgenossenschaft, Göttingen 2006.</p>
+<p>Maissen, Thomas: Wie aus dem heimtückischen ein weiser Fuchs wurde. Die Erfindung der eidgenössischen Neutralitätstradition als Anpassung an das entstehende Völkerrecht des 17. Jahrhunderts, in: Jucker, Michael; Kintzinger, Martin; Schwinges, Rainer C. (Hg.): Rechtsformen internationaler Politik. Theorie, Norm und Praxis vom 12. bis 18. Jahrhundert, Berlin 2011, S. 241–272.</p>
+<p>Major, Emil: Ein Abtritt-Turm im alten Basel, in: Ciba-Zeitschrift 83, 1941, S. 2917–2918.</p>
+<p>Mangold, Fritz: Die Basler Mittwoch- und Samstag-Zeitung 1682–1798. Ein Beitrag zur Geschichte des Nachrichtenverkehrs und dessen Organisation im 17. und 18. Jahrhundert, Basel 1900.</p>
+<p>Mattmüller, Markus: Die Hungersnot der Jahre 1770/71 in der Basler Landschaft, in: Bernard, Nicolai; Reichen, Quirinus (Hg.): Gesellschaft und Gesellschaften. Festschrift zum 65. Geburtstag von Ulrich Im Hof, Bern 1982, S. 271–291.</p>
+<p>Mauersberg, Hans: Wirtschafts- und Sozialgeschichte zentraleuropäischer Städte in neuerer Zeit. Dargestellt an den Beispielen von Basel, Frankfurt/M., Hamburg, Hannover und München, Göttingen 1960.</p>
+<p>Meier, Hans-Rudolf; Schmidt, Erik; Schwinn Schürmann, Dorothea: Das Basler Münster, Bern 2019 (Die Kunstdenkmäler der Schweiz. Kanton Basel-Stadt).</p>
+<p>Meier, Nikolaus: Taktieren und strategisch handeln. Holbeins Auftraggeber der Basler Zeit: Banquiers, Gelehrte, Noble Frauen, in: Hans Holbein der Jüngere. Die Jahre in Basel 1515–1532. München; Berlin; London u. a. 2006, S. 58–65.</p>
+<p>Mensger, Ariane (Hg.): Lichtgestalten. Zeichnungen und Glasgemälde von Holbein bis Ringler, Basel; München 2020.</p>
+<p>Mertens, Dieter: Austausch und Abgrenzung. Die oberrheinischen Universitäten an der Wende zum 16. Jahrhundert, in: Basler Zeitschrift für Geschichte und Altertumskunde 102, 2002, S. 7–22.</p>
+<p>Meyer, Friedrich (Hg.): Andreas Ryff (1550–1603). Reisebüchlein. Mit einem Beitrag v. Elisabeth Landolt, in: Basler Zeitschrift für Geschichte und Altertumskunde 72, 1972, S. 5–135.</p>
+<p>Miaskowski, August von: Die Gesellschaft zur Beförderung des Guten und Gemeinnützigen in Basel während der ersten hundert Jahre ihres Bestehens, Basel 1877.</p>
+<p>Missfelder, Jan-Friedrich: Der Klang der Geschichte. Begriffe, Traditionen und Methoden der Sound History, in: Geschichte in Wissenschaft und Unterricht 66, 2015, S. 633–649.</p>
+<p>Möhle, Martin: Das Zwingerhaus am Nadelberg, in: Basler Zeitschrift für Geschichte und Altertumskunde 110, 2010, S. 209–228.</p>
+<p>Möhle, Martin: Geister, Schatten, Feuerwerk. Zu Lukas Sarasins optischen Attraktionen im Blauen Haus, in: Historisches Museum Basel. Jahresbericht 2011, S. 7–25.</p>
+<p>Möhle, Martin: Die Altstadt von Grossbasel II, Profanbauten, Bern 2016 (Die Kunstdenkmäler des Kantons Basel-Stadt 8).</p>
+<p>Möhle, Martin: Fassadenmalerei in Basel, in: Jahrbuch für Hausforschung 65, 2018, S. 17–30.</p>
+<p>Mooser, Josef; Wenger, Simon (Hg.): Armut und Fürsorge in Basel. Armutspolitik vom 13. Jahrhundert bis heute, Basel 2011.</p>
+<p>Morel, Andreas: Basler Kost. So kochte Jacob Burckhardts Grossmutter, Basel 1999.</p>
+<p>Müller von Blumencron, Hans Othmar: Die Deucher in Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde 92, 1992, S. 101–118.</p>
+<p>Müller, Alfred: Die Ratsverfassung der Stadt Basel von 1521 bis 1789, in: Basler Zeitschrift für Geschichte und Altertumskunde 53, 1954, S. 5–98.</p>
+<p>Münkler, Herfried: Der Dreissigjährige Krieg. Europäische Katastrophe, deutsches Trauma 1618–1648, Berlin 2017.</p>
+<p>Nagel, Anne; Möhle, Martin; Meles, Brigitte: Die Altstadt von Grossbasel I, Profanbauten, Bern 2006 (Die Kunstdenkmäler des Kantons Basel-Stadt 7).</p>
+<p>Nah dran, weit weg. Geschichte des Kantons Basel-Landschaft, Bd. 3: Arbeit und Glaube. 16. bis 18. Jahrhundert, Liestal 2001.</p>
+<p>Nah dran, weit weg. Geschichte des Kantons Basel-Landschaft, Bd. 4: Dorf und Herrschaft. 16. bis 18. Jahrhundert, Liestal 2001.</p>
+<p>Opitz, Claudia: Vom ausgehenden 18. bis zum Anfang des 19. Jahrhunderts, in: Kreis, Georg; von Wartburg, Beat (Hg.): Basel. Geschichte einer städtischen Gesellschaft, Basel 2000, S. 150–185.</p>
+<p>Opitz, Claudia: «Ueber Armuth, Betteley und Wohlthätigkeit». Armut und Armutsbekämpfung im Zeitalter von Aufklärung, Helvetik und Restauration, in: Mooser, Josef; Wenger, Simon (Hg.): Armut und Fürsorge in Basel. Armutspolitik vom 13. Jahrhundert bis heute, Basel 2011, S. 73–100.</p>
+<p>Pfeiffer, Judith: Christlicher Republikanismus in den Bibeldramen Sixt Bircks. Theater für eine «neu entstehende» Bürgerschaft nach der Reformation in Basel und Augsburg, Berlin; Boston 2016.</p>
+<p>Pfister, Alexander: Zur Geschichte Basels und der evangelischen Eidgenossen im Zeitalter des Siebenjährigen Krieges, in: Basler Zeitschrift für Geschichte und Altertumskunde 6, 1907, S. 357–403.</p>
+<p>Pfister, Rudolf: Kirchengeschichte der Schweiz, Bd. 2, Zürich 1964.</p>
+<p>Pfister, Ulrich: Regionale Industrialisierung in der frühneuzeitlichen Weltwirtschaft. Das Beispiel der Zürcher Protoindustrie (16.–18. Jahrhundert), in: Bairoch, Paul; Körner, Martin (Hg.): Die Schweiz in der Weltwirtschaft, Zürich 1990, S. 57–83.</p>
+<p>Pfister, Ulrich: Städtisches Textilgewerbe, Protoindustrialisierung und Frauenarbeit in der frühneuzeitlichen Schweiz, in: Head-König, Anne-Lise; Tanner, Albert (Hg.): Frauen in der Stadt, Schweizerische Gesellschaft für Wirtschafts- und Sozialgeschichte 11, 1993, S. 35–60.</p>
+<p>Pfister, Ulrich: Craft Guilds and Technological Change. The Engine Loom in the European Silk Ribbon Industry in the Seventeenth and Eighteenth Centuries, in: Epstein, S. R.; Prak, Maarten (Hg.): Guilds, Innovation, and the European Economy, 1400–1800, Cambridge 2008, S. 172–198.</p>
+<p>Pijttersen, H.: Europeesche Kolonisatie von Suriname. Een Geschiedkundige Schets, ’s Gravenhage 1896.</p>
+<p>Piller, Gudrun: «viel tausendt Kunststücke unnd Wunderwerck der Natur». Die Sammlung des Stadtarztes Felix Platter, in: Historisches Museum Basel (Hg.): Die grosse Kunstkammer. Bürgerliche Sammler und Sammlungen in Basel, Basel 2011, S. 69–80.</p>
+<p>Plath, Uwe: Der Fall Servet und die Kontroverse um die Freiheit des Glaubens und Gewissens. Castellio, Calvin und Basel 1552–1556, Essen 2014.</p>
+<p>Platter, Felix: Beschreibung der Stadt Basel 1610 und Pestbericht 1610/11, herausgegeben und kommentiert von Valentin Lötscher, Basel; Stuttgart 1987 (Basler Chroniken 11).</p>
+<p>Platter, Thomas: Lebensbeschreibung, hg. von Alfred Hartmann, Basel 1994.</p>
+<p>Plotke, Seraina: Pamphilus Gengenbach und die Druckerstadt Basel, in: Steiger, Johann Anselm (Hg.): Reformation heute, Bd. 4: Reformation und Medien. Zu den intermedialen Wirkungen der Reformation, Leipzig 2018, S. 63–85.</p>
+<p>Plummer, Alfred: The London Weavers’ Company, 1600–1970, London; New York 2006.</p>
+<p>Polivka, Heinz: Basel und seine Wirtschaft. Eine Zeitreise durch 200 Jahre, Lenzburg 2016.</p>
+<p>Price, David H.: Hans Holbein the Younger and Reformation Bible Production, in: Church History 86 (4), 2017, S. 998–1040.</p>
+<p>Prietzel, Kerstin: Kaiserlob im eidgenössischen Basel, in: Miedema, Nine; Suntrup, Rudolf (Hg.): Literatur – Geschichte – Literaturgeschichte. Beiträge zur mediävistischen Literaturwissenschaft. Festschrift für Volker Honemann zum 60. Geburtstag, Frankfurt a. M. 2003, S. 569–584.</p>
+<p>Raciti, Silvio: Das Recht der Bürger? Justiz und Kriminalität in der Stadt. Basel 1750–1850, unveröffentlichte Dissertation Universität Bern, Bern 2013.</p>
+<p>Radkau, Joachim: Das Rätsel der städtischen Brennholzversorgung im «hölzernen Zeitalter», in: Energie und Stadt in Europa. Von der vorindustriellen Holznot bis zur Ölkrise der 1970er Jahre, Stuttgart 1997, S. 43–76.</p>
+<p>Raillard, Rudolf: Pamphilus Gengenbach und die Reformation, Heidelberg 1936.</p>
+<p>Ravazzolo, Claudia: An Apron’s Tale: Innovative Colours and Fashionable Dress between India and the Swiss Cantons, in: Siebenhüner, Kim; Jordan, John; Schopf, Gabi (Hg.): Cotton in Context. Manufacturing, Marketing, and Consuming Textiles in the German-speaking World (1500–1900), Wien; Köln; Weimar 2019, S. 171–194.</p>
+<p>Raveux, Olivier: The Orient and the Dawn of Western Industrialization. Armenian Calico Printers from Constantinople in Marseilles (1669–1686), in: Berg, Maxine; Gottmann, Felicia; Hodacs, Hanna u. a. (Hg.): Goods from the East, 1600–1800. Trading Eurasia, Basingstoke 2015, S. 77–91.</p>
+<p>Reimann, Anna: Die Falkner gestalten. Vier Basler Familienbücher als dynamische Wissensspeicher in Bildern, Masterarbeit Universität Basel, Basel 2018.</p>
+<p>Ribbert, Margret: Für den Handel in die Ferne, in: Historisches Museum Basel (Hg.): In der Fremde. Mobilität und Migration seit der Frühen Neuzeit, Basel 2010a, S. 63–66.</p>
+<p>Ribbert, Margret: Immer unterwegs. Schausteller und Schauspieler, in: Historisches Museum Basel (Hg.): In der Fremde. Mobilität und Migration seit der Frühen Neuzeit, Basel 2010b, S. 109–112.</p>
+<p>Rickenbacher, Martin: Die ältesten Höhenmessungen in der Basler Landschaft. Daniel Bernoullis Expedition auf die Wannenflue im Mai 1755, in: Basler Zeitschrift für Geschichte und Altertumskunde 101, 2001, S. 87–115.</p>
+<p>Riello, Giorgio: Cotton. The Fabric that Made the Modern World, Cambridge 2013.</p>
+<p>Ringholz, Odilo: Geschichte des fürstlichen Benediktinerstiftes U.L.F. von Einsiedeln […], Einsiedeln 1904.</p>
+<p>Rippmann, Dorothee: «Frauenwerk» und Männerarbeit. Gesinde, Tagelöhner und Tagelöhnerinnen in der spätmittelalterlichen Stadt, in: Basler Zeitschrift für Geschichte und Altertumskunde 95, 1995, S. 5–42.</p>
+<p>Rippmann, Dorothee: «Sein Brot verdienen». Die Beköstigung von Arbeitskräften im Spätmittelalter, in: Medium Aevum Quotidianum 34, 1996, S. 91–114.</p>
+<p>Rippmann, Dorothee; Simon-Muscheid, Katharina; Simon, Christian: Arbeit – Liebe – Streit. Texte zur Geschichte des Geschlechterverhältnisses und des Alltags, 15. bis 18. Jahrhundert, Liestal 1996.</p>
+<p>Rogger, Philippe: Erlach, Hans Ludwig von [2015], in: Meumann, Markus (Hg.): Lexikon der Heerführer und hohen Offiziere des Dreißigjährigen Krieges, &lt;https://thirty-years-war-online.net/prosopographie/heerfuehrer-und-offiziere/erlach-hans-ludwig-von/&gt; (Stand: 24.05.2022).</p>
+<p>Rogger, Philippe: Söldneroffiziere als gefragte Militärexperten – Zum Transfer militärischer Kultur in die frühneuzeitliche Eidgenossenschaft, in: Rogger, Philippe; Schmid, Regula (Hg): Miliz oder Söldner? Wehrpflicht und Solddienst in Stadt, Republik und Fürstenstaat. 13.–18. Jahrhundert, Paderborn 2019, S. 141–172.</p>
+<p>Rogger, Philippe: Feeding Breisach. Hans Ludwig von Erlach’s Fortress Management and Military Enterprise in the Thirty Years’ War, in: Holenstein, André; Rogger, Philippe (Hg.): Officers, Entrepreneurs, Career Migrants, and Diplomats. Military Entrepreneurs in the Early Modern World, Leiden; Boston [erscheint 2024].</p>
+<p>Roth, Carla: Von Betten und Gebeten. Materielle Spuren eines Netzwerkes zwischen Stadt und Kartause Basel, in: Asmussen, Tina; Brugger, Eva; Christadler, Maike u. a. (Hg.): Materialized Histories. Eine Festschrift 2.0, 28/05/2021, &lt;https://mhistories.hypotheses.org/?p=1593&gt; (Stand: 30.06.2022).</p>
+<p>Röthlin, Niklaus: Der «Schwarze Samuel» Kestenholz und seine Gaunerbande. Bemerkungen zu einer gesellschaftlichen Randgruppe und zur Strafrechtspflege im 18. Jahrhundert, in: Basler Zeitschrift für Geschichte und Altertumskunde 84, 1984, S. 5–50.</p>
+<p>Röthlin, Niklaus: Die Basler Handelspolitik und deren Träger in der zweiten Hälfte des 17. und im 18. Jahrhundert, Basel; Frankfurt a. M. 1986.</p>
+<p>Röthlin, Niklaus: Energieträger – Rohstoff – Weide. Die Bedeutung von Wald und Holz im 16. bis 18. Jahrhundert am Beispiel des Basler Forstwesens, in: Basler Zeitschrift für Geschichte und Altertumskunde 93, 1993a, S. 175–214.</p>
+<p>Röthlin, Niklaus: Handel und Produktion von Seide in der Schweiz und im Reich (16. bis 18. Jahrhundert), in: Cavaciocchi, Simonetta (Hg.): La seta in Europa sec. XIII–XX. Atti della «Ventiquattresima settimana di studi», Florenz 1993b, S. 535–563.</p>
+<p>Röthlin, Niklaus: Einblicke in die Migration einer grossen Schweizer Stadt am Beispiel Basels (16.–18. Jahrhundert), in: Head-König, Anne-Lise; Gilomen, Hans-Jörg, Radeff, Anne (Hg.): Migration in die Städte. Ausschluss – Assimilierung – Integration – Multikulturalität. Schweizerisches Jahrbuch für Wirtschafts- und Sozialgeschichte 16, 2000, S. 171–184.</p>
+<p>Röthlin, Niklaus: Veränderungen innerhalb der atlantischen Welt im 18. Jahrhundert. Aus den Berichten der Londoner Korrespondenten in der «Basler Mittwoch- und Samstag-Zeitung», in: Gilomen, Hans-Jörg; Müller, Margrit; Veyrassat, Béatrice (Hg.): Globalisierung – Chancen und Risiken. Die Schweiz in der Weltwirtschaft 18.–20. Jahrhundert, Schweizerische Gesellschaft für Wirtschafts-und Sozialgeschichte 19, 2003, S. 113–130.</p>
+<p>Sallmann, Martin: Konfessionalisierung in Basel. Kirche und weltliche Obrigkeit, in: Historisches Museum Basel (Hg.): Wettstein – Die Schweiz und Europa 1648, Basel 1998, S. 52–61.</p>
+<p>Salvisberg, André u. a.; Christoph Merian Verlag (Hg.): Historischer Atlas der Region Basel. Geschichte der Grenzen, Basel 2010.</p>
+<p>Sander, Jochen: Hans Holbein d. J. Tafelmaler in Basel, 1515–1532, München 2005.</p>
+<p>Sandl, Marcus: Die Frühphase der Basler Reformation. Ereignisse – Medien – Geschichte, in: Basler Zeitschrift für Geschichte und Altertumskunde 116, 2016, S. 5–28.</p>
+<p>Sandl, Marcus; Sidler, Daniel: Basel und der Wein in der Frühen Neuzeit, in: Asmussen, Tina; Brugger, Eva; Christadler, Maike u. a. (Hg.): Materialized Histories. Eine Festschrift 2.0, 28/05/2021, &lt;https://mhistories.hypotheses. org/author/sandlsidler&gt; (Stand: 23.11.2023).</p>
+<p>Sasaki, Hiromitsu: Historische Studien zu den Stipendienstiftungen an der Universität Basel in der Frühen Neuzeit, in: Sarnowsky, Jürgen; Kwiatkowski, Krzysztof; Houben, Hubert u. a. (Hg.): Studies on the Military Orders, Prussia, and Urban History. Essays in Honour of Roman Czeja on the Occasion of His Sixtieth Birthday, Debrecen 2000, S. 635–667.</p>
+<p>Schaffner, Michael: Through the Stained Glass. The Basel Schützenhaus as a Site of Encounter, in: Burghartz, Susanna; Burkart, Lucas; Göttler, Christine (Hg.): Sites of Mediation. Connected Histories of Places, Processes, and Objects in Europe and Beyond, 1450–1650, Leiden 2016, S. 125–156.</p>
+<p>Schläppi, Daniel: Verwalten statt regieren. Management kollektiver Ressourcen als Kerngeschäft von Verwaltung in der alten Eidgenossenschaft, in: Traverse 18, 2011, S. 42–56.</p>
+<p>Schärer, Martin R.: Ernährung und Essgewohnheiten, in: Hugger, Paul (Hg.): Handbuch der schweizerischen Volkskultur, Bd. 1, Zürich 1992, S. 253–288.</p>
+<p>Schedensack, Christine: Nachbarn im Konflikt. Zur Entstehung und Beilegung von Rechtsstreitigkeiten um Haus und Hof im frühneuzeitlichen Münster, Münster 2007.</p>
+<p>Schelcher, Jean-Marie: Louis XIV face a l’Europe. 1200 réfugiés alsaciens à Bâle ou la guerre de Hollande, in: Bulletin de la Société d’histoire de Huningue et de sa région 35, 1990, S. 11–30.</p>
+<p>Schiess, Robert: Die Zunft- und Gesellschaftshäuser der Stadt Basel, Basel 2001.</p>
+<p>Schifferle, Rebekka: Gotteslästerung in der Stadt Basel 1674–1798. Ein Werkstattbericht, in: Basler Zeitschrift für Geschichte und Altertumskunde 105, 2005, S. 131–155.</p>
+<p>Schindler, Norbert: Widerspenstige Leute. Studien zur Volkskultur in der frühen Neuzeit, Frankfurt 1992.</p>
+<p>Schlögl, Rudolf (Hg.): Interaktion und Herrschaft. Die Politik der frühneuzeitlichen Stadt, Konstanz 2004.</p>
+<p>Schlumbohm, Jürgen (Hg.): Kinderstuben. Wie Kinder zu Bauern, Bürgern, Aristokraten wurden (1700–1850), München 1983.</p>
+<p>Schmid, Beat: Blumen und andere Zeugnisse von administrativem Handeln im Basler Urfehdebuch X. Seminararbeit Universität Basel 2016, &lt;http://gams.uni-graz.at/archive/ objects/context:ufbas/datastreams/ SCHMIDtADMINIStRAtIVESHANDELN2016/ content&gt; (Stand: 14.02.2022).</p>
+<p>Schmid-Cadalbert, Christian: Heimweh oder Heimmacht. Zur Geschichte einer einst tödlichen Schweizer Krankheit, in: Schweizerisches Archiv für Volkskunde 89, 1993, S. 69–85.</p>
+<p>Schmidt, Heinrich Richard; Messerli, Alfred; Osterwalder, Fritz u. a. (Hg.): Die Stapfer-Enquête. Edition der helvetischen Schulumfrage von 1799, Bern 2015, Nr. 2457: Basel, &lt;http://www.stapferenquete.ch/db/2457&gt; (Stand: 30.06.2022).</p>
+<p>Schmidt-Funke, Julia A.: Handfass und Hirschgeweih. Zum Umgang mit den Dingen im Kontext frühneuzeitlichen Wohnens, in: Studer, Brigitte; Teuscher, Simon; Conrad, Christoph u. a.: Wohnen und die Ökonomie des Raums, Schweizerisches Jahrbuch für Wirtschafts- und Sozialgeschichte 28, 2014, S. 115–141.</p>
+<p>Schneider, Ivo: Johannes Faulhaber 1580–1635. Rechenmeister in einer Welt des Umbruchs, Basel; Boston; Berlin 1993.</p>
+<p>Schnyder Burghartz, Albert: Alltag und Lebensformen auf der Basler Landschaft um 1700: vorindustrielle, ländliche Kultur und Gesellschaft aus mikrohistorischer Perspektive. Bretzwil und das obere Waldenburger Amt von 1690 bis 1750, Liestal 1992.</p>
+<p>Schnyder Burghartz, Albert: «Gente meccaniche, e di piccol affare». Solddienst als Gesellenschicksal. Der Basler Rudolf Hotz (1608–1655) in spanischen Diensten, in: Furrer, Norbert; Hubler, Lucienne; Stubenvoll, Marianne u. a. (Hg.): Gente ferocissima. Mercenariat et société en Suisse (XVe–XIXe siècle), Lausanne 1997, S. 31–40.</p>
+<p>Schnyder, Albert: Zauberei und Schatzgräberei vor dem Basler Rat, Liestal 2003.</p>
+<p>Schober, Sarah-Maria: Gesellschaft im Exzess. Mediziner in Basel um 1600, Frankfurt; New York 2019.</p>
+<p>Schulz, Knut: Handwerksgesellen und Lohnarbeiter. Untersuchungen zur oberrheinischen und oberdeutschen Stadtgeschichte des 14. bis 17. Jahrhunderts, Sigmaringen 1985.</p>
+<p>Schulz-Rehberg, Rose Marie: Architekten von der Gotik bis zum Barock, Basel 2019.</p>
+<p>Schumacher, Yves: Leonhard Thurneysser. Arzt – Alchemist – Abenteurer, Zürich 2011.</p>
+<p>Schüpbach-Guggenbühl, Samuel: Häupter und Herren. Der Kleine Rat zu Basel 1585 bis 1590: Verhalten einer politischen Elite, in: Basler Zeitschrift für Geschichte und Altertumskunde 95, 1995, S. 57–105.</p>
+<p>Schüpbach-Guggenbühl, Samuel: Der Rektor bittet zu Tisch. Universität und Bürgerschaft an den Rektoratsessen der Amerbach (1540–1566), in: Basler Zeitschrift für Geschichte und Altertumskunde 96, 1996, S. 57–91.</p>
+<p>Schüpbach-Guggenbühl, Samuel: Schlüssel zur Macht. Verflechtungen und informelles Verhalten im Kleinen Rat zu Basel, 1570–1600, Bd. 1, Basel 2002.</p>
+<p>Schüpbach-Guggenbühl, Samuel: «Ryhiner, Johannes», in: Historisches Lexikon der Schweiz (HLS), Version vom 09.08.2010, &lt;https: //hls-dhs-dss.ch/de/articles/019276/ 2010-08-09&gt; (Stand: 18.01.2022).</p>
+<p>Schüpbach-Guggenbühl, Samuel: Im Zeichen des Wolfs. Neue Geschichte E. E. Zunft zu Rebleuten, Basel 2015.</p>
+<p>Schüpbach-Guggenbühl, Samuel: Zunft zu Weinleuten 1233, Basel 2005.</p>
+<p>Schüttenhelm, Joachim: Der Geldumlauf im südwestdeutschen Raum vom Riedlinger Münzvertrag 1423 bis zur ersten Kipperzeit 1618, Stuttgart 1987.</p>
+<p>Schweizer, Eduard: Das Basler Kloster- und Schulgut in seiner Entwicklung bis zur Gegenwart, in: Basler Zeitschrift für Geschichte und Altertumskunde 9, 1910, S. 177–346.</p>
+<p>Schweizer, Eduard: Die Gewerbe am Kleinbasler Teich. Von der Reformation bis zum 19. Jahrhundert., in: Basler Zeitschrift für Geschichte und Altertumskunde 27, 1928, S. 1–125.</p>
+<p>Schwerhoff, Gerd: Blasphemie vor den Schranken städtischer Justiz. Basel, Köln, Nürnberg im Vergleich (14.–17. Jahrhundert), in: Ius Commune 25, 1998, S. 39–120.</p>
+<p>Schwerhoff, Gerd: Zungen wie Schwerter. Blasphemie in alteuropäischen Gesellschaften 1200–1650, Konstanz 2005.</p>
+<p>Scott, Tom: Regional Identity and Economic Change. The Upper Rhine, 1450–1600, Oxford 1997.</p>
+<p>Sebastiani, Valentina: Reformatorische Drucke und Drucker in Basel (1517–1529). Perspektiven aus der Forschung zur Buchgeschichte, in: Basler Zeitschrift für Geschichte und Altertumskunde 116, 2016a, S. 69–88.</p>
+<p>Sebastiani, Valentina: Sales Channels for Bestsellers in Sixteenth-Century Europe, in: McLean, Matthew; Sebastiani, Valentina (Hg.): International Exchange in the Early Modern Book World, Leiden; Boston 2016b, S. 3–14.</p>
+<p>Sidorko, Clemens P.: Basel und der jiddische Buchdruck (1557–1612). Kulturexport in der Frühen Neuzeit, Basel 2014.</p>
+<p>Siebenhüner, Kim: Wissen und die Kunst des Färbens in der schweizerischen Indienne-Industrie im 18. Jahrhundert, in: Ferrum 90, 2018, S. 61–67.</p>
+<p>Siebenhüner, Kim: The Art of Making Indienne. Knowing How to Dye in Eighteenth-Century Switzerland, in: Siebenhüner, Kim; Jordan, John; Schopf, Gabi (Hg.): Cotton in Context. Manufacturing, Marketing, and Consuming Textiles in the German-Speaking World (1500–1900), Köln 2019, S. 145–170.</p>
+<p>Sieber, Marc: Die Universität Basel und die Eidgenossenschaft 1460–1529, Basel 1960.</p>
+<p>Sieber-Lehmann, Claudius: Neue Verhältnisse. Das eidgenössische Basel zu Beginn des 16. Jahrhunderts, in: Bellabarba, Marco; Stauber, Reinhard (Hg.): Territoriale Identität und politische Kultur in der Frühen Neuzeit, Bologna 1998, S. 271–299.</p>
+<p>Sieber-Lehmann, Claudius: Schimpfen und Schirmen. Mülhausen, Basel und die Eidgenossen 1505–1515, in: Kaiser, Wolfgang; Sieber-Lehmann, Claudius; Windler, Christian (Hg.): Eidgenössische «Grenzfälle». Mülhausen und Genf, Basel 2001, S. 115–154.</p>
+<p>Simon, Christian: Untertanenverhalten und obrigkeitliche Moralpolitik. Studien zum Verhältnis zwischen Stadt und Land im ausgehenden 18. Jahrhundert am Beispiel Basels, Basel; Frankfurt a. M. 1981.</p>
+<p>Simon, Christian: «Wollt ihr euch der Sklaverei kein Ende machen?». Der Streik der Basler Indiennearbeiter im Jahre 1794, Allschwil 1983.</p>
+<p>Simon, Christian; Simon-Muscheid, Katharina: Sklaverei und Tyrannei – Koalitionen und Kabalen in der Kattundruckerei zu Basel 1794, in: Keller, Katrin; Viertel, Gabriele; Diesener, Gerald (Hg.): Stadt, Handwerk, Armut. Eine kommentierte Quellensammlung zur Geschichte der Frühen Neuzeit, Leipzig 2008, S. 578–603.</p>
+<p>Simon, Wolfgang: Der Basler Gräzist Simon Grynaeus und die Eheangelegenheit König Heinrichs VIII. im Spiegel der Bucerbriefe, in: Christ-von Wedel, Christine; Grosse, Sven; Hamm, Berndt (Hg.): Basel als Zentrum geistigen Austauschs in der frühen Reformationszeit, Tübingen 2014, S. 203–213.</p>
+<p>Simon-Muscheid, Katharina: «Schweizergelb» und «Judasfarbe». Nationale Ehre, Zeitschelte und Kleidermode um die Wende vom 15. zum 16. Jahrhundert, in: Zeitschrift für historische Forschung 22 (3), 1995, S. 317–343.</p>
+<p>Simon-Muscheid, Katharina: Frauenarbeit und Männerehre. Der Geschlechterdiskurs im Handwerk, in: Simon-Muscheid, Katharina (Hg.): Was nützt die Schusterin dem Schmied? Frauen und Handwerk, 14.–19. Jahrhundert, Frankfurt a. M. 1998, S. 13–33.</p>
+<p>Simon-Muscheid, Katharina: Die Dinge im Schnittpunkt sozialer Beziehungsnetze. Reden und Objekte im Alltag (Oberrhein, 14.–16. Jahrhundert), Göttingen 2004.</p>
+<p>Soeffner, Hans-Georg: Soziologische Formung. Eine Soziologie des Symbols und des Rituals, Wellerswist 2010.</p>
+<p>Speich, Daniel: Une société de lecture à la fin du 18e et au début du 19e siècle. La «Allgemeine Lesegesellschaft» de Bâle 1787–1832, Basel 1975.</p>
+<p>Stadler, Peter: Der Westfälische Friede und die Eidgenossenschaft, in: Jorio, Marco (Hg.): 1648. Die Schweiz und Europa. Aussenpolitik zur Zeit des Westfälischen Friedens, Zürich 1999, S. 57–77.</p>
+<p>Staehelin, Adrian: Von der Folter im Basler Strafrecht, in: Basler Stadtbuch 1965, S. 110–116.</p>
+<p>Staehelin, Adrian: Sittenzucht und Sittengerichtsbarkeit in Basel, in: Zeitschrift der Savigny-Stiftung für Rechtsgeschichte, Germanische Abteilung 85, 1968, S. 78–103.</p>
+<p>Staehelin, Andreas: Peter Ochs als Historiker, Basel 1952.</p>
+<p>Staehelin, Andreas: Geschichte der Universität Basel 1632–1818, Basel 1957.</p>
+<p>Staehelin, Andreas: Die Universität Basel und ihre deutschen Besucher von 1580 bis 1620, in: Im Hof, Ulrich; Stehelin, Suzanne (Hg.): Das Reich und die Eidgenossenschaft 1580–1650, Freiburg i. Br. 1982, S. 11–32.</p>
+<p>Stauffer, Richard: Das Basler Bekenntnis von 1534, in: Guggisberg, Hans R.; Rotach, Peter (Hg.): Ecclesia semper reformanda. Vorträge zum Basler Reformationsjubiläum 1529–1979, Basel 1980, S. 28–49.</p>
+<p>Steiner, Gustav: Der Einfluss Isaac Iselins auf Peter Ochs, in: Basler Jahrbuch 1921, S. 64–119.</p>
+<p>Steiner, Gustav: Eine Basler Büchersammlung aus dem 18. Jahrhundert, in: Basler Zeitschrift für Geschichte und Altertumskunde 23, 1925, S. 179–224.</p>
+<p>Steinmann, Martin: Johannes Oporinus. Ein Basler Buchdrucker um die Mitte des 16. Jahrhunderts, Basel; Stuttgart 1966.</p>
+<p>Stern, Alfred: Über Isaak Iselins Geschichte der Menschheit, in: Zeitschrift für schweizerische Geschichte 10, 1930, S. 205–253.</p>
+<p>Stettler, Niklaus; Hänger, Peter; Labhardt, Robert: Baumwolle, Sklaven und Kredite. Die Basler Welthandelsfirma Christoph Burckhardt &amp; Cie. in revolutionärer Zeit (1789–1815), Basel 2004.</p>
+<p>Stocker, F. A.: Das Geschlecht der Faesch zu Basel. Aus dem Faesch’schen Familienbuch, in: Vom Jura zum Schwarzwald. Blätter für Heimatkunde und Heimatschutz 6, 1889, S. 241–263.</p>
+<p>Stollberg-Rilinger, Barbara (Hg.): Vormoderne politische Verfahren, Berlin 2001.</p>
+<p>Stollberg-Rilinger, Barbara: Rituale, Frankfurt a. M. 2013.</p>
+<p>Stollberg-Rilinger, Barbara: Symbolik und Technik des Wählens in der Vormoderne, in: Richter, Hedwig; Buchstein, Hubertius (Hg.): Kultur und Praxis der Wahlen, Wiesbaden 2017, S. 31–62.</p>
+<p>Stolz, Hans: Die hans Stolz’sche gebweiler chronik. Zeugenbericht über den Bauernkrieg am Oberrhein, hrsg. durch Stolz, Wolfram, Freiburg i. Br. 1979.</p>
+<p>Stolz, Peter: Basler Wirtschaft in vor- und frühindustrieller Zeit. Ökonomische Theorie und Wirtschaftsgeschichte im Dialog, Zürich 1977.</p>
+<p>Stritmatter, Robert: Die Stadt Basel während des Dreissigjährigen Krieges. Politik, Wirtschaft, Finanzen, Basel; Frankfurt a. M.; Las Vegas 1977.</p>
+<p>Suter, Andreas: Der schweizerische Bauernkrieg von 1653. Politische Sozialgeschichte – Sozialgeschichte eines politischen Ereignisses, Tübingen 1997.</p>
+<p>Suter, Stefan: Die strafrechtlichen Bedenckhen der Basler Stadtconsulenten (1648–1798), Zürich; Basel; Genf 2006.</p>
+<p>Sutter, Hans: Basels Haltung gegenüber dem evangelischen Schirmwerk und dem eidgenössischen Defensionale (1647 und 1668), Basel 1958.</p>
+<p>Taylor, Claire: The Design, Production and Reception of Eighteenth-Century Wallpaper in Britain, London 2018.</p>
+<p>Teuscher, Simon: Bekannte – Klienten – Verwandte. Soziabilität und Politik in der Stadt Bern um 1500, Köln; Weimar; Wien 1998.</p>
+<p>Teuteberg, René: Basler Geschichte, Basel 1986.</p>
+<p>Teuteberg, René: Das Kloster St. Alban und die Vorstadtgesellschaft zum hohen Dolder, Basel 1992.</p>
+<p>Thurneysen, Eduard: Die Basler Separatisten im ersten Viertel des achtzehnten Jahrhunderts, in: Basler Jahrbuch 1895, S. 30–78.</p>
+<p>Tomaszewski, Marco: Familienbücher als Medien städtischer Kommunikation. Untersuchungen zur Basler Geschichtsschreibung im 16. Jahrhundert, Tübingen 2017a.</p>
+<p>Tomaszewski, Marco: A Longue Durée of Urban Historiography? Peter Ochs’s History of Basel (1786–1822) from a Long-Term Perspective, in: History of Humanities 2, 2017b, S. 101–130.</p>
+<p>Trefzer, Rudolf: Die Konstruktion des bürgerlichen Menschen. Aufklärungspädagogik und Erziehung im ausgehenden 18. Jahrhundert am Beispiel der Stadt Basel, Zürich 1989.</p>
+<p>Tscharner-Aue, Michaela von: Die Wirtschaftsführung des Basler Spitals bis zum Jahre 1500. Ein Beitrag zur Geschichte der Löhne und Preise, Basel 1983.</p>
+<p>Tschui, Susanna: «Ellende Lüte» und «halsstarrige Bettler». Die Basler Elendenherberge und ihre Gäste im 18. Jahrhundert, Lizentiatsarbeit Universität Basel, Basel 2008.</p>
+<p>Tzoref-Ashkenazi, Chen: German Auxiliary Troops in the British and Dutch East India Companies, in: Arielli, Nir; Collins, Bruce (Hg.): Transnational Soldiers. Foreign Military Enlistment in the Modern Era, London 2012, S. 32–49.</p>
+<p>Tzoref-Ashkenazi, Chen: German Soldiers in Colonial India, Milton Park 2016.</p>
+<p>Ulbrich, Claudia: Leibherrschaft am Oberrhein im Spätmittelalter, Göttingen 1979.</p>
+<p>Vettori, Arthur: Finanzhaushalt und Wirtschaftsverwaltung Basels (1689–1798). Wirtschafts- und Lebensverhältnisse einer Gesellschaft zwischen Tradition und Umbruch, Basel; Frankfurt a. M. 1984.</p>
+<p>Veyrassat, Béatrice: Histoire de la Suisse et des Suisses dans la marché du monde, Neuenburg 2018.</p>
+<p>Vischer, Wilhelm; Stern, Alfred (Hg.): Die Chronik des Fridolin Ryff 1514–1541, mit der Fortsetzung des Peter Ryff 1543–1585. Die Chroniken des Karthäuser Klosters in Klein-Basel 1401–1532, Basel 1872 (Basler Chroniken 1).</p>
+<p>Von Wartburg, Beat: Eine Zeitzone für 22 km2. Basel tickt anders, in: Basler Stadtbuch 2011, S. 11–12.</p>
+<p>Wackernagel, Rudolf: Geschichte der Stadt Basel, 3 Bde., Basel 1907–1924.</p>
+<p>Waltz, Philipp: Mandatspolitik und «gute Policey» in Basel im 17. und 18. Jahrhundert, Lizentiatsarbeit Universität Basel, Basel 2001.</p>
+<p>Wandel, Lee Palmer: Voracious Idols and Violent Hands. Iconoclasm in Reformation Zurich, Strasbourg, and Basel, Cambridge 1995.</p>
+<p>Wanner, Gustav Adolf: Reinhard Iselin-Fabritius, in: Wanner, Gustav Adolf (Hg.): Seit 60. Jahren in Basel. Lebensbilder aus der Familie Iselin, Basel 1964, S. 76–81.</p>
+<p>Wanner, Philippe: Wirksame Zeichen oder wirkungslose Dinge? Zur Debatte über medizinische Wirkungs- und Zeichenkonzepte im Umfeld der Universität Basel um 1580, Basel 2023.</p>
+<p>Wappenschmidt, Friederike: Chinesische Tapeten für Europa. Vom Rollbild zur Bildtapete, Berlin 1989.</p>
+<p>Weber, Alfred R.: Was man trug anno 1634. Die Basler Kostümfolge von Hans Heinrich Glaser, Basel 1993.</p>
+<p>Weber, Alfred R.: Sebastian Güntzer (1590–1638). Ein Elsässer Wurzkrämer in Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde 94, 1994, S. 109–161.</p>
+<p>Weber, Lina: Isaak Iselin – ein Antiphysiokrat?, in: Schweizerische Zeitschrift für die Erforschung des 18. Jahrhunderts 5, 2014, S. 41–72.</p>
+<p>Weidkuhn, Peter: Strukturlinien des baslerischen Pietismus, in: Schweizerisches Archiv für Volkskunde 62, 1966, S. 160–192.</p>
+<p>Weiss-Bass, Eberhard Friedrich: Weingewerbe und Weinleutenzunft im alten Basel, Basel 1958.</p>
+<p>Weissen, Kurt: «An der stuer ist ganz nuett bezalt». Landesherrschaft, Verwaltung und Wirtschaft in den fürstbischöflichen Ämtern in der Umgebung Basels (1435–1525), Basel; Frankfurt a. M. 1994.</p>
+<p>Welti, Manfred Edwin: Giovanni Bernardino Bonifacio, Marchese d’Oria, im Exil. 1557–1597, Genf 1976.</p>
+<p>Wendland, Andreas: Gelehrte Kirchenlehrer und geplagte Knechte Gottes. Geistliches Amtsverständnis, Selbstwahrnehmung und Rhetorik im Basel des 17. Jahrhunderts, in: Basler Zeitschrift für Geschichte und Altertumskunde 103, 2003, S. 51–83.</p>
+<p>Wendland, Andreas: Städtische Geistlichkeit und reformierte Traditionsbildung. Zur konfessionspolitischen Verortung von Basels «Dienern am Wort» im 16./17. Jahrhundert, in: Schorn-Schütte, Luise (Hg.): Gelehrte Geistlichkeit – geistliche Gelehrte. Beiträge zur Geschichte des Bürgertums in der Frühneuzeit, Berlin 2012, S. 114–133.</p>
+<p>Wetter, Oliver; Pfister, Christian: An underestimated record breaking event. Why summer 1540 was likely warmer than 2003. 2013. &lt;https://cp.copernicus.org/articles/9/41/2013/.&gt; (Stand: 30.08.2022).</p>
+<p>Wetter, Oliver; Pfister, Christian: Spring–summer Temperatures Reconstructed for Northern Switzerland and Southwestern Germany from Winter Rye Harvest Dates, 1454–1970, in: Climate of the Past 7 (4), 2011, S. 1307–1326.</p>
+<p>Wetter, Oliver; Pfister, Christian; Werner, Johannes P. u. a.: The year-long unprecedented Eurpean heat and drought of 1540 – a worst case. Climatic Change. Dordrecht 2014. &lt;https://link.springer.com/article/10.1007/s10584-014-1184-2&gt; (Stand: 30.08.2022).</p>
+<p>Wetter, Oliver: The Potential of Historical Hydrology in Switzerland. Hydrology and Earth 5194/hess-2017-410/&gt; (Stand: 30.08.2022).</p>
+<p>Wunder, Bernd: Der rechtsrheinische Chausseebau zwischen Basel und Frankfurt (1717–1764). Zollkrieg und Techniktransfer zwischen Frankreich und Österreich, in: Zeitschrift für die Geschichte des Oberrheins 163, 2015, S. 143–169.</p>
+<p>Würgler, Andreas: Die Tagsatzung der Eidgenossen, in: Blickle, Peter (Hg.): Landschaften und Landstände in Oberschwaben, Tübingen 2000, S. 99–117.</p>
+<p>Würgler, Andreas: Aushandeln statt prozessieren. Zur Konfliktkultur der alten Eidgenossenschaft im Vergleich mit Frankreich und dem Deutschen Reich (1500–1800), in: Traverse. Zeitschrift für Geschichte 8, 2001, S. 25–38.</p>
+<p>Würgler, Andreas: «Tagsatzung», in: Historisches Lexikon der Schweiz, elektronische Version vom 01.09.2004, &lt;https://hls-dhs-dss.ch/de/articles/010076/2014-09-25/&gt; (Stand: 19.07.2020).</p>
+<p>Würgler, Andreas: Die Tagsatzung der Eidgenossen. Politik, Kommunikation und Symbolik einer repräsentativen Institution im europäischen Kontext (1470–1798), Tübingen 2013.</p>
+<p>Würgler, Andreas: Reiten, Schreiben, Vermitteln. Franz Ludwig von Erlach (1574–1651) unterwegs in Sachen Politik, in: Holenstein, André; Erlach, Georg von; Rindlisbacher, Sarah (Hg.): Im Auge des Hurrikans. Eidgenössische Machteliten und der Dreissigjährige Krieg, Bern 2015, S. 88–105.</p>
+<h2>Bildnachweis</h2>
+<p>HMB Historisches Museum Basel</p>
+<p>KMB Kunstmuseum Basel</p>
+<p>NMB Naturhistorisches Museum Basel</p>
+<p>StABS Staatsarchiv Basel-Stadt</p>
+<p>UB Basel Universitätsbibliothek Basel</p>
+<p>ZB Zentralbibliothek Zürich</p>
+<h3>Umschlagabbildung:</h3>
+<p>Detail des Wettstein-Pokals, 1649. HMB, Inv.</p>
+<p>1917.18., Foto Peter Portner 1 StABS, PLA 15, 1-3 2 KMB, Inv. U.X.71 3 KMB, Inv. 312</p>
+<p>4 UB Basel, UBH BibG B3 5 Sander 2005, S. 384–385, Wikimedia Commons 6 HMB, Inv. 1910.117., Foto Peter Portner 7 StABS, BILD Falk. A 100 8 KMB, Inv. 12 9 Privatbesitz, Foto HMB, Maurice Babey</p>
+<p>10 Quelle: Salvisberg 2010, S. 57; Kohli Kartografie. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>11 UB Basel, UBH A lambda II 46a, fol. Fv20, Gr21</p>
+<p>12 HMB, Inv. 1887.215., Foto Natascha Jansen</p>
+<p>13 Kantonale Denkmalpflege Basel-Stadt und Stiftung Basler Münsterbauhütte, Foto Peter Schulthess</p>
+<p>14 UB Basel, UBH Portr BS Grynaeus JJ 1540, 3b</p>
+<p>15 KMB, Inv. 80</p>
+<p>16 KMB, Inv. 81</p>
+<p>17 Gesellschaft der Feuerschützen, Basel</p>
+<p>18 HMB, Inv. 1914.626., Foto Peter Portner</p>
+<p>19 UB Basel, Herbaria Basel, Herbarium Caspar Bauhin, Solanum tuberosum esculentum B15-075.1.</p>
+<p>20 HMB, Inv. 2019.357., Foto Natascha Jansen</p>
+<p>21 KMB, Inv. 87</p>
+<p>22 Städel Museum, Frankfurt a. M., Inv. 2233</p>
+<p>23 Kantonale Denkmalpflege Basel-Stadt, Foto Peter Schulthess</p>
+<p>24 HMB, Peter Portner</p>
+<p>25 HMB, Inv. 1870.921., Foto Natascha Jansen</p>
+<p>26 Quelle: Terrain: Esri Inc., USA. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>27 HMB, Inv. 1977.292.</p>
+<p>28 HMB, Inv. 1876.13., Foto Maurice Babey</p>
+<p>29 Quelle: Gliederung des Stadtstaats Basel 1988; Marco Zanoli / Wikimedia Commons. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>30 Quelle: https://hls-dhs-dss.ch/de/articles/ 007478/2017-05-30/. Bearbeitung: Superdot Studio Basel</p>
+<p>31 Quelle: Schweizer 1910, S. 177–357; Terrain: Esri Inc., USA. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>32 HMB, Inv. 1880.103., Foto Maurice Babey</p>
+<p>33 StABS, Stammbäume 53</p>
+<p>34 Exemplar der Auktion SINCONA 57, Zürich, Mai 2019, Los 4149, www.sincona.com</p>
+<p>35 HMB, Inv. 1870.891., Foto Maurice Babey</p>
+<p>36 UB Basel, UBH Schw MI 4</p>
+<p>37 KMB, Inv. 2318</p>
+<p>38 HMB, Inv. 1906.2875., Foto Maurice Babey</p>
+<p>39 StABS, BILD Falk. A 155a</p>
+<p>40 StABS, AL 45, 6-19</p>
+<p>41 StABS, BILD 6, 1221</p>
+<p>42 StABS, BILD Falk. A 482</p>
+<p>43 HMB, Inv. 1995.559., Foto Peter Portner</p>
+<p>44 Quelle: Wetter; Pfister 2011, S. 1307–1326. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>45 ETH Zürich, ETH Rar 1380</p>
+<p>46 HMB, Inv. 2009.212., Foto Peter Portner</p>
+<p>47 HMB, Inv. 1992.279., Foto Natascha Jansen</p>
+<p>48 HMB, Inv. 1901.42., Foto Peter Portner</p>
+<p>49 bpk / Herzog Anton Ulrich-Museum, MMerian AB 3.220</p>
+<p>50 Quelle: Gschwind 1977, S. 172–174. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>51 Musée Historique de Mulhouse</p>
+<p>52 ZB, ZBZ GRA 4.171</p>
+<p>53 KMB, Inv. 1894.7</p>
+<p>54 Quelle: Stritmatter 1977, S. 115. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>55 HMB, Inv. 1990.341., Foto Peter Portner</p>
+<p>56 HMB, Inv. 874.96., Foto Peter Portner</p>
+<p>57 StABS, Planarchiv T 4</p>
+<p>58 Quelle: Salvisberg 2010, S. 73; Kohli Kartografie. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>59 StABS, NEG A 4246</p>
+<p>60 StABS, BILD Falk. D 15, 1</p>
+<p>61 UB Basel, UBH Diss 45:2</p>
+<p>62 Dokumentationsstelle Riehen / LAC AG Basel, Foto Jean-Jacques Nobs</p>
+<p>63 HMB, Inv. 1920/30., Foto Andreas Niemz</p>
+<p>64 UB Basel, UBH Portr BS Schoenauer S 1640, 1</p>
+<p>65 UB Basel, UBH Portr BS Burckhardt C 1631, 2c</p>
+<p>66 UB Basel, UBH Falk 1464, S. 33(34)</p>
+<p>67 UB Basel, UBH Falk 1464, S. 22(23)</p>
+<p>68 Quelle: Calvi 2018, S. 263</p>
+<p>69 Archäologie und Museum Baselland, Inv. K1.3396, Foto Serge Hasenböhler</p>
+<p>70 HMB, Inv. 1937.29., Foto Peter Portner</p>
+<p>71 UB Basel, UBH Falk 1466:23</p>
+<p>72 StABS, PA 445a 2</p>
+<p>73 UB Basel, UBH Falk 1464, S. 56(57)</p>
+<p>74 HMB, Inv. 1875.31.c., Foto Peter Portner</p>
+<p>75 HMB, Inv. 1906.3238., Foto Maurice Babey</p>
+<p>76 UB Basel, UBH Avis-Blatt, Nr. 22, 3.6.1745, S. 101</p>
+<p>77 UB Basel, UBH Falk 1471</p>
+<p>78 HMB, Inv. 1913.80., Foto Peter Portner</p>
+<p>79 HMB, Inv. 1921.1258. + 1259., Foto Peter Portner</p>
+<p>80 Quelle: Gschwind 1977, S. 170. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>81 Bayerische Staatsbibliothek München, 4 Enc. 9-8,a,6</p>
+<p>82 HMB, Inv. 1959.241.a., Foto Peter Portner</p>
+<p>83 HMB, Inv. 1983.657., Foto Andreas Niemz</p>
+<p>84 StABS, Handel und Gewerbe B 15</p>
+<p>85 Geheimes Staatsarchiv Preussischer Kulturbesitz, II. HA GD, Abt. 7 Ostpreussen und Litthauen, II Nr. 1203, fol. 109</p>
+<p>86 StABS, BILD Falk. Fb 1, 13</p>
+<p>87 HMB, Inv. 1982.406.</p>
+<p>88 HMB, Inv. 1997.58., Foto Peter Portner</p>
+<p>89 HMB, Inv. 1997.56.1., Foto Peter Portner</p>
+<p>90 StABS, Handel und Gewerbe LL 9</p>
+<p>91 Dokumentationsstelle Gemeinde Riehen, Foto R. Schmid</p>
+<p>92 Quelle: Vettori 1984, S. 211–215, 334–340; Gschwind 1977, S. 173–174, 639–641. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>93 Foto Susanna Burghartz</p>
+<p>94 Foto Susanna Burghartz</p>
+<p>95 Foto Susanna Burghartz</p>
+<p>96 Privatbesitz, Foto Andreas Niemz</p>
+<p>97 Kantonale Denkmalpflege Basel-Stadt, Foto Erik Schmidt</p>
+<p>98 HMB, Inv. 1958.168., Foto Natascha Jansen</p>
+<p>99 HMB, Inv. 1916.210., Foto Maurice Babey</p>
+<p>100 Quelle: HMB; Alioth 1981, S. 85. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>101 National Maritime Museum, Greenwich, London, Inv. PAI0334</p>
+<p>102 HMB, Inv. 2004.187., Foto Peter Portner</p>
+<p>103 Privatbesitz, Foto Andreas Niemz</p>
+<p>104 HMB, Inv. 1917-887. (S. 55), Foto Natascha Jansen</p>
+<p>105 StABS, Planarchiv Privatarchiv 511a 800 J 50, 2</p>
+<p>106 UB Basel, UBH Portr BS Merian A 1742, 2a</p>
+<p>107 UB Basel</p>
+<p>108 NMB</p>
+<p>109 StABS, STA Bf 1 A 8-25</p>
+<p>110 UB Basel, UBH Portr BS Brenner W 1723, 1</p>
+<p>111 StABS, PA 565a S 8</p>
+<p>112 StABS, BILD Falk. D 9, 1</p>
+<p>113 HMB, Inv. 1991.156., Foto Peter Portner</p>
+<p>114 HMB, Inv. 1986.439., Foto Maurice Babey</p>
+<p>115 HMB, Inv. 1960.20., Foto Natascha Jansen</p>
+<p>116 HMB, Foto Peter Portner</p>
+<p>117 HMB, Inv. 1974.393., Foto Peter Portner</p>
+<h2>Personenregister</h2>
+<p>Aeder, Katharina 72</p>
+<p>Amerbach (Familie) 79</p>
+<p>Amerbach, Basilius (1533–1591) 81</p>
+<p>Amerbach, Bonifacius (1495–1562) 31, 86–87, 92, 131</p>
+<p>Annone, d’ (Familie) 229, 231</p>
+<p>Annoni, Hieronymus (1697–1770) 298–300, 306</p>
+<p>Aristoteles (384–322 v. Chr.) 82</p>
+<p>Aubigné, Théodore-Agrippa d’ (1552–1630) 174</p>
+<p>Augusta Maria von Baden-Durlach (1649–1728) 225</p>
+<p>Bachofen-Heitz, Margaretha (1735–1819) 206</p>
+<p>Balthasar, Franz Urs (1689–1763) 301</p>
+<p>Balthasar, Joseph Anton Felix (1737–1810) 301</p>
+<p>Battier (Familie) 130, 264</p>
+<p>Bauhin, Caspar (1560–1624) 79–81, 92</p>
+<p>Bauhin, Johannes (1511–1582) 57</p>
+<p>Bauhin, Johannes (1541–1613) 82</p>
+<p>Beck, Jakob Christoph (1711–1785) 297</p>
+<p>Beck, Johann Franz 271</p>
+<p>Bernhard von Sachsen-Weimar (1604–1639) 172, 176</p>
+<p>Bernoulli (Familie) 231</p>
+<p>Bernoulli, Daniel (1700–1782) 285, 303–306</p>
+<p>Bernoulli, Jakob I (1654–1705) 136</p>
+<p>Bernoulli, Johann I (1667–1748) 303</p>
+<p>Bernoulli, Nikolaus II (1695–1726) 303</p>
+<p>Birckmann, Arnold (gest. 1541) 32</p>
+<p>Birckmann, Franz (gest. 1530) 32</p>
+<p>Blarer von Wartensee, Jakob Christoph (1542–1608) 66, 166–167</p>
+<p>Bock, Hans (ca. 1550–1624) 64–65, 71–72, 75, 81–85</p>
+<p>Bodin, Jean (1529/30–1596) 118</p>
+<p>Bohni, Andreas 294</p>
+<p>Bradley, James (1693–1762) 306</p>
+<p>Brenner, Johannes (1639–1700) 244</p>
+<p>Brenner, Wilhelm (1723–1781) 297–298</p>
+<p>Bruckner, Daniel (1707–1781) 310–311</p>
+<p>Brunner, Margaretha (1536–1604) 52, 75</p>
+<p>Bucer, Martin (1491–1551) 43, 65</p>
+<p>Büchel, Emanuel (1705–1775) 137, 179, 181, 247, 299</p>
+<p>Burckhardt (Familie) 79, 114–115, 130, 192, 264, 269–270</p>
+<p>Burckhardt, Christoph (1490–1578) 114</p>
+<p>Burckhardt, Christoph (1631–1705) 193–194</p>
+<p>Burckhardt, Christoph jr. / Christophe Bourcard (1766–1815) 270</p>
+<p>Burckhardt, Johann Rudolf (1738–1820) 299, 302</p>
+<p>Burckhardt, Leonhard (1729–1817) 269–270</p>
+<p>Burckhardt, Paul (1873–1956) 13</p>
+<p>Burckhardt-Merian, Christoph (1740–1812) 269–270</p>
+<p>Buxtorf d. Ä., Johannes (1564–1629) 80</p>
+<p>Calvin, Johannes (1509–1564) 58, 65, 67</p>
+<p>Capito, Wolfgang (1478–1541) 31, 37–38, 43</p>
+<p>Castellio, Friedrich (1563–1613) 85</p>
+<p>Castellio, Sebastian (1515–1563) 49–50, 55–58, 231</p>
+<p>Christ (Familie) 231</p>
+<p>Clive, Robert (1725–1774) 271</p>
+<p>Cratander, Andreas (ca. 1490–1540) 38, 131–132</p>
+<p>Curione, Celio Secondo (1503–1569) 57–58</p>
+<p>D’Alençon, Isaak (1657–1740) 251</p>
+<p>De Bry, Maria Magdalena (1598–1645) 128</p>
+<p>De Bussy, Louis 266–267</p>
+<p>Degen, Heinrich 266</p>
+<p>Deucher, Johann (1673–1747) 265</p>
+<p>Dietrich, Johann (1715–1758) 304</p>
+<p>Dollfus, Jean-Henri (1724–1802) 252</p>
+<p>Eck, Johannes (1486–1543) 42</p>
+<p>Egli, Martin 296</p>
+<p>Elbs, Maria (1682–1751) 292</p>
+<p>Erasmus von Rotterdam (1466–1536) 32–33, 36, 38, 40–41, 46, 55, 128–129, 136</p>
+<p>Erastus, Thomas (1524–1583) 58</p>
+<p>Erlach, Hans Ludwig von (1595–1650) 180–181, 188</p>
+<p>Ermännin, Ursula 90</p>
+<p>Erzberger, Johann Jakob (1745–1828) 228</p>
+<p>Esperlin, Joseph (1707–1775) 226, 248, 292</p>
+<p>Euler, Leonhard (1707–1783) 304</p>
+<p>Fabritius, Michael (1697–1746) 269</p>
+<p>Faesch (Familie) 79, 115, 130, 265–266, 273</p>
+<p>Faesch, Emanuel (1646–1693) 188–189</p>
+<p>Faesch, Hieronymus (1728–1799) 297</p>
+<p>Faesch, Isaak (1687–1758) 265–266</p>
+<p>Faesch, Johann Jakob (1732–1796) 266</p>
+<p>Faesch, Johann Rudolf (1572–1659) 130</p>
+<p>Faesch, Johann Rudolf (1668–1751) 186</p>
+<p>Faesch, Johann Rudolf (1680–1762) 188</p>
+<p>Faesch, Johann Rudolf (1715–1785) 251</p>
+<p>Faesch, Johannes (1725–1768) 266</p>
+<p>Faesch, Remigius (1541–1610) 82, 129</p>
+<p>Faesch-Burckhardt, Johann Jacob (1638–1706) 265</p>
+<p>Falkner-Geymüller (Familie) 260</p>
+<p>Fatio, Johannes (1649–1691) 190–192, 195, 197</p>
+<p>Faulhaber, Johannes (1580–1635) 174</p>
+<p>Fechter, Johann Jacob (1717–1797) 257–258, 304</p>
+<p>Feer, Jean-Jacques (1715–1780) 252</p>
+<p>Fellenberg, Daniel von (1736–1801) 301</p>
+<p>Ferdinand III. (Kaiser) (1608–1657) 185</p>
+<p>Feria, Herzog von (1587–1634) 172</p>
+<p>Feyerabend, Franz (1755–1800) 280–281, 290, 307</p>
+<p>Franklin, Benjamin (1706–1790) 310</p>
+<p>Friedrich VII. Magnus (Markgraf von Baden-Durlach) (1647–1709) 179, 225</p>
+<p>Frischmann, Daniel (1728–1808) 271–272</p>
+<p>Froben, Hieronymus (1501–1563) 32, 128–129</p>
+<p>Froben, Johannes (1460–1527) 32–33, 37–38, 41, 128</p>
+<p>Galen, Claudius (129–ca. 200) 82</p>
+<p>Gaupp, Georg Friedrich (1719–1798) 271–273</p>
+<p>Gemusein Dorothea (1542–1599) 133</p>
+<p>Gemuseus, Hieronymus (1542–1610) 133</p>
+<p>Gengenbach, Pamphilus (1480–1524/25) 27, 32, 86</p>
+<p>Georg (Heiliger) 65</p>
+<p>Gernler, Hans Heinrich (1640–1714) 244</p>
+<p>Giger, Conrad (1559–1635) 77</p>
+<p>Glarean (Heinrich Loriti) (1488–1563) 31, 46</p>
+<p>Glaser, Hans Heinrich (1585/86–1673) 202–203, 207, 211–213, 232</p>
+<p>Götz, Jacob (1555–1614) 75–76, 91</p>
+<p>Graf, Urs (1485–1529) 26, 33</p>
+<p>Granthomme, Jacques 67</p>
+<p>Grooth, Johann Niklaus (1723–1797) 272</p>
+<p>Grynaeus, Johann Jakob (1540–1617) 54, 65–70, 78, 90, 131</p>
+<p>Gundelsheim, Philipp von (1487–1553) 30</p>
+<p>Günther (Familie) 206</p>
+<p>Güntzer, Augustin (1596–ca. 1657) 207</p>
+<p>Güntzer, Sebastian (1590–1638) 207</p>
+<p>Gürtler, Friedrich (1725–1784) 271</p>
+<p>Gustav Adolf (König von Schweden) (1594–1632) 170–171</p>
+<p>Häfelfinger, Anna 296</p>
+<p>Hebdenstreit, Johann Jakob (1641–1707) 189</p>
+<p>Heinrich von Navarra (1553–1610) 78</p>
+<p>Hemeling, Carl (1702–1738) 258</p>
+<p>Henric-Petri, Jakob (1644–1695) 194–195</p>
+<p>Heusler (Familie) 164</p>
+<p>Hey, Daniel (gest. 1780) 206</p>
+<p>Hickel, Anton (1745–1798) 308</p>
+<p>Hirschfeld, Christian (1742–1792) 11</p>
+<p>Hirzel, Johann Kaspar (1725–1803) 301</p>
+<p>Hochrütiner, Lorenz (ca. 1490–1528) 224</p>
+<p>Hofer, Johannes (1669–1752) 182–183</p>
+<p>Hoffmann(-Müller), Emanuel (1643–1702) 238, 240–241</p>
+<p>Hoffmann II, Emanuel (1712–1765) 246</p>
+<p>Hoffmann, Johann Jacob (1710–1778) 265</p>
+<p>Hoffmann-Werthemann, Emanuel (1739–1807) 274</p>
+<p>Holbein d. J., Hans (1497/98–1543) 28, 33–35, 39, 83</p>
+<p>Holtzwart, Matthias (ca. 1530–1580) 86</p>
+<p>Horn, Balthasar 254</p>
+<p>Hornlocher, Melchior (1539–1619) 71–72, 75–76</p>
+<p>Huber, Johann Jakob (1733–1798) 150, 305–306</p>
+<p>Huber, Johann Rudolf (1668–1748) 191, 193</p>
+<p>Imhof, Andreas (1535–1573) 52</p>
+<p>Iselin (Familie) 130</p>
+<p>Iselin, Daniel 181</p>
+<p>Iselin, Hans Jakob (1675–1734) 292</p>
+<p>Iselin, Isaak (1728–1782) 16, 136, 150, 211, 230, 273, 285, 300–302, 307–309</p>
+<p>Iselin, Johann Rudolf (1705–1779) 292, 300, 311</p>
+<p>Iselin, Reinhard (1714–1781) 269</p>
+<p>Jonquière, Jacques (1664–1733) 245</p>
+<p>Joris, David (1501/02–1556) 49–50, 55</p>
+<p>Känel, Marx von (gest. 1776) 252</p>
+<p>Kannengiesser, Dorothea (1489/90–1549) 28</p>
+<p>Karl V. (Kaiser) (1500–1558) 219</p>
+<p>Kluber, Hans (1535/36–1578) 64</p>
+<p>Koechlin (Familie) 273</p>
+<p>Koechlin, Samuel (1719–1776) 252</p>
+<p>Krug, Caspar (1518–1579) 82</p>
+<p>Küpfer (Familie) 273</p>
+<p>Küpfer, Johann Friedrich (1708–1757) 272–273</p>
+<p>Labhardt (Familie) 265</p>
+<p>Laurentius (Heiliger) 36</p>
+<p>La Roche (Familie) 189</p>
+<p>Le Prestre de Vauban, Sébastien (1633–1707) 181</p>
+<p>Leisler (Familie) 251–252, 264</p>
+<p>Leisler, (Johann) Adam (1651–1704) 243</p>
+<p>Leisler(-Hoffmann), Achilles (1723–1784) 246, 259</p>
+<p>Leisler(-Werthemann), Franz (1644–1712) 240, 243</p>
+<p>Lichigaray, Thimothée 268</p>
+<p>Limperger, Tilman (ca. 1455–1542) 45</p>
+<p>Lips, Heinrich (1758–1817) 283</p>
+<p>Ludwig XIV. (König von Frankreich) (1638–1715) 115, 121, 180, 189, 228</p>
+<p>Lüpold, Hans (gest. 1619/20) 88–89</p>
+<p>Luther, Martin (1483–1546) 21, 37–38, 51</p>
+<p>Machiavelli, Niccolò (1469–1527) 58</p>
+<p>Mainfait, Jean (geb. 1697) 296–297</p>
+<p>Mansfeld, Ernst von (1580–1626) 170</p>
+<p>Maria Theresia (Kaiserin) (1717–1780) 252</p>
+<p>Martin von Tours (Heiliger) 64–65</p>
+<p>Mauritius, Johann Jacob (1692–1768) 266</p>
+<p>Maximilian I. (Kaiser) (1459–1519) 24</p>
+<p>Meltinger, Heinrich (vor 1471–1531) 40, 45</p>
+<p>Mengis (Familie) 206</p>
+<p>Merian (Familie) 128, 264, 269–270, 273, 299</p>
+<p>Merian, Caspar (1627–1680) 128</p>
+<p>Merian, Joachim (1635–1701) 128</p>
+<p>Merian, Margaretha (1623–1660) 128</p>
+<p>Merian, Maria Magdalena (1629–1665) 128</p>
+<p>Merian, Matthäus d. Ä. (1593–1650) 126–128, 132, 155</p>
+<p>Merian, Matthäus d. J. (1621–1687) 128</p>
+<p>Merian, Onophrio (1705–1758) 219</p>
+<p>Merian, Onophrion (1566–1621) 74–75</p>
+<p>Merian, Peter (1709–1801) 272</p>
+<p>Merian, Susanna Barbara (1619–1645) 128</p>
+<p>Merian(-Burckhardt), Margaretha (1760–1820) 299</p>
+<p>Merian-Iselin, Andreas (1742–1811) 283</p>
+<p>Meyer, Adelberg (1560–1629) 222</p>
+<p>Meyer, Jakob 138, 175</p>
+<p>Meyer, Johann Georg 221–222</p>
+<p>Meyer, Johann Jakob (ca. 1712–1773) 228</p>
+<p>Meyer zum Hasen, Jakob (1482–1531) 27–28, 100</p>
+<p>Mitz (Familie) 264</p>
+<p>Miville (Familie) 231</p>
+<p>Miville, Hans Ulrich (1723–1759) 296–298</p>
+<p>Miville, Monica (1609–1681) 209</p>
+<p>Moritz von Oranien (Prinz) (1567–1625) 174</p>
+<p>Mosis, Hans Konrad (1645–1691) 191–192, 197</p>
+<p>Mudge, Thomas (1715–1794) 305–306</p>
+<p>Müller, Johannes (gest. 1691) 191–192, 197</p>
+<p>Münster, Sebastian (1488–1552) 22–24, 30–31</p>
+<p>Murer, Christoph (1558–1614) 57</p>
+<p>Myconius, Oswald (1488–1552) 46, 51, 54</p>
+<p>Näher (Familie) 206</p>
+<p>Nahl d. J., Johann August (1752–1825) 310</p>
+<p>Necker (Familie) 264</p>
+<p>Nicolai, Friedrich (1733–1811) 273</p>
+<p>Oberkampf, Christoph-Phillipp (1738–1815) 253</p>
+<p>Oberkampf, Phillipp-Jakob (1714–1781) 253</p>
+<p>Oberried, Hans d. Ä. (1476–1543) 34</p>
+<p>Ochs (Familie) 231, 264</p>
+<p>Ochs, Peter (1752–1821) 11, 13, 271, 309–312</p>
+<p>Ochs-Brenner, Susanna (1725–1810) 297–298</p>
+<p>Oekolampad, Johannes (1482–1531) 31, 39, 41–43, 45–46, 51, 65–66, 69, 131, 224</p>
+<p>Oporin, Johannes (1507–1568) 49, 54–55</p>
+<p>Pantaleon, Heinrich (1522–1595) 157</p>
+<p>Paracelsus (Theophrastus Bombast von Hohenheim) (1493/94–1541) 58</p>
+<p>Parcus, Jacob (1504–1564) 55</p>
+<p>Passavant, Hans Ulrich (1652–1709) 246</p>
+<p>Payer, Anna (ca. 1480–1546) 46, 48</p>
+<p>Pellikan, Konrad (1478–1556) 37</p>
+<p>Pellizari (Familie) 56</p>
+<p>Pérez, Marcos (1527–1572) 56, 232</p>
+<p>Pergo, Franz (ca. 1570–1629) 77</p>
+<p>Perna, Pietro (ca. 1522–1582) 55, 58</p>
+<p>Pertschen, Esther 266–267</p>
+<p>Petri, Adam (1454–1527) 33, 37–38</p>
+<p>Peyer, Hans Christoph (1562–1610) 210–211</p>
+<p>Peyer-Im Hoff, Ursula (1567–1655) 210–211</p>
+<p>Pfirt, Agatha von 131–132</p>
+<p>Platter (Familie) 79</p>
+<p>Platter, Felix (1536–1614) 79, 81–82, 87, 92–94, 133, 156–157, 183</p>
+<p>Platter, Felix (1632–1705) 188–189</p>
+<p>Platter, Thomas d. Ä. (1499–1582) 93, 136</p>
+<p>Plotho, Erich Christoph von (1707–1788) 292</p>
+<p>Podewils, Heinrich von (1696–1760) 292</p>
+<p>Polanus von Polansdorf, Amandus (1561–1610) 78</p>
+<p>Preiswerk, Johann (1628–1699) 244</p>
+<p>Ravelasca, Balthasar 87</p>
+<p>Rehlingen, Marx Konrad von (1576–1642) 180</p>
+<p>Reublin, Wilhelm (ca. 1484–1559) 38–39</p>
+<p>Rhenanus, Beatus (1485–1547) 31</p>
+<p>Riedy (Familie) 269</p>
+<p>Ringle, Johann Sixt (1576–1653) 101, 215</p>
+<p>Rohr, Johannes 253</p>
+<p>Rosenblatt, Wibrandis (1504–1564) 41–43</p>
+<p>Rosenburger (Familie) 270</p>
+<p>Roslin, Alexander (1718–1793) 206</p>
+<p>Rosius, Jakob (1598–1676) 145</p>
+<p>Ryff, Andreas (1550–1603) 52–53, 73, 75, 81, 93, 164–165, 167</p>
+<p>Ryhiner (Familie) 130, 247–249, 253, 268</p>
+<p>Ryhiner, Emanuel (1704–1757) 247, 253</p>
+<p>Ryhiner, Friedrich (ca. 1532–1587) 78</p>
+<p>Ryhiner, Johannes (1728–1790) 248–249</p>
+<p>Ryhiner(-Fürstenberger), Samuel (1696–1757) 247–248</p>
+<p>Ryhiner-Fürstenberger, Esther (1702–1764) 248</p>
+<p>Ryhiner-Iselin, Johannes (1728–1790) 248</p>
+<p>Ryhiner-Platter, Magdalena (1573–1651) 153</p>
+<p>Sarasin (Familie) 231, 264</p>
+<p>Sarasin, Jakob (1742–1802) 309</p>
+<p>Sarasin, Lukas (1730–1802) 280–281, 309</p>
+<p>Schabler, Johann 32</p>
+<p>Schaub, Johann Heinrich 271</p>
+<p>Schaub, Lukas (1690–1758) 270–271</p>
+<p>Schenck zu Schenckenberg (Familie) 75</p>
+<p>Scheuchzer, Johann Jakob (1672–1733) 183</p>
+<p>Schmalzer, Jean-Jacques (1721–1791) 252</p>
+<p>Schnitt, Conrad (1495/1500–1541) 33</p>
+<p>Schönauer, Salome (1640–1691) 193</p>
+<p>Schwegler, Daniel (ca. 1480–1546) 33</p>
+<p>Servet, Michel (ca. 1511–1553) 49</p>
+<p>Smith, Adam (1550–1624) 309</p>
+<p>Socin (Familie) 115, 192, 229, 231</p>
+<p>Socin, Emanuel (1628–1717) 189</p>
+<p>Sozzini, Fausto (1539–1604) 56</p>
+<p>Specklin, Daniel (1536–1589) 174–175</p>
+<p>Spyri, Johanna (1827–1901) 183</p>
+<p>Stähelin, Hans Jakob 74–75</p>
+<p>Stapf, Adam (1550–1624) 174</p>
+<p>Stehelin, Benedikt (1695–1750) 306</p>
+<p>Stolz, Hans 142–143</p>
+<p>Stuppa, Johann Peter (1621–1701) 188–189</p>
+<p>Sulzer, Simon (1508–1585) 54, 65–66</p>
+<p>Thellusson (Familie) 264</p>
+<p>Thellusson, Pierre-Isaac (1735–1797) 264</p>
+<p>Thommen, Hans Peter 251</p>
+<p>Thurneisen (Familie) 269, 273</p>
+<p>Thurneisser, Leonhard (1531–1596) 57</p>
+<p>Thurninger (Familie) 269</p>
+<p>Utenheim, Christoph von (um 1450–1527) 30</p>
+<p>Valckenburgh, Johan van (1575–1625) 174</p>
+<p>Vischer (Familie) 231</p>
+<p>Vischer, Hieronymus (1564–1630) 74, 152</p>
+<p>Vischer, Peter d. Ä. (ca. 1455–1529) 39</p>
+<p>Vischer-Ochs, Salome (1760–1804) 310</p>
+<p>Vögtlin, Margreth 214</p>
+<p>Wackernagel, Rudolf (1855–1925) 13</p>
+<p>Wagner, Rudolf (1722–1787) 271</p>
+<p>Waldkirch, Konrad (1549–1615) 80</p>
+<p>Walter, Hans (gest. 1610) 77</p>
+<p>Weiss (Familie) 251–252, 268–269</p>
+<p>Weiss(-Leissler), Markus (1696–1768) 246, 259, 268</p>
+<p>Werenfels, Peter (1627–1703) 209</p>
+<p>Werenfels, Samuel (1720–1800) 232, 258, 280–281</p>
+<p>Werner, Joseph d. J. (1637–1710) 175</p>
+<p>Wettstein (Familie) 79</p>
+<p>Wettstein, Johann Jakob (1693–1754) 226</p>
+<p>Wettstein, Johann Rudolf (1594–1666) 121, 136, 177, 184–186, 238</p>
+<p>Wirz (Familie) 269</p>
+<p>Wissenburg, Wolfgang (1496–1575) 38, 40</p>
+<p>Wittnauer-Falkner (Familie) 210</p>
+<p>Wocher, Marquard (1760–1830) 297</p>
+<p>Wolff, Thomas (ca. 1485–1535) 33</p>
+<p>Wurstisen, Christian (1544–1588) 310</p>
+<p>Zellweger (Familie) 261</p>
+<p>Zinzendorf, Nikolaus von (1700–1760) 298</p>
+<p>Zörnlin, Hans Jakob (1588–1659) 189</p>
+<p>Zscheckenbürlin (Familie) 34</p>
+<p>Zscheckenbürlin, Amalie 34</p>
+<p>Zwinger, Theodor (1533–1588) 57–58, 81, 86–87, 92</p>
+<p>Zwinger, Theodor (1658–1724) 183</p>
+<p>Zwingli, Huldrych (1484–1531) 40, 42, 51, 54, 65–66</p>
+<h2>Ortsregister</h2>
+<p>Aarau 253</p>
+<p>Afrika 249, 256, 261, 268–270</p>
+<p>Ägypten 57, 250</p>
+<p>Amerika 249, 256, 261, 265–266, 268–269</p>
+<p>Amiens 57</p>
+<p>Amsterdam 228, 238, 247, 251, 263, 265–266, 271</p>
+<p>Antillen 266</p>
+<p>Antwerpen 56, 89</p>
+<p>Aostatal 244</p>
+<p>Appenzell 185, 261</p>
+<p>Arlesheim 225</p>
+<p>Armenien 247, 249–250</p>
+<p>Asien 216, 239, 269</p>
+<p>Atlantik 256, 262, 268, 270</p>
+<p>Augsburg 28, 38, 41, 89, 243, 263</p>
+<p>Augst 81</p>
+<p>Avignon 183</p>
+<p>Baden (Aargau) 42, 92–93, 117</p>
+<p>Baden-Durlach (Markgrafschaft, Markgraf von) 29–30, 48, 54, 66–68, 108, 172, 176, 179–180, 186, 225, 228, 258, 262, 272, 292</p>
+<p>Balkan 252</p>
+<p>Basel – Aeschengraben 131 – Aeschentor 131 – Aeschenvorstadt 134, 258 – Augustinerkirche 44 – Augustinergasse 130 – Bäumleingasse 128 – Ballenhaus 227 – Barfüsserkirche 44 – Barfüsserplatz 70, 137–138, 213 – Blaues Haus 258, 280–281 – Blumenrain 56 – Birs 154–155, 158 – Birsig 135, 154 – Bruckgut (Münchenstein) 259 – Brückenkapelle 164 – Brunnen 133–134, 148, 158 – Domherrenhöfe 257–258 – Église française 232 – Elisabethenschanze 131 – Falkensteinerhof 258 – Festung, Festungsbau 173–176 – Fischmarkt 70, 139, 164 – Franziskanerkloster 37, 39 – Freie Strasse 135, 138, 140, 147, 149, 164, 213 – Gärten 79–81, 126, 128–129, 131–133, 151, 154 – Gnadental (Kloster) 48 – Grossbasel 36, 110, 131, 135–136 – Haus zu den Drei Königen auffem Blumenplatz 141 – Haus zu Weinleuten 139 – Haus zum Hohen Dolder 134–135 – Haus zum Löwenzorn 87 – Haus zum Luft 128 – Haus zum Pfaueneck 138 – Haus zum Raben 258 – Haus zum Sessel 32</p>
+<p>– Haus zum Tanz 83–84</p>
+<p>– Haus zum Wilden Mann 140</p>
+<p>– Haus zur Augenweide 130</p>
+<p>– Haus zur Gelten 139</p>
+<p>– Haus zur Krähe 134</p>
+<p>– Haus zur Mägd 134</p>
+<p>– Hebelstrasse 179, 225</p>
+<p>– Holsteinerhof 258</p>
+<p>– Kartause 34, 48, 109, 214</p>
+<p>– Kaufhaus 227, 287</p>
+<p>– Kleinbasel 38, 45, 105, 107, 110, 131, 134–136, 154–156, 220, 270</p>
+<p>– Klybeck 38</p>
+<p>– Kohlenberg 135, 147, 215</p>
+<p>– Kornmarkt s. Marktplatz</p>
+<p>– Leonhardsgraben 131</p>
+<p>– Letziturm 131</p>
+<p>– Luftgässlein 129</p>
+<p>– Malzgasse 208</p>
+<p>– Markgräflerhof 179–180, 225</p>
+<p>– Marktplatz, Markt 29, 35–36, 40, 44–45, 86, 88, 136–141, 145–146, 153–154, 158, 190–191, 194, 202, 218, 227–228, 258</p>
+<p>– Martinskirche 41, 44</p>
+<p>– Münster (Basler Münster) 29–30, 35, 39, 44–45, 50, 64–65, 68, 71, 77, 83–85, 90, 105, 130, 136–137, 215</p>
+<p>– Münsterplatz 30, 35, 106, 135, 164, 257–258</p>
+<p>– Nadelberg 82, 130, 133, 135</p>
+<p>– Petersgasse 131</p>
+<p>– Petersgraben 131</p>
+<p>– Petersplatz 30, 106, 129–130, 132, 215, 257–258</p>
+<p>– Predigerkirche 44, 137, 232</p>
+<p>– Ramsteinerhof 258–259</p>
+<p>– Rathaus 24, 64, 71, 84, 106, 110, 126, 137, 139–141, 164, 191, 195</p>
+<p>– Rheintor 190</p>
+<p>– Rittergasse 258</p>
+<p>– Rollerhof 258</p>
+<p>– Rümelinbach 135, 154</p>
+<p>– Sandgrube 259</p>
+<p>– Schneidergasse 147</p>
+<p>– Schützenhaus 74–75</p>
+<p>– Seidenhof 56</p>
+<p>– Spalenturm 190</p>
+<p>– Spalentor 131, 134</p>
+<p>– Spalenvorstadt 48, 134</p>
+<p>– Spital 38, 137, 142–143, 149, 213</p>
+<p>– Stachelschützenhaus 106</p>
+<p>– Stadtmauern 22, 131–132, 134–135, 164, 174–175, 220</p>
+<p>– Stadttore 70, 131, 146, 192, 215, 218, 220</p>
+<p>– Steinengraben 131</p>
+<p>– Steinenkloster 214</p>
+<p>– Steinentor 131</p>
+<p>– Steinenvorstadt 44, 134</p>
+<p>– St. Alban (Kirche, Kloster) 36, 38–39, 128, 136, 180 – St. Alban-Graben 131 – St. Alban-Teich 154–155 – St. Alban-Tor 131, 164 – St. Alban-Vorstadt 134–136 – St. Johanns-Tor 131 – St. Johanns-Vorstadt 130, 134, 247 – St. Leonhard (Kirche, Kloster) 41, 136, 226 – St. Martin (Kirche) 136–137 – St. Peter (Kirche) 36, 136, 299 – St. Theodor (Kirche) 136 – St. Ulrich (Kirche) 36, 136, 164 – Theaterstrasse 227 – Thomasturm 131 – Totengässlein 32 – Vorstadt, Vorstadtgesellschaft (allgemein) 131, 133–135, 220 – Weisses Haus 258 – Wildt’sches Haus 257–258 – Wirtshaus 40, 69–70, 91, 128, 139–141, 146–147, 194, 218 – Württembergerhof 258 – Zunftstube, Zunfthaus (allgemein) 40, 44, 110, 127, 139–140, 194–195, 227</p>
+<p>Bayonne 268</p>
+<p>Bellinzona 229</p>
+<p>Berlin 57, 228, 251, 273, 306</p>
+<p>Bern 48, 54, 75, 168, 170, 172, 176, 185–186, 243, 245–246, 250, 264–265, 272, 301</p>
+<p>Biel 145</p>
+<p>Binningen 49</p>
+<p>Birseck 30, 166</p>
+<p>Bodensee 263–263</p>
+<p>Böhmen 170, 173</p>
+<p>Bottmingen 265</p>
+<p>Brandenburg-Kulmbach (Markgrafschaft) 57</p>
+<p>Brandenburg-Preussen 57, 188, 292</p>
+<p>Brasilien 53</p>
+<p>Breisach (Festung) 180–181</p>
+<p>Breisgau 22–23</p>
+<p>Bremen 263</p>
+<p>Brennerpass 263</p>
+<p>Brüglingen 92–93</p>
+<p>Burgund 120, 244, 262</p>
+<p>Byzanz 238</p>
+<p>Cádiz 269</p>
+<p>Châlons sur Marne 263</p>
+<p>Chiavenna 188</p>
+<p>China 238, 250, 259, 270</p>
+<p>Colmar 29, 154, 207</p>
+<p>Coventry 240</p>
+<p>Curaçao 265–267</p>
+<p>Dänemark 264, 269</p>
+<p>Dornach 225</p>
+<p>Eidgenossenschaft 12, 14–15, 21–31, 42, 44, 48, 51, 54, 63, 66–68, 73, 75–76, 78, 89, 92–93, 99–100, 117–121, 141, 145, 165–170, 172, 176–177, 180, 182–189, 194–196, 219, 228–229, 231, 245, 254, 262–264, 290, 292, 301, 310</p>
+<p>Einsiedeln 31</p>
+<p>Elsass 22, 30–31, 52, 64, 66, 82, 89, 108, 142, 171–172, 178–180, 207, 228–229</p>
+<p>England (Grossbritannien) 35, 38, 57, 237, 254, 259, 264–265, 270–273, 291, 306</p>
+<p>Ettingen 92–93</p>
+<p>Farnsburg 103–104, 168</p>
+<p>Flandern 117, 240</p>
+<p>Frankfurt a. M. 243–244, 262–264</p>
+<p>Frankreich, Königreich 25, 27, 29, 35, 38, 49, 55–57, 76, 78, 99, 117, 120–121, 153, 166, 170, 172, 174, 176, 178–180, 186–189, 193–194, 227–229, 231–232, 241, 244, 246, 252, 255, 258–259, 262–266, 268, 270, 273, 291–293, 309–310</p>
+<p>Freiburg (im Breisgau) 29, 31, 34, 46, 48</p>
+<p>Freiburg (im Uechtland) 172, 185–186</p>
+<p>Frenkendorf 294</p>
+<p>Fricktal 172</p>
+<p>Fürstbistum Basel 48, 66, 166–167, 172, 176, 185, 241</p>
+<p>Genf 49, 55–56, 172–173, 246, 262–264, 273</p>
+<p>Genua 240, 263</p>
+<p>Giromagny (bei Belfort) 52</p>
+<p>Glarus 186</p>
+<p>Goa 89</p>
+<p>Gotthardpass 25, 263</p>
+<p>Grenada 273</p>
+<p>Guangzhou 259</p>
+<p>Habsburg-Österreich 24, 117, 121, 172, 178, 180, 186, 262, 264, 292–293</p>
+<p>Hamburg 263, 268, 309</p>
+<p>Heidelberg 31, 303</p>
+<p>Homburg 103–104, 168</p>
+<p>Hüningen (Festung) 115, 180–181, 189, 194, 225</p>
+<p>Huttwil 168</p>
+<p>Indien 89, 239, 246–249, 260, 270–273</p>
+<p>Innere Orte 186</p>
+<p>Italien 25, 27, 31, 38, 55–57, 86–87, 117, 142, 170, 227, 229–230, 239–240, 246, 262–263, 268, 273</p>
+<p>Jura (Gebirge) 30</p>
+<p>Kanarische Inseln 154</p>
+<p>Karibik 256, 265–267, 269–270, 273</p>
+<p>Kleinhüningen 103–104, 181, 193</p>
+<p>Köln (Kurfürstentum) 189</p>
+<p>Köln (Stadt) 32, 263</p>
+<p>Konstantinopel 249</p>
+<p>Konstanz 48</p>
+<p>Kopenhagen 269</p>
+<p>Krakau 31</p>
+<p>Krefeld 240</p>
+<p>Landschaft (Basler Landschaft) 13–14, 16, 22, 30, 41, 66, 68, 70, 103–104, 117, 163–170, 172, 218–221, 224–225, 228, 237, 241, 244, 250–252, 254–256, 258, 282, 286, 288, 294–295, 298, 309–310</p>
+<p>La Rochelle 268–269</p>
+<p>Laufenburg 121</p>
+<p>Laufental 30, 166</p>
+<p>Lausanne 264</p>
+<p>Leipzig 37–38</p>
+<p>Leuk, Leukerbad 82–84, 87, 92–94</p>
+<p>Levante 252, 263, 273</p>
+<p>Liestal 103–104, 167–168, 189</p>
+<p>Lissabon 89</p>
+<p>Livorno 263</p>
+<p>Lörrach 252–253, 272–273</p>
+<p>Lombardei 56, 154, 263</p>
+<p>London 264–265, 272, 291, 306</p>
+<p>Lothringen 262</p>
+<p>Lucca 55</p>
+<p>Lübeck 263</p>
+<p>Lützel 108</p>
+<p>Luzern 25, 35, 168, 170, 243, 301</p>
+<p>Lyon 32, 55–56, 262–263, 296</p>
+<p>Madras 271–272</p>
+<p>Mailand (Herzogtum) 25, 229, 263, 282</p>
+<p>Mariastein 31</p>
+<p>Marignano 25</p>
+<p>Marseille 247, 249, 251, 263</p>
+<p>Maulburg 93</p>
+<p>Mittelmeer 268</p>
+<p>Mömpelgard (Montbéliard) 82</p>
+<p>Montpellier 183</p>
+<p>Mülhausen 48, 120, 154, 183, 252, 273</p>
+<p>Münchenstein 103–104, 120, 251, 259</p>
+<p>Münster (Stadt) 177</p>
+<p>Muri (Kloster) 93</p>
+<p>Muttenz 298–299</p>
+<p>Nancy 263</p>
+<p>Nantes 180, 231, 246, 270</p>
+<p>Neuenburg 264</p>
+<p>New York 267</p>
+<p>Niederlande 27, 55, 57, 174, 187–188, 226, 237, 241, 246–247, 249, 254, 262–266, 268, 271, 273, 303</p>
+<p>Nîmes 251</p>
+<p>Nordsee 263</p>
+<p>Normandie 244</p>
+<p>Nürnberg 89</p>
+<p>Osmanisches Reich 238</p>
+<p>Osnabrück 177</p>
+<p>Ostsee 263</p>
+<p>Oxford 306</p>
+<p>Paramaribo 266</p>
+<p>Paris 31–32, 186, 241, 253, 259, 263–265, 268, 310</p>
+<p>Pfalz 41, 174, 179</p>
+<p>Plombières 92–93</p>
+<p>Polen 57, 273</p>
+<p>Potsdam 251, 306</p>
+<p>Prag 31</p>
+<p>Pruntrut 30</p>
+<p>Ramstein 168</p>
+<p>Rappolstein (Grafschaft, Grafen von) 82</p>
+<p>Reich (Heiliges Römisches Reich deutscher Nation) 25, 29, 31, 76, 100, 118, 120, 170–172, 177, 179, 185, 187, 189, 196, 219, 225, 227, 241–243, 254, 259, 262, 264, 268</p>
+<p>Rhein 22, 126–128, 134, 142, 154, 156, 158, 241, 280 – Hochrhein 156, 263 – Oberrhein 21–22, 29, 31, 51, 121, 163, 171–172, 176, 178–180, 187, 207, 212, 228, 241, 262</p>
+<p>Rheinfelden 24, 121</p>
+<p>Riehen 103–104, 185, 214, 247, 254, 256–258</p>
+<p>Rom 240</p>
+<p>Rümlingen 296</p>
+<p>Sachsen 172, 298</p>
+<p>Säckingen 121</p>
+<p>Savoyen 172, 264</p>
+<p>Schaffhausen 48, 185, 263</p>
+<p>Schinznach 301</p>
+<p>Schlettstadt 31</p>
+<p>Schwarzwald 52, 156</p>
+<p>Schweden 170, 172, 176, 189, 264</p>
+<p>Senegal 250</p>
+<p>Sinai 57</p>
+<p>Sizilien 238</p>
+<p>Solothurn 26, 48, 168, 170, 185, 304</p>
+<p>Spanien 38, 142, 172, 187–188, 238, 265, 291</p>
+<p>St. Blasien 108</p>
+<p>St. Eustatius 265</p>
+<p>St. Gallen 264</p>
+<p>Strassburg (Bistum, Bischof) 24</p>
+<p>Strassburg (Stadt) 28, 31, 43, 48, 244, 262–264, 303</p>
+<p>Sumiswald 168</p>
+<p>Sundgau 22–23, 29, 151, 154, 172, 178–179, 228, 253</p>
+<p>Surinam 266, 273</p>
+<p>Tessin 25</p>
+<p>Tirol 57</p>
+<p>Trier (Kurfürstentum) 186</p>
+<p>Trogen 261</p>
+<p>Troyes 263</p>
+<p>Ulm 174</p>
+<p>Uri 25</p>
+<p>Vaihingen 253</p>
+<p>Venedig 188–189, 240, 263</p>
+<p>Vereinigte Staaten von Amerika (USA) 264</p>
+<p>Versailles 253</p>
+<p>Vorderasien 238</p>
+<p>Vorderösterreich 66, 112, 178</p>
+<p>Waldenburg 103–104, 168, 298</p>
+<p>Waldshut 121</p>
+<p>Wannenflue (Berg) 304</p>
+<p>Wien 31, 186, 243, 252, 264, 271</p>
+<p>Wiese (Gewässer) 154, 247</p>
+<p>Wildenstein 165, 167</p>
+<p>Wittenberg 37–38</p>
+<p>Württemberg (Herzogtum) 82, 108, 176, 186</p>
+<p>Zürich 27, 40, 42, 48, 54, 89, 172–173, 176, 186, 208, 243, 245–246, 250–251, 263–264, 273, 301</p>
+<p>Zurzach 244</p>
+<p>Zwingen 155</p>
+<h2>Sachregister</h2>
+<p>Abgaben 165, 168, 170, 180, 248, 255–256, 258 – Steuern 25, 41, 70, 88, 102, 104, 116, 134, 141, 151, 157, 166, 168, 170, 104, 229, 242, 248, 255–256, 258, 287 – Zölle 24, 116, 120, 142, 248, 262, 282</p>
+<p>Adel, Patriziat 28, 30, 72, 75, 82, 90, 93, 100, 172, 180, 259–260</p>
+<p>Alltag 14–15, 25, 30, 46, 63, 68–70, 90, 110, 125–159, 170, 201, 227, 291, 309</p>
+<p>Antistes 45–46, 51, 54, 65–66, 69, 70, 78, 90, 222</p>
+<p>Armut, Armenwesen, Bettelei 16, 50, 108, 158, 211–215, 221, 228, 243, 256, 258, 271–272, 274, 283, 288, 302</p>
+<p>Astrologie 57–58, 145, 148</p>
+<p>Aufklärung 12, 16, 279, 290, 293–294, 300–302, 307–309</p>
+<p>Avis-Blatt 216–217, 289, 291, 293</p>
+<p>Baden, Vertrag von 166</p>
+<p>Badeort, Bad 82–84, 87, 91–94, 202</p>
+<p>Ballot, Ballotierordnung, Losordnung 112–113, 283, 303</p>
+<p>Bandwebstuhl, ‹Kunststuhl›, ‹Bändelmühle› 156, 238–243, 250–251, 256, 282</p>
+<p>Bann, Bannherren 45–46, 100, 220, 222–223, 225, 294–297</p>
+<p>Bartholomäusnacht 232</p>
+<p>‹Basler Konfession› 46, 51, 54, 66–68, 224, 232</p>
+<p>Baumwolle 214, 246–247, 250, 255–256, 260–262, 269–270, 273</p>
+<p>Beamte, Beamtenschaft 99, 103, 105, 113, 259, 294, 303</p>
+<p>Bedienstete 23, 126, 147, 150, 203–205, 212, 226, 227–228, 232</p>
+<p>Bettelvogt 211, 213, 215</p>
+<p>Bevölkerung, Bevölkerungsentwicklung, Demografie 107, 156–158, 238, 258, 285, 287, 301</p>
+<p>Britische Ostindien-Kompanie 270, 272</p>
+<p>Buchdruck, Druckwesen, Druckereien 13, 15, 27–28, 31–33, 35, 37–38, 49, 50, 54–56, 58, 79–80, 85–86, 128–129, 145, 154–155, 225–226, 262</p>
+<p>Bürgermeister 27–28, 40, 45, 72, 82, 100–101, 103, 105–107, 110, 114, 116–117, 127–128, 139, 177, 184–185, 205, 219, 238, 248, 266, 283</p>
+<p>Bürgerrecht 56, 73, 78, 100, 105, 107, 212, 214, 219, 223–224, 226, 229–231, 248, 251, 286, 288–289</p>
+<p>Bürgerschaft, Gesamtheit der Wahlberechtigten 12, 30, 46, 50–51, 73, 92, 100, 106–107, 111, 114, 117–118, 128, 139, 164, 189–192, 194–195, 220, 229, 232, 298</p>
+<p>Calvinismus 56, 180, 207, 232</p>
+<p>Dänische Ostasiatische Kompanie 269</p>
+<p>Dänische Afrikakompanie 269</p>
+<p>Defensionale von Wil 172, 189</p>
+<p>Deutsche Christentumsgesellschaft 300, 302</p>
+<p>Diplomatie, Aussenpolitik 24–27, 48, 76, 78, 103, 110, 114, 117–119, 139–141, 171, 177, 179, 184–190, 243, 270–271, 286, 310</p>
+<p>Direktorium der Kaufmannschaft 238, 242–243, 281–282, 287, 291</p>
+<p>Direktorium der Schaffneien 109, 116</p>
+<p>Domkapitel, Domherren (Basler) 30, 45, 48</p>
+<p>Dreieckshandel 262, 269</p>
+<p>Dreizehner 103, 107, 119</p>
+<p>Edikt von Nantes (1598) 180, 231, 246</p>
+<p>Ehe, Eheordnung 12, 150–151, 207–209, 218</p>
+<p>Ehegericht 69, 104, 150, 208, 209, 220</p>
+<p>Ehre, Ehrkonflikte 71, 78, 90–91, 134, 147–148, 204–205, 209, 214, 218–220, 223</p>
+<p>Eid 30, 106, 115, 132, 224, 287, 294</p>
+<p>‹Ephemeriden der Menschheit› 300, 309</p>
+<p>Fabrique-Commission 254, 282, 287</p>
+<p>Familie, Verwandtschaft 15, 30, 51, 73, 76, 78, 100, 113–114, 118, 126–129, 134, 185, 197, 206, 207, 212, 231, 238</p>
+<p>Fasnacht, Fasnachtsspiele 24, 27, 86</p>
+<p>Fassadenmalerei 64–65, 87, 129, 139</p>
+<p>Finanzplatz, Banken 28, 176–177, 179–181, 189, 243, 262, 264–265, 269, 287</p>
+<p>Flugblatt 33, 37–39, 140–141</p>
+<p>Fremde Dienste, Solddienst 25–27, 75–76, 78, 120, 176, 182–183, 187–189, 202, 264–265, 270–271</p>
+<p>Fürstbischof von Basel 29–31, 39, 40, 44, 46, 69, 80, 100, 113, 118, 166–167, 176, 311</p>
+<p>Geburt 125, 148–149, 205</p>
+<p>Gemeine Herrschaften 68</p>
+<p>Geschichte, Geschichtsschreibung 11, 13, 307–312</p>
+<p>Geschlecht, Geschlechterordnung 12–13, 16, 43, 94, 148, 202, 205, 207–211</p>
+<p>Gesellschaft für das Gute und Gemeinnützige 302, 309</p>
+<p>Gewerbeordnung 29, 44, 51, 102</p>
+<p>Gewerbeteich, Industriekanal 154–156, 247, 258</p>
+<p>Globalisierung 11, 13, 16, 52–53, 81, 89, 237, 239, 247, 249–251, 255–256, 259–274, 279, 293, 309</p>
+<p>Gottesdienst, Gottesdienstordnung, Abendmahl 30, 38, 39–41, 43–46, 54, 55, 67–70, 204, 215, 219, 221, 224–225, 232, 294–296, 298</p>
+<p>Gotteslästerung 45, 69, 71, 90–92, 219</p>
+<p>Grenze (geografisch) 22–23, 47, 66, 81, 92, 109, 131, 133, 136, 154, 168, 172, 176, 178, 252, 288, 304</p>
+<p>Grundbuch, Kataster 130, 288</p>
+<p>Handwerk, Handwerker, Handwerksgesellen 52, 55, 69, 75, 88–89, 100–103, 128, 135–136, 146, 203, 205, 207, 210, 226–228, 250, 280, 284–285, 307</p>
+<p>Haus, Wohnhaus 126–134, 147, 156</p>
+<p>Heiligenverehrung, Bilderverehrung 30, 35–37, 44–46, 64–65, 90, 146</p>
+<p>Henker, Scharfrichter 191–192, 206, 220</p>
+<p>Herrnhuter Brüdergemeine 298</p>
+<p>Helvetik, Helvetische Republik 99, 150, 201, 271, 283, 310</p>
+<p>Helvetische Gesellschaft 301, 309</p>
+<p>Helvetische Konfession, Helvetisches Bekenntnis 51, 54, 67–68, 295</p>
+<p>Hexerei 219–220, 222–223</p>
+<p>Hintersassen 16, 201, 204–205, 214, 229, 231</p>
+<p>Holz, Holzversorgung 22, 138, 155–156, 282</p>
+<p>Hugenotten 229, 231–232</p>
+<p>Humanismus, Humanisten 15, 31, 42, 46, 49, 54–58, 67, 79–81, 86–87, 310</p>
+<p>Hunger, Hungersnot 69, 142, 256, 266</p>
+<p>Indienne-Druckerei, Indienne-Stoff 16, 149, 237, 246–249, 252–256, 258, 260, 268–270, 272–273, 307</p>
+<p>Kalender 66, 145–146, 148, 151</p>
+<p>Kanzlei, Stadtschreiber, Ratsschreiber 103, 106–107, 139, 265, 283, 286, 300–301, 309–310</p>
+<p>Kapitalismus, Frühkapitalismus 16, 237–238, 243–244, 249–250, 262, 264, 273–274, 309</p>
+<p>Kartäuserkloster 214, 244</p>
+<p>Katholizismus, katholische Orte 42, 44, 46–48, 64–66, 80, 108, 119, 166, 186, 225–226</p>
+<p>Kaufmannschaft, Kaufleute 15–16, 23, 29, 40, 44, 51–52, 55–56, 73, 75, 100, 102–103, 129, 135, 176, 180–181, 185, 187, 203, 205–206, 210–211, 227–228, 238, 241–243, 259, 262, 264, 280–281, 287, 291, 294, 302, 309</p>
+<p>Klientelismus, Korruption, Geschenke 12, 14, 73, 75–76, 78, 153, 192–195, 238</p>
+<p>Kloster, Klostergut 22, 30–31, 39, 41, 44, 46, 48, 103, 108, 116, 136, 207–208, 212–214</p>
+<p>Kolonialismus, Kolonien 237, 259, 261–266, 268–270</p>
+<p>Konventikel, Hausversammlungen 296, 298, 300</p>
+<p>Konzil von Basel 27</p>
+<p>Konzil von Trient 66</p>
+<p>Knechte s. Bedienstete</p>
+<p>Konsum 88, 94, 141, 147, 153, 216, 237, 239, 246, 248, 254, 256, 259–260, 268, 272, 274, 291</p>
+<p>Krieg 170–177 – Bauernkrieg (1525) 41 – Bauernkrieg (1653) 15, 163, 165, 168–170, 184, 189 – Burgunderkriege (1474–1477) 25 – Dreissigjähriger Krieg (1618–1648) 15, 108, 163, 168, 170–177, 186–187, 189, 202, 228, 232, 241, 262 – Kappelerkriege (1529–1531) 48 – Karnatische Kriege (1744–1763) 270 – Österreichischer Erbfolgekrieg (1740–1748) 291 – Rappenkrieg (1591–1594) 75, 163–168 – Siebenjähriger Krieg (1756–1763) 268–269, 292 – Spanischer Erbfolgekrieg (1701–1714) 265 – Villmergerkrieg, Erster (1656) 186, 189 – Villmergerkrieg, Zweiter (1712) 186</p>
+<p>Kriminalität, Devianz 90–92, 131, 141, 147–148, 209, 215, 218–226, 282</p>
+<p>Landvogt, Landvogteien 103–105, 116, 165–166, 218, 282</p>
+<p>Lebensmittel, Lebensmittelversorgung 22, 29, 108, 143, 146, 151–154, 172–173, 180</p>
+<p>Luthertum 15, 21, 37–38, 54, 65–66, 225, 226</p>
+<p>Mägde s. Bedienstete</p>
+<p>Mandat, Verordnung, Erlass 40, 46, 68–70, 89–90, 158, 207, 219, 221–222, 232–233, 286, 288, 295</p>
+<p>Merianplan 126–127, 131</p>
+<p>Migration, Migrantinnen, Migranten, Flüchtlinge 15–16, 49–50, 55–58, 80, 89, 131, 156–157, 172, 179–180, 202, 227–233, 238, 241, 243–245, 251–254, 256, 258, 262</p>
+<p>Mode, Luxus 25, 202–204, 206, 216, 219, 233, 237, 239–241, 244, 246, 248–249, 254–256, 258–261, 268, 272, 289</p>
+<p>Nachbarschaft 71, 131–134, 136, 140, 217</p>
+<p>Niederländische Ostindische Kompanie 249</p>
+<p>Niederländische Westindische Kompanie 265</p>
+<p>Nimwegen, Frieden von (1679) 179</p>
+<p>Oberstknecht 101, 103, 191, 220</p>
+<p>Oberstzunftmeister 72, 101, 105–106, 110, 116, 193–194, 205, 248, 283, 286</p>
+<p>Oligarchie, Familienherrschaft, Klientelismus 12, 14, 51, 63, 73, 75–76, 99, 110–116, 129–130, 192, 238</p>
+<p>Orthodoxie, reformierte 11–12, 15, 54, 63–69, 86, 225–226, 279, 294–295</p>
+<p>Pädagogik, Bildungspolitik 81, 85–86, 150, 208, 211, 216, 300–302, 307–308</p>
+<p>Panorama 280–281, 290, 307</p>
+<p>Papst, Papsttum 25, 30, 38, 40, 51, 188</p>
+<p>Pensionen 26–28, 35, 76, 180, 189, 262</p>
+<p>Pest, Seuchen, Epidemien 69, 125, 131, 142, 156–158, 171–172, 231, 238, 282</p>
+<p>Pfarramt, Pfarrer, Geistlichkeit 37–46, 68–70, 54, 65–66, 68–70, 91, 115, 149, 174, 192–196, 209, 218, 221, 222, 226, 230, 232, 286, 289, 294, 298, 302, 310</p>
+<p>Physiokratie 309</p>
+<p>Pietismus 16, 226, 279, 290, 293–302</p>
+<p>Polizei, Polizeiwesen 91, 103–104, 134, 141, 147, 219, 283, 289</p>
+<p>Posamenter, Seidenbandweber 241, 243–244, 250, 253–254, 256, 258, 282, 287</p>
+<p>Prädestinationslehre 58, 67</p>
+<p>Rappenmünzbund 29</p>
+<p>Rat, Ratsherren 24–27, 29–31, 35, 37, 39–41, 44–46, 49, 50, 52, 54, 63–66, 68–73, 75–78, 92, 107–110, 116, 119, 128, 134, 139, 147, 154, 157–158, 164–168, 172–174, 176–177, 180, 185–186, 191–192, 202–203, 205, 208–209, 212, 223, 225–226, 241–242, 246, 251–252, 280–282, 292, 294–295, 298, 301, 304, 311 – Kleiner Rat 44–45, 50–51, 77–78, 100–105, 107, 115–116, 184, 188, 193–196, 218–220, 222–224, 230–231, 254, 280, 286–287 – Grosser Rat 44–45, 50, 100–105, 107, 116, 194–196, 230, 271, 280, 286</p>
+<p>Ratsknecht 220</p>
+<p>Recht, Rechtswesen, Rechtsprechung 26, 68–69, 102, 113, 136, 196, 218–225, 253, 266</p>
+<p>Reformation, Reformationsordnung 11–15, 21, 32, 34–58, 63–65, 67–69, 83, 86, 90, 99–100, 102–103, 108–109, 115, 136, 138, 144, 146–147, 150–151, 163, 190, 202–204, 207–209, 212–213, 215, 218–219, 224–225, 229–230, 287–289, 307, 311</p>
+<p>Reformationsherren 204, 220, 222</p>
+<p>Reichsgerichtsbarkeit 25, 178–179</p>
+<p>Reichstag 25</p>
+<p>Reichsvogt 179, 205</p>
+<p>Revolution, Basler (1798) 11, 13, 283</p>
+<p>Revolution, Französische 11–12, 310–311</p>
+<p>Revolution, Industrielle 12</p>
+<p>Richthausknecht 139</p>
+<p>Sammlung, Wunderkammer, Kunstkammer 52, 79, 81, 93, 129, 303, 306</p>
+<p>Sanitätsrat, -wesen 158, 282, 287</p>
+<p>Schultheissen, Schultheissengericht 105, 107, 205, 220</p>
+<p>Schulwesen 52, 58, 66, 108, 150, 211, 224</p>
+<p>Schützenwesen 24, 74–75</p>
+<p>Sechser 105, 107, 283</p>
+<p>1691er-Wesen 12, 15, 99, 109, 115–116, 163, 190–196, 311</p>
+<p>Seide, Seidenbandproduktion, -fabrikanten 16, 52, 56, 170, 206, 237–246, 248–256, 258, 262, 268–269, 271, 274, 279, 282, 287</p>
+<p>Siebnerherren 219</p>
+<p>Sittlichkeit, Moralpolitik 12, 15, 42, 45, 50, 68–70, 82–83, 86, 90–94, 149–150, 168, 218, 220–222, 224, 289</p>
+<p>Sklaverei 261, 265–270</p>
+<p>Staatshaushalt 26, 107, 242</p>
+<p>Stadtboten 120, 220</p>
+<p>Stadtgarnison 168, 172, 220</p>
+<p>Stadtgericht 139, 220, 294</p>
+<p>Stadtkonsulenten 223</p>
+<p>Stadtwechsel 28–29, 31, 262, 264</p>
+<p>Strumpfstricker, Hosenlismer 244, 266</p>
+<p>Synode von Dordrecht 67</p>
+<p>Tagsatzung 24, 27, 92, 117, 119, 167–168, 172, 184–185, 194, 196, 310</p>
+<p>Täufer, Täufertum 41, 46, 49, 54, 224–225, 294</p>
+<p>Tell, Wilhelm 135</p>
+<p>Theater 86, 227–228</p>
+<p>Tiere 52, 126, 137, 139, 216–217, 227, 287, 306</p>
+<p>Tod, Begräbniskultur 110, 137, 148–149, 156–158, 171–172, 182, 296</p>
+<p>Todesstrafe 190–191, 219–220, 223</p>
+<p>Totentanz (Predigerkirche) 130, 137</p>
+<p>Übersee, Überseehandel 79, 247, 268–270, 291</p>
+<p>Universität Basel (Studium, Studenten, Professoren) 13, 21, 23, 31, 33, 40, 44, 46, 55, 57, 66, 68, 78–82, 104–105, 113, 140, 147–148, 158, 182–183, 205, 219–220, 223, 227–228, 232, 262, 283, 286, 292, 297, 303–306, 309–310</p>
+<p>Urfehde 71, 147, 224</p>
+<p>Verlagswesen, Protoindustrialisierung 237, 241–242, 244–246, 249–250, 254, 262, 264, 268–269, 274, 282</p>
+<p>Wahlen 44, 51, 100, 105–107, 111, 114, 153</p>
+<p>Wein, Weinumgeld, Weinrufer, Rebbau, Weinkonsum 83, 88–89, 91, 94, 141, 143, 146, 151–154, 166–167, 185, 274</p>
+<p>Westfälischer Friede 177–179, 311</p>
+<p>Wetter, Klima 125, 142–143, 151</p>
+<p>Wissenschaft (allgemein) 279, 291, 301, 303–306</p>
+<p>Zeit, Zeitordnung, Zeitmessung 45, 137, 144–148</p>
+<p>Zeitung 140–141, 291–293, 300</p>
+<p>Zensur 54, 58, 85</p>
+<p>Zucht- und Waisenhaus 213–214, 244</p>
+<p>Zunft 13, 27–29, 43–45, 50–51, 73, 75–76, 100, 102, 105–106, 116, 128, 134, 139–141, 144, 176, 194–196, 212–213, 224, 231, 240, 243, 245–246, 249–250, 280, 284–285, 301 – Safranzunft 153, 228, 244, 266, 269 – Spinnwetternzunft 44 – Webernzunft 43–44 – Weinleutenzunft 88–89 – Zunft zu Rebleuten 283</p>
+<h2>Autorinnen und Autoren</h2>
+<p>Susanna Burghartz war von 2005 bis 2023 Professorin für die Geschichte der Renaissance und</p>
+<p>Frühen Neuzeit am Departement Geschichte der Universität Basel. Sie hat u. a. zur historischen</p>
+<p>Kriminalitätsforschung, zur Frauen- und Geschlechtergeschichte, zur Geschichte städtischer</p>
+<p>Gesellschaften im Spätmittelalter und in der Frühen Neuzeit, zu materieller Kultur und zur euro</p>
+<p>päischen Expansion und frühen Globalgeschichte publiziert.</p>
+<p>Marcus Sandl studierte Geschichte in Regensburg und promovierte in Giessen mit einer Arbeit</p>
+<p>zum ökonomischen Wissen im 18. Jahrhundert. In der Habilitationsschrift, die er in Konstanz</p>
+<p>einreichte, beschäftigte er sich mit der Reformationsgeschichte. Nach seiner Zeit als Assistenz</p>
+<p>professor in Zürich war er Lehrbeauftragter an den Universitäten Basel und Konstanz und Mit</p>
+<p>arbeiter bei Stadt.Geschichte.Basel. Er arbeitet als freiberuflicher Historiker.</p>
+<p>Daniel Sidler studierte Geschichte und Politikwissenschaft in Bern und Paris. Er promovierte in</p>
+<p>Bern mit einer Arbeit zum Katholizismus in der frühneuzeitlichen Eidgenossenschaft und war</p>
+<p>anschliessend von 2018 bis 2022 Mitarbeiter bei Stadt.Geschichte.Basel. Er arbeitet in der Kultur-</p>
+<p>und Geschichtsvermittlung, in der Erwachsenenbildung und als Lehrer.</p>
+<p>Tina Asmussen, Prof. Dr., ehemalige Mitarbeiterin am Departement Geschichte der Universität</p>
+<p>Basel. Juniorprofessorin für frühneuzeitliche Bergbaugeschichte an der Ruhr-Universität Bochum</p>
+<p>und Leiterin des Forschungsbereichs Bergbaugeschichte des Deutschen Bergbau-Museums</p>
+<p>Bochum.</p>
+<p>Alexander Engel, PD Dr., Anna Reimann, M. A., und Lars Dickmann, M. A., wissenschaftliche</p>
+<p>Mitarbeiter:innen im SNF-Projekt ‹Märkte auf Papier. Informationen, Daten und Nachrichten im</p>
+<p>Basler Avis-Blatt, 1729–1845› am Departement Geschichte der Universität Basel.</p>
+<p>Lorenz Heiligensetzer, Dr., wissenschaftlicher Mitarbeiter an der Universitätsbibliothek Basel.</p>
+<p>Carla Roth, Dr., ehemalige Mitarbeiterin am Departement Geschichte der Universität Basel.</p>
+<p>Wissenschaftliche Mitarbeiterin am Staatsarchiv Obwalden und freiberufliche Historikerin.</p>
+<p>Michael Schaffner, lic. phil., wissenschaftlicher Mitarbeiter im Staatsarchiv Zürich und Doktorand</p>
+<p>am Departement Geschichte der Universität Basel.</p>
+<p>Oliver Wetter, Dr., assoziierter Forscher an der Abteilung Wirtschafts-, Sozial- und Umwelt</p>
+<p>geschichte der Universität Bern.</p>
+<h2>Dank</h2>
+<p>Wir möchten uns bei allen Personen bedanken, die uns mit ihrem Wissen in vielfältiger Art und Weise bei der Arbeit an diesem Band unterstützt und damit wesentlich zum Gelingen des Projekts beigetragen haben. Herzlich danken wir all jenen, die uns bei der Konzeption des Buches und beim Auffinden von Quellen und Literatur zur Seite gestanden, uns ihre Expertise zur Verfügung gestellt und einzelne Kapitel des Manuskripts gelesen und kritisch kommentiert haben: Céline Angehrn, Esther Baur, Hans Berner, Lucas Burkart, Tim Buser, Christine Christ-von Wedel, Lars Dickmann, Joachim Eibach, Alexander Engel, Lina Gafner, Lorenz Heiligensetzer, Stefan Hess, Benjamin Hitz, André Holenstein, Lars Kury, Patrick Kury, Claudia Moddelmog, Anna Reimann, Carla Roth, Michael Schaffner, Sarah-Maria Schober, Ina Serif, Dominik Sieber, Claudius Sieber-Lehmann und Philippe Wanner. Ein besonderer Dank geht an André Salvisberg, der das gesamte Manuskript gelesen und kenntnisreich kommentiert hat. Dem ganzen Team von Stadt. Geschichte.Basel danken wir für den anregenden, epochenübergreifenden Austausch und für Rat und Hilfe bei den vielfältigen Herausforderungen des Recherche- und Schreibprozesses, dem Stiftungsrat für die stets angenehme Zusammenarbeit und die wertvollen Anregungen zum Konzept. Weiter danken wir allen Mitarbeiterinnen und Mitarbeitern von Archiven, Bibliotheken, Museen und anderen Institutionen, die uns kompetent beraten und uns die Materialien ihrer Institutionen auf stets unkomplizierte Art und Weise zur Verfügung gestellt haben: Esther Baur und dem Team des Staatsarchivs Basel-Stadt, Ueli Dill und Lorenz Heiligensetzer (Universitätsbibliothek Basel), Ariane Mensger (Kunstmuseum Basel), Martin Möhle (Kantonale Denkmalpflege Basel-Stadt), Gudrun Piller, Margret Ribbert und Daniel Suter (Historisches Museum Basel), Jurriaan de Vos (Herbarien Basel) und Irene Amstutz (Schweizerisches Wirtschaftsarchiv). Für ihr ausgezeichnetes Sprachlektorat danken wir Rosmarie Anzenberger. Iris Becher vom Christoph Merian Verlag und das Grafikbüro icona basel haben mit ihrem unermüdlichen Engagement viel für das Erscheinen des Bandes geleistet. Schliesslich geht ein ganz besonderer Dank an die Projektleitung und vor allem an Cristina Münch und das Digital-Team der Stadt.Geschichte.Basel, Nico Görlich, Moritz Mähr und Moritz Twente.</p>
+</div>
+````

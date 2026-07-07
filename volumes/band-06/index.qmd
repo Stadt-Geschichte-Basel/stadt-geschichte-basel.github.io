@@ -1,0 +1,53 @@
+---
+title: Die beschleunigte Stadt. 1856 – 1914
+subtitle: Stadt.Geschichte.Basel, Band 6
+description: Band 6 der neunbändigen Buchreihe Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Band
+order: 6
+doi: 10.21255/sgb-06-810743
+license: CC BY-NC 4.0
+author:
+- name: Patrick Kury
+citation:
+  type: book
+  title: Die beschleunigte Stadt. 1856 – 1914
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-06-810743
+  editor:
+  - Patrick Kury
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band6
+listing:
+- id: chapters
+  type: table
+  contents:
+  - sgb-*/index.qmd
+  sort: order
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  page-size: 100
+  fields:
+  - title
+  - author
+  field-display-names:
+    title: Titel
+    author: Autor:innen
+date-modified: last-modified
+---
+
+::: {.callout-note title="Lizenz" appearance="simple"}
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-06-810743](https://doi.org/10.21255/sgb-06-810743)
+:::
+
+## Kapitel
+
+::: {#chapters}
+:::

@@ -1,0 +1,72 @@
+---
+title: 'Einleitung: Zeitalter beschleunigten Wandels'
+description: Einleitung zu Band 6 «Die beschleunigte Stadt. 1856 – 1914» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 0
+doi: 10.21255/sgb-06.00-192307
+license: CC BY-NC 4.0
+author:
+- name: Patrick Kury
+  orcid: 0000-0002-6876-2875
+citation:
+  type: chapter
+  title: 'Einleitung: Zeitalter beschleunigten Wandels'
+  container-title: Die beschleunigte Stadt. 1856 – 1914
+  page: 11-17
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-06.00-192307
+  editor:
+  - Patrick Kury
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band6/chapter/334
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band6/84/932
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-note title="Lizenz" appearance="simple"}
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-06.00-192307](https://doi.org/10.21255/sgb-06.00-192307)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<p>Die vielschichtigen Transformationen des 19. Jahrhunderts betreffen viele Regionen und Städte, sodass Jürgen Osterhammel in seiner Globalgeschichte des 19. Jahrhunderts von der «Verwandlung der Welt» spricht.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Ab 1850 verdichten sich die Zeichen des Wandels auch in Basel. Regierung und Parlament stellen die Weichen für den Bau eines neuen Bahnhofs am Centralbahnplatz und schaffen die Voraussetzungen für den Ausbau der Eisenbahn. Dieser Entscheid bildet den Auftakt des vorliegenden Bandes, denn er besiegelt zugleich den überfälligen Abriss der Stadtmauer und treibt die Stadterweiterung voran. 1859 setzt in Basel die Produktion synthetischer Farben ein, was sowohl der Textil- wie später der chemischen Industrie den Boden bereitet. Die in Afrika, Amerika und Asien tätige Basler Mission erhält einen ökonomischen Zweig. Diese Ereignisse stehen beispielhaft für eine sich der Moderne öffnende Stadt. In der Folge wächst in nur zwei Generationen die Bevölkerung um ein Mehrfaches. Eine neue Verfassung ermöglicht mehr Demokratie und politische Teilhabe, obwohl mit den Frauen die Mehrheit der Bevölkerung noch lange ausgeschlossen bleibt. Und die einsetzende industrielle Fertigung von Waren bietet der Handelsstadt und dem Gewerbe neue Möglichkeiten, indem die weitreichenden alten Netzwerke laufend erweitert werden.</p>
+<p>1914 findet der beschleunigte Wandel ein vorläufiges Ende. Der Erste Weltkrieg, ein Wendepunkt globalen Ausmasses, beendet eine Epoche mit weitreichender Mobilität von Personen und Gütern. Zwar bleibt Basel von militärischen Konflikten verschont, doch mit der Grenzschliessung wird die Stadt von ihrem historisch gewachsenen sozialen und wirtschaftlichen Umland getrennt. Verwaltung und Regierung sind in nicht gekanntem Ausmass gefordert, den kriegsbedingten Defiziten, Krisen und Notlagen zu begegnen. Eine neue Ära setzt ein. Was bedeutet der beschleunigte Wandel für Basel und seine Bevölkerung? Welche Chancen eröffnen sich, wo liegen die Gefahren? Woher kommen die Tausende zuziehender Menschen und wie richten sie sich ein? Wie reagieren die Ansässigen und die Elite auf das rasante Bevölkerungswachstum und den technischen Wandel? Welche Auswirkungen haben diese Veränderungen auf das politische System und das soziale Gefüge? Wie positionieren sich Wirtschaft und Gesellschaft in einer ‹verwandelten Welt›, wie gestalten sie den Prozess mit? Diese und weitere Fragen stehen im Mittelpunkt der sechs Kapitel des Bandes.</p>
+<aside>
+<p>Patrick Kury</p>
+<h3>Viele Wege in die Moderne</h3>
+</aside>
+<p>Den Auftakt macht das erste Kapitel ‹Die eiserne Revolutionärin› mit der Eisenbahn, dem Motor des technischen Wandels. Zwar verfügt Basel mit der Anbindung an das französische Netz seit 1844 über den ersten Bahnanschluss in der Schweiz – später folgt der Anschluss an die Badische Bahn –, doch die weitere Entwicklung verläuft keineswegs geradlinig. Es gilt konservative Widerstände zu überwinden, Ängste und Bedenken auszuräumen. So steht der Umgang mit der Eisenbahn beispielhaft für das Ringen zwischen beharrenden und vorwärtsstrebenden Kräften. Schliesslich setzen sich die Befürworter der Innovationen durch, und Basler avancieren zu Pionieren des Eisenbahnbaus in der Schweiz. Die neuen Linien beschleunigen den Weg in die Stadt und aus der Stadt, und sie verändern das Verhältnis zur Region, zu Europa und zur Welt. Zugleich gestalten sie den städtischen Raum neu: Bahnhöfe, Trassees, ganze Quartiere entstehen. Markierte früher die Stadtmauer die Grenze zwischen aussen und innen, so sind es nun Geleise, die einen abschliessenden Bogen um die Stadt bilden und bald schon in ihr liegen, weil das Wachstum so schnell und umfassend ist. Für die Bevölkerung bedeuten die Errungenschaften neue Herausforderungen wie Lärm, Gestank und Gefahren. Andere sehen im raschen Kommen und Gehen und dem Vermischen der Schichten die soziale Ordnung gefährdet. Nervosität wird zum Zeichen der Epoche.</p>
+<p>Das zweite Kapitel ‹Menschen, Milieus und Quartiere› blickt auf die ankommenden Menschen und ihre Lebenswelten. Bis zum Ersten Weltkrieg treffen Jahr für Jahr Tausende in Basel ein, wenn auch viele nur kurz bleiben. Die Migration ist so stark, dass sich die Bevölkerung zwischen 1856 und 1914 mehr als verdreifacht. Die neuen Bewohnerinnen und Bewohner verändern das religiöse und soziale Gefüge. Sie machen die jahrhundertelang protestantische Stadt zu einer Heimat auch für katholische, christkatholische und jüdische Menschen, sie organisieren in ihren Milieus ihr soziales und kulturelles Leben. Ähnliches gilt, wenn auch unter anderen Vorzeichen, für die rasch wachsende Arbeiterschaft. Der soziale Wandel verläuft keineswegs spannungsfrei, denn er bedeutet für die Behörden wie die ansässige Bevölkerung Herausforderung, Konkurrenz und zuweilen auch Bedrohung.</p>
+<p>Das dritte Kapitel ‹Von der Ratsherrenordnung zum modernen Staatswesen und zu neuer Machtverteilung› behandelt die politische Umgestaltung. Seit der Kantonstrennung von 1833 war die Stadt in überkommenen politischen Strukturen verharrt und weist im Vergleich zu anderen Kantonen erhebliche Defizite in der demokratischen Teilhabe auf. Dies ändert sich mit dem Erstarken der Freisinnigen und der neuen Kantonsverfassung von 1875, die neben einem professionalisierten Staat die direkte Demokratie bringt. Zum ‹Volk›, das seine neuen Mitspracherechte nutzt, gehört freilich nur ein kleiner Teil der Bevölkerung. Erst die Einführung des Proporzwahlrechts im Jahr 1905 trägt der neuen sozialen und religiös-kulturellen Vielfalt der Stadt Rechnung und ermöglicht den Aufstieg der Sozialdemokraten.</p>
+<p>Das vierte Kapitel ‹Konservative Kontinuitäten› widmet sich dem Grossbürgertum, der politisch und kulturell führenden Schicht der Ortsansässigen. Mit der Verfassung von 1875 verliert das Patriziat seine jahrhundertelange politische Vormacht. Ein Teil zieht sich zurück und huldigt der ‹besseren Vergangenheit›. Andere nutzen die neuen Möglichkeiten und treiben den Wandel voran. Dank ihrem Interesse an Religion treten Bürgerinnen und Bürger als Philanthropen in Erscheinung und besetzen prominent die Schnittstellen zu Wirtschaft und Politik. Verwoben mit der europäischen Bourgeoisie samt ihrer kolonialen Ausdehnung, formen sie das mäzenatische, kulturelle und wissenschaftliche Leben der Stadt, deren Ausstrahlung weit über ihre Grenzen hinausreicht.</p>
+<p>Das fünfte Kapitel ‹Wirtschaft und Wirtschaften› zeigt das Ineinandergreifen von lokal und global agierender Ökonomie. Die Basler Wirtschaft ist breit abgestützt, wobei die Industrie nur eine der tragenden Säulen bildet. Logistik und Transport, Kommunikation und Information, regionale und globale Vernetzungen sowie Finanzierung und Versicherung legen offen, dass die Wirtschaft in der zweiten Hälfte des 19. Jahrhunderts mehr Handels- denn Industriekapitalismus ist. Aus dem Zusammenspiel dieser unterschiedlichen Tätigkeiten erwachsen ihr die Kompetenzen, die weit ins 20. Jahrhundert, ja bis in die Gegenwart reichen. Alle Beteiligten leisten ihren Beitrag zur Prosperität der Stadt, ob sie wirtschaftliche Spitzenleistungen erbringen oder am anderen Ende der Wertschöpfung um die Sicherung ihrer Existenz kämpfen. Das kontinuierliche wirtschaftliche Wachstum vor dem Ersten Weltkrieg hilft, die tiefen sozialen Gräben zu überdecken.</p>
+<p>Das sechste und abschliessende Kapitel ‹Die Stadt um die Jahrhundertwende› zeigt in fünf Beispielen Basel als einen Ort der Moderne, der um 1900 ein völlig anderes Gesicht als fünfzig Jahre zuvor aufweist. Zusammen mit Zürich und Genf zählt Basel zu den Schweizer Grossstädten. Ballonfahrten erweitern die Wahrnehmung der Stadt nicht nur in die Breite, sondern auch in die Höhe. Der Aeschenplatz steht für die zunehmende innerstädtische Mobilität wie auch für neue Formen der Fortbewegung. Die Neugestaltung des Marktplatzes ermöglicht das Nebeneinander von Marktfrauen, die auf traditionelle Art ihre Waren feilbieten, und den ersten Warenhäusern, die neue Formen des Konsums in die Stadt bringen. Arbeit und Alltag im unteren Kleinbasel werden von der schnell wachsenden Industrie bestimmt, wo sich vormals gute Wohnlagen in dicht bebaute Arbeiter- und Industriequartiere verwandeln. Und der Gang durch die Langen Erlen verdeutlicht, dass Natur als Teil der Stadt gesehen und gestaltet wird. Naherholung und Freizeit sind ein Bedürfnis der Massen. Zugleich werden die Langen Erlen zum Ort von Reformen gegen die Auswüchse der Moderne. Der Wandel Basels in der zweiten Hälfte des 19. Jahrhunderts zeitigt viele positive Effekte. Daraus eine durchgehend erfolgreiche Erzählung abzuleiten, wäre jedoch nicht angemessen. Zu zahlreich sind Konflikte, Spannungen und gegenläufige Entwicklungen. Dabei ist die Demokratisierung unter Ausschluss der Frauen nur ein Beispiel von vielen. Die neue religiöse Vielfalt und die rechtliche Emanzipation von Katholik:innen, Jüdinnen und Juden trifft vielfach auf Ausgrenzung, Diskriminierung und Antisemitismus. Religion hat für einen grossen Teil der Bevölkerung weiterhin eine enorme Bedeutung. Die Rede ist gar von einer zweiten Konfessionalisierung, obwohl zeitgleich Wissenschaft und Forschung bislang ungekannte Bedeutung erlangen.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Der Wunsch nach Systematisierung, Planung und Ordnung bringt jedoch auch in Basel mit Rassismus oder Eugenik Konzepte hervor, welche die Deutung der Welt und des Menschen über Jahrzehnte hinweg in katastrophale Abgründe lenken. Der wirtschaftliche Aufstieg an die nationale und in der Folge an die globale Spitze profitiert von sozialer Ungleichheit und billigen Arbeitskräften, wobei die Frauen, insbesondere die erwerbstätigen, einen besonders hohen Preis bezahlen. Doch die Asymmetrien betreffen auch die Geringschätzung der Menschen im globalen Süden und die hemmungslose Nutzbarmachung der Natur.<sup id="ref-fn3"><a href="#fn3">3</a></sup> Umso erstaunlicher ist es, dass soziale Spannungen zwar ein ständiger Begleiter der Geschichte Basels sind, schwere und gewaltsame Konflikte aber ausbleiben. Erst gegen Ende des Ersten Weltkriegs brechen sie im Generalstreik 1919 in voller Härte auf. Zur Entspannung tragen die privaten sozialen Institutionen sowie die Bereitschaft bei, nach Kompromissen zu suchen. Die Kleinräumigkeit an der Grenze ist lange ein Vorteil für die Stadt. Unternehmer und Politiker verstehen es, vom Zusammentreffen unterschiedlicher nationaler Bestimmungen zu profitieren. Die technischen Neuerungen des 19. Jahrhunderts eröffnen neue Blicke auf die Stadt. Die Fotografie macht Fortschritte, bis zum Ersten Weltkrieg kommen ständig neue Aufnahmen hinzu, schliesslich auch bewegte Bilder. Sie halten Strassen, Gebäude, Ereignisse und Menschen fest. Das Abheben in die Lüfte mit Heissluftballons ist Teil der technischen Innovationen. Sie bieten die Chance, die Stadt aus der neuen Vogelperspektive zu betrachten und zu fotografieren. Die überlieferten Bilder, meist gestellt und inszeniert, prägen unsere Wahrnehmung jener Zeit als einer schwarz-weissen Epoche mit Grautönen, was im Kontrast zu ihrer tatsächlichen Buntheit steht. Zugleich ist das technische Zeitalter auf verlässliche Daten, Planung und Kontrolle angewiesen. In grosser Zahl werden standardisierte Karten und Pläne produziert und Statistiken erstellt, man forscht nach Ursprüngen und Zusammenhängen, legt Archive an und gründet Sammlungen.</p>
+<aside>
+<h3>Ambivalenzen</h3>
+</aside>
+<p>Der Zeitraum bietet mit den behördlichen und privaten Archivbeständen und Selbstzeugnissen eine Fülle an Materialien und Quellen. Hinzu kommt die reichlich bestückte Forschungsliteratur. Historisches Arbeiten verlangt immer Auswahl und Reduktion. Aus der Vielzahl möglicher Geschichten ist eine plausible Erzählung zu formen, denn die vergangenen Wirklichkeiten müssen auf der Grundlage der Quellen rekonstruiert werden. Das heisst auch, sich von Liebgewonnenem zu verabschieden und Alltägliches oder Aussergewöhnliches hervorzuheben.</p>
+<p>Wir haben uns für eine Erzählung entschieden, welche die Vielschichtigkeit der Epoche aus unterschiedlichen Perspektiven zeigt. Vorgefundene Lücken haben wir mit eigenen Forschungen gefüllt, Bekanntes mit Überraschendem und Unbekanntem ergänzt und ‹gewöhnliche› Persönlichkeiten mit prominenten konfrontiert. Wir haben versucht, die Stadt in ihren lokalen, überregionalen und globalen Bezügen zu fassen und die Auswirkungen technischer Neuerungen auf die Menschen nachzuzeichnen, ohne die Traditionen und Kontinuitäten aus den Augen zu verlieren.</p>
+<aside>
+<h3>Neue Blicke auf die Stadt</h3>
+</aside>
+</div>
+<section role="doc-endnotes">
+
+<ol>
+<li id="fn1" value="1">Osterhammel 2009. <a href="#ref-fn1" role="doc-backlink">↑</a></li>
+<li id="fn2" value="2">Blaschke 2000. <a href="#ref-fn2" role="doc-backlink">↑</a></li>
+<li id="fn3" value="3">Lenger 2023. <a href="#ref-fn3" role="doc-backlink">↑</a></li>
+</ol>
+</section>
+````

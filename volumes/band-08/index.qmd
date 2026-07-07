@@ -1,0 +1,52 @@
+---
+title: Auf dem Weg ins Jetzt. Seit 1960
+subtitle: Stadt.Geschichte.Basel, Band 8
+description: Band 8 der neunbändigen Buchreihe Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Band
+order: 8
+doi: 10.21255/sgb-08-796384
+license: CC BY-NC 4.0
+author:
+- name: Martin Lengwiler
+  orcid: 0000-0001-5420-6192
+citation:
+  type: book
+  title: Auf dem Weg ins Jetzt. Seit 1960
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2025
+  url: https://doi.org/10.21255/sgb-08-796384
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band8
+listing:
+- id: chapters
+  type: table
+  contents:
+  - sgb-*/index.qmd
+  sort: order
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  page-size: 100
+  fields:
+  - title
+  - author
+  field-display-names:
+    title: Titel
+    author: Autor:innen
+date-modified: last-modified
+---
+
+::: {.callout-note title="Lizenz" appearance="simple"}
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-08-796384](https://doi.org/10.21255/sgb-08-796384)
+:::
+
+## Kapitel
+
+::: {#chapters}
+:::
