@@ -32,6 +32,9 @@ code-links:
   - text: GitHub Code Repository
     icon: github
     href: https://github.com/maehr/diskriminierungsfreie-metadaten
+citation: true
+appendix-cite-as: display
+license: CC BY-SA 4.0
 ---
 
 ::: {.callout-note title="Überarbeitung in Arbeit"}

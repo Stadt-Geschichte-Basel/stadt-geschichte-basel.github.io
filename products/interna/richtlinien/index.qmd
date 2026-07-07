@@ -19,6 +19,8 @@ nocite: |
 date: March 2025
 date-format: "MMMM YYYY"
 lang: de-CH
+citation: true
+appendix-cite-as: display
 ---
 
 Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Menschen zugänglich sein. Deshalb achten wir auf eine verständliche Sprache, die Vermeidung von Fachjargon, alternative Textbeschreibungen für Bilder sowie eine lesefreundliche Formatierung. Zudem stellen wir sicher, dass Videos möglichst mit Untertiteln versehen sind und Verlinkungen eindeutig beschrieben werden. Diese Prinzipien sind in unseren [Richtlinien für den Blog und Soziale Medien](#richtlinien-für-den-blog-und-für-soziale-medien) und in der [Regelung für geschlechtersensible Sprache](#regelung-für-geschlechtersensible-sprache) festgeschrieben.

@@ -19,6 +19,8 @@ author:
 bibliography: references.bib
 date: 2023-04-17
 lang: de-CH
+citation: true
+appendix-cite-as: display
 ---
 
 Die Basis für die Konzeption einer Farbpalette für digitale Anwendungen stellt das Violett dar, das allen zehn Bänden der Stadt.Geschichte.Basel als Hintergrundfarbe des Buchcovers dient. Die visuelle Gestaltung der Online-Angebote setzt sich daher von den Printprodukten ab, bezieht sich dennoch farblich auf deren Design und die [Corporate Identity von Stadt.Geschichte.Basel](../corporate-identity/index.qmd).

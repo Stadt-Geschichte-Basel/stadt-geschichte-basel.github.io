@@ -19,6 +19,8 @@ code-links:
   - href: 'https://github.com/CollectionBuilder/cb-translate/'
     text: GitHub Repository
     icon: github
+citation: true
+appendix-cite-as: display
 ---
 
 ::: {.callout-note icon="false"}

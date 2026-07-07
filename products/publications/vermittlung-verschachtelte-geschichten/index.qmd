@@ -1,0 +1,31 @@
+---
+title: Verschachtelte Geschichten
+subtitle: Immigrationsschicksale in der Schweiz in den letzten hundert Jahren
+categories: Lehrmittel
+author:
+  - name: Stadt.Geschichte.Basel
+    affiliation: Stiftung Stadt.Geschichte.Basel
+date: 2024-01-01
+date-format: YYYY
+date-modified: last-modified
+lang: de-CH
+other-links:
+  - text: Vermittlungsangebot auf stadtgeschichtebasel.ch
+    icon: globe
+    href: 'https://stadtgeschichtebasel.ch/vermittlungsangebot-verschachtelte-geschichten-immigrationsschicksale-in-der-schweiz-in-den-letzten-hundert-jahren'
+citation: true
+appendix-cite-as: display
+---
+
+## Lehrmittel
+
+«Verschachtelte Geschichten» ist ein digitales Vermittlungsangebot von Stadt.Geschichte.Basel zur schweizerischen Migrationsgeschichte des letzten Jahrhunderts. Im Zentrum stehen **zwölf Immigrationsschicksale der letzten hundert Jahre**, die anhand von Originaldokumenten erschlossen werden. Statt Migration nur als statistisches Phänomen zu behandeln, erzählt das Material Geschichte «von unten»: Die Schüler:innen recherchieren biografisch und lernen die Heterogenität der Zuwanderung in die Schweiz kennen.
+
+## Einsatz im Unterricht
+
+- **Zielstufen:** Sekundarstufe I und Sekundarstufe II; für beide Stufen stehen eigene Unterlagen für Lehrpersonen (PDF) bereit.
+- **Umfang:** Das Material kann kollaborativ oder individuell in **3 bis 5 Lektionen** bearbeitet werden.
+- **Format:** Konzipiert für Klassen mit Tablets, die mit digitalen Unterrichtsmaterialien arbeiten möchten; ein Kurzfilm (3:30 Minuten) führt in das Angebot ein.
+- **Lokaler Bezug:** Durch die Anbindung an die Basler Stadtgeschichte erhalten Lernende einen direkten Bezug zu ihrer Lebenswelt; aktuelle Migrationsdebatten lassen sich historisch kontextualisieren.
+
+Das Angebot ist Teil der Vermittlungsarbeit von Stadt.Geschichte.Basel und ergänzt die Buchreihe sowie das [digitale Portal](https://stadtgeschichtebasel.ch). Weitere Lehrmittel von Partnern und Dritten finden sich auf dem [Basler Bildungsserver edubs.ch](https://www.edubs.ch).

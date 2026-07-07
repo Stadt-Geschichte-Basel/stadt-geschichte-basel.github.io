@@ -23,6 +23,8 @@ author:
   email: noelle.schnegg@unibas.ch
   affiliation: University of Basel
   orcid: 0009-0008-5207-6652
+citation: true
+appendix-cite-as: display
 ---
 
 ## Datenpublikation

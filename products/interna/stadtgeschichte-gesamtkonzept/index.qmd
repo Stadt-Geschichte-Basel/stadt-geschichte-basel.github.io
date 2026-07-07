@@ -29,6 +29,8 @@ other-links:
   - text: PDF
     icon: filetype-pdf
     href: '/assets/files/201406-Gesamtkonzept_Stadtgeschichte.pdf'
+citation: true
+appendix-cite-as: display
 ---
 
 ::: {.callout-tip title="PDF anzeigen" icon="false" collapse="true"}

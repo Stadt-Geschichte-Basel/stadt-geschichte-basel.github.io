@@ -19,6 +19,8 @@ code-links:
   - href: 'https://github.com/maehr/open-research-data-template/'
     text: GitHub Repository
     icon: github
+citation: true
+appendix-cite-as: display
 ---
 
 ## Open Research Data Template

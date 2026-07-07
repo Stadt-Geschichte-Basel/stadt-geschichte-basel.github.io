@@ -16,6 +16,7 @@ other-links:
   - text: PDF-Ansicht (Zenodo)
     icon: filetype-pdf
     href: 'https://doi.org/10.5281/zenodo.15242726'
+citation: true
 ---
 
 ::: {.callout-note icon="false"}

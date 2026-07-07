@@ -19,6 +19,8 @@ author:
 date: August 2023
 date-format: "MMMM YYYY"
 lang: de-CH
+citation: true
+appendix-cite-as: display
 ---
 
 Für die Online-Angebote der Stadt.Geschichte.Basel gilt die folgende Datenschutzerklärung, wie sie auf unserem [Portal](https://stadtgeschichtebasel.ch/datenschutzerklaerung) verfügbar ist.

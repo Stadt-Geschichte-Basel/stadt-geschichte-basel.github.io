@@ -20,6 +20,8 @@ other-links:
   - text: Kommunikationsrichtlinien
     icon: file-earmark-text
     href: '/products/interna/richtlinien/index.html'
+citation: true
+appendix-cite-as: display
 ---
 
 Diese Seite dokumentiert die Nutzung von Hypotheses.org als Content-Management-System (CMS) für den Blog von Stadt.Geschichte.Basel. Der Blog ist unter <https://sgb.hypotheses.org/> erreichbar.

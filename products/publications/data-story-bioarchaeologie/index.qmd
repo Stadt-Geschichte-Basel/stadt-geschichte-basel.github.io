@@ -17,6 +17,7 @@ other-links:
   - text: Druckansicht
     icon: filetype-pdf
     href: '/assets/files/20240109-Depaermentier_Bioarchaelogie.pdf'
+citation: true
 ---
 
 ::: {.callout-note icon="false"}

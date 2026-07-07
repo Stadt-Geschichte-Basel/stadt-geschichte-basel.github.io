@@ -20,6 +20,8 @@ date: 2023-04-17
 lang: de-CH
 include-before-body:
   text: '<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">'
+citation: true
+appendix-cite-as: display
 ---
 
 Mit dem Ziel, eine einheitliche visuelle und inhaltliche Darstellung von Stadt.Geschichte.Basel über alle Medien hinweg zu schaffen, wurden folgende Gestaltungsgrundlagen als Corporate Identity festgelegt.

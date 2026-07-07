@@ -16,6 +16,8 @@ other-links:
   - text: Druckansicht (komprimiert)
     icon: filetype-pdf
     href: '/assets/files/20250323_Topkaya_SeideneBeziehungen_compressed.pdf'
+citation: true
+appendix-cite-as: display
 ---
 
 ::: {.callout-note icon="false"}

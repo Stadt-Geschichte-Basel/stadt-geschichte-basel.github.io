@@ -4,6 +4,8 @@ subtitle: Dokumentation der Projektentwicklung
 category: Interna
 date-modified: last-modified
 lang: de
+citation: true
+appendix-cite-as: display
 ---
 
 Seit Projektbeginn dokumentieren die Jahresberichte von Stadt.Geschichte.Basel die Entwicklung des Projekts, zentrale Meilensteine und organisatorische wie inhaltliche Fortschritte. Sie geben Einblick in die Forschungstätigkeit, die Kooperation mit Partnerinstitutionen, die Entwicklung der digitalen Infrastruktur sowie die Vermittlungsarbeit. Dabei spiegeln sie die kontinuierliche Professionalisierung des Projekts wider – von der Konzeption über die Teamzusammensetzung bis hin zur Produktion der Bände und dem Aufbau der Online-Plattform.

@@ -11,6 +11,8 @@ date: April 2022
 date-modified: December 2022
 date-format: "MMMM YYYY"
 lang: de-CH
+citation: true
+appendix-cite-as: display
 ---
 
 ::: {.callout-note}

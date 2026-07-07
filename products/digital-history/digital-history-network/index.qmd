@@ -11,6 +11,7 @@ other-links:
   - text: Mailing List
     icon: envelope-at
     href: 'https://www.digitalhistorynetwork.ch/en/subscription'
+citation: true
 ---
 
 ## Network

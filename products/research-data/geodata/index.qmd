@@ -11,6 +11,8 @@ author:
 date-modified: last-modified
 lang: de
 category: Other
+citation: true
+appendix-cite-as: display
 ---
 
 ## Geodaten

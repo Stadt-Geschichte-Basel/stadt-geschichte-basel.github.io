@@ -12,6 +12,8 @@ code-links:
   - href: 'https://github.com/Stadt-Geschichte-Basel/iconclass-classification/'
     text: GitHub Repository
     icon: github
+citation: true
+appendix-cite-as: display
 ---
 
 ## Iconclass Classification Pipeline

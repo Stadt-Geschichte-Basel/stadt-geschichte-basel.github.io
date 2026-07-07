@@ -18,6 +18,9 @@ other-links:
   - text: Druckansicht
     icon: filetype-pdf
     href: '/assets/files/20250402_HitzAeby_KircheStadt.pdf'
+citation: true
+appendix-cite-as: display
+license: CC BY 4.0
 ---
 
 ::: {.callout-note icon="false"}

@@ -47,6 +47,7 @@ code-links:
   - text: GitHub Repository
     icon: github
     href: 'https://github.com/digihistch24/digihistch24.github.io/'
+appendix-cite-as: display
 ---
 
 ## Konferenz

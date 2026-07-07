@@ -19,6 +19,7 @@ other-links:
   - text: Druckansicht
     icon: filetype-pdf
     href: '/assets/files/20250420_Engler-DeFregias_Schnupftabak-preview_compressed.pdf'
+citation: true
 ---
 
 ::: {.callout-note icon="false"}
