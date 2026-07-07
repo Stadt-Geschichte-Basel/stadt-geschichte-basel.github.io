@@ -1,0 +1,45 @@
+---
+title: SGB Minimal HTML
+subtitle: Textbasierte HTML-Ausgaben der Buchkapitel für Open Monograph Press
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+other-links:
+  - href: 'https://dokumentation.stadtgeschichtebasel.ch/sgb-minimal-html/'
+    text: Dokumentation
+    icon: book
+  - href: 'https://emono.unibas.ch/stadtgeschichtebasel/catalog'
+    text: Katalog auf emono.unibas.ch
+    icon: journal-richtext
+code-links:
+  - href: 'https://github.com/Stadt-Geschichte-Basel/sgb-minimal-html/'
+    text: GitHub Repository
+    icon: github
+citation: true
+appendix-cite-as: display
+---
+
+## SGB Minimal HTML
+
+[sgb-minimal-html](https://github.com/Stadt-Geschichte-Basel/sgb-minimal-html) wandelt die Kapitel-PDFs der neunbändigen Buchreihe Stadt.Geschichte.Basel (Christoph Merian Verlag) in minimale, rein textbasierte HTML-Ausgaben um – ohne Bilder und Styling, aber mit semantisch strukturiertem Text und verlinkten Endnoten – und publiziert sie als HTML-Publikationsformate auf der Open-Monograph-Press-Instanz [emono.unibas.ch](https://emono.unibas.ch/stadtgeschichtebasel/).
+
+Die textbasierten Ausgaben ergänzen die [Open-Access-Ausgabe](/products/interna/open-access-ausgabe/index.qmd) der Buchreihe: Sie verbessern die Zugänglichkeit der Inhalte (Screenreader, Volltextsuche, maschinelle Nachnutzung) gegenüber den layoutgebundenen PDFs. Das Erscheinungsbild der OMP-Instanz selbst ist im Beitrag zum [OMP-Styling](/products/interna/omp-styling/index.qmd) dokumentiert.
+
+## Funktionen
+
+- **79 Kapitelausgaben** über alle neun Bände, eine eigenständige HTML-Datei pro Kapitel, benannt nach dem DOI-Suffix (z. B. [10.21255/sgb-01.01-439115](https://doi.org/10.21255/sgb-01.01-439115))
+- **Typografiebasierte Extraktion**: Jede PDF-Zeile wird anhand des Schriftsystems der Reihe klassifiziert (Fliesstext, Überschriften, Lead-Absätze, Exkurse, Endnoten, Zitate, Legenden)
+- **Verlinkte Endnoten** mit Rückverweisen; Fussnotenzeichen werden von Isotopen-Hochstellungen wie ¹⁴C unterschieden
+- **Anhang-Modus** für Bibliografien, Bildnachweise, Register und Autor:innenverzeichnisse mit hängenden Einzügen
+- **Bereinigter Text**: Silbentrennungen werden aufgelöst, Absätze fliessen über Seitenumbrüche und um Textboxen hinweg
+- **Metadaten aus der OMP-API**: `citation_*`-Meta-Tags, DOI, Seitenzahlen, Autor:innen und Lizenz werden in jede Datei eingebettet
+- **Qualitätsprüfungen**: Wortzahl-Verhältnisse gegen den PDF-Rohtext sowie Konsistenzprüfungen der Endnotenmarker pro Kapitel
+- **Idempotente Publikation** nach Open Monograph Press über dessen REST-API
+
+## Lizenz
+
+Der Code steht unter der AGPL-3.0-Lizenz; die Buchinhalte sind © Stadt.Geschichte.Basel / Christoph Merian Verlag und unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) lizenziert.

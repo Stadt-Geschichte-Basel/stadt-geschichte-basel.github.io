@@ -1,0 +1,48 @@
+---
+title: SGB Theme
+subtitle: Quarto-Theme für Stadt.Geschichte.Basel
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+other-links:
+  - href: 'https://dokumentation.stadtgeschichtebasel.ch/sgb-theme/'
+    text: Dokumentation und Demo
+    icon: book
+code-links:
+  - href: 'https://github.com/Stadt-Geschichte-Basel/sgb-theme/'
+    text: GitHub Repository
+    icon: github
+citation: true
+appendix-cite-as: display
+---
+
+## SGB Theme
+
+Das [sgb-theme](https://github.com/Stadt-Geschichte-Basel/sgb-theme) ist eine Quarto-Erweiterung, die das offizielle Branding und Styling für Projekte von Stadt.Geschichte.Basel bereitstellt. Es setzt die [Corporate Identity](/products/interna/corporate-identity/index.qmd) und das [Farbkonzept](/products/interna/farbkonzept/index.qmd) des Projekts in ein wiederverwendbares HTML-Format (`sgb-theme-html`) um – inklusive Logo, Favicon, Typografie und Farbschema.
+
+Diese Dokumentationswebsite selbst sowie weitere Quarto-Projekte von Stadt.Geschichte.Basel verwenden das Theme. Das Theme ist für offizielle Projekte von Stadt.Geschichte.Basel bestimmt.
+
+## Anwendung
+
+Die Erweiterung wird direkt aus dem GitHub-Repository in ein Quarto-Projekt eingebunden:
+
+```bash
+quarto add Stadt-Geschichte-Basel/sgb-theme --no-prompt
+```
+
+Anschliessend wird das Format in der `_quarto.yml` aktiviert:
+
+```yaml
+format:
+  sgb-theme-html: default
+```
+
+Die [Dokumentation](https://dokumentation.stadtgeschichtebasel.ch/sgb-theme/) enthält eine vollständige Beispielkonfiguration für Website-Projekte mit Navbar, Logo und Favicon.
+
+## Lizenz
+
+Der Code steht unter der AGPL-3.0-Lizenz, Inhalte und Assets unter CC BY 4.0.
