@@ -9,7 +9,7 @@ doi: 10.21255/sgb-01.05-896299
 license: CC BY-NC 4.0
 author:
 - name: Margaux Depaermentier
-  orcid: '0000-0002-1801-3358 '
+  orcid: 0000-0002-1801-3358
 - name: Simone Mayer
   orcid: 0009-0003-5085-1022
 citation:

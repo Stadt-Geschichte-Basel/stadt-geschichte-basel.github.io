@@ -31,6 +31,7 @@ import sys
 import time
 from dataclasses import dataclass, field
 from pathlib import Path
+from urllib.parse import urljoin
 
 import httpx
 import yaml
@@ -40,6 +41,8 @@ DOIS_URL = "https://raw.githubusercontent.com/Stadt-Geschichte-Basel/sgb-minimal
 DATACITE_API = "https://api.datacite.org/dois/"
 MINIMAL_HTML_URL = "https://raw.githubusercontent.com/Stadt-Geschichte-Basel/sgb-minimal-html/main/html/volume-{volume:02d}/{suffix}.html"
 LICENSE_LABELS = {"cc-by-nc-4.0": "CC BY-NC 4.0"}
+LICENSE_URLS = {"cc-by-nc-4.0": "https://creativecommons.org/licenses/by-nc/4.0/"}
+DEFAULT_LICENSE_URL = "https://creativecommons.org/licenses/by-nc/4.0/"
 DOI_RE = re.compile(r"^10\.21255/(sgb-(\d{2})(?:\.(\d{2}))?-\d+)$")
 
 
@@ -90,8 +93,9 @@ def get(client: httpx.Client, url: str) -> httpx.Response:
 
 def fetch_datacite(client: httpx.Client, rec: Record) -> None:
     attrs = get(client, DATACITE_API + rec.doi).json()["data"]["attributes"]
-    rec.title = attrs["titles"][0]["title"]
-    rec.year = attrs["publicationYear"]
+    rec.title = attrs["titles"][0]["title"].strip()
+    # DataCite occasionally returns publicationYear as a string; keep it an int.
+    rec.year = int(attrs["publicationYear"])
     rec.landing_url = attrs["url"]
     for c in attrs["creators"]:
         is_editor = c["name"].endswith(" (ed.)")
@@ -105,8 +109,9 @@ def fetch_datacite(client: httpx.Client, rec: Record) -> None:
         orcid = None
         for ident in c.get("nameIdentifiers", []):
             if ident.get("nameIdentifierScheme") == "ORCID":
-                orcid = ident["nameIdentifier"].rsplit("/", 1)[-1]
-        rec.creators.append(Creator(name=name, orcid=orcid, is_editor=is_editor))
+                # Some records carry stray whitespace inside the identifier.
+                orcid = ident["nameIdentifier"].strip().rsplit("/", 1)[-1]
+        rec.creators.append(Creator(name=name.strip(), orcid=orcid, is_editor=is_editor))
     for rights in attrs.get("rightsList", []):
         if rights.get("rightsIdentifier"):
             rec.license_id = rights["rightsIdentifier"]
@@ -141,7 +146,9 @@ def scrape_pdf_url(client: httpx.Client, rec: Record) -> None:
     soup = BeautifulSoup(get(client, rec.landing_url).text, "lxml")
     for a in soup.find_all("a", class_="cmp_download_link"):
         if a.get_text(strip=True) == "PDF" and a.get("href"):
-            rec.pdf_url = a["href"].replace("/catalog/view/", "/catalog/download/")
+            # Resolve relative hrefs against the landing page before rewriting.
+            href = urljoin(rec.landing_url, a["href"])
+            rec.pdf_url = href.replace("/catalog/view/", "/catalog/download/")
             return
 
 
@@ -164,10 +171,11 @@ def author_block(creators: list[Creator]) -> list[dict]:
 
 def license_callout(rec: Record) -> str:
     label = LICENSE_LABELS.get(rec.license_id or "", rec.license_id)
+    url = LICENSE_URLS.get(rec.license_id or "", DEFAULT_LICENSE_URL)
     return (
         '::: {.callout-note title="Lizenz" appearance="simple"}\n'
         "© Stadt.Geschichte.Basel / Christoph Merian Verlag. "
-        f"Text lizenziert unter [{label}](https://creativecommons.org/licenses/by-nc/4.0/). "
+        f"Text lizenziert unter [{label}]({url}). "
         f"Quelle: [doi.org/{rec.doi}](https://doi.org/{rec.doi})\n"
         ":::\n"
     )
