@@ -20,6 +20,8 @@ code-links:
   - href: 'https://github.com/Stadt-Geschichte-Basel/juedisches-milieu-basel'
     text: juedisches-milieu-basel
     icon: github
+citation: true
+license: MIT
 ---
 
 ::: {.callout-note icon="false"}

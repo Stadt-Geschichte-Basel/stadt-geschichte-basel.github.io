@@ -28,6 +28,9 @@ other-links:
   - text: YouTube
     href: https://www.youtube.com/watch?v=bn9SVfjM4Fs&list=PLv-uzKpdu-sjnZtVvVbRN0OMevxnTjhMx
     icon: youtube
+citation: true
+appendix-cite-as: display
+license: CC BY 4.0
 ---
 
 ::: {.callout-tip title="Podcast hören" icon="false" collapse="true"}

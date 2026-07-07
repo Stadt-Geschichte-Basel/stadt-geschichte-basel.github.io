@@ -31,6 +31,7 @@ other-links:
   - text: Workshop-Beschreibung
     icon: house
     href: '/products/talks-posters/workshop-peer-review/index.html'
+license: CC BY 4.0
 ---
 
 ::: {.callout-tip title="Artikel anzeigen" icon="false" collapse="true"}

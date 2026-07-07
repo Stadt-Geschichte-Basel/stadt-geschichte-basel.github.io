@@ -24,6 +24,8 @@ code-links:
     text: GitHub Repository
     icon: github
 tbl-colwidths: [10, 50, 10, 10, 10, 10]
+citation: true
+appendix-cite-as: display
 ---
 
 ## Portal

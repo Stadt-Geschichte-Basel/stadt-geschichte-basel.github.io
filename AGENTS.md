@@ -139,9 +139,10 @@ Use `npm run commit` to ensure proper formatting.
 
 ### Citation & DOI Policy
 
+- **Every product page is citable**: All pages under `products/**` carry `citation:` (either `true` for a locally generated citation or a structured block when a canonical reference exists) plus `appendix-cite-as: display`, so a uniform citation appendix renders site-wide.
 - **When to add a DOI**: Citable outputs (e.g., `products/publications/*`, `products/talks-posters/*`) should include a `doi:` in YAML if a DOI exists (typically Zenodo or publisher DOI).
-- **Citation block**: Include a `citation:` block in YAML when a canonical reference is available. Prefer standard formats and stable identifiers.
-- **Internal pages**: Do not add DOIs to internal or purely informational pages (e.g., `products/interna/*`, top-level landing pages).
+- **License fields**: Add `license:` only when the DOI record states a license (verify via the DataCite/Zenodo/Crossref API). Pages without a DOI get a local citation and **no** license field.
+- **Internal pages**: Do not add DOIs to internal or purely informational pages (e.g., `products/interna/*`, top-level landing pages); they still carry `citation: true`.
 - **Links**: Use the canonical resolver form `https://doi.org/<doi>` in content and references.
 
 ### When Working with Code

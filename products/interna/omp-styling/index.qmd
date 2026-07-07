@@ -17,6 +17,8 @@ other-links:
   - text: Stylesheet
     icon: file-earmark-code
     href: 'https://emono.unibas.ch/public/presses/5/styleSheet.css?v=3.4.0.7'
+citation: true
+appendix-cite-as: display
 ---
 
 Diese Seite dokumentiert die benutzerdefinierten Gestaltungsentscheidungen und das Stylesheet für die Stadt.Geschichte.Basel Open Monograph Press (OMP) Subpress unter <https://emono.unibas.ch/stadtgeschichtebasel/>.

@@ -1,0 +1,57 @@
+---
+title: Datasheets für Forschungsdaten
+subtitle: Strukturierte Dokumentation von Datensätzen im Kulturerbe-Bereich
+lang: de
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    affiliation: Universität Basel
+    orcid: 0000-0002-1367-1618
+date-modified: last-modified
+other-links:
+  - text: 'Datasheets for Digital Cultural Heritage (JOHD)'
+    icon: journal-text
+    href: 'https://doi.org/10.5334/johd.124'
+  - text: 'Europeana Working Group: Datasheets for Digital Cultural Heritage'
+    icon: globe
+    href: 'https://pro.europeana.eu/project/datasheets-for-digital-cultural-heritage-working-group'
+  - text: 'Datasheets for Datasets (Gebru et al.)'
+    icon: journal-text
+    href: 'https://doi.org/10.1145/3458723'
+citation: true
+appendix-cite-as: display
+---
+
+## Was ist ein Datasheet?
+
+Ein **Datasheet** ist eine strukturierte Begleitdokumentation für einen Datensatz. Es beschreibt nicht nur, *was* die Daten enthalten (technische Metadaten wie Dateiformat oder Umfang), sondern vor allem, *warum* und *wie* sie entstanden sind. Das Konzept stammt aus dem Aufsatz [«Datasheets for Datasets»](https://doi.org/10.1145/3458723) (Gebru et al., 2018/2021) aus dem Bereich des maschinellen Lernens und wurde für den Kulturerbe-Bereich (GLAM) adaptiert – massgeblich durch den Artikel [«Datasheets for Digital Cultural Heritage Datasets»](https://doi.org/10.5334/johd.124) im *Journal of Open Humanities Data* und die [Europeana Working Group «Datasheets for Digital Cultural Heritage»](https://pro.europeana.eu/project/datasheets-for-digital-cultural-heritage-working-group).
+
+Ein Datasheet dient drei Zielen:
+
+- **Transparenz:** Es legt die Herkunft der Daten offen (Provenienz) und dokumentiert Auswahl- und Digitalisierungsentscheidungen.
+- **Ethik und Bias:** Es benennt mögliche Verzerrungen (z. B. koloniale Sammlungsgeschichte, Geschlechter-Bias in Archiven) und sensible Inhalte, damit Nutzer:innen diese bei der Analyse berücksichtigen können.
+- **Nachnutzbarkeit:** Es hilft Forschenden zu beurteilen, ob sich ein Datensatz für eine bestimmte (auch computergestützte) Fragestellung eignet.
+
+## Empfohlene Struktur
+
+Die von Europeana und JOHD empfohlenen Modelle folgen einem Fragebogen-Format mit diesen Abschnitten:
+
+| Abschnitt | Leitfragen |
+| :--- | :--- |
+| **Motivation** | Warum wurde der Datensatz erstellt? Wer hat ihn finanziert? |
+| **Zusammensetzung** | Was repräsentieren die Dateneinheiten? Gibt es Teilpopulationen? Sind vertrauliche Daten enthalten? |
+| **Erhebungsprozess** | Wie wurden die Daten erhoben (Digitalisierungstechnik, OCR-Qualität, Auswahlkriterien)? |
+| **Aufbereitung** | Wurden die Daten bereinigt oder verändert? Was wurde weggelassen und warum? |
+| **Nutzung** | Wofür ist der Datensatz gedacht? Welche Nutzungen sollten vermieden werden? |
+| **Distribution** | Unter welcher Lizenz wird der Datensatz verbreitet (Urheberrecht/Public Domain)? |
+| **Wartung** | Wird der Datensatz aktualisiert? Wer ist verantwortlich? |
+
+Für digitales Kulturerbe kommen spezifische Aspekte hinzu:
+
+- **Original und Digitalisat:** Unterscheidung zwischen dem physischen Objekt und der digitalen Repräsentation (z. B. Gemälde vs. Scan).
+- **Rechtlicher Status:** Oft komplexe urheberrechtliche Situationen (z. B. verwaiste Werke).
+- **Sensible Inhalte:** Umgang mit kulturell sensiblen Materialien und Personendaten in Archivbeständen.
+
+## Anwendung bei Stadt.Geschichte.Basel
+
+Für die Forschungsdaten von Stadt.Geschichte.Basel empfiehlt sich das Fragebogen-Format der Europeana Working Group als Vorlage. Die [Datenpublikationen](/products/research-data/datenpublikation/index.qmd) des Projekts dokumentieren Provenienz, Lizenzierung und Aufbereitungsschritte bereits in den README-Dateien der jeweiligen Repositorien; ein Datasheet bündelt diese Angaben in standardisierter Form. Die diskriminierungssensible Beschreibung der Bestände folgt dem [Handbuch für Diskriminierungssensible Metadatenpraxis](/products/publications/handbuch/index.qmd) und dem [Datenmodell](/products/research-data/datamodel/index.qmd) des Projekts.

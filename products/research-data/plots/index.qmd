@@ -24,6 +24,8 @@ code-links:
   - href: 'https://github.com/stadt-geschichte-basel/sgb-figures'
     text: sgb-figures Repository
     icon: github
+citation: true
+appendix-cite-as: display
 ---
 
 ::: {.callout-tip title="sgb-figures auf GitHub" icon="false"}

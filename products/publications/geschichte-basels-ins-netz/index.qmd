@@ -17,6 +17,9 @@ other-links:
   - text: PDF
     icon: filetype-pdf
     href: '/assets/files/9783839469675-007.pdf'
+citation: true
+appendix-cite-as: display
+license: CC BY 4.0
 ---
 
 ::: {.callout-tip title="Kapitel anzeigen" icon="false" collapse="true"}

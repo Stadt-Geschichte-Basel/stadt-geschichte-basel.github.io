@@ -19,6 +19,8 @@ author:
 date: March 2024
 date-format: "MMMM YYYY"
 lang: de-CH
+citation: true
+appendix-cite-as: display
 ---
 
 Wir bemühen uns, die Online-Angebote von Stadt.Geschichte.Basel gemäss den aktuellen Webstandards und den Anforderungen der Barrierefreiheit zu [gestalten](../inklusive-gestaltung/index.qmd). Unsere Barrierefreiheitserklärung beschreibt, welche Massnahmen wir umsetzen, um die Zugänglichkeit zu gewährleisten. Für die Online-Angebote der Stadt.Geschichte.Basel gilt die folgende Barrierefreiheitserklärung, wie sie auf unserem [Portal](https://stadtgeschichtebasel.ch/barrierefreiheitserklaerung) verfügbar ist.

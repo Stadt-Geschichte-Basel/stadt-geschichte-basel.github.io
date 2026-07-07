@@ -20,6 +20,8 @@ code-links:
   - href: 'https://github.com/Stadt-Geschichte-Basel'
     text: GitHub-Organisation
     icon: github
+citation: true
+appendix-cite-as: display
 ---
 
 ## Kollaboratives Arbeiten

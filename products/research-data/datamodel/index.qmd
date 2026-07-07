@@ -24,6 +24,8 @@ author:
   affiliation: Universität Basel
   orcid: 0009-0005-7187-9774
 date-modified: last-modified
+citation: true
+appendix-cite-as: display
 ---
 
 Metadaten für die auf der [Forschungsdatenplattform](/products/coding/plattform/index.qmd) vorgestellten Elemente werden gemäss einem Datenmodell bereitgestellt, das vom Team für Forschungdatenmanagement der Stadt.Geschichte.Basel entwickelt wurde, um den Anforderungen der vielfältigen im Projekt verwendeten Quellen gerecht zu werden. Das Datenmodell (und der anschliessende Annotationsprozess) folgen dem [Handbuch für Diskriminierungssensible Metadatenpraxis](/products/publications/handbuch/index.qmd), das ebenfalls von Stadt.Geschichte.Basel entwickelt wurde.
