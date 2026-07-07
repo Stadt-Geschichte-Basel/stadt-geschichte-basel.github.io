@@ -18,9 +18,10 @@ download links from emono.unibas.ch, then writes committed .qmd pages:
     volumes/band-0X/<doi-suffix>/index.qmd  one page per chapter
 
 Usage:
-    uv run scripts/generate_volumes.py            # all volumes
+    uv run scripts/generate_volumes.py            # all volumes (HTML from GitHub main)
     uv run scripts/generate_volumes.py --volume 3
     uv run scripts/generate_volumes.py --only 10.21255/sgb-03.01-669037
+    uv run scripts/generate_volumes.py --source /path/to/sgb-minimal-html  # local html/
 """
 
 from __future__ import annotations
@@ -117,16 +118,20 @@ def fetch_datacite(client: httpx.Client, rec: Record) -> None:
             rec.license_id = rights["rightsIdentifier"]
 
 
-def fetch_minimal_html(client: httpx.Client, rec: Record) -> None:
-    url = MINIMAL_HTML_URL.format(volume=rec.volume, suffix=rec.suffix)
-    soup = BeautifulSoup(get(client, url).text, "lxml")
+def fetch_minimal_html(client: httpx.Client, rec: Record, source: Path | None = None) -> None:
+    if source is not None:
+        local = source / "html" / f"volume-{rec.volume:02d}" / f"{rec.suffix}.html"
+        html = local.read_text(encoding="utf-8")
+    else:
+        html = get(client, MINIMAL_HTML_URL.format(volume=rec.volume, suffix=rec.suffix)).text
+    soup = BeautifulSoup(html, "lxml")
     for name in ("citation_firstpage", "citation_lastpage"):
         meta = soup.find("meta", attrs={"name": name})
         if meta and meta.get("content"):
             setattr(rec, name.removeprefix("citation_"), meta["content"])
     body = soup.body
     if body is None:
-        raise ValueError(f"no <body> in {url}")
+        raise ValueError(f"no <body> in minimal HTML for {rec.doi}")
     if body.header:
         body.header.decompose()
     # A nested <main> would be invalid inside the theme's <main>; Quarto's
@@ -343,6 +348,12 @@ def main() -> int:
     parser.add_argument("--volume", type=int, help="only generate this volume (1-9)")
     parser.add_argument("--only", help="only generate this chapter DOI")
     parser.add_argument("--out", default="volumes", help="output directory")
+    parser.add_argument(
+        "--source",
+        type=Path,
+        default=None,
+        help="local sgb-minimal-html checkout to read html/ from instead of GitHub",
+    )
     args = parser.parse_args()
 
     out_root = Path(args.out)
@@ -363,7 +374,7 @@ def main() -> int:
         for i, rec in enumerate(chapters, 1):
             print(f"[{i}/{len(chapters)}] {rec.doi}", file=sys.stderr)
             fetch_datacite(client, rec)
-            fetch_minimal_html(client, rec)
+            fetch_minimal_html(client, rec, source=args.source)
             scrape_pdf_url(client, rec)
 
     for rec in chapters:
