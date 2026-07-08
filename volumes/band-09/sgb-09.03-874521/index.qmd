@@ -40,7 +40,7 @@ language:
 date-modified: last-modified
 ---
 
-::: {.callout-note title="Lizenz" appearance="simple"}
+::: {.callout-tip title="Lizenz" icon="false" }
 © Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-09.03-874521](https://doi.org/10.21255/sgb-09.03-874521)
 :::
 

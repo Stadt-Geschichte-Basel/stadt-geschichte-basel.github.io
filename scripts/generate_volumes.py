@@ -178,7 +178,7 @@ def license_callout(rec: Record) -> str:
     label = LICENSE_LABELS.get(rec.license_id or "", rec.license_id)
     url = LICENSE_URLS.get(rec.license_id or "", DEFAULT_LICENSE_URL)
     return (
-        '::: {.callout-note title="Lizenz" appearance="simple"}\n'
+        '::: {.callout-tip title="Lizenz" icon="false" }\n'
         "© Stadt.Geschichte.Basel / Christoph Merian Verlag. "
         f"Text lizenziert unter [{label}]({url}). "
         f"Quelle: [doi.org/{rec.doi}](https://doi.org/{rec.doi})\n"
