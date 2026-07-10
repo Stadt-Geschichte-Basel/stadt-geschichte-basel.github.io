@@ -18,6 +18,7 @@ other-links:
   - text: Website
     icon: collection
     href: 'https://awesome-digital-history.pages.dev/'
+appendix-cite-as: display
 ---
 
 Das [Awesome Digital History](https://github.com/maehr/awesome-digital-history/) Projekt ist eine sorgfältig zusammengestellte Sammlung von Online-Ressourcen, die Forschende und Interessierte dabei unterstützt, digitale Geschichtsforschung zu betreiben. Der Fokus liegt auf der Bereitstellung von Hilfsmitteln zum Auffinden von textuellen und multimedialen Primärquellen, insbesondere aus dem westlichen Kulturkreis und den Epochen des 19. und 20. Jahrhunderts. Zusätzlich bietet die Sammlung Zugang zu Kursen und Lernmaterialien, die den Einstieg in die digitale Geschichtsforschung erleichtern.

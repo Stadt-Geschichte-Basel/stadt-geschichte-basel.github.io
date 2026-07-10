@@ -12,6 +12,8 @@ code-links:
   - href: 'https://github.com/Stadt-Geschichte-Basel/sgb-data-validator/'
     text: GitHub Repository
     icon: github
+citation: true
+appendix-cite-as: display
 ---
 
 ## SGB Data Validator

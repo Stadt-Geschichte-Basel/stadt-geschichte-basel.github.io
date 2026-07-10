@@ -18,6 +18,8 @@ author:
       - Universität Luzern
 date: 2025-12-08
 lang: de-CH
+citation: true
+appendix-cite-as: display
 ---
 
 ## 1. Zielsetzung

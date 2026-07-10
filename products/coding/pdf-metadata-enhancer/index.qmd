@@ -1,0 +1,49 @@
+---
+title: PDF Metadata Enhancer
+subtitle: Bibliografische Metadaten in PDFs einbetten
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+other-links:
+  - href: 'https://dokumentation.stadtgeschichtebasel.ch/pdf-metadata-enhancer/'
+    text: Dokumentation
+    icon: book
+code-links:
+  - href: 'https://github.com/Stadt-Geschichte-Basel/pdf-metadata-enhancer/'
+    text: GitHub Repository
+    icon: github
+citation: true
+appendix-cite-as: display
+---
+
+## PDF Metadata Enhancer
+
+Der [pdf-metadata-enhancer](https://github.com/Stadt-Geschichte-Basel/pdf-metadata-enhancer) ist ein Python-Kommandozeilenwerkzeug, das kanonische bibliografische Metadaten aus DOIs abruft und in PDF-Dateien einbettet. Die Metadaten werden per DOI Content Negotiation (CSL-JSON) bezogen und sowohl in das PDF-InfoDict als auch in XMP-Felder (Dublin Core) geschrieben.
+
+Damit tragen die PDFs der Projektpublikationen ihre bibliografischen Angaben – Titel, Autor:innen, DOI, Lizenz – dauerhaft in sich selbst. Das verbessert die Auffindbarkeit und maschinelle Nachnutzbarkeit und unterstützt die [Langzeitarchivierung](/products/interna/langzeitarchivierung/index.qmd) sowie die [Barrierefreiheit](/products/interna/barrierefreiheit/index.qmd) der digitalen Angebote von Stadt.Geschichte.Basel.
+
+## Funktionen
+
+- **DOI-Metadatenabruf**: Automatischer Bezug der Metadaten per HTTP Content Negotiation (CSL-JSON)
+- **PDF-Anreicherung**: Einbettung in PDF-InfoDict und XMP (Dublin Core)
+- **Flexible Eingabe**: Unterstützt Mapping-Dateien in CSV, TSV und JSONL
+- **Provenienz-Nachverfolgung**: JSON-Sidecar-Dateien mit SHA256-Prüfsummen und vollständigen Metadaten
+- **Stapelverarbeitung**: Verarbeitung mehrerer PDFs in einem Durchlauf
+
+## Anwendung
+
+Das Werkzeug wird mit [uv](https://github.com/astral-sh/uv) installiert und über eine Mapping-Datei gesteuert, die PDF-Pfade DOIs zuordnet:
+
+```bash
+echo "pdf,doi" > mapping.csv
+echo "./document.pdf,10.21255/sgb-01-406352" >> mapping.csv
+uv run pdf-metadata-enhancer ingest --input mapping.csv --out-dir output/ --verbose
+```
+
+## Lizenz
+
+Der Code steht unter der AGPL-3.0-Lizenz.

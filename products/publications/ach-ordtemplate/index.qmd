@@ -36,6 +36,8 @@ code-links:
   - href: 'https://github.com/achorg/anthology-ch/'
     text: anthology-ch Source Repository
     icon: github
+citation: true
+appendix-cite-as: display
 ---
 
 The paper *One Template to Rule Them All: Interactive Research Data Documentation with Quarto* is part of the [proceedings of the Digital Humanities Tech Symposium](https://anthology.ach.org/volumes/vol0002/) at DH2025 in Lisbon ([Slides](/products/talks-posters/dhtech-ordtemplate/index.qmd), [Video Recording](https://doi.org/10.5281/zenodo.18488961)).

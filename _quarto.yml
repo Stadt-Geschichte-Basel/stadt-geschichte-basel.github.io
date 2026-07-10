@@ -47,6 +47,8 @@ website:
             text: Publikationen
           - href: products/products.html#data-stories
             text: Data Stories
+          - href: products/products.html#lehrmittel
+            text: Lehrmittel
           - href: products/products.html#coding
             text: Coding
           - href: products/products.html#forschungsdaten

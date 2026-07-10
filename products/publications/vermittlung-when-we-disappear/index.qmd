@@ -1,0 +1,37 @@
+---
+title: When We Disappear
+subtitle: Ein Serious Game zu Flucht und Holocaust für den Unterricht
+categories: Lehrmittel
+author:
+  - name: Inlusio Interactive
+  - name: Institut für Geschichtsdidaktik und Erinnerungskulturen
+    affiliation: Pädagogische Hochschule Luzern
+date-modified: last-modified
+lang: de-CH
+other-links:
+  - text: Website des Spiels
+    icon: globe
+    href: 'https://www.whenwedisappear.com/de'
+  - text: Erprobung im Unterricht
+    icon: mortarboard
+    href: 'https://www.whenwedisappear.com/de/edu/erprobung'
+citation: true
+appendix-cite-as: display
+---
+
+## Lehrmittel
+
+«When We Disappear» ist ein Serious Game des Studios [Inlusio Interactive](https://www.whenwedisappear.com/de), entwickelt in Zusammenarbeit mit dem Institut für Geschichtsdidaktik und Erinnerungskulturen der Pädagogischen Hochschule Luzern. Das geschichts-, story- und dialogbasierte Spiel erzählt die Flucht des Mädchens **Hannah** vor den Gefahren des Zweiten Weltkriegs: Von Amsterdam aus führt ihr Weg quer durch Europa, unterstützt von vergessenen Held:innen des Widerstands. Die Erzählung basiert auf realen Biografien von Kindern und Jugendlichen, die den Holocaust überlebten.
+
+## Einsatz im Unterricht
+
+Das Spiel steht für eine spielbasierte, zukunftsorientierte Holocaust Education und lässt sich mit unterschiedlichen Schwerpunkten einsetzen:
+
+- **Medienbildung:** Was macht das Medium Videogame aus?
+- **Verfolgungsgeschichte:** Nationalsozialismus, Flucht und Widerstand im Zweiten Weltkrieg.
+- **Historische Plausibilität:** Wie verhält sich die Spielerzählung zu den historischen Quellen?
+- **Gegenwartsbezug:** Flucht und Vertreibung als aktuelles Thema.
+
+Für die **Erprobung im Unterricht** werden Lehrpersonen der Sekundarstufe mit Klassen **ab der 8. Klasse** gesucht; der Einsatz umfasst **zwei Lektionen** im Rahmen des regulären Unterrichts. Begleitmaterialien mit flexiblen Schwerpunkten, ein Projektflyer sowie ein Vermittlungskonzept mit weiterführender Literatur unterstützen die Vor- und Nachbereitung. Das Spiel ist auf Deutsch und Englisch verfügbar, die Unterrichtsmaterialien auf Deutsch.
+
+Weitere Lehrmittel von Partnern und Dritten finden sich auf dem [Basler Bildungsserver edubs.ch](https://www.edubs.ch).

@@ -91,6 +91,14 @@ listing:
     fields: [title, subtitle]
     include:
       categories: "Data Story"
+  - id: lehrmittel-listing
+    type: grid
+    grid-columns: 2
+    categories: false
+    contents: publications/*/index.qmd
+    fields: [title, subtitle]
+    include:
+      categories: "Lehrmittel"
   - id: research-data-listing
     type: grid
     contents: [research-data/*/index.qmd]
@@ -107,6 +115,13 @@ date-modified: last-modified
 ### Data Stories
 
 ::: {#datastories-listing}
+:::
+
+### Lehrmittel
+
+Vermittlungsangebote für den Unterricht, die im Umfeld von Stadt.Geschichte.Basel entstanden sind. Weitere Lehrmittel von Partnern und Dritten finden sich auf dem [Basler Bildungsserver edubs.ch](https://www.edubs.ch).
+
+::: {#lehrmittel-listing}
 :::
 
 ## Coding

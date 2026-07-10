@@ -16,6 +16,9 @@ other-links:
   - text: Druckansicht
     icon: filetype-pdf
     href: '/assets/files/250322_Hitz_SchuldenInDerStadt.pdf'
+citation: true
+appendix-cite-as: display
+license: CC BY 4.0
 ---
 
 ::: {.callout-note icon="false"}

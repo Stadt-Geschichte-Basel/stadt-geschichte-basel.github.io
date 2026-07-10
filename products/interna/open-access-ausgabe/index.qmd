@@ -21,6 +21,8 @@ other-links:
   - text: Blogbeitrag zur Publikation
     icon: filetype-html
     href: 'https://blog.ub.unibas.ch/2025/03/27/von-basels-fruhsten-anfangen-bis-zur-gegenwart-die-neue-stadtgeschichte-basels-als-open-access-publikation/'
+citation: true
+appendix-cite-as: display
 ---
 
 ## Anliegen

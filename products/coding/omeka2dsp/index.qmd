@@ -34,6 +34,8 @@ code-links:
   - href: 'https://github.com/stadt-geschichte-basel/omeka2dsp/'
     text: GitHub Repository
     icon: github
+citation: true
+appendix-cite-as: display
 ---
 
 ## Langzeitarchivierung für Stadt.Geschichte.Basel

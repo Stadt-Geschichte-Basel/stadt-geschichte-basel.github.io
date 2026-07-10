@@ -8,6 +8,8 @@ author:
       orcid: 0000-0002-1367-1618
 date: 2025-12-08
 lang: de-CH
+citation: true
+appendix-cite-as: display
 ---
 
 ## 1. Strategische Grundsätze
