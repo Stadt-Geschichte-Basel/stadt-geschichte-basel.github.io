@@ -56,7 +56,7 @@ flowchart LR
     click E href "/products/coding/plattform/index.html" "Dokumentation der Forschungsdatenplattform"
 ```
 
-Die in QGIS erstellte Karte wird mit Software wie Adobe Illustrator etc. nachbearbeitet, um eine druckfähige Version zu erhalten. Alle verwendeten Layer werden als `geojson`-Datei exportiert und neben den erzeugten PDF-Dateien für die Veröffentlichung auf der Forschungsdatenplattform vorbereitet.
+Die in QGIS erstellte Karte wird mit Software wie Adobe Illustrator etc. nachbearbeitet, um eine druckfähige Version zu erhalten. Die verwendeten Layer mit von uns verarbeiteten historischen Daten werden als `geojson`-Datei exportiert und neben den erzeugten PDF-Dateien für die Veröffentlichung auf der Forschungsdatenplattform vorbereitet.
 
 ### Veröffentlichung
 
