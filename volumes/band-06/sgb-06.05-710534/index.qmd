@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 5
 doi: 10.21255/sgb-06.05-710534
+abstract: Basel war seit Jahrhunderten ein Knotenpunkt von überregionalem Handel und Verkehr, der Beziehungsnetze, Wissen und Kapital konzentrierte. Im letzten Drittel des 19. Jahrhunderts verwandelte sich der alte Wohlstand in die Dynamik raschen Wachstums. Diese Entwicklung setzte Basel in mehreren Branchen an die globale Spitze. Sie brachte ihre Helden hervor, am prominentesten die Textilunternehmer und die Industriellen von Chemie und Pharma. Sie werden gefeiert, ausgeblendet wird dagegen, dass die Risiken und Lasten des Unternehmerhandelns von vielen getragen wurden. Oft waren es Menschen, die prekär wirtschafteten und dabei nicht weniger unternehmend agierten als die Eliten. Doch sie brauchten ihr Leben für ihr Überleben auf. Welche Leistungen mit Geld vergütet werden, ist eine Frage von sozialer Macht. Ihre Beantwortung entschied über die höchst ungleiche Verteilung von Kosten und Gewinnen. Modernes Wirtschaftswachstum entschärfte um 1900 die sozialen Gegensätze innerhalb der Stadt. Die Kosten verlagerte Basel nach aussen – nicht nur in die Region, sondern auch in die europäischen Kolonien.
 license: CC BY-NC 4.0
 author:
 - name: Oliver Kühschelm
@@ -27,7 +28,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band6/chapter/339
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band6/84/927
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band6/84/1991
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -39,7 +40,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Basel war seit Jahrhunderten ein Knotenpunkt von überregionalem Handel und Verkehr, der Beziehungsnetze, Wissen und Kapital konzentrierte. Im letzten Drittel des 19. Jahrhunderts verwandelte sich der alte Wohlstand in die Dynamik raschen Wachstums. Diese Entwicklung setzte Basel in mehreren Branchen an die globale Spitze. Sie brachte ihre Helden hervor, am prominentesten die Textilunternehmer und die Industriellen von Chemie und Pharma. Sie werden gefeiert, ausgeblendet wird dagegen, dass die Risiken und Lasten des Unternehmerhandelns von vielen getragen wurden. Oft waren es Menschen, die prekär wirtschafteten und dabei nicht weniger unternehmend agierten als die Eliten. Doch sie brauchten ihr Leben für ihr Überleben auf. Welche Leistungen mit Geld vergütet werden, ist eine Frage von sozialer Macht. Ihre Beantwortung entschied über die höchst ungleiche Verteilung von Kosten und Gewinnen. Modernes Wirtschaftswachstum entschärfte um 1900 die sozialen Gegensätze innerhalb der Stadt. Die Kosten verlagerte Basel nach aussen – nicht nur in die Region, sondern auch in die europäischen Kolonien.</p>
+
 <h2>Was tun? An Fleiss und liberale Ökonomie glauben</h2>
 <p>Der Ökonom Traugott Geering wurde in eine Familie geboren, die sich in einer endzeitlich orientierten Erweckungsbewegung engagierte. Sein Vater fungierte als Prediger und erster Vorstand der Basler apostolischen Gemeinde. Der Sohn schlug einen anderen Weg ein: «Als Traugott dann die Zweifel wegen dem Studium der Theologie kamen […], das war eine schwere Zeit», erinnerte sich Jahrzehnte später eine Freundin der Familie. Sie hatte einen Verdacht, woher die Zweifel rührten, denn wie einst Sokrates in Athen drohte aus ihrer Sicht auch im Basel der 1870er-Jahre ein charismatischer Philosoph die Jugend zu verderben. Friedrich Nietzsche, der scharfe Kritiker des Christentums, zählte an Gymnasium und Universität zu Traugotts Lehrern.<sup id="ref-fn1"><a href="#fn1">1</a></sup></p>
 <p>Die Theologie wurde nicht Geerings Metier, doch er fand seine Berufung und Befreiung vom Zweifel. Er wandte sich der Geschichte der Nationalökonomie zu. 1887 erhielt er die neu geschaffene Stelle des Leiters der Schweizer Handelsstatistik in Bern, ab 1896 war er Generalsekretär der Basler Handelskammer. Er fungierte als ihr Sprachrohr in der regionalen und nationalen Öffentlichkeit. Als Fürsprecher einer liberalen Ökonomie war er kompromisslos gegenüber ihren und damit seinen Gegnern. Geering gehörte, so wie Jahrzehnte später Hans Bauer, Redaktor der Basler ‹National-Zeitung›, zu einer kleinen Gruppe von Experten, die das Wissen über die Geschichte der Basler Wirtschaft geprägt haben. Die Arbeiten von beiden sind unentbehrlich, doch sie führen zu einer Wirtschaftsgeschichte Basels, die sich nahe an den Dogmen der jüngeren Wirtschaftswissenschaften bewegt. Diese sind seelenverwandt mit den Überzeugungen der Liberalen des 19. Jahrhunderts. Beide neigen zu universalgültigen Annahmen über die Gesetze wirtschaftlichen Handelns, an denen sie die Menschen messen.</p>

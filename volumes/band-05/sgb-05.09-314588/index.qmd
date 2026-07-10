@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 9
 doi: 10.21255/sgb-05.09-314588
+abstract: Die Industrialisierung verändert die städtische Bevölkerung. Es ist die Zeit, in der die ständische Gesellschaft verschwindet und die Arbeiterklasse als neue Unterschicht erscheint. Es sind nicht nur die Arbeitsbedingungen, die den Wandel bringen. Das Wachstum der Stadt resultiert zu einem grossen Teil aus der Migration von arbeitsuchender Landbevölkerung. Für diese bedeutet die Arbeit in der Stadt, das eigene Leben einem ungewohnten Umfeld anzupassen. Die Zugezogenen finden Mittel und Wege der Geselligkeit, des Widerstands und der Selbsthilfe, die es erlauben, prekäre Lebenswelten und Lebensumstände zu festigen und zu sichern. Dem alteingesessenen Bürgertum bleiben diese Menschen fremd. In der sehr selektiven Einbürgerung zeigt sich eine Form des Wechsels von Ausschluss und Offenheit, die ohne Mauer auskommt.
 license: CC BY-NC 4.0
 author:
 - name: Regula Argast
@@ -31,7 +32,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band5/chapter/331
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/904
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/2004
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -43,7 +44,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Die Industrialisierung verändert die städtische Bevölkerung. Es ist die Zeit, in der die ständische Gesellschaft verschwindet und die Arbeiterklasse als neue Unterschicht erscheint. Es sind nicht nur die Arbeitsbedingungen, die den Wandel bringen. Das Wachstum der Stadt resultiert zu einem grossen Teil aus der Migration von arbeitsuchender Landbevölkerung. Für diese bedeutet die Arbeit in der Stadt, das eigene Leben einem ungewohnten Umfeld anzupassen. Die Zugezogenen finden Mittel und Wege der Geselligkeit, des Widerstands und der Selbsthilfe, die es erlauben, prekäre Lebenswelten und Lebensumstände zu festigen und zu sichern. Dem alteingesessenen Bürgertum bleiben diese Menschen fremd. In der sehr selektiven Einbürgerung zeigt sich eine Form des Wechsels von Ausschluss und Offenheit, die ohne Mauer auskommt.</p>
+
 <h2>Die Stadt Basel vor Gericht: Kriminalität und vergangene Lebenswelten</h2>
 <p>Menschen am Rand der Stadtgesellschaft haben ihre vergangenen Lebenswelten unabsichtlich in Gerichtsakten sicht- und lesbar gemacht. Gesetzesverstösse von Unterschichten und Randgruppen wurden schon lange mit einer gewissen Regelmässigkeit und Einheitlichkeit erfasst. Die Gerichtsakten enthalten Daten zu Personen – im vorstatistischen Zeitalter besonders wertvoll – und Verhörprotokolle mit Aussagen über mehr oder weniger alltägliche Ereignisse. Sie erfolgten in einem Zwangskontext, aber sie mussten den Beteiligten plausibel erscheinen. Wenn die Verhöre vorsichtig interpretiert und die Bedingungen des Justizwesens berücksichtigt werden, gewähren sie Einblicke in die Alltagswelten. Hier werden Fragen aufgeworfen, wie sich die Frühindustrialisierung auf die Mittel- und Unterschichten auswirkte: Wie gingen diese Teile der Stadtgesellschaft mit den Veränderungen individuell und kollektiv um? Welche Gestaltungsmöglichkeiten boten sich ihnen? Antworten darauf erlauben es, sich den städtischen Lebenswelten und den Lebensumständen – Migration, Wohnen, Arbeiten, Freizeit – dieser Gesellschaftsschichten anzunähern.</p>
 <p>Um Antworten auf die genannten Fragen zu erhalten, sind alltägliche Normverstösse, wie kleine Diebstähle und Betrügereien sowie Körper- und Ehrverletzungen, aussagekräftiger als schwere oder spektakuläre Straftaten. Gewaltdelikte und Diebstahl werden in der Forschung hauptsächlich mit Unterschichten in Verbindung gebracht. Betrug, der eine gewisse Kapitalausstattung voraussetzt, und Klagen wegen Ehrverletzungen, also verbale Gewalt, rücken auch mittlere gesellschaftliche Schichten in den Blick.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Schwere Verbrechen waren selten, allerdings nahmen die Fälle von Eigentums- wie auch Gewaltdelinquenz im Verhältnis zum Bevölkerungswachstum überdurchschnittlich zu. Der Stadtbann, das Stadtgebiet ausserhalb der Stadtmauern, war bis weit in das 19. Jahrhundert vor allem Ort landwirtschaftlicher Produktion und diente zudem als Freizeit- und Erholungsraum. Spaziergänge und Rebhäuschen lockten die Leute vor die Mauern. Der Bann war auch Ziel der Sommerfrische. Wohlhabende Bürgerfamilien besassen ein Landgut vor den Mauern. Feste Wohnsitze sowie Gewerbe (zum Beispiel Bleichen und Indiennemanufakturen) waren nur vereinzelt zu finden. Nach 1800 wurde der Bann zunehmend als Siedlungsraum genutzt.</p>

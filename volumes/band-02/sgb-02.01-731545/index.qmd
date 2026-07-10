@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 1
 doi: 10.21255/sgb-02.01-731545
+abstract: 'Die historischen Handbücher nennen das Jahr 476 als Enddatum des weströmischen Reiches. Was sich damals in Rom ereignet hatte, erfuhren die damaligen Menschen sehr viel später, und sie nahmen es kaum als Einschnitt wahr. Die Gründe für den Zusammenbruch des Imperium Romanum sind vielfältig: Umweltkatastrophen, Seuchen und Migrationen, Versagen der Kaiser und der Führungsschicht, Niederlagen der Armee, wirtschaftliche Schwäche, Verdrängung der römischen Glaubenswelt durch das Christentum. Der Übergang von der Spätantike zum Frühmittelalter markiert den Beginn einer eigentlichen ‹Basler› Geschichte. Wir kennen sie dank schriftlicher Zeugnisse, die der neuen, kirchlichen Verwaltungstätigkeit entstammen. Archäologische Funde ergänzen und erweitern unser Wissen von der Basler Frühgeschichte.'
 license: CC BY-NC 4.0
 author:
 - name: Claudius Sieber-Lehmann
@@ -29,7 +30,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2/chapter/292
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/863
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/2032
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -41,7 +42,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Die historischen Handbücher nennen das Jahr 476 als Enddatum des weströmischen Reiches. Was sich damals in Rom ereignet hatte, erfuhren die damaligen Menschen sehr viel später, und sie nahmen es kaum als Einschnitt wahr. Die Gründe für den Zusammenbruch des Imperium Romanum sind vielfältig: Umweltkatastrophen, Seuchen und Migrationen, Versagen der Kaiser und der Führungsschicht, Niederlagen der Armee, wirtschaftliche Schwäche, Verdrängung der römischen Glaubenswelt durch das Christentum. Der Übergang von der Spätantike zum Frühmittelalter markiert den Beginn einer eigentlichen ‹Basler› Geschichte. Wir kennen sie dank schriftlicher Zeugnisse, die der neuen, kirchlichen Verwaltungstätigkeit entstammen. Archäologische Funde ergänzen und erweitern unser Wissen von der Basler Frühgeschichte.</p>
+
 <h2>Vom spätantiken Kastell zur mittelalterlichen Bischofsstadt</h2>
 <p>Mit dem Ende der römischen Herrschaft entwickelten sich langsam neue Herrschaftsformen. Germanische Gruppen wie die Alamannen und später die Franken traten neben die einheimische romanische Bevölkerung. Dies geschah in Zusammenarbeit und gleichzeitiger Konkurrenz mit der Kirche. Diese richtete Bistümer sowie Diözesen ein und erweiterte mit Missionierungen laufend ihren Herrschaftsraum.<sup id="ref-fn1"><a href="#fn1">1</a></sup></p>
 <p>In der Spätantike konzentrierte sich die Siedlungstätigkeit im Gebiet der heutigen Stadt Basel – abgesehen von mehreren Gutshöfen <em>(villae rusticae)</em> – stark auf den mit einer Mauer befestigten Münsterhügel und seine Umgebung: ein <em>suburbium</em> (Unterstadt) im Süden, eine Strassensiedlung bei der Birsigmündung, das <em>munimentum</em> (Befestigung) <em>Robur</em> im heutigen Kleinbasel.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Grubenhäuser<sup id="ref-fn3"><a href="#fn3">3</a></sup> und Bestattungen<sup id="ref-fn4"><a href="#fn4">4</a></sup> zeugen davon, dass ab Beginn des 5. Jahrhunderts der Münsterhügel und das unmittelbar gegenüberliegende Rheinufer auch nach dem Abzug der römischen Armeen von der Rheingrenze besiedelt blieben. Mehrere frühmittelalterliche Bestattungsplätze, so am Bernerring<sup id="ref-fn5"><a href="#fn5">5</a></sup>, Gotterbarmweg<sup id="ref-fn6"><a href="#fn6">6</a></sup>, in Kleinhüningen<sup id="ref-fn7"><a href="#fn7">7</a></sup> und in der Aeschenvorstadt weisen darauf hin, dass die Siedlungen im Bereich der heutigen Innenstadt im 6. und 7. Jahrhundert wohl keine zentralen Funktionen mehr besassen. Bislang fehlen Spuren von Wohnbezirken, die bei diesen Gräberfeldern vermutet werden, aber gerade die aufwendigen Gräber vom Bernerring belegen zumindest die Anwesenheit einer (Krieger-)Elite (vgl. Stadt. Geschichte.Basel, Bd. 1, S. 243). Nach der ebenfalls im 1. Drittel des 7. Jahrhunderts erfolgten Einrichtung des Rauriker-Bistums residiert spätestens ab der Mitte des 8. Jahrhunderts ein Bischof in Basel, und die Siedlung innerhalb der ehemaligen römischen Umfassungsmauer gewinnt wieder zunehmend an regionaler und überregionaler Bedeutung.<sup id="ref-fn8"><a href="#fn8">8</a></sup></p>

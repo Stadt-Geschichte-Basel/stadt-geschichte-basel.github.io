@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 7
 doi: 10.21255/sgb-02.07-338656
+abstract: 'Die Lehre von den zwei Schwertern stellt im Mittelalter das geläufige Sinnbild dar, um das Verhältnis zwischen geistlicher und weltlicher Macht zu illustrieren. Ausgangspunkt ist die Schilderung im Lukasevangelium, kurz bevor Jesus in den Garten Gethsemane geht. Er spricht von seinem nahen Ende, die Apostel wollen ihn aber beschützen und sagen: «Herr, siehe, hier sind zwei Schwerter.» Jesus antwortet: «Es ist genug.» (Lukas 22,38). Die mittelalterlichen Theologen vermuteten in den Bibeltexten immer einen mehrfachen Schriftsinn, da sie von Gott persönlich inspiriert seien. Was bedeuteten die beiden Schwerter? Warum waren es gerade zwei, obwohl die Zahl Zwei im Christentum − einer monotheistischen Religion − keinen guten Ruf hatte? Wer erbte in der Nachfolge Christi den Anspruch auf die zwei Schwerter? Durfte die Kirche nur das eine Schwert führen? Besass der Adel das zweite Schwert, und konnte er so seinen weltlichen Besitz verteidigen?'
 license: CC BY-NC 4.0
 author:
 - name: Claudius Sieber-Lehmann
@@ -29,7 +30,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2/chapter/298
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/857
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/2038
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -41,7 +42,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Die Lehre von den zwei Schwertern stellt im Mittelalter das geläufige Sinnbild dar, um das Verhältnis zwischen geistlicher und weltlicher Macht zu illustrieren. Ausgangspunkt ist die Schilderung im Lukasevangelium, kurz bevor Jesus in den Garten Gethsemane geht. Er spricht von seinem nahen Ende, die Apostel wollen ihn aber beschützen und sagen: «Herr, siehe, hier sind zwei Schwerter.» Jesus antwortet: «Es ist genug.» (Lukas 22,38). Die mittelalterlichen Theologen vermuteten in den Bibeltexten immer einen mehrfachen Schriftsinn, da sie von Gott persönlich inspiriert seien. Was bedeuteten die beiden Schwerter? Warum waren es gerade zwei, obwohl die Zahl Zwei im Christentum − einer monotheistischen Religion − keinen guten Ruf hatte? Wer erbte in der Nachfolge Christi den Anspruch auf die zwei Schwerter? Durfte die Kirche nur das eine Schwert führen? Besass der Adel das zweite Schwert, und konnte er so seinen weltlichen Besitz verteidigen?</p>
+
 <h2>Das 12. Jahrhundert: Geistliches Schwert, weltliches Schwert</h2>
 <p>Seit dem ausgehenden 5. Jahrhundert wurde Lukas 22,38 so ausgelegt, dass das eine Schwert die geistliche, das andere Schwert die weltliche Macht symbolisiert.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Diese Interpretation kam aber während der Konflikte zwischen Papst und Kaiser im 11. und 12. Jahrhundert (Investiturstreit) unter Druck. Insbesondere die päpstliche Partei beanspruchte beide Schwerter. Das Wormser Konkordat von 1122 dämpfte die Diskussionen, und die Redeweise vom ‹geistlichen Arm› und ‹weltlichen Arm› setzte sich durch, um die beiden Machtsphären zu bezeichnen und abzugrenzen.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Die entsprechende Flurbereinigung beschäftigte die westeuropäische Gesellschaft bis zur Reformation.</p>
 <p>Auf den ersten Blick ging das römische Papsttum aus diesem Konflikt als Sieger hervor. Die Aufhebung des Untertaneneids schwächte Kaiser Heinrich IV. entscheidend, die Kirchenstrafe der Exkommunikation erwies sich anfänglich als wirkungsvoll. Die Kreuzzugsbewegung mobilisierte die Gläubigen, und die Ausarbeitung des Kirchenrechts stärkte die Institution. Damit einher ging eine scharfe Trennung des ‹reinen›, geistlichen Bereichs von den weltlichen Belangen. Die Laien waren anfänglich auf sich zurückgeworfen und organisierten nun ihren Lebensbereich selbst. Sie bauten ein Gegengewicht zum Herrschaftsanspruch der Päpste auf. Dieses Ziel verfolgte vor allem das Kaisertum, der Gegenpol zur Universalmacht der Kirche. Die Oberhäupter des Reichs griffen nun vor allem im Rechtsbereich verstärkt auf antike Vorbilder zurück. Sie konnten sich darauf berufen, dass die römischen Imperatoren bereits vor der Durchsetzung des Christentums über das Abendland geherrscht hatten. In ihrer Nachfolge oblag es demnach den Kaisern, den weltlichen Alltag zu bewältigen, da sie im Gegensatz zur Kirche die Möglichkeit hatten, auch physische Gewalt einzusetzen. Die Kaiser leisteten zudem mit der Ernennung von Gegenpäpsten häufig Widerstand gegenüber den päpstlichen Zwangsmassnahmen. Allerdings stand an der Spitze des Heiligen Römischen Reiches keine Dynastie, da es sich um eine Wahlmonarchie handelte, und die Kaiserwürde hing immer noch von einer Salbung durch den Papst ab. Eine Kontinuität in der Verwaltung − beispielsweise mit einem Herrschaftsmittelpunkt samt Behörden und Archiv − war damit nicht zu gewährleisten.</p>

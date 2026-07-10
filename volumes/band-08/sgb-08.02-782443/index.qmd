@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 2
 doi: 10.21255/sgb-08.02-782443
+abstract: 'Das Jahr 1968 markierte auch in Basel einen Aufbruch. In der Stadt entstanden soziale Bewegungen, Jugendliche protestierten gegen den bürgerlichen Mief und für internationale Solidarität. Frauen konnten erstmals in den Grossen Rat gewählt werden, und die Gesellschaft stritt heftig über die Rechte von Migrantinnen und Migranten, die aus Südeuropa in die Schweiz gekommen waren. Dreissig Jahre nach ‹68›, in den krisenhaften 1990er-Jahren, polarisierten Gleichstellung und Migration immer noch. Die Stimmbevölkerung wählte 1992 erstmals eine Frau in die Regierung und der Kanton investierte in die Integration von Ausländerinnen und Ausländern, die zunehmend auch aus fernen Kontinenten nach Basel gelangten. Die Gesellschaft war heterogener geworden, doch die brennenden Fragen blieben dieselben: Wer konnte in Basel mitbestimmen und sich am politischen Prozess beteiligen? Welche Ungleichheiten existierten weiterhin? Wer gehörte zur Stadt und wer wurde ausgeschlossen?'
 license: CC BY-NC 4.0
 author:
 - name: Tobias Ehrenbold
@@ -27,7 +28,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band8/chapter/351
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band8/85/962
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band8/85/1972
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -39,7 +40,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Das Jahr 1968 markierte auch in Basel einen Aufbruch. In der Stadt entstanden soziale Bewegungen, Jugendliche protestierten gegen den bürgerlichen Mief und für internationale Solidarität. Frauen konnten erstmals in den Grossen Rat gewählt werden, und die Gesellschaft stritt heftig über die Rechte von Migrantinnen und Migranten, die aus Südeuropa in die Schweiz gekommen waren. Dreissig Jahre nach ‹68›, in den krisenhaften 1990er-Jahren, polarisierten Gleichstellung und Migration immer noch. Die Stimmbevölkerung wählte 1992 erstmals eine Frau in die Regierung und der Kanton investierte in die Integration von Ausländerinnen und Ausländern, die zunehmend auch aus fernen Kontinenten nach Basel gelangten. Die Gesellschaft war heterogener geworden, doch die brennenden Fragen blieben dieselben: Wer konnte in Basel mitbestimmen und sich am politischen Prozess beteiligen? Welche Ungleichheiten existierten weiterhin? Wer gehörte zur Stadt und wer wurde ausgeschlossen?</p>
+
 <h2>Bewegungen in der politischen Landschaft</h2>
 <p>Der Ausgang der Wahlen 1960 bestätigte die Vormacht des politischen Establishments. Die wahlberechtigten Basler Männer wählten alle sieben Regierungsräte wieder: drei Linke und vier Bürgerliche; genauer: drei Vertreter der SP, zwei der Freisinnig-Demokratischen Partei (FDP) und je einen der Liberal-Demokratischen Partei (LDP) und der CVP. In Basel sprach man von der «Zauberformel». Auch die Grossratswahl hielt keine Überraschungen bereit. Die grosse Verliererin war die kommunistische Partei der Arbeit (PdA). Die gewaltvolle Niederschlagung des Aufstandes in Ungarn durch die Sowjetunion 1956 hatte dem Ansehen der Partei geschadet, zudem etablierte sich der Kommunismus im Kalten Krieg bis tief ins linke Lager als Feindbild. Im ‹Roten Basel› der 1930er- und 1940er-Jahre waren die Kommunisten eine starke politische Kraft gewesen, 1947 stellte die PdA noch 31 Parlamentarier. In den darauffolgenden Jahren verlor die Partei rapide an Zustimmung. Bis 1960 halbierte sich die Zahl der PdA-Grossräte von sechzehn auf acht. Viele der verlorenen Sitze musste die Linke dem bürgerlichen Lager überlassen.<sup id="ref-fn1"><a href="#fn1">1</a></sup></p>
 <p>Mitte des 20. Jahrhunderts dominierten die Bürgerlichen das politische Geschehen. Die Stimmung war geprägt vom Kalten Krieg. Linkes Gedankengut stand unter Generalverdacht, der Kommunismus galt als Staatsfeind Nummer 1. Die Furcht vor den Sowjets war auch in Basel weitverbreitet. Im Zuge der «Fichenaffäre» stellte sich 1989 heraus, dass der Spezialdienst in Basel, eine Abteilung der Kantonspolizei, seit den 1930er-Jahren rund 50 000 Personen überwacht hatte. Hauptsächlich linke Gruppierungen waren davon betroffen, vor allem die PdA, später auch die aufkommende 68er-Bewegung und das alternative Milieu der neuen sozialen Bewegungen, die beispielsweise die Emanzipation von Frauen und Rechte für Schwule einforderten und die Bedrohung der Umwelt thematisierten. In Basel wurden auch Personen bespitzelt, die öffentliche Ämter ausübten, darunter namhafte Politikerinnen und Politiker.<sup id="ref-fn2"><a href="#fn2">2</a></sup></p>

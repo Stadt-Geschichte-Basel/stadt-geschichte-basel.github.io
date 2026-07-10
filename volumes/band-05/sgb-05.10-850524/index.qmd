@@ -27,7 +27,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band5/chapter/332
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/903
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/2005
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified

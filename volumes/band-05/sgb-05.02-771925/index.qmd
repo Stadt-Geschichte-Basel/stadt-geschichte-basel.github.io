@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 2
 doi: 10.21255/sgb-05.02-771925
+abstract: Die Sattelzeit entwickelt neue Massstäbe für Familie und Gesellschaft. Diese trennen nicht nur das öffentliche vom privaten Leben. Sie legen auch die Rollen der Geschlechter und Lebensalter fest. So gehört zum Erwachsenwerden bürgerlicher Jugendlicher, dass sie an der Schreibkultur von Briefen und Tagebüchern teilhaben. Das gehobene Bürgertum pflegt ein Familienideal, das es von anderen sozialen Schichten abgrenzen soll. Dies geschieht mittels einer ausgefeilten Geselligkeit oder der besonderen Aufmerksamkeit für gegenseitige Gefühle. Eine bürgerliche Existenz muss viele Erwartungen erfüllen. Im Gegensatz dazu steht das Leben von Niggi Münch und Bobbi Keller. Es zeigt, wie zwei nonkonforme Menschen sich gesellschaftlich einbinden. Dies findet statt, bevor die beiden zu ‹Stadtoriginalen› popularisiert werden. Sie verschwinden im Lauf des 19. Jahrhundert hinter ihrer Karikatur.
 license: CC BY-NC 4.0
 author:
 - name: Elise Voerkel
@@ -28,7 +29,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band5/chapter/324
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/1011
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/1997
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -40,7 +41,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Die Sattelzeit entwickelt neue Massstäbe für Familie und Gesellschaft. Diese trennen nicht nur das öffentliche vom privaten Leben. Sie legen auch die Rollen der Geschlechter und Lebensalter fest. So gehört zum Erwachsenwerden bürgerlicher Jugendlicher, dass sie an der Schreibkultur von Briefen und Tagebüchern teilhaben. Das gehobene Bürgertum pflegt ein Familienideal, das es von anderen sozialen Schichten abgrenzen soll. Dies geschieht mittels einer ausgefeilten Geselligkeit oder der besonderen Aufmerksamkeit für gegenseitige Gefühle. Eine bürgerliche Existenz muss viele Erwartungen erfüllen. Im Gegensatz dazu steht das Leben von Niggi Münch und Bobbi Keller. Es zeigt, wie zwei nonkonforme Menschen sich gesellschaftlich einbinden. Dies findet statt, bevor die beiden zu ‹Stadtoriginalen› popularisiert werden. Sie verschwinden im Lauf des 19. Jahrhundert hinter ihrer Karikatur.</p>
+
 <h2>Aus guter Familie: Erziehung, Beziehungen und bürgerliche Tugenden</h2>
 <p>«Eine natürliche Folge der eigensinnigen Zusammenziehung der Familien eines kleinen Staats oder einer Stadt in ihren eigenen Kreis, ist gemeiniglich diese, dass sie bald alle mit einander verwandt oder verbunden werden. Der ganze Staat oder die Stadt machen gleichsam Eine einzige große Familie aus, die durch nähere oder entferntere Gelenke zusammen hängt.»<sup id="ref-fn1"><a href="#fn1">1</a></sup> Der Autor dieser Zeilen, der Publizist und Prinzenerzieher Christian Hirschfeld, hatte im Sommer 1784 oder 1785 Basel besucht und anschliessend eine kurze Beschreibung der Stadt und ihrer Bewohnerinnen und Bewohner angefertigt. Seinem Bericht ist zu entnehmen, dass er in den besten Kreisen verkehrte, und so entging ihm nicht, dass die Familien der kleinen Basler Oberschicht durch enge verwandtschaftliche Beziehungen miteinander verwoben waren. Diese familiären Allianzen erwiesen sich in Basel jahrhundertelang als erstaunlich stabil und wurden von Generation zu Generation weitergeführt. Besonders gut lässt sich das anhand der Eheschliessungen nachvollziehen, aber Heiratsallianzen bildeten nur eine von vielen Beziehungsformen, die die Mitglieder der Basler Elite aneinanderbanden. Auch Patenschaften und besonders die gegenseitige Unterstützung bei der Kinderbetreuung halfen, die Familienbande zu festigen und mit Leben zu füllen. Die von Christian Hirschfeld am Ende des 18. Jahrhunderts beobachtete Konzentration der politischen und ökonomischen Macht in einem kleinen Kreis ratsfähiger Familien hatte schon deutlich früher begonnen. Im 18. und 19. Jahrhundert nahm die Verdichtung der verwandtschaftlichen Beziehungen sogar noch weiter zu. Nachdem in der Helvetik das Verbot einer Eheschliessung zwischen Cousins und Cousinen aufgehoben worden war, stieg die Zahl solcher Ehen bis zur Mitte des 19. Jahrhunderts merklich an.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Aber auch schon vor der Legalisierung und trotz der damit verbundenen Sanktionen waren Hochzeiten unter ‹Geschwisterkindern› in der Basler Oberschicht hin und wieder vorgekommen. Auch bei der Wahl der Taufpatinnen und Taufpaten lässt sich eine Verdichtung der Verwandtschaftskreise beobachten: Zwar hatten schon zu Beginn des 18. Jahrhunderts alle Kinder des Johann Jakob Iselin-Elbs mindestens einen Verwandten unter ihren Paten, er selbst war jedoch mit den meisten seiner Patenkinder nicht verwandt. Christoph Burckhardt-Bachofen hingegen notierte hundert Jahre später nur (Gross-)Neffen als Patenkinder.<sup id="ref-fn3"><a href="#fn3">3</a></sup></p>
 <aside>

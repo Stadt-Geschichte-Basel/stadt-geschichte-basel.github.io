@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 5
 doi: 10.21255/sgb-01.05-896299
+abstract: 'Seuchen, Klimaverschlechterungen, politische Unruhen und kriegerische Auseinandersetzungen waren vermutlich der Grund, warum es zwischen dem 4. und 6. Jahrhundert n. Chr. in weiten Teilen der heutigen Schweiz zu einem Bevölkerungsrückgang kam. Die interdisziplinären, archäologischen Forschungen der letzten Jahrzehnte ermöglichen es, auch in der Region Basel einschneidende Veränderungen in der Siedlungslandschaft nachzuzeichnen. Im Frühmittelalter vermischten sich hier die verschiedensten kulturellen Traditionen: Neben ehemals keltischen und gallo-römischen Bewohner:innen prägten neu hinzukommende germanische Einflüsse den Alltag. Die etwa vierhundert Jahre umfassende Epoche war von vielen Umbrüchen und Wechseln in einer mobilen Gesellschaft bestimmt, die sich mehrfach überregional, regional und lokal an neue Gegebenheiten in Politik, Handel und Umwelt anpassen musste.'
 license: CC BY-NC 4.0
 author:
 - name: Margaux Depaermentier
@@ -28,7 +29,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band1/chapter/287
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/812
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/2047
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -40,7 +41,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Seuchen, Klimaverschlechterungen, politische Unruhen und kriegerische Auseinandersetzungen waren vermutlich der Grund, warum es zwischen dem 4. und 6. Jahrhundert n. Chr. in weiten Teilen der heutigen Schweiz zu einem Bevölkerungsrückgang kam. Die interdisziplinären, archäologischen Forschungen der letzten Jahrzehnte ermöglichen es, auch in der Region Basel einschneidende Veränderungen in der Siedlungslandschaft nachzuzeichnen. Im Frühmittelalter vermischten sich hier die verschiedensten kulturellen Traditionen: Neben ehemals keltischen und gallo-römischen Bewohner:innen prägten neu hinzukommende germanische Einflüsse den Alltag. Die etwa vierhundert Jahre umfassende Epoche war von vielen Umbrüchen und Wechseln in einer mobilen Gesellschaft bestimmt, die sich mehrfach überregional, regional und lokal an neue Gegebenheiten in Politik, Handel und Umwelt anpassen musste.</p>
+
 <h2>Vom spätantiken Basilia zum frühmittelalterlichen Bazela</h2>
 <p>Basilia wird erstmals im Jahr 374 n. Chr. in den Annalen des Ammianus Marcellinus erwähnt. Danach schweigen die Schriftquellen für lange Zeit. Erst in einem Werk um 700, dessen unbekannten Autor man den ‹Geografen von Ravenna› nennt, begegnet uns Basel als Bazela wieder. Die dazwischenliegenden Jahrhunderte, das Frühmittelalter, wurden lange als ‹dunkle Zeit› wahrgenommen, die von einem kulturellen und wirtschaftlichen Niedergang geprägt gewesen sei.<sup id="ref-fn1"><a href="#fn1">1</a></sup></p>
 <p>Dieser Eindruck entstand nicht nur aufgrund der ungünstigen klimatischen Bedingungen im Frühmittelalter.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Er beruht vor allem darauf, dass die Forschung bestimmten Ereignissen früher eine andere Bedeutung zumass als heute. Dazu gehören der Zusammenbruch des Weströmischen Reichs (historisch gesehen mit dem Fall Roms im Jahr 476), die damit verbundene Auflösung der römischen Provinzverwaltung sowie die Entstehung und Ausbreitung des fränkischen Reichs ab dem frühen 6. Jahrhundert. Als dessen Gründer Chlodwig I. (466–511) im Jahre 511 starb, wurde das Territorium und somit die Macht unter seinen vier Söhnen Theuderich (reg. 511–533), Chlodomer (reg. 511–524), Childebert (reg. 511–558) und Chlothar (reg. 511–561) aufgeteilt. Trotzt interner Konflikte schafften sie es, den fränkischen Herrschaftsbereich zu vergrössern. Im Zuge der Expansion nach Osten und Südwesten fiel das Gebiet der heutigen Schweiz in den 540er-Jahren an das ostfränkische Teilreich. Die Westschweiz bis zur Aare gehörte später zum burgundischen Teilreich (ab ca. 570). Die neuen fränkischen Herrscher setzten Verwaltungsbeamte ein, die in den städtischen Zentren wie Basel, Zürich, Lausanne und Genf residierten und dem Christentum zum Durchbruch verhalfen.</p>

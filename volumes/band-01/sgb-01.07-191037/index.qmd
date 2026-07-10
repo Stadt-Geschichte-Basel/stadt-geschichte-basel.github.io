@@ -25,7 +25,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band1/chapter/289
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/810
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/2049
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified

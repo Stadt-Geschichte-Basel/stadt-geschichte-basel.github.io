@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 3
 doi: 10.21255/sgb-07.03-539723
+abstract: 'Durch Basel fliessen der Rhein, Waren und Rohstoffe: Zu Beginn des Jahrhunderts wurden wirtschaftliche Verbindungen ausgebaut und die Grenzstadt als Knotenpunkt im Netz des Welthandels gestärkt, doch Kriege und Krisen unterbrachen Waren- und Geldströme. In diesen Zeiten wurde, wer arm war, ärmer, und wer die Landesgrenze überqueren wollte, musste sich ausweisen. So wurde, wer von aussen kam, der Steuerung des Arbeitsmarkts unterworfen. Der Erste Weltkrieg förderte den nationalen und lokalen Willen zur Autarkie. Zugleich wurde Basel auch zum Standort der ‹Bank für Internationalen Zahlungsausgleich› – und für die junge chemisch-pharmazeutische Industrie wurde die Welt zum Markt. Basel entwickelte sich zur Chemiestadt. Trotz der Mechanisierung in Industrie und Gewerbe wuchs die Zahl der Beschäftigten. Gleichzeitig bot der sich entfaltende Dienstleistungssektor neue Stellen. Wo und ob Frauen arbeiten durften, blieb Thema von Debatten und Anlass für Verbote. Zögerlich öffneten sich Grenzen nach dem Zweiten Weltkrieg, Rock’n’Roll sprengte sie. Die langsam steigenden Löhne markierten das Ende der Knappheit und den Beginn der Konsumgesellschaft.'
 license: CC BY-NC 4.0
 author:
 - name: Isabel Koellreuter
@@ -27,7 +28,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band7/chapter/345
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band7/82/945
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band7/82/1981
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -39,7 +40,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Durch Basel fliessen der Rhein, Waren und Rohstoffe: Zu Beginn des Jahrhunderts wurden wirtschaftliche Verbindungen ausgebaut und die Grenzstadt als Knotenpunkt im Netz des Welthandels gestärkt, doch Kriege und Krisen unterbrachen Waren- und Geldströme. In diesen Zeiten wurde, wer arm war, ärmer, und wer die Landesgrenze überqueren wollte, musste sich ausweisen. So wurde, wer von aussen kam, der Steuerung des Arbeitsmarkts unterworfen. Der Erste Weltkrieg förderte den nationalen und lokalen Willen zur Autarkie. Zugleich wurde Basel auch zum Standort der ‹Bank für Internationalen Zahlungsausgleich› – und für die junge chemisch-pharmazeutische Industrie wurde die Welt zum Markt. Basel entwickelte sich zur Chemiestadt. Trotz der Mechanisierung in Industrie und Gewerbe wuchs die Zahl der Beschäftigten. Gleichzeitig bot der sich entfaltende Dienstleistungssektor neue Stellen. Wo und ob Frauen arbeiten durften, blieb Thema von Debatten und Anlass für Verbote. Zögerlich öffneten sich Grenzen nach dem Zweiten Weltkrieg, Rock’n’Roll sprengte sie. Die langsam steigenden Löhne markierten das Ende der Knappheit und den Beginn der Konsumgesellschaft.</p>
+
 <h2>Zeit des Wassers: Hafen und Handel</h2>
 <p>Die Männer aus Politik und Wirtschaft, die sich am Abend des 9. Mai 1911 im grossen Saal der Safranzunft einfanden, waren der Einladung der ‹Handelskammer des Basler Handels- und Industrie-Vereins› gefolgt. Rudolf Gelpke, in der Region als leidenschaftlicher Schifffahrtspionier und Verkehrsexperte bekannt, und sein angekündigter Vortrag zur ‹Bedeutung des Badischen Bahnhofs› hatten grosse Anziehungskraft, der Anlass war sehr gut besucht.<sup id="ref-fn1"><a href="#fn1">1</a></sup></p>
 <p>Mit dem Ausbau des Bahnknotenpunkts Basel-Weil stand im Nordwesten der Stadt auf schweizerischem wie auch deutschem Boden das bis anhin teuerste und imposanteste Eisenbahnprojekt der Badischen Staatsbahn kurz vor dem Abschluss. Von diesem Grossprojekt ausgehend gelte es, so Gelpke, Basel zum «bedeutenste[n] Brennpunkt des Binnenverkehrs von Centraleuropa» weiter zu entwickeln. Denn Basel sei nun für die Schweiz, was «Hamburg für Norddeutschland, […] Genua für Italien»: nämlich das Tor zur Welt.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Durch dieses bewege «sich der Grossverkehr nach und durch die Schweiz», und dafür brauche es rechtsrheinisch einen grossen Hafen.</p>

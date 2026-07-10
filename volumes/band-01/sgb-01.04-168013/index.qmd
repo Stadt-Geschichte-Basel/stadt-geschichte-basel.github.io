@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 4
 doi: 10.21255/sgb-01.04-168013
+abstract: 'Roms Aufstieg zur Weltmacht hat die eisenzeitlichen Kulturen Europas nachhaltig verändert: von der Wirtschaft über die Schrift bis zur Kunst. Unter dem Einfluss der neuen Provinzen wandelte sich die römische Kultur. Rom war ein Stadtstaat, der sich zu einem multikulturellen Imperium entwickelte, ein Reich unterschiedlichster lokaler Ausprägungen mit einem einheitlichen Währungssystem, dessen relative Sicherheit seine Bewohner:innen dazu einlud, sich in anderen Gegenden niederzulassen. Trotz seiner zweifellos integrativen Fähigkeiten ging es letztendlich an regionalen Autonomieansprüchen, Machtgier und seiner Grösse unter. Was rückblickend wie das Scheitern der ersten europäischen Grossmacht erscheint, war eine lange Geschichte voller Gegensätze: Sklaverei und die modern anmutende soziale Mobilität, Tyrannei und das Ringen um demokratische Aspekte in der Politik, rücksichtslose Kriegsführung und Offenheit gegenüber den Kulturen der unterworfenen Gemeinschaften, religiöse Toleranz und barbarische Verfolgung – all das sind Facetten dieses antiken Staates, der so nah und doch fremd erscheint.'
 license: CC BY-NC 4.0
 author:
 - name: Markus Asal
@@ -29,7 +30,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band1/chapter/286
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/813
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/2046
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -41,7 +42,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Roms Aufstieg zur Weltmacht hat die eisenzeitlichen Kulturen Europas nachhaltig verändert: von der Wirtschaft über die Schrift bis zur Kunst. Unter dem Einfluss der neuen Provinzen wandelte sich die römische Kultur. Rom war ein Stadtstaat, der sich zu einem multikulturellen Imperium entwickelte, ein Reich unterschiedlichster lokaler Ausprägungen mit einem einheitlichen Währungssystem, dessen relative Sicherheit seine Bewohner:innen dazu einlud, sich in anderen Gegenden niederzulassen. Trotz seiner zweifellos integrativen Fähigkeiten ging es letztendlich an regionalen Autonomieansprüchen, Machtgier und seiner Grösse unter. Was rückblickend wie das Scheitern der ersten europäischen Grossmacht erscheint, war eine lange Geschichte voller Gegensätze: Sklaverei und die modern anmutende soziale Mobilität, Tyrannei und das Ringen um demokratische Aspekte in der Politik, rücksichtslose Kriegsführung und Offenheit gegenüber den Kulturen der unterworfenen Gemeinschaften, religiöse Toleranz und barbarische Verfolgung – all das sind Facetten dieses antiken Staates, der so nah und doch fremd erscheint.</p>
+
 <h2>Roms Werden und Scheitern: Eine Grossmacht am Scheideweg</h2>
 <p>Von der Ausrufung der Republik bis zum ersten Kaiser Roms vergingen fast fünfhundert Jahre. Die Römische Republik vereinte aristokratische und demokratische Elemente. Senat und Volksversammlung waren für die Gesetzgebung zuständig und kontrollierten die Amtsträger. Mit der Zeit hatten sich Regeln und Strukturen gebildet, die einer Verfassung entsprachen, von denen aber nur die wichtigsten verschriftlicht wurden. Unser Bild der Republik ist vor allem von der Zeit zwischen 133 und 27 v. Chr. bestimmt. Innerhalb von 70 Jahren hatte Rom zahlreiche Provinzen erobert und beherrschte das Mittelmeer. Der rasante Aufstieg hatte seinen Preis: Strukturell war der einstige Stadtstaat nicht in der Lage, den neuen Herausforderungen zu begegnen, ohne das politische System zu schwächen. Ab 133 v. Chr. bis zum Untergang der Republik durchlebte Rom daher schwere, andauernde Krisen.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Berühmte Politiker wie die Gracchen, Marius, Sulla und Caesar beeinflussten die Entwicklungen, die zum Ende der Republik führten. Mit unlauteren Mitteln setzten sie Reformen durch oder versuchten es zumindest und eigneten sich durch Verfassungsbrüche politische Macht an.</p>
 <p>Die Verarmung der Kleinbauern war Auslöser für einen Reformversuch mit fatalen Folgen. Da Bauern zum Militärdienst verpflichtet waren, konnten einige ihre Landgüter nicht mehr regelmässig bewirtschaften. Grossgrundbesitzer, die durch Kriegsbeute noch reicher geworden waren, erwarben das Land der Kleinbauern und machten daraus riesige Latifundien. Tiberius S. Gracchus, Spross einer der angesehensten Familien Roms, schlug daher 133 v. Chr. vor, Grossgrundbesitz zu begrenzen. So sozial diese Bodenreform anmutet, Gracchus wollte damit seine politische Popularität stärken. Da seine Bestrebungen bei der vermögenden Elite auf Widerstand stiessen, schreckte er nicht davor zurück, sein Ziel auch auf gesetzeswidrigen Wegen zu erreichen. Er wurde wegen Verfassungsbruch angeklagt und ermordet; ähnlich erging es seinem Bruder. Doch die Durchsetzung politischer Ziele wider die Verfassung fand Nachahmer. Die Fronten zwischen ‹Popularen› und ‹Optimaten›, die den Einfluss des Senats wahren wollten, verhärteten sich.</p>

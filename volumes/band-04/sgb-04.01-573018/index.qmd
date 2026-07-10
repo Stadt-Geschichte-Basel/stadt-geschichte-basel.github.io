@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 1
 doi: 10.21255/sgb-04.01-573018
+abstract: 'Den Beginn des 16. Jahrhunderts erlebten die Baslerinnen und Basler als Zeit der Um- und Aufbrüche. Basel trat 1501 der Eidgenossenschaft bei und orientierte sich in den folgenden Jahrzehnten zunehmend in Richtung der neuen Bündnispartner. Gleichzeitig änderte sich das geistige Klima in der Stadt, die Teil einer intellektuell pulsierenden Region am Oberrhein war. An der Universität und in den Druckereien, in Briefwechseln und Publikationen versuchten Gelehrte das Verhältnis von Mensch, Gott und Welt neu zu bestimmen. In diesen Kreisen fielen seit den frühen 1520er-Jahren die reformatorischen Ideen von Martin Luther auf fruchtbaren Boden. Diese bewegten bald auch jenseits der Gelehrtenwelt die Gemüter und führten zu politischen und sozialen Spannungen, die 1529 in einem Bildersturm und dem Bekenntnis der Stadt zur Reformation kulminierten. Die Folgen dieses Umbruchs prägten Basel bis ans Ende des Jahrhunderts: Neue Frömmigkeitspraktiken bestimmten das religiöse Leben, in der städtischen Politik verschoben sich die Machtverhältnisse, und das soziale und wirtschaftliche Gefüge wurde neu austariert.'
 license: CC BY-NC 4.0
 author:
 - name: Marcus Sandl
@@ -28,7 +29,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band4/chapter/313
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band4/80/886
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band4/80/2009
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -40,7 +41,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Den Beginn des 16. Jahrhunderts erlebten die Baslerinnen und Basler als Zeit der Um- und Aufbrüche. Basel trat 1501 der Eidgenossenschaft bei und orientierte sich in den folgenden Jahrzehnten zunehmend in Richtung der neuen Bündnispartner. Gleichzeitig änderte sich das geistige Klima in der Stadt, die Teil einer intellektuell pulsierenden Region am Oberrhein war. An der Universität und in den Druckereien, in Briefwechseln und Publikationen versuchten Gelehrte das Verhältnis von Mensch, Gott und Welt neu zu bestimmen. In diesen Kreisen fielen seit den frühen 1520er-Jahren die reformatorischen Ideen von Martin Luther auf fruchtbaren Boden. Diese bewegten bald auch jenseits der Gelehrtenwelt die Gemüter und führten zu politischen und sozialen Spannungen, die 1529 in einem Bildersturm und dem Bekenntnis der Stadt zur Reformation kulminierten. Die Folgen dieses Umbruchs prägten Basel bis ans Ende des Jahrhunderts: Neue Frömmigkeitspraktiken bestimmten das religiöse Leben, in der städtischen Politik verschoben sich die Machtverhältnisse, und das soziale und wirtschaftliche Gefüge wurde neu austariert.</p>
+
 <h2>Kontaktzone und Spannungsfeld: Basel zu Beginn der Frühen Neuzeit</h2>
 <p>Die Stadt Basel war am Beginn der Frühen Neuzeit ein klar umgrenzter und strukturierter Raum. Dies veranschaulicht die rechte Hälfte einer zweiteiligen, grossformatigen, kolorierten Karte, die der berühmte Basler Kosmograf Sebastian Münster (1488–1552) 1538 anfertigte. Hier wird die «Löblich und wyt berümpt» Stadt Basel als Raum gezeigt, der durch die mittelalterlichen Stadtmauern vom Umland getrennt ist. Innerhalb dieser Mauern ist ein Gewirr von Strassen, Gassen, Plätzen und Gebäuden abgebildet, insbesondere Kirchen und Klostergebäude, Stadtpalais, Geschäfte und Handwerkshäuser sind zu erkennen. Der städtische Raum unterscheidet sich gänzlich von der Landschaft ausserhalb der Mauern, die Münster auf der linken Bildhälfte darstellte. Dort dominieren Gewässer, Wiesen und Wälder, Hügelzüge, Rebberge und Ackerland, auf dem Getreideähren stehen.</p>
 <p>Trotz der durch die Mauer scheinbar klar markierten Grenze waren Stadt und Umland zugleich eng miteinander verwoben. Dies deutet Münster mit den Personen an, die durch das Riehentor oder via den Rhein die Stadt betreten oder sie verlassen. Tatsächlich waren die Stadt-Land-Beziehungen zu Beginn des 16. Jahrhunderts überaus vielfältig. Ein Teil der Landschaft stand seit dem 15. Jahrhundert unter Basler Herrschaft. Im frühen 16. Jahrhundert kaufte die Stadt nochmals einige kleine Gebiete hinzu. Mit anderen Orten war die Stadt über Burgrechte verbunden, darunter mit jenen Herrschaften, deren Wappen am rechten Bildrand dargestellt sind. Für die Versorgung der Stadt reichten diese Gebiete jedoch kaum aus, weshalb Basel auch mit Städten und Orten jenseits des eigenen Herrschaftsgebiets in engem Austausch stand. Die Tore der Stadt öffneten sich, so hatte sich Basel bereits 1501 den Eidgenossen angepriesen, zu den fruchtbaren Gebieten im Sundgau, Oberelsass und Breisgau hin.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Die Baslerinnen und Basler wussten genau, wie wichtig ihre Stadt als Warenumschlagplatz zwischen der Eidgenossenschaft und der oberrheinischen Tiefebene war. Nahrungsmittel, Holz und andere Güter wurden auf den Strassen oder auf dem Rhein nach Basel transportiert und von hier aus weiterverkauft.</p>

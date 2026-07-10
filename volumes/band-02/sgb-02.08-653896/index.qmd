@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 8
 doi: 10.21255/sgb-02.08-653896
+abstract: Der Bau der Rheinbrücke fällt in eine Zeit, in der die Herrschaftsfelder am Oberrhein neu geordnet wurden. Eine erste Unberechenbarkeit zeigte sich an der Spitze der weltlichen Macht. 1197 starb der staufische Kaiser Heinrich VI. Er war erst 32 Jahre alt und hinterliess einen dreijährigen Sohn. Das Heilige Römische Reich war eine Wahlmonarchie, und in den folgenden Jahren stritten sich die Grossen des Reiches um die Nachfolge. Diese Situation verunsicherte die Bischöfe in Basel und Strassburg. Wer war zuständig, um ihnen ihre weltlichen Herrschaftsrechte (regalia) zu verleihen? Was geschah, wenn die Bürgerschaft einen fürstlichen Rivalen bevorzugte? Die städtische Gesellschaft in Basel formierte sich neu. Ein Graben öffnete sich zwischen dem geistlichen Stadtherrn und den Laien, die nun ihre Rechte beanspruchten. Ihnen sollten das weltliche Schwert und die Mitsprache beim städtischen Regiment zustehen. Ein erster Höhepunkt dieses Konflikts, der bis zur Reformation die Geschichte Basels prägte, war die Eroberung und Zerstörung des Bischofshofs im Jahr 1247.
 license: CC BY-NC 4.0
 author:
 - name: Claudius Sieber-Lehmann
@@ -29,7 +30,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2/chapter/299
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/856
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/2039
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -41,7 +42,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Der Bau der Rheinbrücke fällt in eine Zeit, in der die Herrschaftsfelder am Oberrhein neu geordnet wurden. Eine erste Unberechenbarkeit zeigte sich an der Spitze der weltlichen Macht. 1197 starb der staufische Kaiser Heinrich VI. Er war erst 32 Jahre alt und hinterliess einen dreijährigen Sohn. Das Heilige Römische Reich war eine Wahlmonarchie, und in den folgenden Jahren stritten sich die Grossen des Reiches um die Nachfolge. Diese Situation verunsicherte die Bischöfe in Basel und Strassburg. Wer war zuständig, um ihnen ihre weltlichen Herrschaftsrechte <em>(regalia)</em> zu verleihen? Was geschah, wenn die Bürgerschaft einen fürstlichen Rivalen bevorzugte? Die städtische Gesellschaft in Basel formierte sich neu. Ein Graben öffnete sich zwischen dem geistlichen Stadtherrn und den Laien, die nun ihre Rechte beanspruchten. Ihnen sollten das weltliche Schwert und die Mitsprache beim städtischen Regiment zustehen. Ein erster Höhepunkt dieses Konflikts, der bis zur Reformation die Geschichte Basels prägte, war die Eroberung und Zerstörung des Bischofshofs im Jahr 1247.</p>
+
 <h2>Das 13. Jahrhundert: Unerwartete Konflikte</h2>
 <p>Der Basler Bischof Lüthold I. von Aarburg (reg. 1191−1213) stand zwischen den Parteien.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Er empfing einerseits 1207 König Philipp in Basel und traf ihn 1208 in Strassburg.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Nach dessen Ermordung besuchte er 1209 die Hoftage des welfischen Rivalen Otto IV. und erhielt die Bestätigung der Privilegien.<sup id="ref-fn3"><a href="#fn3">3</a></sup> 1212 kam der staufische König Friedrich II. nach Basel, und Lüthold schloss sich nun ihm an.<sup id="ref-fn4"><a href="#fn4">4</a></sup> 1214 und 1219 weilte Friedrich II. erneut in Basel.<sup id="ref-fn5"><a href="#fn5">5</a></sup> Bischof Lütholds Nachfolger Heinrich II. von Thun (reg. ca. 1216−1238) setzte diese Beziehungen fort.<sup id="ref-fn6"><a href="#fn6">6</a></sup> Friedrich II. bestätigte 1218 die bischöflichen Rechte, und der geistliche Stadtherr durfte eine Steuer, das <em>ungeld</em>, erheben. Zudem hob der König den bestehenden Rat auf und machte dessen Wiedereinführung von der Zustimmung des Bischofs abhängig, wie er dies bereits 1214 in Strassburg getan hatte.<sup id="ref-fn7"><a href="#fn7">7</a></sup> In beiden Städten liess Friedrich II. aber wenige Jahre später den Rat wieder zu.</p>
 <p>Die aufsehenerregende und endgültige Absetzung Kaiser Friedrichs II. durch den Papst veränderte 1245 die bestehenden Machtverhältnisse überall im Reich. Der Zeitraum bis 1273 wird deshalb bis heute als Übergangszeit, als «Zwischenkönigtum» (Interregnum), bezeichnet.<sup id="ref-fn8"><a href="#fn8">8</a></sup> Inwiefern es sich dabei um eine Krisenzeit handelte und ob diese Epochenbezeichnung zutrifft, ist in der Forschung allerdings umstritten.<sup id="ref-fn9"><a href="#fn9">9</a></sup> Auf jeden Fall verschlechterte die neue Unübersichtlichkeit die Stellung der Basler Bischöfe.<sup id="ref-fn10"><a href="#fn10">10</a></sup> Erneut stellte sich die Frage, wer von den nachfolgenden Gegenkönigen ihnen nun die Privilegien gewähren würde. Als Geistliche mussten die Bischöfe sich zwangsläufig demjenigen Reichsoberhaupt anschliessen, das vom Papst unterstützt wurde.</p>

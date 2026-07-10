@@ -68,6 +68,7 @@ class Record:
     pdf_url: str | None = None
     firstpage: str | None = None
     lastpage: str | None = None
+    abstract: str | None = None
     body_html: str | None = None
 
 
@@ -142,19 +143,52 @@ def fetch_minimal_html(client: httpx.Client, rec: Record, source: Path | None = 
     endnotes = body.find("section", attrs={"role": "doc-endnotes"})
     if endnotes is not None and endnotes.h2 is not None:
         endnotes.h2.decompose()
+    # Promote the chapter's lead paragraph to the `abstract:` metadata field so
+    # Quarto renders it in the title block (labelled «Zusammenfassung») instead
+    # of as an oversized paragraph at the top of the body.
+    lead = body.find("p", class_="lead")
+    if lead is not None:
+        text = " ".join(lead.get_text().split())
+        if text:
+            rec.abstract = text
+        lead.decompose()
     rec.body_html = "\n".join(
         child.decode() for child in body.children if child.name is not None
     ).strip()
 
 
-def scrape_pdf_url(client: httpx.Client, rec: Record) -> None:
-    soup = BeautifulSoup(get(client, rec.landing_url).text, "lxml")
+PDF_HREF_RE = re.compile(r"href:\s*(\S+/catalog/download/\S+)")
+
+
+def scrape_pdf_url(client: httpx.Client, rec: Record, out_root: Path) -> None:
+    try:
+        resp = get(client, rec.landing_url)
+    except httpx.HTTPStatusError as exc:
+        # emono landing pages occasionally 5xx transiently. A single flaky page
+        # must not fail the whole run or silently drop a working download link,
+        # so on a server error we keep the link already committed for this page.
+        if exc.response.status_code >= 500:
+            rec.pdf_url = existing_pdf_url(out_root, rec)
+            note = f"reusing committed link ({rec.pdf_url})" if rec.pdf_url else "no PDF link"
+            print(f"  emono {exc.response.status_code} for {rec.landing_url}; {note}", file=sys.stderr)
+            return
+        raise
+    soup = BeautifulSoup(resp.text, "lxml")
     for a in soup.find_all("a", class_="cmp_download_link"):
         if a.get_text(strip=True) == "PDF" and a.get("href"):
             # Resolve relative hrefs against the landing page before rewriting.
             href = urljoin(rec.landing_url, a["href"])
             rec.pdf_url = href.replace("/catalog/view/", "/catalog/download/")
             return
+
+
+def existing_pdf_url(out_root: Path, rec: Record) -> str | None:
+    """PDF download link from the already-committed chapter page, if any."""
+    page = out_root / f"band-{rec.volume:02d}" / rec.suffix / "index.qmd"
+    if not page.exists():
+        return None
+    m = PDF_HREF_RE.search(page.read_text(encoding="utf-8"))
+    return m.group(1) if m else None
 
 
 def frontmatter(data: dict) -> str:
@@ -216,6 +250,8 @@ def chapter_qmd(rec: Record, volume: Record) -> str:
         "order": rec.chapter,
         "doi": rec.doi,
     }
+    if rec.abstract:
+        fm["abstract"] = rec.abstract
     if rec.license_id in LICENSE_LABELS:
         fm["license"] = LICENSE_LABELS[rec.license_id]
     fm["author"] = author_block(rec.creators)
@@ -375,7 +411,7 @@ def main() -> int:
             print(f"[{i}/{len(chapters)}] {rec.doi}", file=sys.stderr)
             fetch_datacite(client, rec)
             fetch_minimal_html(client, rec, source=args.source)
-            scrape_pdf_url(client, rec)
+            scrape_pdf_url(client, rec, out_root)
 
     for rec in chapters:
         page_dir = out_root / f"band-{rec.volume:02d}" / rec.suffix

@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 6
 doi: 10.21255/sgb-02.06-669397
+abstract: Einige Städte, die zum Römischen Reich gehört hatten, konnten nach der Auflösung des Imperium Romanum weiterbestehen, andere zerfielen völlig. Mit den geänderten Rahmenbedingungen des 11. und 12. Jahrhunderts ergab sich die Möglichkeit, städtische Lebensformen zu beleben oder Städte neu zu gründen. Anders als in der Antike handelte es sich dabei um urbane Räume, die lokal verankert waren und durch fürstliche Privilegien ermöglicht wurden. Diese Gemeinwesen standen in einem Gegensatz zur überwiegend ländlichen Lebenswelt und wirkten zu Beginn wie Fremdkörper. Mit ihren Mauern erzeugten sie ein räumliches Aussen und Innen. Sehr bald erwiesen sich die Städte als Orte, an denen ein erfolgreicher wirtschaftlicher Austausch möglich war und neue Formen des Zusammenlebens erprobt werden konnten. Die Städte verfügten jedoch keineswegs über völlige Unabhängigkeit.
 license: CC BY-NC 4.0
 author:
 - name: Claudius Sieber-Lehmann
@@ -29,7 +30,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2/chapter/297
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/858
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/2037
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -41,7 +42,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Einige Städte, die zum Römischen Reich gehört hatten, konnten nach der Auflösung des Imperium Romanum weiterbestehen, andere zerfielen völlig. Mit den geänderten Rahmenbedingungen des 11. und 12. Jahrhunderts ergab sich die Möglichkeit, städtische Lebensformen zu beleben oder Städte neu zu gründen. Anders als in der Antike handelte es sich dabei um urbane Räume, die lokal verankert waren und durch fürstliche Privilegien ermöglicht wurden. Diese Gemeinwesen standen in einem Gegensatz zur überwiegend ländlichen Lebenswelt und wirkten zu Beginn wie Fremdkörper. Mit ihren Mauern erzeugten sie ein räumliches Aussen und Innen. Sehr bald erwiesen sich die Städte als Orte, an denen ein erfolgreicher wirtschaftlicher Austausch möglich war und neue Formen des Zusammenlebens erprobt werden konnten. Die Städte verfügten jedoch keineswegs über völlige Unabhängigkeit.</p>
+
 <h2>Der Aufschwung der Städte</h2>
 <p>Das Ende des Römischen Reichs im 5. Jahrhundert nach Christus liess in unserer Region auch die städtische Kultur verschwinden.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Nur in einzelnen Bischofssitzen wie in Strassburg oder Genf blieben Reste einer urbanen Siedlung bestehen.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Klimaverbesserung, gesteigerte Erträge der Landwirtschaft und Bevölkerungszunahme ermöglichten seit dem 11. Jahrhundert erneut eine städtische Siedlungsweise.<sup id="ref-fn3"><a href="#fn3">3</a></sup> Die Sterblichkeit in den vormodernen Städten war hoch, sodass sie auf Zuwanderung angewiesen waren. Gleichzeitig musste eine zuverlässige Versorgung mit Nahrungsmitteln garantiert sein, damit die auf engem Raum lebenden Menschen überleben konnten.<sup id="ref-fn4"><a href="#fn4">4</a></sup></p>
 <p>Die westeuropäische Stadt, wie sie im Hochmittelalter entstand, ist ein bemerkenswertes historisches Phänomen.<sup id="ref-fn5"><a href="#fn5">5</a></sup> Sie erfüllte und vereinte eine Vielzahl von Aufgaben: Sie ermöglichte mit ihren Märkten den Warentausch, förderte die Geld-und Kreditwirtschaft, verfügte über einen eigenen Rechtsbereich, entwickelte Verwaltung sowie Schriftlichkeit und verdichtete das religiöse sowie soziale Leben ihrer Einwohner:innen. Wer in einer Stadt lebte, fühlte sich einer grösseren Gemeinschaft verpflichtet. Alljährlich leistete die Bevölkerung einen Eid, der das Zusammenleben und die Wahrung des Friedens innerhalb der Mauern regeln sollte. Dabei wurde von einer Körperschaft <em>(universitas)</em> ausgegangen, die den städtischen Schutz genoss.<sup id="ref-fn6"><a href="#fn6">6</a></sup> Zu ihr gehörten alle drei Stände (vgl. S. 192), und in der Theorie umfasste sie alle Schichten; so kannten viele Städte auch stadteigene Bettler:innen.<sup id="ref-fn7"><a href="#fn7">7</a></sup> Das verhinderte aber nicht, dass es auch in den Städten ein grosses Machtgefälle gab. Zudem bestand häufig ein Spannungsverhältnis zwischen dem Stadtherrn (Bischof, König, Fürst) und den städtischen Führungsgruppen.</p>

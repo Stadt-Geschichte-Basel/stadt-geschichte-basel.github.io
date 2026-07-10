@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 3
 doi: 10.21255/sgb-01.03-840481
+abstract: 'Namensgebend für die Eisenzeit ist die breite Verwendung von Eisen. In ihrem frühen Abschnitt entwickelten sich am Oberrhein erste proto-urbane Gesellschaften. Am Beginn einer Krise, die bis ins 4. und 3. Jahrhundert v. Chr. andauern sollte, wurden die sogenannten Fürstensitze aufgegeben. Doch auf diesen Einschnitt folgte umgehend ein Jahrhundert der Prosperität: In wenigen Jahrzehnten entstanden unbefestigte Grosssiedlungen. Mit der Fundstelle Basel-Gasfabrik gab es erstmals auch am Rheinknie ein solches Zentrum. Intensive Handelskontakte brachten mediterranen Luxus. Das Handwerk blühte. Zu Beginn des 1. Jahrhunderts v. Chr. erschütterten jedoch tiefgreifende Veränderungen die Region. Sukzessive wurden Zentralorte aufgegeben. Stattdessen suchte man geschützte Standorte auf und befestigte sie. Damit waren die oppida entstanden, zu denen auch die Siedlung auf dem Basler Münsterhügel zählte. Sie legte den Grundstein für die späteren Entwicklungen im Kern der Basler Altstadt.'
 license: CC BY-NC 4.0
 author:
 - name: Johannes Wimmer
@@ -28,7 +29,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band1/chapter/285
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/814
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/2045
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -40,7 +41,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Namensgebend für die Eisenzeit ist die breite Verwendung von Eisen. In ihrem frühen Abschnitt entwickelten sich am Oberrhein erste proto-urbane Gesellschaften. Am Beginn einer Krise, die bis ins 4. und 3. Jahrhundert v. Chr. andauern sollte, wurden die sogenannten Fürstensitze aufgegeben. Doch auf diesen Einschnitt folgte umgehend ein Jahrhundert der Prosperität: In wenigen Jahrzehnten entstanden unbefestigte Grosssiedlungen. Mit der Fundstelle Basel-Gasfabrik gab es erstmals auch am Rheinknie ein solches Zentrum. Intensive Handelskontakte brachten mediterranen Luxus. Das Handwerk blühte. Zu Beginn des 1. Jahrhunderts v. Chr. erschütterten jedoch tiefgreifende Veränderungen die Region. Sukzessive wurden Zentralorte aufgegeben. Stattdessen suchte man geschützte Standorte auf und befestigte sie. Damit waren die <em>oppida</em> entstanden, zu denen auch die Siedlung auf dem Basler Münsterhügel zählte. Sie legte den Grundstein für die späteren Entwicklungen im Kern der Basler Altstadt.</p>
+
 <h2>Aus dem Dunkel der Vorgeschichte: Zentralsiedlungen und Schriftquellen</h2>
 <p>Kelten – so attraktiv und mystisch dieser Name klingt, so sehr verschleiert er die epochalen Veränderungen, die sich in den letzten Jahrhunderten vor Christi Geburt ereigneten: Landwirtschaftliche und handwerkliche Innovationen setzten sich durch; es entstanden arbeitsteilige, stratifizierte Gesellschaften; stadtähnliche Grosssiedlungen blühten auf. Ebenso fassen wir in den Texten griechischer und römischer Autoren zum ersten Mal einzelne Namen von Akteuren. Allerdings bergen solche Fremddarstellungen die Gefahr, dass unser Bild durch diese mediterrane Aussenwahrnehmung stark verzerrt wird. Archäologie und Alte Geschichte arbeiten deshalb Hand in Hand. Dank dieser gemeinsamen Forschungen treten ‹Kelten›, die auch am Oberrhein lebten, aus dem Dunkel der Vorgeschichte.</p>
 <p>In der Archäologie wird die Eisenzeit in einen älteren Abschnitt, die Hallstattzeit (8.–5. Jahrhundert v. Chr.), und einen jüngeren, die Latènezeit (5.–1. Jahrhundert v. Chr.), unterteilt. Beide Epochen sind nach Fundstellen benannt, die im 19. Jahrhundert entdeckt wurden; Letztere nach ‹La Tène› am Neuenburgersee. Zwei der wichtigsten Fundorte am Rheinknie, Basel-Gasfabrik und das <em>oppidum</em> auf dem heutigen Münsterhügel, datieren in diesen jüngeren Abschnitt. Die über hundertjährige Erforschung der Fundstellen füllt Archive und Bibliotheken. Aber nicht nur ihre forschungsgeschichtliche Bedeutung strahlt weit über die Region hinaus.</p>

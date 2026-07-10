@@ -29,7 +29,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2/chapter/291
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/864
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/2031
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified

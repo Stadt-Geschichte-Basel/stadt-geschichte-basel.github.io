@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 3
 doi: 10.21255/sgb-02.03-202164
+abstract: Der Basler Bischof Haito (reg. 805−823) hatte sich im Netzwerk der karolingischen Führungsschicht bewegt und auch einen ersten Münsterbau ermöglicht. Nun folgten tiefgreifende Umbrüche. Nach dem Tod Karls des Grossen wurde sein Erbe aufgeteilt; die einzelnen Reiche sahen sich zunehmend mit äusseren Bedrohungen konfrontiert. Die Ablösung der karolingischen Dynastie im 10. Jahrhundert ermöglichte dann das Nachrücken neuer Adelsfamilien. Im Reich übernahmen die Liudolfinger − später Ottonen genannt − die Herrschaft. Wurde das Jahr 1000 von den damaligen Menschen als Weltende oder als Beginn eines neuen Zeitalters gesehen? Die runde Jahreszahl bedeutet für die Geschichte Basels jedenfalls einen Neuanfang. Äussere Zeichen waren der Neubau des Münsters und die Entwicklung einer Siedlung am Fuss des Münsterhügels bei der Birsigmündung. Auf längere Sicht veränderte sich auch die räumliche Neuorientierung der Stadt. Zuvor lag sie am Rande des Königreichs Hochburgund, das sich von Besançon bis ins Wallis erstreckte und Gebiete in der heutigen Westschweiz umfasste. Nun verstärkten sich die Beziehungen zum Reich, und die Bischofsstadt wurde zur Drehscheibe verschiedener politischer und kultureller Einflüsse.
 license: CC BY-NC 4.0
 author:
 - name: Claudius Sieber-Lehmann
@@ -29,7 +30,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2/chapter/294
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/861
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/2034
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -41,7 +42,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Der Basler Bischof Haito (reg. 805−823) hatte sich im Netzwerk der karolingischen Führungsschicht bewegt und auch einen ersten Münsterbau ermöglicht. Nun folgten tiefgreifende Umbrüche. Nach dem Tod Karls des Grossen wurde sein Erbe aufgeteilt; die einzelnen Reiche sahen sich zunehmend mit äusseren Bedrohungen konfrontiert. Die Ablösung der karolingischen Dynastie im 10. Jahrhundert ermöglichte dann das Nachrücken neuer Adelsfamilien. Im Reich übernahmen die Liudolfinger − später Ottonen genannt − die Herrschaft. Wurde das Jahr 1000 von den damaligen Menschen als Weltende oder als Beginn eines neuen Zeitalters gesehen? Die runde Jahreszahl bedeutet für die Geschichte Basels jedenfalls einen Neuanfang. Äussere Zeichen waren der Neubau des Münsters und die Entwicklung einer Siedlung am Fuss des Münsterhügels bei der Birsigmündung. Auf längere Sicht veränderte sich auch die räumliche Neuorientierung der Stadt. Zuvor lag sie am Rande des Königreichs Hochburgund, das sich von Besançon bis ins Wallis erstreckte und Gebiete in der heutigen Westschweiz umfasste. Nun verstärkten sich die Beziehungen zum Reich, und die Bischofsstadt wurde zur Drehscheibe verschiedener politischer und kultureller Einflüsse.</p>
+
 <h2>Um 1000: Bischof Adalbero II.</h2>
 <p>Die Bedrohung durch die ungarischen Reiterschwärme verschwindet in der zweiten Hälfte des 10. Jahrhunderts und die Entwicklung des Bistums Basel wider-spiegelt die neu gewonnene Stabilität der Verhältnisse.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Bischof Adalbero II. (reg. 999–1025), von dem wir weder die Herkunft noch das genaue Datum seiner Wahl kennen, leitet einen Aufschwung ein, der sich unter seinen Nachfolgern fortsetzt. Gleichzeitig gewinnt die Situation Basels als Drehscheibe zwischen Oberrhein und dem Jura an Gewicht. Das Kloster Moutier-Grandval, die Teilhabe am Königreich Burgund und die Angliederung an das Reich binden Basel in grössere Räume ein. Neue Herrschaftszeichen belegen die Eingliederung in diese Machtzentren. Adalbero prägt die ersten bischöflichen Basler Münzen, und von ihm stammt das erste erhaltene Bischofssiegel.<sup id="ref-fn2"><a href="#fn2">2</a></sup></p>
 <h2>Kaiser Heinrich II., Burgund und Reich</h2>

@@ -6,6 +6,7 @@ categories:
 - Kapitel
 order: 8
 doi: 10.21255/sgb-05.08-142908
+abstract: Basel wird nach der Reformation zum zweiten Mal ein Zentrum der reformierten Gläubigkeit. Das ‹fromme Basel› – ein sowohl anerkennender als auch spöttischer Begriff – ist europaweit vernetzt. Seine Religiosität setzt sich mit der Aufklärung und dem Pietismus auseinander. Auch Endzeiterwartungen greifen in der ersten Hälfte des 19. Jahrhunderts um sich. Ab der Mitte des 19. Jahrhunderts vollzieht der reformierte Glauben einen Wandel. Dieser führt zum Einzug des theologischen Liberalismus in Basel und zur Bekenntnisfreiheit. Währenddessen kehrt die Stadt durch die katholisch-jüdische Immigration zur religiösen Vielfalt zurück. Die jüdische Gemeinde entwickelt sich aus dem Zusammenschluss weniger Familien ab 1800. Sie ist in den ersten sieben Jahrzehnten nur ein Provisorium. Rechtsunsicherheit und Intoleranz schränken jüdische Immigration sowie Kultur und Frömmigkeit stark ein.
 license: CC BY-NC 4.0
 author:
 - name: Thomas K. Kuhn
@@ -28,7 +29,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band5/chapter/330
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/1005
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/2003
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -40,7 +41,7 @@ date-modified: last-modified
 
 ````{=html}
 <div class="sgb-chapter">
-<p class="lead">Basel wird nach der Reformation zum zweiten Mal ein Zentrum der reformierten Gläubigkeit. Das ‹fromme Basel› – ein sowohl anerkennender als auch spöttischer Begriff – ist europaweit vernetzt. Seine Religiosität setzt sich mit der Aufklärung und dem Pietismus auseinander. Auch Endzeiterwartungen greifen in der ersten Hälfte des 19. Jahrhunderts um sich. Ab der Mitte des 19. Jahrhunderts vollzieht der reformierte Glauben einen Wandel. Dieser führt zum Einzug des theologischen Liberalismus in Basel und zur Bekenntnisfreiheit. Währenddessen kehrt die Stadt durch die katholisch-jüdische Immigration zur religiösen Vielfalt zurück. Die jüdische Gemeinde entwickelt sich aus dem Zusammenschluss weniger Familien ab 1800. Sie ist in den ersten sieben Jahrzehnten nur ein Provisorium. Rechtsunsicherheit und Intoleranz schränken jüdische Immigration sowie Kultur und Frömmigkeit stark ein.</p>
+
 <h2>Religion in der Stadt: Modernisierung des Modernitätskritischen</h2>
 <p>Für viele Menschen verlor das traditionelle kirchliche Christentum in dem Zeitraum von 1750 bis 1860 zusehends an Glaubhaftigkeit und Bedeutung. Vertraute religiöse Gewissheiten zerbröselten, Unsicherheiten im religiösen Denken und Erleben machten sich breit, ungewohnte Perspektiven eröffneten sich. Es galt in dieser Epoche vielschichtiger Veränderungen neue, überzeugende Formen von Frömmigkeit, Theologie und Kirchlichkeit zu finden. Das Hin und Her von Fragen, Antworten und wieder neuen Fragen, das sich wie ein roter Faden durch diese Jahrzehnte zieht, lässt sowohl Krisenbewusstsein und Zukunftshoffnungen als auch Traditionalismus und Innovation erkennen. Neben Pietisten waren es vor allem Aufklärer, die überkommene Inhalte und Formen christlicher Religion infrage stellten und ein erneuertes Christentum propagierten. Von den sogenannten ‹Frommen› und ‹Konservativen› wurden sie deshalb häufig als ‹Feinde› der staatstragenden Religion verunglimpft.</p>
 <p>Auch das reformierte Basel erlebte entsprechende Auseinandersetzungen und produzierte solche Feindbilder. Fromme Baslerinnen und Basler warnten mit Blick auf Freigeister und Aufklärer bildhaft vor «gefährlichen Menschen», die den Unglauben propagierten und somit einen «Strom» auslösten, der «alles zu überschwemmen, zu verwüsten und mit fortzureißen» drohte.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Gegenüber diesen apokalyptisch klingenden Bedrohungsszenarien fragte ein Basler Pfarrer 1850 wesentlich nüchterner nach der Entwicklung der religiösen Zustände in Basel in der ersten Hälfte des Jahrhunderts.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Er zeichnete ein ambivalentes Bild dieser Epoche. Für ihn war sie einerseits von wachsender Freiheit und Selbstbestimmung sowie von religiösem Pluralismus und gesellschaftlicher Ausdifferenzierung geprägt. Andererseits beklagte er, in einer für einen Kirchenmann typischen Weise, die angeblichen negativen Folgen religiöser Liberalität, den Relevanzverlust von Religion und Kirche in Gesellschaft und Kultur sowie den Rückzug von Handwerkern und Fabrikarbeitern aus dem kirchlichen Leben. Als positive Entwicklung verbuchte er immerhin die Vielzahl religiös motivierter Initiativen und Vereinsgründungen sowie deren weitgehende Verkirchlichung.</p>

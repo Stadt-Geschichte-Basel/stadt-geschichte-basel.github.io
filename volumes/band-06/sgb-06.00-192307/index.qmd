@@ -28,7 +28,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band6/chapter/334
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band6/84/932
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band6/84/1986
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
