@@ -352,7 +352,7 @@ date-modified: last-modified
 <p>Baumann, Max: Fischer am Hochrhein. Zur Geschichte der Fischerei zwischen Säckingen und Basel, Aarau 1994.</p>
 <p>Beck, Bernhard: Lange Wellen wirtschaftlichen Wachstums in der Schweiz 1814–1913. Eine Untersuchung der Hochbauinvestitionen und ihrer Bestimmungsgründe, Bern;Stuttgart 1983.</p>
 <p>Berger, Martin: Zwischennutzung und Stadtteilentwicklung. Untersuchung anhand eines Meinungsbilds des Erlenmatt-Areals in Basel, Lizentiatsarbeit, Universität Basel 2011.</p>
-<p>Berger, Urs; Bind, Ruedi; Zutavern, Julia u. a. (Hg.): Filmfrontal. Das unabhängige Film-und Videoschaffen der 1970er- und 1980er-Jahre in Basel, Basel 2010.</p>
+<p>Berger, Urs; Bind, Ruedi; Zutavern, Julia u. a. (Hg.): Filmfrontal. Das unabhängige Film- und Videoschaffen der 1970er- und 1980er-Jahre in Basel, Basel 2010.</p>
 <p>Berner, Hans; Schubert, Axel; Tschamper, Ueli: Geschichte, Ereignisse und Neues aus 40 Jahren ‹habs›, Basel 2012.</p>
 <p>Bernhardt, Christoph: Im Spiegel des Wassers. Eine transnationale Umweltgeschichte des Oberrheins (1800–2000), Köln 2016.</p>
 <p>Bickel, Wilhelm: Bevölkerungsgeschichte und Bevölkerungspolitik der Schweiz seit dem Ausgang des Mittelalters, Zürich 1947.</p>
@@ -544,7 +544,7 @@ date-modified: last-modified
 <p>Mone, Franz Joseph: Über die Flussfischerei und den Vogelfang vom 14. bis 16. Jahrhundert in Baden, Elsass und Hessen, in: Zeitschrift für die Geschichte des Oberrheins 4, 1853, S. 67–97.</p>
 <p>Morat, Daniel: Zur Historizität des Hörens. Ansätze für eine Geschichte auditiver Kulturen, in: Schröter, Jens; Volmar, Axel (Hg.): Auditive Medienkulturen. Techniken des Hörens und Praktiken der Klanggestaltung, Bielefeld 2013, S. 131–144.</p>
 <p>Müller, Lukas: Die Fischerei im spätmittelalterlichen Basel, Lizenziatsarbeit, Universität Basel 1989.</p>
-<p>Münch, Peter: Stadthygiene im 19. und 20. Jahrhundert. Die Wasserversorgung, Abwasser-und Abfallbeseitigung unter besonderer Berücksichtigung Münchens, Göttingen 1993.</p>
+<p>Münch, Peter: Stadthygiene im 19. und 20. Jahrhundert. Die Wasserversorgung, Abwasser- und Abfallbeseitigung unter besonderer Berücksichtigung Münchens, Göttingen 1993.</p>
 <p>Nertz, René: Der Umgang des Baslers mit seiner Altstadt, in: Baudepartement Basel-Stadt (Hg.): Neues Wohnen in der alten Stadt. Die Sanierung staatlicher Liegenschaften in der Basler Altstadt 1978–1990, Basel 1991, S. 98–106.</p>
 <p>Ogle, Vanessa: Global Capitalist Infrastructure and US Power, in: Engermann, David C.; Friedman, Max P.; McAlister, Melani (Hg.): The Cambridge History of America and the World. 1945 to the Present, Bd. IV, Cambridge 2022, S. 31–54.</p>
 <p>Osterhammel, Jürgen: Die Verwandlung der Welt. Eine Geschichte des 19. Jahrhunderts, München 2013.</p>

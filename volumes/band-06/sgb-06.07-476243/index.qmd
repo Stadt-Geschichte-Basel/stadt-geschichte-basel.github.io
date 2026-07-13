@@ -221,7 +221,7 @@ date-modified: last-modified
 <p>Meyer-Kraus, Benedikt: Wappenbuch der Stadt Basel, Basel 1880.</p>
 <p>Meyer-Merian, Theodor: Die Nachbarn. Ein städtisches Sittenbild aus der Gegenwart, Basel 1864.</p>
 <p>Meyer-Merian, Theodor: Entschwundene Zeiten. Nachgelassene Erzählungen und Bilder, Basel 1869.</p>
-<p>Meyer-Merian, Theodor: Ein Basler Literatur-und Kulturbild aus dem 19. Jahrhundert, Basel 1920.</p>
+<p>Meyer-Merian, Theodor: Ein Basler Literatur- und Kulturbild aus dem 19. Jahrhundert, Basel 1920.</p>
 <p>Piguet, Elise: Briefe einer mütterlichen Freundin an ihre Zöglinge, Herrnhut (o.D.).</p>
 <p>Reese, Heinrich: Die bauliche Entwicklung Basels von 1881–1897. Vortrag gehalten am 26. Sept. 1897 an der Hauptversammlung des schweizerische Ingenieur- und Architekten-Vereins zu Basel, Zürich 1897.</p>
 <p>Salis, Antistes Arnold von: Zur Erinnerung an die Einweihnung der St. Matthäuskirche in Basel, Sonntag den 11. Oktober 1896. Basel 1896.</p>

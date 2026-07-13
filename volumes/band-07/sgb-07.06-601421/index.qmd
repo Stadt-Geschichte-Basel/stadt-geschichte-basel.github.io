@@ -110,7 +110,7 @@ date-modified: last-modified
 <p>SWA, PA 491, C, Haushaltsbücher Y. Künzel-Kressler (1962–1966).</p>
 <p>SWA, PA 575 a C 1: Jahresberichte Basler Handelskammer.</p>
 <p>SWA, Soz. Inst. 260, Verein für Volksgesundheit Basel (Sonnenbad St. Margarethen).</p>
-<p>SWA, Vo H I 4, «Lohnen sich die Bemühungen um das USA-Konsulat?», in: Arbeiter-Zeitung, 05.09.1963; «Basels Stellung als Finanz-und Handelsstadt», in: BN, 10.1.1964.</p>
+<p>SWA, Vo H I 4, «Lohnen sich die Bemühungen um das USA-Konsulat?», in: Arbeiter-Zeitung, 05.09.1963; «Basels Stellung als Finanz- und Handelsstadt», in: BN, 10.1.1964.</p>
 <p><em>Staatsarchiv Basel-Stadt (StABS)</em></p>
 <p>StABS, Bauacten CC 121, Neues Zeughaus, 1904–1926.</p>
 <p>StABS, BD-REG 1 A 609-3, Strassen-Signalisation, 1941–1966.</p>
@@ -819,7 +819,7 @@ date-modified: last-modified
 <p>Wichers, Hermann: Im Kampf gegen Hitler deutsche Sozialisten im Schweizer Exil, 1933–1940, Zürich 1994b.</p>
 <p>Wichers, Hermann: Die «Neue Basler Zeitung» 1935 bis 1940 und ihre Entwicklung vom rechtskonservativen Parteiblatt zum frontistischen Organ. Ein Fallbeispiel deutscher Einflussnahme, frontistischer Aktivitäten und schweizerischer Pressezensur, in: Basler Zeitschrift für Geschichte und Altertumskunde 93, 1993, S. 155–173.</p>
 <p>Winkler, Justin: Die Landwirtschaftsgüter der Christoph Merian Stiftung Basel. Darstellung des raumbezogenen Handelns und der regionalen Funktion einer gemeinnützigen städtischen Institution, Basel 1986.</p>
-<p>Wipf, Christian: Die Massnahmen des Bundes zur Vermehrung der inländischen Kartoffel-und Getreideproduktion während des Ersten Weltkrieges, in: Krämer, Daniel; Pfister, Christian; Segesser, Daniel Marc (Hg.): «Woche für Woche neue Preisaufschläge». Nahrungsmittel-, Energie- und Ressourcenkonflikte in der Schweiz des Ersten Weltkrieges, Basel 2016, S. 191–210.</p>
+<p>Wipf, Christian: Die Massnahmen des Bundes zur Vermehrung der inländischen Kartoffel- und Getreideproduktion während des Ersten Weltkrieges, in: Krämer, Daniel; Pfister, Christian; Segesser, Daniel Marc (Hg.): «Woche für Woche neue Preisaufschläge». Nahrungsmittel-, Energie- und Ressourcenkonflikte in der Schweiz des Ersten Weltkrieges, Basel 2016, S. 191–210.</p>
 <p>Wohngenossenschaft Entenweid (Hg.): Wohngenossenschaft Entenweid. 60 Jahre, eine Chronik, Basel 2010.</p>
 <p>Wolf, Sabine: Der Blick zurück ist ein Blick nach vorne. Gartenstadt und Selbstversorger. Der Garten im Zentrum, in: Siedlungsgenossenschaft Freidorf (Hg.): Das Freidorf, die Genossenschaft. Leben in einer aussergewöhnlichen Siedlung, Basel 2019, S. 102–137.</p>
 <p>Woodtli, Susanna: Gleichberechtigung. Der Kampf um die politischen Rechte der Frau in der Schweiz, Frauenfeld 1975.</p>

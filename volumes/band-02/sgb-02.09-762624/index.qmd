@@ -203,7 +203,7 @@ date-modified: last-modified
 <p>Dasler, Clemens: Forst und Wildbann im frühen deutschen Reich. Die königlichen Privilegien für die Reichskirche vom 9. bis zum 12. Jahrhundert. Dissertationen zur mittelalterlichen Geschichte 10, Köln/Weimar/Wien 2001.</p>
 <p>Degler-Spengler, Brigitte: Der gemeine Pfennig und seine Erhebung in Basel, in: Basler Zeitschrift für Geschichte und Altertumskunde 74, 1974, S. 237−258.</p>
 <p>Demotz, François: La Bourgogne, dernier des royaumes carolingiens (855−1056). Rois, pouvoirs et élites autour du Léman, Lausanne 2008.</p>
-<p>Dendorfer, Jürgen: Politische Räume des Früh-und Hochmittelalters am Oberrhein. Überlegungen zu Landesgeschichte und spatial turn, in: Hirbodian, Sigrid; Jörg, Christian; Klapp, Sabine (Hg.): Methoden und Wege der Landesgeschichte. Landesgeschichte 1, Ostfildern 2015.</p>
+<p>Dendorfer, Jürgen: Politische Räume des Früh- und Hochmittelalters am Oberrhein. Überlegungen zu Landesgeschichte und spatial turn, in: Hirbodian, Sigrid; Jörg, Christian; Klapp, Sabine (Hg.): Methoden und Wege der Landesgeschichte. Landesgeschichte 1, Ostfildern 2015.</p>
 <p>Dendorfer, Jürgen: Basel zwischen Burgund und dem ostfränkischen Reich, in: Fehlmann, Marc; Matzke, Michael; Söll-Tauchert, Sabine (Hg.): Gold und Ruhm. Kunst und Macht unter Kaiser Heinrich II., München 2019a, S. 60−66.</p>
 <p>Dendorfer, Jürgen: Der König und die Bischöfe in seinem Reich, in: Fehlmann, Marc; Matzke, Michael; Söll-Tauchert, Sabine (Hg.): Gold und Ruhm. Kunst und Macht unter Kaiser Heinrich II., München 2019b, S. 176−181.</p>
 <p>Dendorfer, Jürgen; Brather, Sebastian (Hg.): Grenzen, Räume und Identitäten am Oberrhein und in seinen Nachbarregionen von der Antike bis zum Hochmittelalter, Ostfildern 2017.</p>
@@ -391,7 +391,7 @@ date-modified: last-modified
 <p>Lambacher, Lothar: Reliquienkreuz, sogenanntes «Heinrichs-Kreuz», in: Fehlmann, Marc; Matzke, Michael; Söll-Tauchert, Sabine (Hg.): Gold und Ruhm. Kunst und Macht unter Kaiser Heinrich II., München 2019, S. 252−257.</p>
 <p>Lamke, Florian: Die Viten des Ulrich von Zell. Entstehung, Überlieferung und Wirkungsgeschichte, in: Krieg, Heinz; Zettler, Alfons (Hg.): In frumento et vino opima. Festschrift für Thomas Zotz zu seinem 60. Geburtstag, Ostfildern 2004, S. 163−180.</p>
 <p>Lamke, Florian: Cluniacenser am Oberrhein. Konfliktlösungen und adlige Gruppenbildung in der Zeit des Investiturstreits. Forschungen zur oberrheinischen Landesgeschichte 54, München 2009.</p>
-<p>Laudage, Johannes: Alexander III. und Friedrich Barbarossa. Forschungen zur Kaiser-und Papstgeschichte des Mittelalters 16, Köln/Weimar/Wien 1997.</p>
+<p>Laudage, Johannes: Alexander III. und Friedrich Barbarossa. Forschungen zur Kaiser- und Papstgeschichte des Mittelalters 16, Köln/Weimar/Wien 1997.</p>
 <p>Laudage, Johannes; Schrör Matthias: Der Investiturstreit. Quellen und Materialien, 2. Aufl., Köln/Weimar/Wien 2006.</p>
 <p>Laurioux, Bruno: Cuisine, médecine et diététique: traditions, rencontres, distorsions entre le Ve et le XIIe siècle, in: L’alimentazione nell’ Alto Medioevo: Pratiche, simboli, ideologie. Spoleto, 9−14 aprile 2015. Atti delle settimane 63, Spoleto 2016, S. 467−492.</p>
 <p>Lavicka, Pavel: Hauptphasen der baulichen Entwicklung an der Stadthausgasse 14−20, von den mittelalterlichen Kernhäusern bis ins 20. Jh., in: Basler Zeitschrift für Geschichte und Altertumskunde 83, 1983, S. 365−373.</p>
@@ -520,7 +520,7 @@ date-modified: last-modified
 <p>Nowak, Jessica; Rüdiger, Jan (Hg.): Zwischen Basel und Marseille: Das Burgund der Rudolfinger, 9.−11. Jahrhundert. Itinera 46, Basel 2019.</p>
 <p>Ochs, Peter: Geschichte der Stadt und Landschaft Basel, aufgeteilt in 20 Perioden, Berlin/Leipzig 1786−1832.</p>
 <p>Ochsner, Christine: Die Münsterbauhütte. Reihe Basler Münster, Evangelisch-reformierte Kirche des Kantons Basel-Stadt, Basel 2000.</p>
-<p>Opll, Ferdinand: Stadt und Reich im 12. Jahrhundert, 1125−1190. Forschungen zur Kaiser-und Papstgeschichte des Mittelalters. Beihefte zu J. F. Böhmer, Regesta Imperii 6, Wien/Köln/Graz 1986.</p>
+<p>Opll, Ferdinand: Stadt und Reich im 12. Jahrhundert, 1125−1190. Forschungen zur Kaiser- und Papstgeschichte des Mittelalters. Beihefte zu J. F. Böhmer, Regesta Imperii 6, Wien/Köln/Graz 1986.</p>
 <p>Ott, Hugo: Studien zur Geschichte des Klosters St. Blasien im hohen und späten Mittelalter. Veröffentlichungen der Kommission für Geschichtliche Landeskunde in Baden Württemberg, Reihe B: Forschungen 27, Stuttgart 1963.</p>
 <p>Ott, Hugo: Die Klostergrundherrschaft St. Blasien im Mittelalter. Beiträge zur Besitzgeschichte. Arbeiten zum Historischen Atlas von Südwestdeutschland, Heft 4, Stuttgart 1969, mit Karten.</p>
 <p>Padberg, Lutz E. von: Die Christianisierung Europas im Mittelalter, 2. Aufl., 2009.</p>

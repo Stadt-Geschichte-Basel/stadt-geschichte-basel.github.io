@@ -143,7 +143,7 @@ date-modified: last-modified
 <p>Gilomen, Hans-Jörg: Wucher und Wirtschaft im Mittelalter, in: Historische Zeitschrift 250, 1990, S. 265–302.</p>
 <p>Gilomen, Hans-Jörg: Eine neue Wahrnehmung arbeitsloser Armut in der spätmittelalterlichen Eidgenossenschaft, in: Traverse 3, 1996, S. 117–129.</p>
 <p>Gilomen, Hans-Jörg: Städtische Sondergruppen im Bürgerrecht, in: Schwinges, Rainer Christoph; Studer, Barbara; Gerber, Roland (Hg.): Neubürger im späten Mittelalter. Migration und Austausch in der Städtelandschaft des alten Reiches (1250–1550), Berlin 2002, S. 125–167.</p>
-<p>Gilomen, Hans-Jörg: Städtische Anleihen im Spätmittelalter. Leibrenten und Wiederkaufsrenten, in: Hesse, Christian; Immenhauser, Beat; Landolt, Oliver u. a. (Hg.): Personen der Geschichte – Geschichte der Personen. Studien zur Kreuzzugs-, Sozial-und Bildungsgeschichte. Festschrift für Rainer Christoph Schwinges, Basel 2003, S. 165–185.</p>
+<p>Gilomen, Hans-Jörg: Städtische Anleihen im Spätmittelalter. Leibrenten und Wiederkaufsrenten, in: Hesse, Christian; Immenhauser, Beat; Landolt, Oliver u. a. (Hg.): Personen der Geschichte – Geschichte der Personen. Studien zur Kreuzzugs-, Sozial- und Bildungsgeschichte. Festschrift für Rainer Christoph Schwinges, Basel 2003, S. 165–185.</p>
 <p>Gilomen, Hans-Jörg: Demographie und Mobilität. Fragen nach den Grenzen der Bindung von Familienidentität an den Wohnsitz in der spätmittelalterlichen Stadt, in: Signori, Gabriela; Czaja, Karin (Hg.): Häuser, Namen, Identitäten. Beiträge zur spätmittelalterlichen und frühneuzeitlichen Stadtgeschichte, Konstanz 2009, S. 11–28.</p>
 <p>Gilomen, Hans-Jörg: Kooperation und Konfrontation. Juden und Christen in spätmittelalterlichen Städten im Gebiet der heutigen Schweiz, in: Schwinges, Rainer Christoph; Konradt, Matthias (Hg.): Juden in ihrer Umwelt. Akkulturation des Judentums in Antike und Mittelalter, Basel 2009, S. 157–227.</p>
 <p>Gilomen, Hans-Jörg: Der Kleinkredit in spätmittelalterlichen Städten. Basel und Zürich im Vergleich, in: Holbach, Rudolf; Pauly, Michel (Hg.): Städtische Wirtschaft im Mittelalter. Festschrift für Franz Irsigler zum 70. Geburtstag, Köln; Weimar; Wien 2011, S. 109–148.</p>
@@ -203,7 +203,7 @@ date-modified: last-modified
 <p>Huang, Angela Ling: Hanseatic Textile Production in 15th Century Long Distance Trade, in: Huang, Angela Ling; Jahnke, Carsten (Hg.): Textiles and the Medieval Economy. Production, Trade, and Consumption of Textiles, 8th–16th Centuries, Oxford 2015, S. 204–215.</p>
 <p>Huang, Angela Ling; Jahnke, Carsten: Textiles and the Medieval Economy. Production, Trade, and Consumption of Textiles, 8th–16th Centuries, Oxford 2015.</p>
 <p>Huber, August: Über Basels Anteil am Röteler Erbfolgestreit im Jahre 1503, in: Basler Zeitschrift für Geschichte und Altertumskunde 4, 1905, S. 74–139.</p>
-<p>Hübner, Klara: Im Dienste ihrer Stadt. Boten-und Nachrichtenorganisationen in den schweizerisch-oberdeutschen Städten des späten Mittelalters, Ostfildern 2012.</p>
+<p>Hübner, Klara: Im Dienste ihrer Stadt. Boten- und Nachrichtenorganisationen in den schweizerisch-oberdeutschen Städten des späten Mittelalters, Ostfildern 2012.</p>
 <p>Hübner, Klara: Kontrollierte Verbreitung oder verbreitete Kontrolle? Nachrichtenboten als mobile Zeichenträger der spätmittelalterlichen Stadtherrschaft, in: Igel, Karsten; Lau, Thomas (Hg.): Die Stadt im Raum. Vorstellungen, Entwürfe und Gestaltungen im vormodernen Europa, Göttingen 2016, S. 281–291.</p>
 <p>Irsigler, Franz: Wirtschaft, Wirtschaftsräume, Kontaktzonen, in: Ehlers, Joachim (Hg.): Deutschland und der Westen Europas im Mittelalter, Stuttgart 2002, S. 379–405.</p>
 <p>Irsigler, Franz: Jahrmärkte und Messen im oberrheinischen Raum vom 14. bis 16. Jahrhundert, in: Krimm, Konrad; Brüning, Rainer (Hg.): Zwischen Habsburg und Burgund. Der Oberrhein als europäische Landschaft im 15. Jahrhundert, Ostfildern 2003, S. 229–256.</p>
@@ -292,7 +292,7 @@ date-modified: last-modified
 <p>Nutz, Beatrix: Dressed to the nines. Kleidung zur Identifikation des sozialen Standes, in: Hofer, Nikolaus; Kühtreiber, Thomas; Theune, Claudia (Hg.): Mittelalterarchäologie in Österreich. Eine Bilanz. Beiträge der Tagung in Innsbruck und Hall in Tirol, 2. bis 6. Oktober 2012, Wien 2013, S. 294–302.</p>
 <p>Ogilvie, Sheilagh: The European Guilds. An Economic Analysis, Princeton 2019.</p>
 <p>Pabst, H.; Wattenbach, Wilhelm: Annalen und Chronik von Kolmar. Nach der Ausgabe der Monumenta Germaniae übersetzt, Bd. 75, Leipzig 1897.</p>
-<p>Pahud de Mortanges, Elke: Der versperrte Himmel. Das Phänomen der sanctuaires à répit aus theologiegeschichtlicher Perspektive, in: Schweizerische Zeitschrift für Religions-und Kulturgeschichte 98, 2004, S. 31–48.</p>
+<p>Pahud de Mortanges, Elke: Der versperrte Himmel. Das Phänomen der sanctuaires à répit aus theologiegeschichtlicher Perspektive, in: Schweizerische Zeitschrift für Religions- und Kulturgeschichte 98, 2004, S. 31–48.</p>
 <p>Parker, Rozsika: The Subversive Stitch. Embroidery and the Making of the Feminine, London 2019.</p>
 <p>Pertz, Georg Heinrich: Monumenta Germaniae Historica. Scriptores (in Folio), Bd. 17, Hannover 1861.</p>
 <p>Peters, Ursula: Literatur in der Stadt. Studien zu den sozialen Voraussetzungen und kulturellen Organisationsformen städtischer Literatur im 13. und 14. Jahrhundert, Tübingen 1983.</p>
@@ -321,7 +321,7 @@ date-modified: last-modified
 <p>Rippmann, Dorothee; Simon-Muscheid, Katharina: Weibliche Lebensformen und Arbeitszusammenhänge im Spätmittelalter und in der frühen Neuzeit. Methoden, Ansätze und Postulate, in: Othenin-Girard, Mireille; Gossenreiter, Anna; Trautweiler, Sabine (Hg.): Frauen und Öffentlichkeit. Beiträge der 6. Schweizerischen Historikerinnentagung, Baden 1991, S. 63–98.</p>
 <p>Ritscher, Alfred: Heinrich von Isny. Spuren des Vertrauten König Rudolfs von Habsburg, Basler Bischofs und Mainzer Erzbischofs und seiner Politik in der zeitgenössischen Publizistik, in: Buck, Thomas Martin (Hg.): Quellen, Kritik, Interpretation. Festgabe zum 60. Geburtstag von Hubert Mordek, Frankfurt a. M. 1999, S. 219–235.</p>
 <p>Roeck, Bernd; Stercken, Martina; Walter, François u. a.: Schweizer Städtebilder. Urbane Ikonographien (15.–20. Jahrhundert), Zürich 2013.</p>
-<p>Rosen, Josef: Kriegsausgaben im Spätmittelalter. Der militärische Aufwand in Basel 1360–1535, in: Vierteljahrschrift für Sozial-und Wirtschaftsgeschichte 71, 1984, S. 457–484.</p>
+<p>Rosen, Josef: Kriegsausgaben im Spätmittelalter. Der militärische Aufwand in Basel 1360–1535, in: Vierteljahrschrift für Sozial- und Wirtschaftsgeschichte 71, 1984, S. 457–484.</p>
 <p>Roth, Hansjörg: «Von Lyrimans wegen». Spuren einer Privatfehde gegen die Stadt Basel im frühen 15. Jahrhundert, Basel 1992.</p>
 <p>Roth Heege, Eva: Ofenkeramik und Kachelofen. Typologie, Terminologie und Rekonstruktion im deutschsprachigen Raum (CH, D, A, FL), Basel 2012.</p>
 <p>Saelens, Wout: Guild Brotherhood, Guild Capital? Social Network Strategies of Master Weavers and Drapers in Fourteenth-Century Ghent, in: The Low Countries Journal of Social and Economic History 16, 2019, S. 5–29.</p>
@@ -402,7 +402,7 @@ date-modified: last-modified
 <p>Stehlin, Karl: Ein spanischer Bericht über ein Turnier in Schaffhausen im Jahr 1436, in: Basler Zeitschrift für Geschichte und Altertumskunde 14, 1915, S. 145–176.</p>
 <p>Steinbrink, Matthias: Ulrich Meltinger. Ein Basler Kaufmann am Ende des 15. Jahrhunderts, Stuttgart 2007.</p>
 <p>Steinbrink, Matthias: Handeln am Oberrhein. Der Basler Kaufmann Ulrich Meltinger, in: Häberlein, Mark; Jeggle, Christof (Hg.): Praktiken des Handels. Geschäfte und soziale Beziehungen europäischer Kaufleute in Mittelalter und früher Neuzeit, Konstanz 2010, S. 191–208.</p>
-<p>Steinbrink, Matthias: Frauen im Geschäft. Das Beispiel der Verena Meltinger, in: Seggern, Harm von; Zeilinger, Gabriel (Hg.): «Es geht um die Menschen». Beiträge zur Wirtschafts-und Sozialgeschichte des Mittelalters für Gerhard Fouquet zum 60. Geburtstag, Frankfurt a. M. 2012, S. 177–188.</p>
+<p>Steinbrink, Matthias: Frauen im Geschäft. Das Beispiel der Verena Meltinger, in: Seggern, Harm von; Zeilinger, Gabriel (Hg.): «Es geht um die Menschen». Beiträge zur Wirtschafts- und Sozialgeschichte des Mittelalters für Gerhard Fouquet zum 60. Geburtstag, Frankfurt a. M. 2012, S. 177–188.</p>
 <p>Steiner, Susan: Fundbericht 2018, in: Jahresbericht der Archäologischen Bodenforschung Basel-Stadt 2018, S. 52–53.</p>
 <p>Steinmann, Martin: Die humanistische Schrift und die Anfänge des Humanismus in Basel, in: Archiv für Diplomatik 22, 1976, S. 376–437.</p>
 <p>Stintzi, Paul: Mülhausens Bündnis mit Basel und den 13 Orten, in: Basler Stadtbuch 1966, S. 13–25.</p>

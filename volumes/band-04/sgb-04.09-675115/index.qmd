@@ -126,7 +126,7 @@ date-modified: last-modified
 <p>Büchi, Tobias: Fortifikationsliteratur des 16. und 17. Jahrhunderts. Traktate deutscher Sprache im europäischen Kontext, Basel 2015.</p>
 <p>Büchi, Tobias: Die Festung Basel, Daniel Specklin und der Dreissigjährige Krieg. Gutachten, Ausführungen und Rahmenbedingungen, Basel 2021.</p>
 <p>Buess, Heinrich; Portmann, Marie-Louise; Molling, Peter A.: Theodor Zwinger III (1658–1724). Ein Basler Arzt und Kinderarzt der Barockzeit, Basel 1962.</p>
-<p>Bunke, Simon: Heimweh. Studien zur Kultur-und Literaturgeschichte einer tödlichen Krankheit, Freiburg i. Br. 2009.</p>
+<p>Bunke, Simon: Heimweh. Studien zur Kultur- und Literaturgeschichte einer tödlichen Krankheit, Freiburg i. Br. 2009.</p>
 <p>Burckhardt, Albert; Wackernagel, Rudolf: Geschichte und Beschreibung des Rathauses zu Basel, Basel 1886.</p>
 <p>Burckhardt, August: Das Direktorium der Kaufmannschaft zu Basel (1682–1798), in: Basler Stadtbuch 1963, S. 54–70.</p>
 <p>Burckhardt, Paul: Geschichte der Stadt Basel. Von der Zeit der Reformation bis zur Gegenwart, Basel 1942.</p>
@@ -403,7 +403,7 @@ date-modified: last-modified
 <p>Röthlin, Niklaus: Energieträger – Rohstoff – Weide. Die Bedeutung von Wald und Holz im 16. bis 18. Jahrhundert am Beispiel des Basler Forstwesens, in: Basler Zeitschrift für Geschichte und Altertumskunde 93, 1993a, S. 175–214.</p>
 <p>Röthlin, Niklaus: Handel und Produktion von Seide in der Schweiz und im Reich (16. bis 18. Jahrhundert), in: Cavaciocchi, Simonetta (Hg.): La seta in Europa sec. XIII–XX. Atti della «Ventiquattresima settimana di studi», Florenz 1993b, S. 535–563.</p>
 <p>Röthlin, Niklaus: Einblicke in die Migration einer grossen Schweizer Stadt am Beispiel Basels (16.–18. Jahrhundert), in: Head-König, Anne-Lise; Gilomen, Hans-Jörg, Radeff, Anne (Hg.): Migration in die Städte. Ausschluss – Assimilierung – Integration – Multikulturalität. Schweizerisches Jahrbuch für Wirtschafts- und Sozialgeschichte 16, 2000, S. 171–184.</p>
-<p>Röthlin, Niklaus: Veränderungen innerhalb der atlantischen Welt im 18. Jahrhundert. Aus den Berichten der Londoner Korrespondenten in der «Basler Mittwoch- und Samstag-Zeitung», in: Gilomen, Hans-Jörg; Müller, Margrit; Veyrassat, Béatrice (Hg.): Globalisierung – Chancen und Risiken. Die Schweiz in der Weltwirtschaft 18.–20. Jahrhundert, Schweizerische Gesellschaft für Wirtschafts-und Sozialgeschichte 19, 2003, S. 113–130.</p>
+<p>Röthlin, Niklaus: Veränderungen innerhalb der atlantischen Welt im 18. Jahrhundert. Aus den Berichten der Londoner Korrespondenten in der «Basler Mittwoch- und Samstag-Zeitung», in: Gilomen, Hans-Jörg; Müller, Margrit; Veyrassat, Béatrice (Hg.): Globalisierung – Chancen und Risiken. Die Schweiz in der Weltwirtschaft 18.–20. Jahrhundert, Schweizerische Gesellschaft für Wirtschafts- und Sozialgeschichte 19, 2003, S. 113–130.</p>
 <p>Sallmann, Martin: Konfessionalisierung in Basel. Kirche und weltliche Obrigkeit, in: Historisches Museum Basel (Hg.): Wettstein – Die Schweiz und Europa 1648, Basel 1998, S. 52–61.</p>
 <p>Salvisberg, André u. a.; Christoph Merian Verlag (Hg.): Historischer Atlas der Region Basel. Geschichte der Grenzen, Basel 2010.</p>
 <p>Sander, Jochen: Hans Holbein d. J. Tafelmaler in Basel, 1515–1532, München 2005.</p>
