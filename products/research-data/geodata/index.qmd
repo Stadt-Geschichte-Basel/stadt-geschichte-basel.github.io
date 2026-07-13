@@ -10,6 +10,11 @@ author:
     affiliation: Universität Basel
 date-modified: last-modified
 lang: de
+format:
+  sgb-theme-html:
+    mermaid:
+      theme: neutral
+bibliography: references.bib
 category: Other
 citation: true
 appendix-cite-as: display
@@ -19,6 +24,43 @@ appendix-cite-as: display
 
 **Geodaten** sind digitale Informationen mit Raumbezug, die Objekte oder Ereignisse auf der Erdoberfläche beschreiben und deren genaue Position festlegen. Sie bestehen aus geometrischen Daten, wie Koordinaten, und den dazugehörigen Sachdaten, die Eigenschaften dieser Objekte beschreiben. Geodaten sind essenziell für die Erstellung von Karten und die Durchführung räumlicher Analysen in Geoinformationssystemen (GIS).
 
-In den Bänden der **Stadt.Geschichte.Basel** spielen Geodaten eine zentrale Rolle. Sie ermöglichen es, historische Ereignisse, Entwicklungen und Strukturen der Stadt Basel präzise zu lokalisieren und räumlich darzustellen. Durch die Integration von Geodaten können beispielsweise alte Stadtpläne mit heutigen Karten überlagert werden, um Veränderungen im Stadtbild sichtbar zu machen. Zudem unterstützen Geodaten die Analyse von sozialen, wirtschaftlichen und infrastrukturellen Aspekten der Stadtgeschichte, indem sie räumliche Muster und Zusammenhänge aufzeigen. 
+Im Forschungsdatenmanagement für die Buchreihe spielen Geodaten eine zentrale Rolle. Sie ermöglichen es, historische Ereignisse, Entwicklungen und Strukturen der Stadt Basel präzise zu lokalisieren und räumlich darzustellen. Durch die Integration von Geodaten können beispielsweise alte Stadtpläne mit heutigen Karten überlagert werden, um Veränderungen im Stadtbild sichtbar zu machen. Zudem unterstützen Geodaten die Analyse von sozialen, wirtschaftlichen und infrastrukturellen Aspekten der Stadtgeschichte, indem sie räumliche Muster und Zusammenhänge aufzeigen.
 
-Die Veröffentlichung der Geodaten erfolgt bis Ende 2025. Die Daten werden in geeigneten Repositorien bereitgestellt und mit Metadaten versehen, um ihre Auffindbarkeit und Nachnutzung zu erleichtern. Die Geodaten von Stadt.Geschichte.Basel sind FAIR (Findable, Accessible, Interoperable, Reusable) und Open Access, um einen offenen Zugang zu den historischen Informationen zu gewährleisten.
+### Arbeitsschritte zur Erstellung von Visualisierungen
+
+Ausgangspunkt für jede Visualisierung sind Daten, die die Autor\*innen von Stadt.Geschichte.Basel dem RDM-Team zur Verfügung gestellt haben. Mit Hilfe von [QGIS](https://www.qgis.org/) bereinigen und georeferenzieren wir die Daten (falls nötig) und aggregieren ggfs. mehrere Quellen zu einem Datensatz. Neben den zu visualisierenden historischen Daten werden frei verfügbare Datensätze für Hintergrundlayer und ergänzende Karteninhalte verwendet, darunter als Basislayer insbesondere [Natural Earth](https://www.naturalearthdata.com/) oder [SRTM Open Topography](https://portal.opentopography.org/raster?opentopoID=OTSRTM.082015.4326.1); sowie das [Topografische Landschaftsmodell](https://www.swisstopo.admin.ch/de/informationen-topografisches-landschaftsmodell) des Bundesamtes für Landestopografie swisstopo und Inhalte aus dem [Geodatenkatalog des Kantons Basel-Stadt](https://www.bs.ch/bvd/grundbuch-und-vermessungsamt/geo/geodaten).
+
+Die Data Stewards im RDM-Team von Stadt.Geschichte.Basel erstellen auf dieser Datengrundlage Visualisierungen für die Buchreihe, oft in mehreren Iterationen und in enger Zusammenarbeit mit den Forscher\*innen [@twenteNavigatingDisconcertmentMapMaking2025; @muenchKartenAlsBoundary2023]. Es werden eigens entwickelte [Designprinzipien](/products/interna/inklusive-gestaltung/index.qmd) und [Farbkonzepte](/products/interna/farbkonzept/index.qmd) implementiert, um eine möglichst einheitliche Bildsprache für alle Produkte zu gewährleisten. Die fertigen Produkte werden dann für den Druck und die langfristige Archivierung aufbereitet (@fig-workflow).
+
+```{mermaid}
+%%| label: fig-workflow
+%%| fig-cap: Der Workflow zur Erstellung von Visualisierungen mit Geodaten umfasst mehrere Iterationen mit unterschiedlichen Akteur\*innen.
+ 
+flowchart LR
+    A("Autor*innen") -->|Anfrage| B(RDM-Team)
+    B -->|Entwürfe| A
+
+    B -->|"Illustration (pdf)"| C(icona<br>Grafikbüro)
+    C --> D("Gedruckte<br>Buchreihe")
+
+    B --->|"Illustration (pdf)"| E("Forschungsdaten-<br>plattform")
+    B --->|"Datensatz<br>(geojson)"| E
+    B --->|Metadaten| E
+
+    style B fill:#3a1e3e,color:#fff,stroke:#3a1e3e
+    style D fill:#86bbd8,stroke:#86bbd8
+    style E fill:#86bbd8,stroke:#86bbd8
+
+    click B href "/team.html" "Team für Forschungsdatenmanagement"
+    click D href "https://emono.unibas.ch/stadtgeschichtebasel/" "Open Access-Version"
+    click E href "/products/coding/plattform/index.html" "Dokumentation der Forschungsdatenplattform"
+```
+
+Die in QGIS erstellte Karte wird mit Software wie Adobe Illustrator etc. nachbearbeitet, um eine druckfähige Version zu erhalten. Die verwendeten Layer mit von uns verarbeiteten historischen Daten werden als `geojson`-Datei exportiert und neben den erzeugten PDF-Dateien für die Veröffentlichung auf der Forschungsdatenplattform vorbereitet.
+
+### Veröffentlichung
+
+Die Veröffentlichung der Geodaten erfolgt in geeigneten Repositorien als Ergänzung zur publizierten Karte im PDF-Format. Die Geodaten werden mit Metadaten versehen, um ihre Auffindbarkeit und Nachnutzung zu erleichtern (vgl. [Datenmodell](/products/research-data/datamodel/index.qmd)). Die Geodaten von Stadt.Geschichte.Basel sind FAIR (Findable, Accessible, Interoperable, Reusable) und Open Access, um einen offenen Zugang zu den historischen Informationen zu gewährleisten. Der Zugriff auf die Geodaten erfolgt über die [Forschungsdatenplattform](/products/coding/plattform/index.qmd), wo die Geodaten im Kontext mit den Druckversionen der erstellten Karten verfügbar sind.
+
+Auf der Plattform ist jeder verwendete Datenlayer als eigenes Medienobjekt erfasst. Neben dem Download der annotierten `geojson`-Datei wird auch eine Vorschau der Daten angeboten. Mittels der JavaScript-Library [Leaflet](https://leafletjs.com/) wird jeder veröffentlichte Layer auf einer interaktiven Karte dargestellt. Die Geodaten werden dabei als Punkte, Linien oder Flächen angezeigt, verlieren jedoch jegliche gestalterischen Eigenschaften, die zwischen der Georeferenzierung und dem Druck der Karte getroffen wurden [@twenteNavigatingDisconcertmentMapMaking2025]. Die webbasierte Darstellung der Datenlayer kann darüber hinaus mit aktuellen Satellitenfotos, topografischen Karten und Höhenmodellen sowie -- je nach räumlicher Ausdehnung -- mit digitalisierten Versionen der [Siegfriedkarte](https://www.swisstopo.admin.ch/de/siegfriedkarte) und der [Dufourkarte](https://www.swisstopo.admin.ch/de/dufourkarte) angereichert werden.
+
