@@ -1,0 +1,55 @@
+---
+title: Stadträume. Offen und begrenzt, gestaltet und umkämpft
+subtitle: Stadt.Geschichte.Basel, Band 9
+description: Band 9 der neunbändigen Buchreihe Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Band
+order: 9
+doi: 10.21255/sgb-09-486500
+license: CC BY-NC 4.0
+author:
+- name: Esther Baur
+- name: Lina Gafner
+citation:
+  type: book
+  title: Stadträume. Offen und begrenzt, gestaltet und umkämpft
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2025
+  url: https://doi.org/10.21255/sgb-09-486500
+  editor:
+  - Esther Baur
+  - Lina Gafner
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band9/
+listing:
+- id: chapters
+  type: table
+  contents:
+  - sgb-*/index.qmd
+  sort: order
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  page-size: 100
+  fields:
+  - title
+  - author
+  field-display-names:
+    title: Titel
+    author: Autor:innen
+date-modified: last-modified
+---
+
+::: {.callout-tip title="Lizenz" icon="false" }
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-09-486500](https://doi.org/10.21255/sgb-09-486500)
+:::
+
+## Kapitel
+
+::: {#chapters}
+:::

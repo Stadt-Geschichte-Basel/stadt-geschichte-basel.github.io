@@ -28,6 +28,13 @@ h1 {
 	}
 }
 
+/* Volume chapters: keep the book's sidebar <aside> boxes in the main text
+   column (as they already collapse to on small screens) instead of pushing
+   them into the page margin, which wastes a lot of horizontal space. */
+.sgb-chapter aside:not(.footnotes):not(.sidebar) {
+	grid-column: body-content-start / body-content-end !important;
+}
+
 /* Profile Picture Styling for Team Page */
 .profile {
 	display: flex;

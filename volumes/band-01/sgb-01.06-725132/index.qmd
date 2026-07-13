@@ -1,0 +1,51 @@
+---
+title: 'Der lange Weg zur Stadt: Eine Synthese'
+description: Kapitel 6 aus Band 1 «Auf dem langen Weg zur Stadt. 50 000 v. Chr. – 800 n. Chr.» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 6
+doi: 10.21255/sgb-01.06-725132
+license: CC BY-NC 4.0
+author:
+- name: Guido Lassau
+citation:
+  type: chapter
+  title: 'Der lange Weg zur Stadt: Eine Synthese'
+  container-title: Auf dem langen Weg zur Stadt. 50 000 v. Chr. – 800 n. Chr.
+  page: 275-278
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-01.06-725132
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band1/chapter/288
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/2048
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-tip title="Lizenz" icon="false" }
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-01.06-725132](https://doi.org/10.21255/sgb-01.06-725132)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<p>Basels langer Weg zur Stadt – beginnend bei den Neandertalern bis in die Zeit Karls des Grossen – erlaubt wie in einem Mikrokosmos die fundamentalen Entwicklungen der Menschheitsgeschichte nachzuvollziehen. Die Beiträge im Band 1 der neuen Stadt.Geschichte.Basel haben das komplexe Zusammenspiel von Umwelt, Menschen und Ressourcen aufgezeigt, das diese lange Zeit prägte: von den frühesten Besiedlungsspuren, die sich in der Grenzzone der maximalen Vergletscherung der letzten Eiszeit erhalten haben, bis zur Entstehung städtischer Strukturen im Hochmittelalter.</p>
+<p>50 000 Jahre Geschichte, 500 Jahre archäologische Forschungen liegen hinter uns. Mit der Fundstelle Riehen-Ausserberg besitzt der Kanton Basel-Stadt eine der ältesten und bedeutendsten Fundstellen am Ende der mittleren Altsteinzeit. In der Jungsteinzeit zeichnete sich ab, was sich in der jüngeren Geschichte wiederholte: Die Verbindungen in den Norden und Osten über den Rhein sowie die Routen in den Westen bis ins Rhonetal und in den Süden über das Mittelland und die Alpen führten dazu, dass sich Basel schon ab dem Beginn der Jungsteinzeit immer wieder am Schnittpunkt wichtiger kultureller Einflüsse befand. Der Rhein war dabei stets trennendes wie verbindendes Element. Er machte die Region zum Grenzland und zur zentralen Verbindungsachse zugleich.</p>
+<p>Während erste Einflüsse jungsteinzeitlicher Lebensweisen aus dem Südwesten an den Rhein gelangten, breitete sich die bandkeramische Kultur über den Balkan und das Donautal auch in die Basler Region aus. Bäuerinnen und Bauern aus dem Osten vermischten sich mit Einheimischen, die neben ihrer ursprünglichen mittelsteinzeitlichen Lebensweise bereits gewisse jungsteinzeitliche Techniken wie die Keramikherstellung aus dem Süden adaptiert hatten. Knapp dreitausend Jahre später, am Ende der Steinzeit, trafen erneut zwei grosse kulturelle Strömungen, die Schnurkeramik und die Glockenbecher, auf bestehende endneolithische Kulturen am Oberrhein. Besonders augenscheinlich wird diese Situation jedoch ab der Bronzezeit, als eine verstärkte wirtschaftliche Spezialisierung einsetzte. Funde belegen Handelsbeziehungen vom östlichen Mittelmeer bis nach Nord- und Westeuropa, wobei der Rhein als Verkehrs- und Handelsweg eine bedeutende Rolle spielte. Vor dem Hintergrund kriegerischer Auseinandersetzungen entstand in der Spätbronzezeit auf der natürlichen Spornlage des Münsterhügels die älteste befestigte Siedlung Basels.</p>
+<aside>
+<p>Guido Lassau</p>
+</aside>
+<p>Exemplarisch spiegelt die Basler Stadtgeschichte wichtige Wendepunkte der europäischen Geschichte wider. Das äusserst fruchtbare Umland sowie die verkehrsgünstige Lage am Rheinknie ermöglichten es, dass sich am Ende der keltischen Zeit, in der Spätlatènezeit, ein Produktionszentrum und Umschlagplatz für Waren entwickelte, was zu frühen stadtähnlichen Strukturen im unbefestigten Zentralort Basel-Gasfabrik führte. Im 1. Jahrhundert v. Chr. verlagerten die Kelten ihre Siedlung auf den Münsterhügel und befestigten sie mit einem <em>murus Gallicus</em>. Als unsere Region ins Römische Reich integriert wurde, arrangierten sich die Einheimischen mit den Besatzern. Es kam zu einem intensiven Austausch zwischen zwei unterschiedlich geprägten Lebenswelten, woraus im Laufe des 1. und 2. Jahrhunderts n. Chr. eine ganz eigene Kultur entstand – die gallo-römische –, die wie kaum eine andere mediterrane Einflüsse und einheimische Traditionen zu einem für die damalige Zeit ausgeklügelten, hochproduktiven und dennoch lokal angepassten System vereinte.</p>
+<p>Die Pax Romana brachte eine Urbanisierung der Region mit sich, wie sie weder zuvor noch viele Jahrhunderte danach existierte. Tatsächlich war Basel zur Blütezeit der römischen Epoche nur eine kleine dörfliche Siedlung, ein sogenannter <em>vicus</em>, während sich das Zentrum der römischen Kolonie wenige Kilometer flussaufwärts in Augusta Raurica, der ersten Stadt der Region, befand. In der Spätantike nahm die Bedeutung Basels erneut sukzessive zu. Die erste schriftliche Erwähnung Basels im Jahr 374 n. Chr. geht auf die persönliche Anwesenheit Kaiser Valentinians I. in dieser Zeit am Rheinknie zurück, der die spätrömische Grenze ein letztes Mal ausbauen liess. Dem Münsterhügel, der mit einer Wehrmauer befestigt war, und einem Brückenkopf auf der Kleinbasler Seite kamen dabei erhebliche strategische Bedeutung zu.</p>
+<p>Eines der Ziele der Stadt.Geschichte.Basel war es, die grossen Entwicklungsstränge nachzuzeichnen. Warum aber mancher Prozess einsetzte oder warum dieser und nicht jener Ort ausgewählt wurde, Siedlungen hier verlassen und dort neu gegründet wurden, bedarf weiterer transdisziplinärer Forschungen: Warum wurde beispielsweise der keltische Zentralort Basel-Gasfabrik aufgegeben oder die prächtige Koloniestadt Augusta Raurica nicht dort errichtet, wo bereits eine römische Siedlung beim Basler Münsterhügel existierte? Ähnlich rätselhaft bleibt die Verlagerung des Bischofssitzes vom Kastell in Kaiseraugst ans Rheinknie. War Basel hier Spielball hoher Politik oder waren es persönliche Vorlieben? Die archäologischen und die historischen Quellen in Basel bieten ein grosses Potenzial, um Antworten auf diese Frage zu finden.</p>
+<p>Im Frühmittelalter verschoben sich die Machtverhältnisse in Europa grundlegend. Das Mittelmeer, für Jahrtausende Drehscheibe der Grossmächte, verlor an Bedeutung. Für einige Jahrhunderte entstanden neue politische Machtzentren in Zentraleuropa. Roms christliche Macht blieb aber ungebrochen bis in die Gegenwart. Das ebenso fruchtbare wie konfliktreiche Zusammenwirken von weltlichen und geistlichen Herrschern prägte für viele Jahrhunderte die Stadt. Der Beginn dieser Auseinandersetzung ist mit dem fränkischen Einfluss im 6./7. Jahrhundert n. Chr. in Basel zu erkennen, der sich an den spätantiken Strukturen orientierte. Wenn in den folgenden Epochen mit dem Stadtbürgerrecht ausgestattete Baslerinnen und Basler, in Zünften organisierte Handwerker und Kaufleute, Humanismus und Reformation und nicht zuletzt die Industrialisierung Basel zu der Stadt machten, wie wir sie heute kennen, so legte die frühmittelalterliche Neuorganisation nach dem Untergang Westroms den Grundstein für die Entstehung der Bischofsstadt am Rhein.</p>
+</div>
+````

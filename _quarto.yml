@@ -29,6 +29,8 @@ website:
     left:
       - text: Produkte
         href: products/products.qmd
+      - text: Bände
+        href: volumes/index.qmd
       - text: Team
         href: team.qmd
       - text: Über
@@ -57,6 +59,27 @@ website:
             text: Community Building
           - href: products/products.html#interna
             text: Interna
+      - section: Bände
+        href: volumes/index.qmd
+        contents:
+          - text: 'Band 1: Auf dem langen Weg zur Stadt'
+            href: volumes/band-01/index.qmd
+          - text: 'Band 2: Eine Bischofsstadt zwischen Oberrhein und Jura'
+            href: volumes/band-02/index.qmd
+          - text: 'Band 3: Stadt in Verhandlung'
+            href: volumes/band-03/index.qmd
+          - text: 'Band 4: Aufbrüche, Krisen, Transformationen'
+            href: volumes/band-04/index.qmd
+          - text: 'Band 5: Hinter der Mauer, vor der Moderne'
+            href: volumes/band-05/index.qmd
+          - text: 'Band 6: Die beschleunigte Stadt'
+            href: volumes/band-06/index.qmd
+          - text: 'Band 7: Stadt an der Grenze in einer Zeit der Gefährdung'
+            href: volumes/band-07/index.qmd
+          - text: 'Band 8: Auf dem Weg ins Jetzt'
+            href: volumes/band-08/index.qmd
+          - text: 'Band 9: Stadträume'
+            href: volumes/band-09/index.qmd
 
 format:
   sgb-theme-html:

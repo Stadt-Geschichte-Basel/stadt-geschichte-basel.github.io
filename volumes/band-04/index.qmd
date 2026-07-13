@@ -1,0 +1,53 @@
+---
+title: Aufbrüche, Krisen, Transformationen. 1510 – 1790
+subtitle: Stadt.Geschichte.Basel, Band 4
+description: Band 4 der neunbändigen Buchreihe Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Band
+order: 4
+doi: 10.21255/sgb-04-283636
+license: CC BY-NC 4.0
+author:
+- name: Susanna Burghartz
+citation:
+  type: book
+  title: Aufbrüche, Krisen, Transformationen. 1510 – 1790
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-04-283636
+  editor:
+  - Susanna Burghartz
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band4
+listing:
+- id: chapters
+  type: table
+  contents:
+  - sgb-*/index.qmd
+  sort: order
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  page-size: 100
+  fields:
+  - title
+  - author
+  field-display-names:
+    title: Titel
+    author: Autor:innen
+date-modified: last-modified
+---
+
+::: {.callout-tip title="Lizenz" icon="false" }
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-04-283636](https://doi.org/10.21255/sgb-04-283636)
+:::
+
+## Kapitel
+
+::: {#chapters}
+:::
