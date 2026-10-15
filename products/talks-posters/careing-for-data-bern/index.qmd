@@ -1,0 +1,50 @@
+---
+title: Learning to See the Problem
+subtitle: Discrimination-Sensitive Metadata in Practice
+description: Hands-on workshop by Moritz Mähr on discrimination-sensitive metadata practice at CAREing for Data in Dialogue, University of Bern.
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Bern
+date: 2026-12-09
+categories: Workshop
+event: Universität Bern, CAREing for Data in Dialogue
+lang: en
+citation:
+  type: standard
+  title: 'Learning to See the Problem: Discrimination-Sensitive Metadata in Practice'
+  container-title: 'CAREing for Data in Dialogue: Perspectives on Social and Cultural Data, Universität Bern'
+appendix-cite-as: display
+other-links:
+  - text: Event Website
+    icon: house
+    href: 'https://dhbern.github.io/content/events/im_dialog/2026-careing-for-data-in-dialogue/'
+  - text: Course Materials (OER)
+    icon: mortarboard
+    href: '/products/publications/oer-metadatenpraxis/index.html'
+---
+
+## Workshop
+
+::: {lang="de"}
+Moritz Mähr leitet eine Hands-on-Session an *CAREing for Data in Dialogue*, der siebten Ausgabe der Reihe «… in Dialogue». Die Digital Humanities und die Universitätsbibliothek der Universität Bern richten die Veranstaltung am 9. Dezember 2026 im Kuppelraum des Hauptgebäudes (H4) aus. Die Session läuft parallel zur Session *Bring your own data* (15:00–16:10 Uhr).
+:::
+
+::: {lang="en"}
+Moritz Mähr leads a hands-on session at *CAREing for Data in Dialogue*, the seventh edition of the "… in Dialogue" series. Digital Humanities and the University Library at the University of Bern organise the event on 9 December 2026 in the Kuppelraum of the main building (H4). The session runs in parallel with a *Bring your own data* session (15:00–16:10).
+:::
+
+## Abstract
+
+::: {lang="de"}
+Der Workshop fragt, was die CARE-Prinzipien (Collective Benefit, Authority to Control, Responsibility, Ethics) für die alltägliche Arbeit mit Metadaten bedeuten. Die Teilnehmenden schaffen zuerst ein Problembewusstsein für Diskriminierung in und durch Daten und Metadaten. Danach untersuchen sie konkrete Datensätze, erkennen problematische Beschreibungen und Klassifikationen und diskutieren Handlungsoptionen für die eigene Praxis.
+
+Die Session arbeitet mit den Materialien der Open Educational Resource [*Diskriminierungssensible Metadatenpraxis*](/products/publications/oer-metadatenpraxis/index.qmd). Die OER baut auf dem [Handbuch zu diskriminierungssensiblen Metadaten](/products/publications/handbuch/index.qmd) aus dem Forschungsprojekt Stadt.Geschichte.Basel auf.
+:::
+
+::: {lang="en"}
+The workshop asks what the CARE principles (collective benefit, authority to control, responsibility, ethics) mean for everyday metadata work. Participants first build an awareness of discrimination in and through data and metadata. They then examine concrete records, identify problematic descriptions and classifications, and discuss options for their own practice.
+
+The session uses the materials of the open educational resource [*Diskriminierungssensible Metadatenpraxis*](/products/publications/oer-metadatenpraxis/index.qmd). The OER builds on the [handbook on discrimination-sensitive metadata](/products/publications/handbuch/index.qmd) from the research project Stadt.Geschichte.Basel.
+:::

@@ -38,7 +38,7 @@ license: CC BY-SA 4.0
 ---
 
 ::: {.callout-note title="Überarbeitung in Arbeit"}
-Eine aktualisierte Fassung des Handbuchs ist unter dem Titel [Diskriminierungssensible Metadatenpraxis](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) in Vorbereitung.
+Eine aktualisierte Fassung des Handbuchs ist unter dem Titel [Diskriminierungssensible Metadatenpraxis](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) in Vorbereitung. Für Kurse und Workshops steht eine [Open Educational Resource zur diskriminierungssensiblen Metadatenpraxis](/products/publications/oer-metadatenpraxis/index.qmd) bereit.
 :::
 
 ## Handbuch
