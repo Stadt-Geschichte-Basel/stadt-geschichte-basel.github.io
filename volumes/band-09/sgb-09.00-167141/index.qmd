@@ -1,0 +1,74 @@
+---
+title: Zur Einführung
+description: Einleitung zu Band 9 «Stadträume. Offen und begrenzt, gestaltet und umkämpft» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 0
+doi: 10.21255/sgb-09.00-167141
+license: CC BY-NC 4.0
+author:
+- name: Esther Baur
+citation:
+  type: chapter
+  title: Zur Einführung
+  container-title: Stadträume. Offen und begrenzt, gestaltet und umkämpft
+  page: 11-17
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2025
+  url: https://doi.org/10.21255/sgb-09.00-167141
+  editor:
+  - Esther Baur
+  - Lina Gafner
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band9/chapter/356
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band9/86/978
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-tip title="Lizenz" icon="false" }
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-09.00-167141](https://doi.org/10.21255/sgb-09.00-167141)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<p>Am späten Nachmittag des 19. September 1526 wurde Basel von einer gewaltigen Explosion erschüttert. Ein Blitz hatte in einen Turm «an der stat graben zwischen dem Eschamarthor und St. Albanthor» eingeschlagen, in dem mutmasslich gegen fünfzig Tonnen Pulver und Schwefel lagerten. Die Explosion «zerschlug den mechtigen starcken durn usz dem erdrich hinweg, alsz ob kein durn nie dogestanden wer». Von der Wucht der Explosion wurden auch die angrenzenden Häuser und die Stadtmauer an der Malzgasse zerstört, so «esz bleip kein Stein bim andren». Etliche Opfer «schlug es in die lufft, das niemand wüst, wo sy hinkumen woren». Insgesamt verloren zwölf Menschen ihr Leben, es herrschte «grosz jomer und not».<sup id="ref-fn1"><a href="#fn1">1</a></sup></p>
+<p>Zwölf Jahre später erscheint das Ereignis auf der Karte ‹Die löblich und wyt berümpt Stat Basel und umbligender Landschaft nach warer Geographischer art beschribn› des Kosmografen Sebastian Münster von 1538.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Diese aus heutiger Sicht geheimnisvolle Miniatur aus der Frühzeit der Raumdarstellung eröffnet den vorliegenden Band, der mit der Selbstverständlichkeit der chronologischen Geschichtsschreibung bricht und den Fokus der Erzählung auf den Raum legt.</p>
+<p>Auf der Karte von Sebastian Münster ist die Explosion ein feuriger Strahl, der unter dunklen Wolken auf den Turm niedergeht. Steinbrocken fliegen hoch. Die Beschriftung «Nüw thurn» bestätigt, was wir auf der Miniatur (nicht) sehen: 1526 vollständig zerstört und in Rekordzeit von einem Jahr wieder aufgebaut, erfüllt der «Nüw thurn» im renovierten Mauerring erneut seine volle Funktion. Die Grenzstadt Basel ist wieder fest umschlossen.</p>
+<p>Münsters Vogelschauplan ist eine der ersten Karten Basels, die «nach warer Geographischer art beschribn» ist, ein Novum für die damalige Zeit. Methodisch und technisch auf dem neuesten Stand, verwies Münster auf die Vermessungstechnik, den Zirkel gut sichtbar am unteren Bildrand platzierend. Mit dem Massstab, der die Wegzeiten zu Fuss pro Masseinheit angibt, fügte er zur räumlichen noch die zeitliche Dimension hinzu: Distanzen sind (ver-)messbar, Wegzeiten berechenbar, und beides kommt hier gleichzeitig zur Darstellung. Mit Münster sehen wir, wie in der Frühzeit der Kartografie nicht nur vermessbarer Raum entsteht, sondern zugleich ein neuer Raum der Repräsentation, ein ikonisch und symbolisch kodierter Raum des Wissens und der Imagination.<sup id="ref-fn3"><a href="#fn3">3</a></sup> Vermessener Raum, begehbarer und durchmessbarer Raum, vergangene und gegenwärtige Zeit überlagern sich in einer Darstellung und formen sich zu einer Erzählung. Die Einsicht, dass Raumgeschichte immer auch eine (Medien-)Geschichte der Visualisierungs- und Darstellungstechnologien von Raum ist, hat die Konzeption des Bandes von Anfang an begleitet, ebenso die Auffassung, dass Raum nicht als autonomes Gebilde oder gar Behälter betrachtet werden soll. Der Band fokussiert den städtischen Raum als heterogenes und instabiles Gebilde, das, aus der Interaktion von Lebewesen und Dingen hervorgebracht, sich laufend verändert. Ausgehend von mehr oder weniger stabilen geografischen und materiellen Gegebenheiten formieren sich städtische Räume in einem Setting von konkurrierenden Praktiken, tradierten oder neuen Wissensformen und Technologien, beweglichen oder starren Machtgefügen.<sup id="ref-fn4"><a href="#fn4">4</a></sup> Raum ist gemacht. Die Dynamiken der Verräumlichung und die Wechselwirkungen von stabilisierenden und destabilisierenden Faktoren interessieren hier mehr als die oft nur scheinbare bauliche Kontinuität.<sup id="ref-fn5"><a href="#fn5">5</a></sup></p>
+<aside>
+<p>Esther Baur, Lina Gafner</p>
+</aside>
+<aside>
+<h3>Bewegliche Räume – dynamische Stadt</h3>
+</aside>
+<p>Wenn Sebastian Münster zwei Zeitschichten – die Zerstörung des Turms und seine umgehende Instandsetzung – übereinanderlegt, dann nutzt er die Karte nicht zur blossen Abbildung einer momentanen Situation, sondern auch als Erzählmedium und Medium der Imagination. Er erzählt uns von der Instabilität räumlicher Verhältnisse und nimmt vorweg, dass gegen den Lauf der Dinge – und Gottes Wille – auch eine noch so exakte Karte nicht ankommen kann.<sup id="ref-fn6"><a href="#fn6">6</a></sup> Die Stadtbefestigung, dies verdeutlicht er in wenigen, aber drastischen Strichen, war elementar wichtig für die Stadt. Umso bedrohlicher war ihre plötzliche Zerstörung.</p>
+<p>Die Mauern begrenzten die Stadt, versprachen Sicherheit gegen Angriffe von aussen. Nebst der physischen Hürde zur Abschreckung oder Verteidigung schufen sie eine Trennung oder Begrenzung, und sie trennten den Innenraum vom Aussenraum der Stadt, das Diesseits vom Jenseits – bei aller Durchlässigkeit der Mauern an den Toren oder anderen, eher unerwünschten Stellen. Es sind diese Grenzen und Übergänge, die Raum definieren und Territorien bilden, nicht als starre und unbewegliche Begrenzungen, sondern als Raumordnungsprinzip – physisch, symbolisch, administrativ oder politisch. Auch die Konzipierung des Bandes begann mit der Frage nach der Bedeutung der Grenze als elementares Ordnungsprinzip für die Definition, die Wahrnehmung und die Darstellung von Raum. Wenn die räumliche Dimension in einer Reihe zur Stadtgeschichte implizit angelegt und grundlegend ist, dann stellt dieser letzte Band der Reihe die Frage, was mit dem Stadtraum gemeint ist.</p>
+<p>In unserem alltäglichen Sprachgebrauch ist oft und in unterschiedlichen Bedeutungszusammenhängen und Dimensionen von Räumen die Rede. Der uns direkt umgebende Raum ist für den Körper sinnlich erfahrbar. Doch je ausgedehnter die Räume, desto mehr nähern sie sich in unserem Empfinden einer abstrakten Grösse.<sup id="ref-fn7"><a href="#fn7">7</a></sup> Mit einer veränderten Tiefenschärfe, einem neuen Fokus treten die Aussengrenzen Basels, tritt der Mauerring in den Hintergrund, und die Stadt erscheint als Geflecht aus einer Unzahl von kleineren und grösseren, sich teilweise überlagernden Räumen. Die zuvor noch klar umrissene Einheit ‹Stadt› löst sich in Vielteiligkeit auf und es eröffnet sich ein Blick auf die Komplexität und Dynamik städtischen Lebens in seiner räumlichen Anordnung.</p>
+<p>Die Schleifung des Mauerrings im Zeitalter der Moderne ab 1860 markiert eine grundlegende Verschiebung in der Idee der ‹Stadt›. Für lange Jahrhunderte war sie ein kompaktes, eingehegtes und durch ein feines Netz von Binnengrenzen strukturiertes Gebilde gewesen. Eine neue politische und wirtschaftliche Ordnung stellte fundamental andere Anforderungen an diesen Raum. Die Städte in dieser Zeit wuchsen jetzt über ihre jahrhundertealten Strukturen hinaus, entwickelten sich zu industriellen Zentren, zogen stärker denn je Migrationsbewegungen an, wurden zu Projektionsflächen gesellschaftspolitischer Utopien und Dystopien. Dem zunehmend unüberblickbaren Wachstum der Städte stellte sich die Stadtplanung entgegen. In Stadtkonzepten, auf Plänen und als Modell liess sie neben dem realen Stadtraum eine in die Zukunft gedachte Stadt, einen Möglichkeitsraum entstehen. Durch diesen vorausschauenden und lenkenden Blick auf die Entwicklung einer Stadt spielte sich ein neuer Umgang mit dem Raum ein: Räume wurden zoniert, saniert, harmonisiert und funktionalisiert, ihnen wurde ein Wert beigemessen, mit ihnen wurde spekuliert. Der Raum als Konzept fand Eingang in die Verwaltung und durchlief dort eine steile Karriere. Seit dem späten 20. Jahrhundert wächst an der Schnittstelle von realem Stadtraum und Möglichkeitsraum der virtuelle Raum, der den Umgang mit Stadt in den kommenden Jahrzehnten noch einmal tiefgreifend verändern wird. Der Fokus auf das Räumliche einer Stadt verändert in der Geschichtsschreibung Frage und Antwort, lässt neue Narrative entstehen. Doch welche davon sind besonders interessant? Welche Geschichten können davon erzählen, dass Raum nicht einfach Kulisse ist? Reibung und Veränderung im Räumlichen manifestieren sich in vielfältigen Spannungsfeldern: im Gegensatz zwischen öffentlichen Räumen und privater Stube; im Nebeneinander von menschlichen und tierischen Lebensräumen in der Stadt; in der Forderung nach Freiraum und dem Anspruch nach Regulierung und Planbarkeit des Stadtraums; in Tag- und Nachtraum, zugänglichen und versperrten Räumen, stabilen und temporären Räumen, Stadtzentrum und Peripherie, ländlichen und urbanen Zonen. Aus diesen Spannungsfeldern geht städtischer Raum als etwas hervor, das dauernd in Verhandlung und Veränderung steht, dauernd Konflikten und Neuordnungen ausgesetzt ist. Das dezidierte Neudenken der Erzählung von Stadtgeschichte liess ein Kaleidoskop entstehen, das die Beweglichkeit städtischer Räume und den unerschöpflichen Reichtum dessen vorführt, was Stadtgeschichte sein kann.</p>
+<aside>
+<h3>Erzählungen über den städtischen Raum</h3>
+</aside>
+<p>Der Band bündelt 21 Text- und vier Bildbeiträge, die diesen Reichtum an räumlichen Konstellationen, Bezügen und Dynamiken exemplarisch, aber in keiner Weise abschliessend thematisieren, in vier Hauptkapitel: Raumordnungen, Konflikträume, Räume in Bewegung und Begegnungsräume. Die vier Kategorien, je mit einer kurzen Einleitung versehen, öffnen analytische Perspektiven auf den Raum und sollen die Lektüre der Beiträge bereichern. Die Beiträge erzählen von verschiedenen Zeiträumen, doch nicht zufällig beschäftigen sich viele mit dem 19. Jahrhundert und der während des Anbruchs der Moderne besonders spannungsvollen Veränderung des Stadtraums. Manche Texte sind ausgedehnt, andere sind kurz und pointiert. In den Bildstrecken werden die Leser:innen zudem eingeladen, sich auch explizit mit dem Bild des Stadtraums auseinanderzusetzen. Jede Bildstrecke entwickelt eine eigene Erzählung, die aus der historisch korrekten Chronologie ausbricht und auf ausführliche Bildlegenden verzichtet, um stattdessen den assoziativen, inhaltlichen und kompositorischen Reichtum der Bilder auszuloten. Trotzdem wird deutlich, dass jedem Bild und jeder Fotografie ein eigener Blickwinkel und eine spezifische historische Perspektive eingeschrieben ist.</p>
+</div>
+<section role="doc-endnotes">
+
+<ol>
+<li id="fn1" value="1">Fridolin Ryff in der Basler Chronik, 1514–1541, zit. nach Kaufmann 1949. <a href="#ref-fn1" role="doc-backlink">↑</a></li>
+<li id="fn2" value="2">Fischer 2007. Helmig; Matt 1991. <a href="#ref-fn2" role="doc-backlink">↑</a></li>
+<li id="fn3" value="3">Dünne 2011. <a href="#ref-fn3" role="doc-backlink">↑</a></li>
+<li id="fn4" value="4">Löw 2017. <a href="#ref-fn4" role="doc-backlink">↑</a></li>
+<li id="fn5" value="5">Rau 2013. Roskamm 2017. <a href="#ref-fn5" role="doc-backlink">↑</a></li>
+<li id="fn6" value="6">Kittsteiner 1995. <a href="#ref-fn6" role="doc-backlink">↑</a></li>
+<li id="fn7" value="7">Rau 2013. <a href="#ref-fn7" role="doc-backlink">↑</a></li>
+</ol>
+</section>
+````

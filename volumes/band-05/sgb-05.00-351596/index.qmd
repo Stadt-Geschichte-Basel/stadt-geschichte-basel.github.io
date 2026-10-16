@@ -1,0 +1,58 @@
+---
+title: 'Einleitung: 1760 –1859, eine ungewohnte Periodisierung'
+description: Einleitung zu Band 5 «Hinter der Mauer, vor der Moderne. 1760 – 1859» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 0
+doi: 10.21255/sgb-05.00-351596
+license: CC BY-NC 4.0
+author:
+- name: André Salvisberg
+citation:
+  type: chapter
+  title: 'Einleitung: 1760 –1859, eine ungewohnte Periodisierung'
+  container-title: Hinter der Mauer, vor der Moderne. 1760 – 1859
+  page: 13-17
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-05.00-351596
+  editor:
+  - Marc Fehlmann
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band5/chapter/322
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/1995
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-tip title="Lizenz" icon="false" }
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-05.00-351596](https://doi.org/10.21255/sgb-05.00-351596)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<p>Mit Band 5 der Stadt.Geschichte.Basel beginnt die Darstellung der neueren und neuesten Geschichte, der gleich viel Platz eingeräumt wird wie der älteren. Die Geschichtswissenschaft lässt die neuere Geschichte gewöhnlich mit dem Zeitalter der bürgerlichen Revolutionen einsetzen, meist mit der Französischen Revolution, die das ‹lange 19. Jahrhundert› bis zum Ersten Weltkrieg eröffnet. Diese Periodisierung orientiert sich an Makroereignissen der europäischen Geschichte. Ortsbezogene Vorgänge, allen voran die Kantonstrennung 1832/33 und deren bis heute sichtbare Auswirkungen auf die Stadt Basel, geben aber Anlass zu einer davon abweichenden, ungewohnten Periodisierung. Band 5 setzt nicht die übliche Zäsur von 1789, den tiefen Einschnitt am Ende des Ancien Régime, auch nicht mit der zeitlichen Retusche der Basler Revolution von 1798; er will einen Übergang darstellen.</p>
+<p>Band 5 befasst sich mit der Zeit zwischen 1760 und 1859. Er geht dabei von Reinhart Kosellecks geschichtswissenschaftlichem Konzept der ‹Sattelzeit› aus. In dieser Bezeichnung steckt das Bild einer weit ausladenden Passage, über die hinweg eine Bewegung stattfindet. Das Konzept fokussiert auf allmähliche, vielfältige Veränderungsprozesse, die sich zwischen der Mitte des 18. und der des 19. Jahrhunderts abgespielt haben.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Kosellecks Konzept zufolge verlieren oder wandeln politische und gesellschaftliche Begriffe wie ‹Staat› oder ‹Familie› ihre Bedeutung, weitere wie ‹Liberalismus› oder ‹Klasse› kommen auf dem Weg von der Ständegesellschaft zur bürgerlichen Moderne hinzu. Altes konkurriert mit Neuem oder weicht diesem, die Anfänge unterscheiden sich stark vom Ende. Die Sattelzeit ist mehr ein Übergang als eine in sich geschlossene Epoche. Die anderen Erscheinungen dieser Zeit wie die Industrialisierung finden im engen Austausch damit statt und gestalten die moderne Welt mit.</p>
+<p>Der ‹Sattelzeit-Band› 5 soll sichtbar machen, wie die gesellschaftlichen und politischen, wissenschaftlichen und religiösen, kulturellen und wirtschaftlichen Prozesse für die Jahre 1760 bis 1859 sich kreuzen und in unterschiedlichem Tempo verlaufen. Dies stets mit dem Blick auf die städtischen Lebenswelten, die von der Gemengelage von Gleichzeitigem und Ungleichzeitigem, von Bruch und Weiterführung geprägt sind. Eine klare Trennung in ein Basel vor und eines nach der Französischen Revolution findet im Zeitraum 1760 bis 1859 nicht statt. Eine Binnentrennung von Band 5 in Frühe Neuzeit und Neuere Geschichte erübrigt sich damit auch. Hingegen erhalten – ähnlich dem Spätantike-Konzept – die Aspekte des Übergangs verstärkte Aufmerksamkeit.</p>
+<aside>
+<p>André Salvisberg</p>
+</aside>
+<p>Die Wahl der Jahre 1760 und 1859 als Eckdaten der Basler Sattelzeit markiert einerseits das Ungefähre und andererseits das Genaue einer Periodisierung. Die runde Zahl ‹1760› ist mehr Annäherung als Datum. Ein bis zwei Generationen vor der Französischen Revolution von 1789 und der Basler Revolution von 1798 findet die Aufklärung in Basel ein breiteres Publikum. Ihre Ideen tragen entscheidend dazu bei, die Begriffswelt von Gesellschaft und Politik zu erneuern. Langfristig resultiert daraus die Vorstellung eines modernen Gemeinwesens. Den genauen Schlusspunkt des Bandes bildet der Beschluss von 1859, die Stadtmauer abzubrechen. Die Entfestigung – nach der Kantonstrennung noch ein Tabu der Basler Politik – ist im Vergleich mit den anderen grossen Städten der Schweiz stark verzögert. Das macht sie umso bedeutender. Erst sie verschafft der weiteren Entwicklung und dem Wachstum von Industrie und Bevölkerung den dringend benötigten Platz. Durch 1859 erhält 1760 ein zusätzliches Gewicht. Nach einem jahrzehntelangen Einbürgerungsstopp werden um 1760 wieder Einbürgerungen vorgeschlagen, jedoch ohne dauerhaften Erfolg. Das Jahrhundert danach kann auch aus der Perspektive von Basler Offenheit und Verschlossenheit betrachtet werden.</p>
+<p>Für Band 5 stellt sich am Ende des darin behandelten Zeitraums die Frage, aus welchen und aus wessen Perspektiven Basel schon als künftige Grossstadt erkennbar wird (zum Beispiel sozial mobil, politisch partizipativ, gesellschaftlich anonym) oder ob in einer weiterhin kleinstädtischen Gesellschaft nur das Potenzial dazu vorhanden ist. Welche Merkmale einer modernen und einer frühmodernen Stadt finden sich? Wie viele Basel – verstanden als Stadt mit einer Vielfalt an Gesellschaften, Kulturen oder Verhaltensweisen – gibt es um 1859? Parallel dazu sollen auch bandübergreifende Forschungsperspektiven in die Texte einfliessen. Es sind dies die Multi-Akteur-Sicht mit Netzwerken, die aufeinander reagieren, und die Verflechtung mit der Aussenwelt, das Verhältnis von Mensch und Natur, Kontinuitäten und Diskontinuitäten sowie das koloniale Basel. Um inhaltliche Doppelungen mit dem vorhergehenden Band 4 (der bis 1790 reicht) und mit dem nachfolgenden Band 6 (der in den 1850er-Jahren einsetzt) zu vermeiden, sind auch Schnittstellen berücksichtigt. So ist die Eisenbahn in Basel seit dem Ende der 1830er-Jahre ein Thema und fährt Basel ab 1844 an. Sie wird hier dargestellt, wo sie für das allgemeine Verständnis von Belang ist. Band 6 nimmt sich des Themas ausführlicher an. Band 5 wurde von mehr als einem Dutzend Personen geschrieben. Alle Texte, die auf die allgemeinen ‹Zeitraumporträts› 1760−1817, 1817−1840 und 1840−1859 folgen, stammen aus spezialisierter Hand, von Historikerinnen und Historikern, die sich schon zuvor zum Thema forschend und publizierend ausgewiesen haben. Eine solche Arbeitsteilung mit vielen verschiedenen ‹Federn› bedingt ein hohes Mass an Koordination und Zusammenführung. Gleichwohl wurden die Einzelbeiträge nicht so weit bearbeitet, dass ihre Verfasserinnen und Verfasser dahinter verschwinden. Der Gefahr, eine Aufsatzsammlung abzuliefern, begegnet der Band mit Regelmässigkeit, Schwerpunktsetzung und einem Leitmotiv bei den drei erwähnten Zeiträumen 1760–1817, 1817–1840, 1840–1859. Diese drei Kapitel haben einen allgemeinen, nicht zuletzt ereignisgeschichtlich geprägten Inhalt. Sie entlasten die anderen Texte von wiederkehrenden Erklärungen und von Gerüst- und Hintergrundwissen, die in einem Überblick besser aufgehoben sind. Dahinter beziehungsweise dazwischen finden sich die Kapitel, deren Texte thematische Schwerpunkte vertieft behandeln: beispielsweise das Krisenvermögen in Krieg und Epidemie oder die Handels- und Produktionsverflechtungen vor Ort und weitab. Sie folgen jeweils auf den Zeitraum, für den sie besonders relevant sind, greifen aber wo nötig über diesen hinaus. Zusammengehalten werden die drei Zeiträume und damit der ganze Band von zeittypischen Lebensbildern der Stadt mit Stadtmauer und Toren, in denen auch die Inhalte der einzelnen Kapitel anklingen. Die Stadtmauer und ihre Tore bekommen so einen Wiedererkennungswert. Band 5, das Basel der Jahre 1760 bis 1859, beginnt mit der Stadtmauer, endet mit ihr und behält sie auch dazwischen im Blick.<sup id="ref-fn2"><a href="#fn2">2</a></sup></p>
+</div>
+<section role="doc-endnotes">
+
+<ol>
+<li id="fn1" value="1">Koselleck 1972, S. XXIII−XXIV. <a href="#ref-fn1" role="doc-backlink">↑</a></li>
+<li id="fn2" value="2">Redigierter Auszug aus: Salvisberg 2022. <a href="#ref-fn2" role="doc-backlink">↑</a></li>
+</ol>
+</section>
+````

@@ -1,0 +1,52 @@
+---
+title: Stadt in Verhandlung. 1250 – 1530
+subtitle: Stadt.Geschichte.Basel, Band 3
+description: Band 3 der neunbändigen Buchreihe Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Band
+order: 3
+doi: 10.21255/sgb-03-345800
+license: CC BY-NC 4.0
+author:
+- name: Lucas Burkart
+  orcid: 0000-0002-9011-5113
+citation:
+  type: book
+  title: Stadt in Verhandlung. 1250 – 1530
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-03-345800
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band3
+listing:
+- id: chapters
+  type: table
+  contents:
+  - sgb-*/index.qmd
+  sort: order
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  page-size: 100
+  fields:
+  - title
+  - author
+  field-display-names:
+    title: Titel
+    author: Autor:innen
+date-modified: last-modified
+---
+
+::: {.callout-tip title="Lizenz" icon="false" }
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-03-345800](https://doi.org/10.21255/sgb-03-345800)
+:::
+
+## Kapitel
+
+::: {#chapters}
+:::
