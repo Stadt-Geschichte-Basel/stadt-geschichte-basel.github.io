@@ -35,20 +35,20 @@ Frag mich was ist **kein generativer Chatbot**. Die Anwendung formuliert keine A
 - **Suche nach Bedeutung**: Fragen und Themen in natürlicher Sprache finden inhaltlich verwandte Passagen, nicht nur exakte Wortübereinstimmungen
 - **Bis zu fünf Kapitel pro Suche**: Pro Kapitel erscheint nur die am besten passende Passage, sodass sich die Treffer auf unterschiedliche Kapitel verteilen
 - **Verweis auf das Original**: Jeder Treffer nennt Kapitel- und Bandtitel, zeigt einen Auszug und führt über **Originalkapitel öffnen** per DOI zur publizierten Fassung
-- **Ganzes Korpus**: 79 deutschsprachige Kapitel aller neun Bände, einschliesslich Einleitungen und Anhängen; Quellenzitate behalten ihre originale Schreibweise
-- **Barrierearme Bedienung**: Tastaturbedienung, Statusmeldungen für Screenreader, Umbruch bis 320 Pixel Breite und vergrösserte Schrift sind in automatisierten Browsertests geprüft
+- **Ganzes Korpus**: 70 deutschsprachige Kapitel aus allen neun Bänden, einschliesslich Einleitungen, mit rund 6400 Passagen; die Anhänge (Literaturverzeichnisse, Register) sind ausgeschlossen, weil sie bei Namensanfragen sonst die Trefferplätze füllen; Quellenzitate behalten ihre originale Schreibweise
+- **Barrierearme Bedienung**: Tastaturbedienung, Statusmeldungen für Screenreader, Umbruch bis 320 Pixel Breite und vergrösserte Schrift sind in automatisierten Browsertests in Chromium und Firefox geprüft; eine vollständige WCAG-Konformitätsprüfung ist das nicht
 
 ## Anwendung
 
 In das Suchfeld wird eine Frage oder ein Thema eingegeben, etwa: «Welche Bedeutung hatte der Rhein für Basel?» Nach einem Klick auf **Suchen** zeigt die Anwendung bis zu fünf passende Kapitel mit je einem Auszug. Numerische Ähnlichkeitswerte blendet die Oberfläche bewusst aus.
 
-Unter **Über die Suche** finden sich Angaben zu Quellen, Grenzen der Suche, Datenschutz, Lizenzen und Quellcode. Wer ein Kapitel vollständig lesen möchte, folgt dem DOI-Link oder nutzt den [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog) auf emono.unibas.ch.
+Die Statuszeile nennt die Zahl der durchsuchbaren Forschungsbände und verlinkt auf den Publikationskatalog. Unter **Über die Suche** unterhalb der Treffer finden sich Angaben zu Quellen, Grenzen der Suche, Datenschutz, Lizenzen und Quellcode. Wer ein Kapitel vollständig lesen möchte, folgt dem DOI-Link oder nutzt den [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog) auf emono.unibas.ch.
 
 ## Funktionsweise
 
 Die Suche beruht auf Text-Embeddings, also numerischen Vektoren, die die Bedeutung eines Textes abbilden. Die Aufbereitung erfolgt in mehreren Schritten:
 
-1. **Kapiteltexte aufbereiten**: Ein Importskript übernimmt die textbasierten HTML-Ausgaben aus [SGB Minimal HTML](/products/coding/sgb-minimal-html/index.qmd) und wandelt sie in Markdown um. Fussnotenmarker, Endnoten und technische Metadaten werden entfernt.
+1. **Kapiteltexte aufbereiten**: Ein Importskript übernimmt die textbasierten HTML-Ausgaben aus [SGB Minimal HTML](/products/coding/sgb-minimal-html/index.qmd) und wandelt sie in Markdown um. Anhangskapitel, Fussnotenmarker, Endnoten und technische Metadaten werden entfernt.
 2. **In Passagen zerlegen**: Jeder Kapiteltext wird in Passagen von 120 bis 180 Modell-Tokens aufgeteilt.
 3. **Embeddings berechnen**: Das mehrsprachige Modell [multilingual-e5-small](https://huggingface.co/intfloat/multilingual-e5-small) berechnet für jede Passage einen normalisierten Vektor. Passagen und Vektoren bilden einen statischen Suchindex.
 4. **Anfrage einbetten**: Im Browser berechnet eine quantisierte Fassung desselben Modells den Vektor der Suchanfrage.
@@ -60,7 +60,9 @@ Damit unterscheidet sich Frag mich was grundlegend von generativer KI: Ein Sprac
 
 Das GitHub-Repository [frag-mich-was](https://github.com/Stadt-Geschichte-Basel/frag-mich-was/) enthält den Quellcode, die importierten Kapiteltexte und den generierten Suchindex. Die Anwendung ist in Python als [marimo](https://marimo.io/)-Notebook geschrieben und wird als WebAssembly-Anwendung exportiert. Die Anfrage-Embeddings berechnet [Transformers.js](https://huggingface.co/docs/transformers.js) direkt im Browser.
 
-GitHub Pages stellt die Anwendung statisch bereit. Es gibt kein Backend und keine Inferenz-Schnittstelle. Eine automatisierte Prüfung mit Linting, Typprüfung und Tests läuft bei jeder Änderung; erst danach wird die Anwendung veröffentlicht.
+GitHub Pages stellt die Anwendung statisch bereit. Es gibt kein Backend und keine Inferenz-Schnittstelle. Eine automatisierte Prüfung mit Linting, Typprüfung und Tests läuft bei jeder Änderung; erst danach wird die Anwendung veröffentlicht. Der Branch `main` ist geschützt: Änderungen brauchen einen Pull Request, eine Freigabe und eine erfolgreiche Prüfung. Die Browsertests mit echter WebAssembly-Inferenz laufen lokal.
+
+Die Seite folgt dem Erscheinungsbild von Stadt.Geschichte.Basel (Farben, Logo, Euclid Circular B, Kopfband mit Link zum Portal, Fusszeile mit Links zu Dokumentation, Datenschutz und Barrierefreiheit) und enthält Metadaten für Suchmaschinen und soziale Medien.
 
 ### Datenschutz und Downloads
 
