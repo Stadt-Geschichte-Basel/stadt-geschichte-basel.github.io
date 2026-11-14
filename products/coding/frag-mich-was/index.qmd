@@ -1,0 +1,79 @@
+---
+title: Frag mich was
+subtitle: Semantische Suche in den Buchkapiteln von Stadt.Geschichte.Basel
+description: Statische Webanwendung für die semantische Suche in den Kapiteln der Buchreihe Stadt.Geschichte.Basel. Die Suche läuft vollständig im Browser.
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+other-links:
+  - href: 'https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/'
+    text: Anwendung
+    icon: search
+  - href: 'https://emono.unibas.ch/stadtgeschichtebasel/catalog'
+    text: Katalog auf emono.unibas.ch
+    icon: journal-richtext
+code-links:
+  - href: 'https://github.com/Stadt-Geschichte-Basel/frag-mich-was/'
+    text: GitHub Repository
+    icon: github
+citation: true
+appendix-cite-as: display
+---
+
+## Frag mich was
+
+[Frag mich was](https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/) ermöglicht die semantische Suche in den Kapiteln der neunbändigen Buchreihe Stadt.Geschichte.Basel. Nutzer:innen stellen eine Frage oder nennen ein Thema in natürlicher Sprache. Die Anwendung findet passende Textpassagen, auch wenn diese andere Wörter verwenden als die Suchanfrage.
+
+Frag mich was ist **kein generativer Chatbot**. Die Anwendung formuliert keine Antworten, sondern gibt Fundstellen aus den publizierten Kapiteln zurück. Die Treffer sind nach semantischer Ähnlichkeit geordnete Textauszüge; sie sind weder automatisch geprüft noch als Antwort auf die Frage zu verstehen. Für die Einordnung bleibt die Lektüre des Originalkapitels massgeblich.
+
+## Funktionen
+
+- **Suche nach Bedeutung**: Fragen und Themen in natürlicher Sprache finden inhaltlich verwandte Passagen, nicht nur exakte Wortübereinstimmungen
+- **Bis zu fünf Kapitel pro Suche**: Pro Kapitel erscheint nur die am besten passende Passage, sodass sich die Treffer auf unterschiedliche Kapitel verteilen
+- **Verweis auf das Original**: Jeder Treffer nennt Kapitel- und Bandtitel, zeigt einen Auszug und führt über **Originalkapitel öffnen** per DOI zur publizierten Fassung
+- **Ganzes Korpus**: 70 deutschsprachige Kapitel aus allen neun Bänden, einschliesslich Einleitungen, mit rund 6400 Passagen; die Anhänge (Literaturverzeichnisse, Register) sind ausgeschlossen, weil sie bei Namensanfragen sonst die Trefferplätze füllen; Quellenzitate behalten ihre originale Schreibweise
+- **Barrierearme Bedienung**: Tastaturbedienung, Statusmeldungen für Screenreader, Umbruch bis 320 Pixel Breite und vergrösserte Schrift sind in automatisierten Browsertests in Chromium und Firefox geprüft; eine vollständige WCAG-Konformitätsprüfung ist das nicht
+
+## Anwendung
+
+In das Suchfeld wird eine Frage oder ein Thema eingegeben, etwa: «Welche Bedeutung hatte der Rhein für Basel?» Nach einem Klick auf **Suchen** zeigt die Anwendung bis zu fünf passende Kapitel mit je einem Auszug. Numerische Ähnlichkeitswerte blendet die Oberfläche bewusst aus.
+
+Die Statuszeile nennt die Zahl der durchsuchbaren Forschungsbände und verlinkt auf den Publikationskatalog. Unter **Über die Suche** unterhalb der Treffer finden sich Angaben zu Quellen, Grenzen der Suche, Datenschutz, Lizenzen und Quellcode. Wer ein Kapitel vollständig lesen möchte, folgt dem DOI-Link oder nutzt den [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog) auf emono.unibas.ch.
+
+## Funktionsweise
+
+Die Suche beruht auf Text-Embeddings, also numerischen Vektoren, die die Bedeutung eines Textes abbilden. Die Aufbereitung erfolgt in mehreren Schritten:
+
+1. **Kapiteltexte aufbereiten**: Ein Importskript übernimmt die textbasierten HTML-Ausgaben aus [SGB Minimal HTML](/products/coding/sgb-minimal-html/index.qmd) und wandelt sie in Markdown um. Anhangskapitel, Fussnotenmarker, Endnoten und technische Metadaten werden entfernt.
+2. **In Passagen zerlegen**: Jeder Kapiteltext wird in Passagen von 120 bis 180 Modell-Tokens aufgeteilt.
+3. **Embeddings berechnen**: Das mehrsprachige Modell [multilingual-e5-small](https://huggingface.co/intfloat/multilingual-e5-small) berechnet für jede Passage einen normalisierten Vektor. Passagen und Vektoren bilden einen statischen Suchindex.
+4. **Anfrage einbetten**: Im Browser berechnet eine quantisierte Fassung desselben Modells den Vektor der Suchanfrage.
+5. **Nach Ähnlichkeit ordnen**: Die Anwendung vergleicht die Anfrage mit allen Passagen über die Kosinus-Ähnlichkeit und behält pro Kapitel die beste Passage.
+
+Damit unterscheidet sich Frag mich was grundlegend von generativer KI: Ein Sprachmodell erzeugt neuen Text, der falsch oder erfunden sein kann. Die semantische Suche erzeugt keinen Text, sondern ordnet bestehende Passagen nach ihrer Nähe zur Anfrage. Jeder angezeigte Auszug stammt wörtlich aus einem publizierten Kapitel.
+
+## Technologie
+
+Das GitHub-Repository [frag-mich-was](https://github.com/Stadt-Geschichte-Basel/frag-mich-was/) enthält den Quellcode, die importierten Kapiteltexte und den generierten Suchindex. Die Anwendung ist in Python als [marimo](https://marimo.io/)-Notebook geschrieben und wird als WebAssembly-Anwendung exportiert. Die Anfrage-Embeddings berechnet [Transformers.js](https://huggingface.co/docs/transformers.js) direkt im Browser.
+
+GitHub Pages stellt die Anwendung statisch bereit. Es gibt kein Backend und keine Inferenz-Schnittstelle. Eine automatisierte Prüfung mit Linting, Typprüfung und Tests läuft bei jeder Änderung; erst danach wird die Anwendung veröffentlicht. Der Branch `main` ist geschützt: Änderungen brauchen einen Pull Request, eine Freigabe und eine erfolgreiche Prüfung. Die Browsertests mit echter WebAssembly-Inferenz laufen lokal.
+
+Die Seite folgt dem Erscheinungsbild von Stadt.Geschichte.Basel (Farben, Logo, Euclid Circular B, Kopfband mit Link zum Portal, Fusszeile mit Links zu Dokumentation, Datenschutz und Barrierefreiheit) und enthält Metadaten für Suchmaschinen und soziale Medien.
+
+### Datenschutz und Downloads
+
+Suchanfragen verlassen den Browser nicht und werden an keinen Inferenzdienst übermittelt. Der erste Besuch erfordert jedoch eine Netzwerkverbindung und grössere Downloads:
+
+- Der Suchindex umfasst unkomprimiert etwa 36 MB.
+- Bei der ersten Suche lädt der Browser zusätzlich ein Modell von etwa 120 MB.
+- Laufzeitumgebung und Modell stammen von externen Hosts, darunter `cdn.jsdelivr.net`, `pypi.org`, `files.pythonhosted.org`, `wasm.marimo.app` und Hugging Face.
+
+Ein vollständiger Offline-Betrieb ist nicht vorgesehen. Korpustext und Embeddings sind öffentlich; der Index enthält ausschliesslich bereits publizierte Inhalte.
+
+## Lizenz
+
+Der Code steht unter der [AGPL-3.0-only](https://www.gnu.org/licenses/agpl-3.0.html)-Lizenz; die Buchinhalte sind © Stadt.Geschichte.Basel / Christoph Merian Verlag und unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) lizenziert. Die Originalpublikationen sind im [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog) verfügbar.
