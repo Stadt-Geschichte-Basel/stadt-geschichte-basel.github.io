@@ -1,7 +1,7 @@
 ---
 title: Frag mich was
-subtitle: Semantische Suche in den Buchkapiteln von Stadt.Geschichte.Basel
-description: Statische Webanwendung für die semantische Suche in den Kapiteln der Buchreihe Stadt.Geschichte.Basel. Die Suche läuft vollständig im Browser.
+subtitle: Semantische Suche in den Forschungsbänden und Data Stories von Stadt.Geschichte.Basel
+description: Semantische Suchmaschine für die neun Forschungsbände und sieben Data Stories von Stadt.Geschichte.Basel. Die Suche läuft vollständig im Browser.
 author:
   - name: Moritz Mähr
     email: moritz.maehr@gmail.com
@@ -26,54 +26,59 @@ appendix-cite-as: display
 
 ## Frag mich was
 
-[Frag mich was](https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/) ermöglicht die semantische Suche in den Kapiteln der neunbändigen Buchreihe Stadt.Geschichte.Basel. Nutzer:innen stellen eine Frage oder nennen ein Thema in natürlicher Sprache. Die Anwendung findet passende Textpassagen, auch wenn diese andere Wörter verwenden als die Suchanfrage.
+[Frag mich was](https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/) ist eine semantische Suchmaschine für Basels Geschichte. Sie durchsucht die neun Forschungsbände und sieben Data Stories von Stadt.Geschichte.Basel. Nutzer:innen geben ein Thema oder eine Frage in natürlicher Sprache ein. Die Anwendung findet passende Textpassagen, auch wenn diese andere Wörter verwenden als die Suchanfrage.
 
-Frag mich was ist **kein generativer Chatbot**. Die Anwendung formuliert keine Antworten, sondern gibt Fundstellen aus den publizierten Kapiteln zurück. Die Treffer sind nach semantischer Ähnlichkeit geordnete Textauszüge; sie sind weder automatisch geprüft noch als Antwort auf die Frage zu verstehen. Für die Einordnung bleibt die Lektüre des Originalkapitels massgeblich.
+Die Suche liefert bestehende Textauszüge. Sie erzeugt und überprüft keine Antworten. Die Treffer sind nach semantischer Ähnlichkeit geordnet. Für die Einordnung bleibt die Lektüre der Originalpublikation massgeblich.
 
 ## Funktionen
 
-- **Suche nach Bedeutung**: Fragen und Themen in natürlicher Sprache finden inhaltlich verwandte Passagen, nicht nur exakte Wortübereinstimmungen
-- **Bis zu fünf Kapitel pro Suche**: Pro Kapitel erscheint nur die am besten passende Passage, sodass sich die Treffer auf unterschiedliche Kapitel verteilen
-- **Verweis auf das Original**: Jeder Treffer nennt Kapitel- und Bandtitel, zeigt einen Auszug und führt über **Originalkapitel öffnen** per DOI zur publizierten Fassung
-- **Ganzes Korpus**: 70 deutschsprachige Kapitel aus allen neun Bänden, einschliesslich Einleitungen, mit rund 6400 Passagen; die Anhänge (Literaturverzeichnisse, Register) sind ausgeschlossen, weil sie bei Namensanfragen sonst die Trefferplätze füllen; Quellenzitate behalten ihre originale Schreibweise
-- **Barrierearme Bedienung**: Tastaturbedienung, Statusmeldungen für Screenreader, Umbruch bis 320 Pixel Breite und vergrösserte Schrift sind in automatisierten Browsertests in Chromium und Firefox geprüft; eine vollständige WCAG-Konformitätsprüfung ist das nicht
+- **Suche nach Bedeutung**: Themen und Fragen finden inhaltlich verwandte Passagen, auch ohne exakte Wortübereinstimmung.
+- **Bis zu fünf Publikationen pro Suche**: Die gemeinsame Rangliste enthält pro Kapitel oder Data Story nur die am besten passende Passage.
+- **Verweis auf das Original**: Jeder Treffer nennt Titel und Band, zeigt einen Auszug und verlinkt die Originalpublikation.
+- **Buchkapitel und Data Stories**: Das Korpus umfasst 70 deutschsprachige Kapitel und sieben Data Stories mit insgesamt 6660 Passagen. Einleitungen sind enthalten. Anhänge mit Literaturverzeichnissen und Registern sind ausgeschlossen. Quellenzitate behalten ihre originale Schreibweise.
+- **Barrierearme Bedienung**: Automatisierte Browsertests in Chromium und Firefox prüfen Tastaturbedienung, Statusmeldungen für Screenreader, Umbruch bis 320 Pixel Breite und vergrösserte Schrift. Eine vollständige WCAG-Konformitätsprüfung ersetzen diese Tests nicht.
 
 ## Anwendung
 
-In das Suchfeld wird eine Frage oder ein Thema eingegeben, etwa: «Welche Bedeutung hatte der Rhein für Basel?» Nach einem Klick auf **Suchen** zeigt die Anwendung bis zu fünf passende Kapitel mit je einem Auszug. Numerische Ähnlichkeitswerte blendet die Oberfläche bewusst aus.
+Gib ein Thema ein, etwa «Rhein und Handel in Basel». Auch Fragen wie «Welche Bedeutung hatte der Rhein für Basel?» sind möglich. Wähle **Suchen**. Die Anwendung zeigt bis zu fünf passende Publikationen mit je einem Auszug. Numerische Ähnlichkeitswerte blendet die Oberfläche aus.
 
-Die Statuszeile nennt die Zahl der durchsuchbaren Forschungsbände und verlinkt auf den Publikationskatalog. Unter **Über die Suche** unterhalb der Treffer finden sich Angaben zu Quellen, Grenzen der Suche, Datenschutz, Lizenzen und Quellcode. Wer ein Kapitel vollständig lesen möchte, folgt dem DOI-Link oder nutzt den [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog) auf emono.unibas.ch.
+Die Quellenangabe nennt neun Forschungsbände und sieben Data Stories. Sie verlinkt den [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog) und die [Data Stories](https://stadtgeschichtebasel.ch/data-stories). Kapitel öffnen sich über **Originalkapitel öffnen** per DOI. **Originalstory öffnen** führt zur jeweiligen ArcGIS StoryMap. Alle Story-Treffer tragen den gemeinsamen Bandtitel **Data Stories**.
+
+Die Kennzeichnung **Nur Zusammenfassung** weist auf Datensätze hin, die ausschliesslich eine Beschreibung enthalten. Die sieben aktuellen Story-Datensätze enthalten die vollständigen Erzähltexte. Unter **Über die Suche** unterhalb der Treffer stehen Angaben zu Quellen, Grenzen der Suche, Datenschutz, Lizenzen und Quellcode.
 
 ## Funktionsweise
 
-Die Suche beruht auf Text-Embeddings, also numerischen Vektoren, die die Bedeutung eines Textes abbilden. Die Aufbereitung erfolgt in mehreren Schritten:
+Die Suche beruht auf Text-Embeddings. Diese numerischen Vektoren bilden die Bedeutung eines Textes ab. Die Aufbereitung erfolgt in mehreren Schritten:
 
-1. **Kapiteltexte aufbereiten**: Ein Importskript übernimmt die textbasierten HTML-Ausgaben aus [SGB Minimal HTML](/products/coding/sgb-minimal-html/index.qmd) und wandelt sie in Markdown um. Anhangskapitel, Fussnotenmarker, Endnoten und technische Metadaten werden entfernt.
-2. **In Passagen zerlegen**: Jeder Kapiteltext wird in Passagen von 120 bis 180 Modell-Tokens aufgeteilt.
-3. **Embeddings berechnen**: Das mehrsprachige Modell [multilingual-e5-small](https://huggingface.co/intfloat/multilingual-e5-small) berechnet für jede Passage einen normalisierten Vektor. Passagen und Vektoren bilden einen statischen Suchindex.
-4. **Anfrage einbetten**: Im Browser berechnet eine quantisierte Fassung desselben Modells den Vektor der Suchanfrage.
-5. **Nach Ähnlichkeit ordnen**: Die Anwendung vergleicht die Anfrage mit allen Passagen über die Kosinus-Ähnlichkeit und behält pro Kapitel die beste Passage.
+1. **Kapiteltexte aufbereiten**: Ein Importskript wandelt die HTML-Ausgaben aus [SGB Minimal HTML](/products/coding/sgb-minimal-html/index.qmd) in Markdown um. Es entfernt Anhangskapitel, Fussnotenmarker, Endnoten und technische Metadaten.
+2. **Data Stories importieren**: Ein weiteres Skript übernimmt die veröffentlichten Erzähltexte aus der ArcGIS-Schnittstelle. Es enthält Überschriften und Erzähltexte, aber keine interaktiven Anwendungen, Kartendaten oder Medien. «Das jüdische Basel» bleibt ausgeschlossen.
+3. **In Passagen zerlegen**: Der Indexaufbau teilt die Texte in Passagen von 120 bis 180 Modell-Tokens auf.
+4. **Embeddings berechnen**: Das mehrsprachige Modell [multilingual-e5-small](https://huggingface.co/intfloat/multilingual-e5-small) berechnet für jede Passage einen normalisierten Vektor. Passagen und Vektoren bilden einen statischen Suchindex.
+5. **Anfrage einbetten**: Im Browser berechnet eine quantisierte Fassung desselben Modells den Vektor der Suchanfrage.
+6. **Nach Ähnlichkeit ordnen**: Die Anwendung vergleicht die Anfrage mit allen Passagen über die Kosinus-Ähnlichkeit. Pro Publikation behält sie die beste Passage.
 
-Damit unterscheidet sich Frag mich was grundlegend von generativer KI: Ein Sprachmodell erzeugt neuen Text, der falsch oder erfunden sein kann. Die semantische Suche erzeugt keinen Text, sondern ordnet bestehende Passagen nach ihrer Nähe zur Anfrage. Jeder angezeigte Auszug stammt wörtlich aus einem publizierten Kapitel.
+Die semantische Suche ordnet bestehende Passagen nach ihrer Nähe zur Anfrage. Jeder angezeigte Auszug stammt aus dem importierten Text einer publizierten Quelle.
 
 ## Technologie
 
-Das GitHub-Repository [frag-mich-was](https://github.com/Stadt-Geschichte-Basel/frag-mich-was/) enthält den Quellcode, die importierten Kapiteltexte und den generierten Suchindex. Die Anwendung ist in Python als [marimo](https://marimo.io/)-Notebook geschrieben und wird als WebAssembly-Anwendung exportiert. Die Anfrage-Embeddings berechnet [Transformers.js](https://huggingface.co/docs/transformers.js) direkt im Browser.
+Das GitHub-Repository [frag-mich-was](https://github.com/Stadt-Geschichte-Basel/frag-mich-was/) enthält Quellcode, importierte Texte und den generierten Suchindex. Die Anwendung ist in Python als [marimo](https://marimo.io/)-Notebook geschrieben. Ein Export stellt sie als WebAssembly-Anwendung bereit. Die Anfrage-Embeddings berechnet [Transformers.js](https://huggingface.co/docs/transformers.js) direkt im Browser.
 
-GitHub Pages stellt die Anwendung statisch bereit. Es gibt kein Backend und keine Inferenz-Schnittstelle. Eine automatisierte Prüfung mit Linting, Typprüfung und Tests läuft bei jeder Änderung; erst danach wird die Anwendung veröffentlicht. Der Branch `main` ist geschützt: Änderungen brauchen einen Pull Request, eine Freigabe und eine erfolgreiche Prüfung. Die Browsertests mit echter WebAssembly-Inferenz laufen lokal.
+GitHub Pages stellt die Anwendung statisch bereit. Es gibt kein Backend und keine Inferenz-Schnittstelle. Automatisierte Prüfungen umfassen Linting, Typprüfung, Tests und Exportprüfungen. Erst danach wird die Anwendung veröffentlicht. Der Branch `main` ist geschützt. Änderungen brauchen einen Pull Request, eine Freigabe und erfolgreiche Prüfungen. Die Browsertests mit echter WebAssembly-Inferenz laufen lokal.
 
-Die Seite folgt dem Erscheinungsbild von Stadt.Geschichte.Basel (Farben, Logo, Euclid Circular B, Kopfband mit Link zum Portal, Fusszeile mit Links zu Dokumentation, Datenschutz und Barrierefreiheit) und enthält Metadaten für Suchmaschinen und soziale Medien.
+Die Seite nutzt Farben, Logo und Euclid Circular B von Stadt.Geschichte.Basel. Kopfband und Fusszeile verlinken das Portal, die Dokumentation, den Datenschutz und die Barrierefreiheit. Metadaten beschreiben die semantische Suche für Suchmaschinen und soziale Medien.
 
 ### Datenschutz und Downloads
 
-Suchanfragen verlassen den Browser nicht und werden an keinen Inferenzdienst übermittelt. Der erste Besuch erfordert jedoch eine Netzwerkverbindung und grössere Downloads:
+Suchanfragen verlassen den Browser nicht. Kein Inferenzdienst erhält die Anfrage. Der erste Besuch erfordert jedoch eine Netzwerkverbindung und grössere Downloads:
 
-- Der Suchindex umfasst unkomprimiert etwa 36 MB.
+- Der Suchindex umfasst unkomprimiert etwa 28 MB. Die Übertragungsgrösse hängt von der Kompression des Hosts ab.
 - Bei der ersten Suche lädt der Browser zusätzlich ein Modell von etwa 120 MB.
-- Laufzeitumgebung und Modell stammen von externen Hosts, darunter `cdn.jsdelivr.net`, `pypi.org`, `files.pythonhosted.org`, `wasm.marimo.app` und Hugging Face.
+- Laufzeitumgebung und Modell stammen von externen Hosts. Dazu gehören `cdn.jsdelivr.net`, `pypi.org`, `files.pythonhosted.org`, `wasm.marimo.app` und Hugging Face.
 
-Ein vollständiger Offline-Betrieb ist nicht vorgesehen. Korpustext und Embeddings sind öffentlich; der Index enthält ausschliesslich bereits publizierte Inhalte.
+Ein vollständiger Offline-Betrieb ist nicht vorgesehen. Korpustext und Embeddings sind öffentlich. Der Index enthält ausschliesslich bereits publizierte Inhalte.
 
 ## Lizenz
 
-Der Code steht unter der [AGPL-3.0-only](https://www.gnu.org/licenses/agpl-3.0.html)-Lizenz; die Buchinhalte sind © Stadt.Geschichte.Basel / Christoph Merian Verlag und unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) lizenziert. Die Originalpublikationen sind im [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog) verfügbar.
+Der Code steht unter der [AGPL-3.0-only](https://www.gnu.org/licenses/agpl-3.0.html)-Lizenz. Die Buchinhalte sind © Stadt.Geschichte.Basel / Christoph Merian Verlag und unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) lizenziert. Die Originalpublikationen stehen im [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog).
+
+Die sieben Data Stories sind mit Erlaubnis zur Weiterverbreitung ihrer Erzähltexte enthalten. Diese Erlaubnis weist ihnen keine Creative-Commons-Lizenz zu. Die Lizenz der Buchkapitel gilt nicht für die Data Stories. Die importierten Dateien bewahren die ursprünglichen Rechtehinweise und Quellenangaben.
