@@ -1,7 +1,7 @@
 ---
 title: Frag mich was
-subtitle: Semantische Suche in den Forschungsbänden und Data Stories von Stadt.Geschichte.Basel
-description: Semantische Suchmaschine für die neun Forschungsbände und sieben Data Stories von Stadt.Geschichte.Basel. Die Suche läuft vollständig im Browser.
+subtitle: Lexikalische und semantische Suche in den Forschungsbänden und Data Stories von Stadt.Geschichte.Basel
+description: Suchmaschine mit lexikalischer, semantischer und kombinierter Suche für die neun Forschungsbände und sieben Data Stories von Stadt.Geschichte.Basel. Die Suche läuft vollständig im Browser.
 author:
   - name: Moritz Mähr
     email: moritz.maehr@gmail.com
@@ -13,6 +13,9 @@ other-links:
   - href: 'https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/'
     text: Anwendung
     icon: search
+  - href: 'https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/vergleich.html'
+    text: Suchmodi vergleichen
+    icon: bar-chart
   - href: 'https://emono.unibas.ch/stadtgeschichtebasel/catalog'
     text: Katalog auf emono.unibas.ch
     icon: journal-richtext
@@ -26,21 +29,32 @@ appendix-cite-as: display
 
 ## Frag mich was
 
-[Frag mich was](https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/) ist eine semantische Suchmaschine für Basels Geschichte. Sie durchsucht die neun Forschungsbände und sieben Data Stories von Stadt.Geschichte.Basel. Nutzer:innen geben ein Thema oder eine Frage in natürlicher Sprache ein. Die Anwendung findet passende Textpassagen, auch wenn diese andere Wörter verwenden als die Suchanfrage.
+[Frag mich was](https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/) ist eine Suchmaschine für Basels Geschichte. Sie durchsucht die neun Forschungsbände und sieben Data Stories von Stadt.Geschichte.Basel. Nutzer:innen geben ein Wort, ein Thema oder eine Frage in natürlicher Sprache ein. Drei Suchmodi stehen zur Wahl: Die lexikalische Suche findet Wörter, Namen und Jahreszahlen so, wie sie in den Texten stehen. Die semantische Suche findet auch Passagen, die andere Wörter verwenden als die Suchanfrage. Die kombinierte Suche führt beide Rangfolgen zusammen.
 
-Die Suche liefert bestehende Textauszüge. Sie erzeugt und überprüft keine Antworten. Die Treffer sind nach semantischer Ähnlichkeit geordnet. Für die Einordnung bleibt die Lektüre der Originalpublikation massgeblich.
+Die Suche liefert bestehende Textauszüge. Sie erzeugt und überprüft keine Antworten. Die Reihenfolge der Treffer hängt vom Suchmodus ab. Für die Einordnung bleibt die Lektüre der Originalpublikation massgeblich.
 
 ## Funktionen
 
-- **Suche nach Bedeutung**: Themen und Fragen finden inhaltlich verwandte Passagen, auch ohne exakte Wortübereinstimmung.
+- **Drei Suchmodi**: «Semantisch» (voreingestellt), «Lexikalisch» und «Kombiniert». Ein Wechsel des Modus behält die eingegebene Anfrage.
+- **Suche nach Bedeutung**: Im semantischen Modus finden Themen und Fragen inhaltlich verwandte Passagen, auch ohne exakte Wortübereinstimmung.
+- **Suche nach Wörtern**: Der lexikalische Modus findet Wörter, Namen und Jahreszahlen in der Schreibweise der Texte. Er braucht kein Sprachmodell.
+- **Vergleich der Suchmodi**: Eine [eigene Seite](https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/vergleich.html) vergleicht die drei Modi an 44 Beispielfragen.
 - **Bis zu fünf Publikationen pro Suche**: Die gemeinsame Rangliste enthält pro Kapitel oder Data Story nur die am besten passende Passage.
 - **Verweis auf das Original**: Jeder Treffer nennt Titel und Band, zeigt einen Auszug und verlinkt die Originalpublikation.
 - **Buchkapitel und Data Stories**: Das Korpus umfasst 70 deutschsprachige Kapitel und sieben Data Stories mit insgesamt 6660 Passagen. Einleitungen sind enthalten. Anhänge mit Literaturverzeichnissen und Registern sind ausgeschlossen. Quellenzitate behalten ihre originale Schreibweise.
-- **Barrierearme Bedienung**: Automatisierte Browsertests in Chromium und Firefox prüfen Tastaturbedienung, Statusmeldungen für Screenreader, Umbruch bis 320 Pixel Breite und vergrösserte Schrift. Eine vollständige WCAG-Konformitätsprüfung ersetzen diese Tests nicht.
+- **Barrierearme Bedienung**: Automatisierte Browsertests in Chromium und Firefox prüfen Tastaturbedienung (auch für die Auswahl des Suchmodus), Statusmeldungen für Screenreader, Umbruch bis 320 Pixel Breite und vergrösserte Schrift. Eine vollständige WCAG-Konformitätsprüfung ersetzen diese Tests nicht.
 
 ## Anwendung
 
-Gib ein Thema ein, etwa «Rhein und Handel in Basel». Auch Fragen wie «Welche Bedeutung hatte der Rhein für Basel?» sind möglich. Wähle **Suchen**. Die Anwendung zeigt bis zu fünf passende Publikationen mit je einem Auszug. Numerische Ähnlichkeitswerte blendet die Oberfläche aus.
+Gib ein Thema ein, etwa «Rhein und Handel in Basel». Auch Fragen wie «Welche Bedeutung hatte der Rhein für Basel?» sind möglich. Wähle **Suchen**. Der Suchmodus lässt sich unter **Suchmodus** unterhalb des Suchformulars ändern. Die Anwendung zeigt bis zu fünf passende Publikationen mit je einem Auszug. Numerische Ähnlichkeitswerte blendet die Oberfläche aus.
+
+| Suchmodus | Funktion | Sprachmodell nötig |
+| --- | --- | --- |
+| **Semantisch** (voreingestellt) | Vergleicht die Bedeutung der Anfrage mit den Textstellen. | Ja. Ohne Modell erscheint eine Fehlermeldung mit Hinweis auf den lexikalischen Modus. |
+| **Lexikalisch** | Findet Wörter, Namen und Jahreszahlen so, wie sie in den Texten stehen. Er findet nur ganze Wörter in derselben Form. | Nein |
+| **Kombiniert** | Führt die semantische und die lexikalische Rangfolge zusammen. | Ja. Ohne Modell zeigt der Modus lexikalische Ergebnisse mit einem Hinweis. |
+
+Beim Wechsel des Modus bleibt die abgeschickte Anfrage erhalten. Für eine neue Anfrage wähle erneut **Suchen**. Der lexikalische Modus startet weder Import noch Download eines Modells.
 
 Die Quellenangabe nennt neun Forschungsbände und sieben Data Stories. Sie verlinkt den [Publikationskatalog](https://emono.unibas.ch/stadtgeschichtebasel/catalog) und die [Data Stories](https://stadtgeschichtebasel.ch/data-stories). Kapitel öffnen sich über **Originalkapitel öffnen** per DOI. **Originalstory öffnen** führt zur jeweiligen ArcGIS StoryMap. Alle Story-Treffer tragen den gemeinsamen Bandtitel **Data Stories**.
 
@@ -48,22 +62,52 @@ Die Kennzeichnung **Nur Zusammenfassung** weist auf Datensätze hin, die ausschl
 
 ## Funktionsweise
 
-Die Suche beruht auf Text-Embeddings. Diese numerischen Vektoren bilden die Bedeutung eines Textes ab. Die Aufbereitung erfolgt in mehreren Schritten:
+Die semantische Suche beruht auf Text-Embeddings. Diese numerischen Vektoren bilden die Bedeutung eines Textes ab. Die lexikalische Suche beruht auf einem BM25-Index. Die Aufbereitung erfolgt in mehreren Schritten:
 
 1. **Kapiteltexte aufbereiten**: Ein Importskript wandelt die HTML-Ausgaben aus [SGB Minimal HTML](/products/coding/sgb-minimal-html/index.qmd) in Markdown um. Es entfernt Anhangskapitel, Fussnotenmarker, Endnoten und technische Metadaten.
 2. **Data Stories importieren**: Ein weiteres Skript übernimmt die veröffentlichten Erzähltexte aus der ArcGIS-Schnittstelle. Es enthält Überschriften und Erzähltexte, aber keine interaktiven Anwendungen, Kartendaten oder Medien. «Das jüdische Basel» bleibt ausgeschlossen.
 3. **In Passagen zerlegen**: Der Indexaufbau teilt die Texte in Passagen von 120 bis 180 Modell-Tokens auf.
 4. **Embeddings berechnen**: Das mehrsprachige Modell [multilingual-e5-small](https://huggingface.co/intfloat/multilingual-e5-small) berechnet für jede Passage einen normalisierten Vektor. Passagen und Vektoren bilden einen statischen Suchindex.
 5. **Anfrage einbetten**: Im Browser berechnet eine quantisierte Fassung desselben Modells den Vektor der Suchanfrage.
-6. **Nach Ähnlichkeit ordnen**: Die Anwendung vergleicht die Anfrage mit allen Passagen über die Kosinus-Ähnlichkeit. Pro Publikation behält sie die beste Passage.
+6. **Lexikalisch ordnen**: Die Anwendung baut im Browser einen BM25-Index über Titel und Text jeder Passage auf (Bibliothek `bm25s`, deutsche Stoppwörter, kein Stemming). Passagen ohne Treffer scheiden aus.
+7. **Semantisch ordnen**: Die Anwendung vergleicht den Vektor der Anfrage mit allen Passagen über die Kosinus-Ähnlichkeit.
+8. **Rangfolgen zusammenführen**: Jede Rangfolge behält pro Publikation die beste Passage. Der Modus «Kombiniert» führt beide Rangfolgen mit Reciprocal Rank Fusion zusammen. Eine Publikation erhält die Summe von 1 / (60 + Rang). Die Oberfläche zeigt die besten fünf Publikationen.
 
-Die semantische Suche ordnet bestehende Passagen nach ihrer Nähe zur Anfrage. Jeder angezeigte Auszug stammt aus dem importierten Text einer publizierten Quelle.
+Die Suche ordnet bestehende Passagen nach ihrer Nähe zur Anfrage. Jeder angezeigte Auszug stammt aus dem importierten Text einer publizierten Quelle.
+
+## Suchmodi vergleichen
+
+Die Seite [Suchmodi vergleichen](https://dokumentation.stadtgeschichtebasel.ch/frag-mich-was/vergleich.html) stellt die drei Modi an 44 Beispielfragen nebeneinander. Die Beispiele decken alle neun Forschungsbände und alle sieben Data Stories ab. Die Seite lädt weder den Suchindex noch ein Sprachmodell. Sie zeigt gespeicherte Ranglisten, erwartete Quellen und die Rangplätze der Quellen je Modus.
+
+Die Beispiele gehören zu vier Fragetypen:
+
+- **Gezielte Suche** (18 Fragen): Namen, Jahreszahlen, Orte oder Fachbegriffe.
+- **Andere Formulierungen** (9 Fragen): andere Wörter für dasselbe Thema.
+- **Erklärende Fragen** (13 Fragen): Abläufe, Ursachen oder Zusammenhänge.
+- **Mehrere Quellen** (4 Fragen): je zwei erwartete Publikationen.
+
+**Vollständig@k** zählt Fragen, bei denen alle erwarteten Quellen unter den ersten k Treffern stehen. Eine von zwei Quellen genügt nicht. Stand der Auswertung: 16. November 2026.
+
+| Suchmodus | Vollständig@3 | Vollständig@5 |
+| --- | --- | --- |
+| Semantisch | 38 von 44 | 40 von 44 |
+| Lexikalisch | 31 von 44 | 34 von 44 |
+| Kombiniert | 38 von 44 | 41 von 44 |
+
+Die Beispiele zeigen vier Muster:
+
+- Gezielte Suchanfragen führen in allen drei Modi zuverlässig zur Quelle.
+- Bei anderen Formulierungen findet der lexikalische Modus die Quelle unter den ersten drei Treffern in 4 von 9 Fällen. Die anderen Modi erreichen 8 von 9.
+- Bei Fragen zu mehreren Quellen findet «Kombiniert» beide Quellen am häufigsten unter den ersten fünf Treffern (3 von 4, «Semantisch» 2, «Lexikalisch» 1).
+- «Kombiniert» verbessert nicht jede Anfrage. Bei der Frage zu Schweizerhalle rückt die erwartete Quelle von Rang 2 in der semantischen Suche auf Rang 8 in der kombinierten Suche.
+
+Die Aussagen gelten für diese 44 ausgewählten Beispiele. Erwartete Quellen sind passende Beispiele. Auch andere Treffer können relevant sein. Der Katalog ist keine vollständige Relevanzbewertung.
 
 ## Technologie
 
-Das GitHub-Repository [frag-mich-was](https://github.com/Stadt-Geschichte-Basel/frag-mich-was/) enthält Quellcode, importierte Texte und den generierten Suchindex. Die Anwendung ist in Python als [marimo](https://marimo.io/)-Notebook geschrieben. Ein Export stellt sie als WebAssembly-Anwendung bereit. Die Anfrage-Embeddings berechnet [Transformers.js](https://huggingface.co/docs/transformers.js) direkt im Browser.
+Das GitHub-Repository [frag-mich-was](https://github.com/Stadt-Geschichte-Basel/frag-mich-was/) enthält Quellcode, importierte Texte und den generierten Suchindex. Die Anwendung ist in Python als [marimo](https://marimo.io/)-Notebook geschrieben. Ein Export stellt sie als WebAssembly-Anwendung bereit. Die Anfrage-Embeddings berechnet [Transformers.js](https://huggingface.co/docs/transformers.js) direkt im Browser. Die lexikalische Suche nutzt die Python-Bibliothek `bm25s`, die der Browser von PyPI installiert. Die Python-Laufzeit im Browser ist Pyodide.
 
-GitHub Pages stellt die Anwendung statisch bereit. Es gibt kein Backend und keine Inferenz-Schnittstelle. Automatisierte Prüfungen umfassen Linting, Typprüfung, Tests und Exportprüfungen. Erst danach wird die Anwendung veröffentlicht. Der Branch `main` ist geschützt. Änderungen brauchen einen Pull Request, eine Freigabe und erfolgreiche Prüfungen. Die Browsertests mit echter WebAssembly-Inferenz laufen lokal.
+GitHub Pages stellt die Anwendung statisch bereit. Es gibt kein Backend und keine Inferenz-Schnittstelle. Automatisierte Prüfungen umfassen Linting, Typprüfung, Tests und Exportprüfungen. Erst danach wird die Anwendung veröffentlicht. Der Branch `main` ist geschützt. Änderungen brauchen einen Pull Request, eine Freigabe und erfolgreiche Prüfungen. Die Browsertests mit echter WebAssembly-Inferenz laufen lokal. Sie prüfen auch die Auswahl des Suchmodus, den lexikalischen Modus ohne Modell-Download, den Rückfall von «Kombiniert» auf lexikalische Ergebnisse und die Vergleichsseite.
 
 Die Seite nutzt Farben, Logo und Euclid Circular B von Stadt.Geschichte.Basel. Kopfband und Fusszeile verlinken das Portal, die Dokumentation, den Datenschutz und die Barrierefreiheit. Metadaten beschreiben die semantische Suche für Suchmaschinen und soziale Medien.
 
@@ -72,7 +116,7 @@ Die Seite nutzt Farben, Logo und Euclid Circular B von Stadt.Geschichte.Basel. K
 Suchanfragen verlassen den Browser nicht. Kein Inferenzdienst erhält die Anfrage. Der erste Besuch erfordert jedoch eine Netzwerkverbindung und grössere Downloads:
 
 - Der Suchindex umfasst unkomprimiert etwa 28 MB. Die Übertragungsgrösse hängt von der Kompression des Hosts ab.
-- Bei der ersten Suche lädt der Browser zusätzlich ein Modell von etwa 120 MB.
+- Bei der ersten Suche in den Modi «Semantisch» und «Kombiniert» lädt der Browser zusätzlich ein Modell von etwa 120 MB. Der lexikalische Modus braucht diesen Download nicht.
 - Laufzeitumgebung und Modell stammen von externen Hosts. Dazu gehören `cdn.jsdelivr.net`, `pypi.org`, `files.pythonhosted.org`, `wasm.marimo.app` und Hugging Face.
 
 Ein vollständiger Offline-Betrieb ist nicht vorgesehen. Korpustext und Embeddings sind öffentlich. Der Index enthält ausschliesslich bereits publizierte Inhalte.
