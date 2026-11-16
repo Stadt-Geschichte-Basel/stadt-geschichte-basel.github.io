@@ -68,7 +68,7 @@ Die semantische Suche beruht auf Text-Embeddings. Diese numerischen Vektoren bil
 2. **Data Stories importieren**: Ein weiteres Skript übernimmt die veröffentlichten Erzähltexte aus der ArcGIS-Schnittstelle. Es enthält Überschriften und Erzähltexte, aber keine interaktiven Anwendungen, Kartendaten oder Medien. «Das jüdische Basel» bleibt ausgeschlossen.
 3. **In Passagen zerlegen**: Der Indexaufbau teilt die Texte in Passagen von 120 bis 180 Modell-Tokens auf.
 4. **Embeddings berechnen**: Das mehrsprachige Modell [multilingual-e5-small](https://huggingface.co/intfloat/multilingual-e5-small) berechnet für jede Passage einen normalisierten Vektor. Passagen und Vektoren bilden einen statischen Suchindex.
-5. **Anfrage einbetten**: Im Browser berechnet eine quantisierte Fassung desselben Modells den Vektor der Suchanfrage.
+5. **Anfrage einbetten**: In den Modi «Semantisch» und «Kombiniert» berechnet im Browser eine quantisierte Fassung desselben Modells den Vektor der Suchanfrage.
 6. **Lexikalisch ordnen**: Die Anwendung baut im Browser einen BM25-Index über Titel und Text jeder Passage auf (Bibliothek `bm25s`, deutsche Stoppwörter, kein Stemming). Passagen ohne Treffer scheiden aus.
 7. **Semantisch ordnen**: Die Anwendung vergleicht den Vektor der Anfrage mit allen Passagen über die Kosinus-Ähnlichkeit.
 8. **Rangfolgen zusammenführen**: Jede Rangfolge behält pro Publikation die beste Passage. Der Modus «Kombiniert» führt beide Rangfolgen mit Reciprocal Rank Fusion zusammen. Eine Publikation erhält die Summe von 1 / (60 + Rang). Die Oberfläche zeigt die besten fünf Publikationen.
