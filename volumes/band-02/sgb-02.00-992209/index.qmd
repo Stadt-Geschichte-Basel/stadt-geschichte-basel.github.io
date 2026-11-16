@@ -1,0 +1,71 @@
+---
+title: 'Einleitung: Ferne Zeiten, weite Räume'
+description: Einleitung zu Band 2 «Eine Bischofsstadt zwischen Oberrhein und Jura. 800 – 1273» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 0
+doi: 10.21255/sgb-02.00-992209
+license: CC BY-NC 4.0
+author:
+- name: Claudius Sieber-Lehmann
+  orcid: 0000-0002-7145-8217
+- name: Peter-Andrew Schwarz
+citation:
+  type: chapter
+  title: 'Einleitung: Ferne Zeiten, weite Räume'
+  container-title: Eine Bischofsstadt zwischen Oberrhein und Jura. 800 – 1273
+  page: 13-17
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-02.00-992209
+  editor:
+  - Claudius Sieber-Lehmann
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2/chapter/291
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/2031
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-tip title="Lizenz" icon="false" }
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-02.00-992209](https://doi.org/10.21255/sgb-02.00-992209)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<p>Bischofsstadt, Oberrhein, Jura: Die drei Titelwörter des Bandes vermitteln einen anderen Blick auf die mittelalterliche Frühzeit Basels. Heute erinnern nur noch der Baselstab, der Thron im Münster und der Bischofshof an der Rittergasse daran, dass hier der geistliche Stadtherr residierte. Dagegen stellte noch um 1600 der reformierte Basler Ratsherr Andreas Ryff fest: «Die Stadt ist am Bistum hinaufgewachsen wie das Efeu an einer Mauer.» («Am Bischthúomb ufgewachsen, wie das Ebheiw [Efeu] An Einer Maúren.») Die Wertschätzung der Basler Bischöfe ging in den folgenden Jahrhunderten aber verloren. Sie wurden zu Nebenfiguren der Stadtgeschichte.</p>
+<p>Rudolf Wackernagel (1855−1925) verfasste die Meistererzählung zum mittelalterlichen Basel. Zuvor hatte er das städtische Archiv neu geordnet und erschlossen. Von Hause aus Jurist, sah er sich nicht nur als Beamter und Forscher, sondern auch als Autor und Künstler. Aus seiner Feder stammten Festspiele, und er beriet die Architekten, die das Rathaus erneuerten und das neue Archivgebäude entwarfen. Bisweilen leistete er sich sogar den Spass, eine historische Quelle zu erfinden.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Seine Familie war aus Deutschland geflüchtet und schätzte die Freiheiten, die ihr das hiesige Bürgertum bot. Rudolf Wackernagel sah seine Heimatstadt als modernes Athen am Rheinknie: Ein Rat weiser Männer leitete das Gemeinwesen, während die wackeren Handwerker und einfachen Leute arbeiteten und ihre Freizeit genossen. Dass Basel bis zur Reformation eine Bischofsstadt war, schien ihm aus liberaler Sicht fragwürdig. «Wackernagel und das Basler Urkundenbuch vollzogen eine künstliche Trennung zwischen der bischöflichen und der bürgerlichen Stadt, indem sie deren Geschichte erst im 13. Jahrhundert beginnen liessen.»<sup id="ref-fn2"><a href="#fn2">2</a></sup></p>
+<p>Die früh- und hochmittelalterliche Geschichte des Fürstbistums Basel spielte sich dagegen in einem Herrschaftsraum ab, der den Menschen heute nicht mehr vertraut ist.<sup id="ref-fn3"><a href="#fn3">3</a></sup> Das Fürstbistum hatte sich bis 1815 über Gebiete am Oberrhein und im Jura erstreckt, die mittlerweile drei verschiedenen Staaten angehören, und passte somit nicht in den Rahmen einer nationalen Historiografie oder einer Landesgeschichte.<sup id="ref-fn4"><a href="#fn4">4</a></sup> Eine umfassende Darstellung seiner rund tausendjährigen Geschichte liegt nicht vor.<sup id="ref-fn5"><a href="#fn5">5</a></sup> Im Falle der Stadt Basel kam die Kantonstrennung von 1833 hinzu, die zur Unabhängigkeit des früheren Untertanengebiets führte. In der Folge konzentrierte sich das wirtschaftliche und soziale Leben auf einen kleinen, städtischen Lebensraum. Selbstbezogenheit und Eigenwilligkeit prägen bis heute die baslerische Mentalität.<sup id="ref-fn6"><a href="#fn6">6</a></sup></p>
+<aside>
+<p>Claudius Sieber-Lehmann, Peter-Andrew Schwarz</p>
+</aside>
+<p>Die beiden Wortteile ‹Fürst› und ‹Bistum› erscheinen uns heute widersprüchlich. Wie konnte ein Bischof sich um die religiösen Anliegen seiner Untertanen kümmern und gleichzeitig wie ein weltlicher Fürst herrschen? Wie war dies möglich in einem Machtraum, der in unterschiedliche Rechtsbereiche aufgeteilt war? Um diese und weitere Fragen zu klären, will das erste Kapitel des vorliegenden Bandes in einem Übersichtstext – gleichsam aus der Vogelschau – die Geschichte der mittelalterlichen Basler Bischöfe bis ins 13. Jahrhundert nachzeichnen. ‹Oberrhein› und ‹Jura› werden im Bandtitel genannt, weil die Ausdehnung des Fürstbistums nicht mehr vertraut ist. Heute sprechen wir von der ‹Regio›.<sup id="ref-fn7"><a href="#fn7">7</a></sup> Die beiden geografischen Namen sind vieldeutig. Der Oberrhein dient heute wieder als Rahmen, um jenseits von staatlichen Grenzen einen einheitlichen Raum zu markieren. Seit dem Frühmittelalter wechseln sich die Bezeichnungen Elsass, Breisgau, Alamannien und Schwaben ab.<sup id="ref-fn8"><a href="#fn8">8</a></sup> Ab dem 15. Jahrhundert taucht die Vorstellung vom ‹Oberrhein› als einer historischen Kulturlandschaft mit unscharfen Rändern auf. So lassen sich Elsass und Breisgau in einem übergeordneten Namen zusammenfassen.<sup id="ref-fn9"><a href="#fn9">9</a></sup> Dieser Raum lässt sich am ehesten als räumlich verdichtetes Kommunikationsgefüge verstehen, ohne dass ein herrschaftlich-politischer Rahmen besteht.<sup id="ref-fn10"><a href="#fn10">10</a></sup> Der Jura seinerseits bezeichnet in erster Linie eine geologische Formation sowie einen Naturraum und gewinnt im 20. Jahrhundert eine politische Bedeutung, insbesondere seit der Gründung des gleichnamigen Kantons.<sup id="ref-fn11"><a href="#fn11">11</a></sup></p>
+<p>Grundsätzlich will dieser Band den Blick auf die traditionelle Basler Geschichte erweitern.<sup id="ref-fn12"><a href="#fn12">12</a></sup> Neben das Erschliessen grösserer Räume treten die neuen Erkenntnisse der Archäologie. Erst in der zweiten Hälfte des 20. Jahrhunderts erhielt die Bodenforschung einen wichtigen Platz innerhalb der hiesigen historischen Wissenschaften. Ihre Ergebnisse veränderten unser Wissen darüber, wie <em>Basilia</em> und das Fürstbistum vor der Reformation aussahen, und sie beeinflussten auch die visuelle Gestaltung dieses Bandes. Fundobjekte spielen eine wichtige Rolle. Im Vordergrund stehen Grossaufnahmen, weil das Internet zwar eine Fülle von Bildern liefert, aber selten wichtige Einzelheiten zeigt.</p>
+<p>Wer über einen grösseren Zeitraum schreibt, sieht sich vor das Problem gestellt, die Vergangenheit entweder chronologisch abzuarbeiten oder sie anhand von Grosskategorien wie Wirtschaft, Gesellschaft, Kultur thematisch aufzurollen. Der vorliegende Band schlägt einen Mittelweg vor. Sein Gerüst folgt einerseits den Hauptereignissen. Der Gang durch die Jahrhunderte wird aber durch Kapitel unterbrochen, die länger andauernde Strukturen beschreiben und einen thematischen Zugang eröffnen.</p>
+</div>
+<section role="doc-endnotes">
+
+<ol>
+<li id="fn1" value="1">Sieber-Lehmann 2005. <a href="#ref-fn1" role="doc-backlink">↑</a></li>
+<li id="fn2" value="2">Rück 1963/64, S. 38. <a href="#ref-fn2" role="doc-backlink">↑</a></li>
+<li id="fn3" value="3">HLS, Art. ‹Basel-Fürstbistum›. <a href="#ref-fn3" role="doc-backlink">↑</a></li>
+<li id="fn4" value="4">Zum heiklen, nationalsozialistisch geprägten Erbe der Landesgeschichte Werner 2018. <a href="#ref-fn4" role="doc-backlink">↑</a></li>
+<li id="fn5" value="5">Für Überblicksdarstellungen vgl. HS I/1. Boner 1968. Gatz 2001, S. 57–67. Weissen 1995, S. 12 ff. Steinmann 2000. Rebetez 2006a. <a href="#ref-fn5" role="doc-backlink">↑</a></li>
+<li id="fn6" value="6">Dies fiel bereits Aeneas Silvius Piccolomini auf. Zur Abkapselung Basels im Verlauf des 19. Jahrhunderts vgl. Salvisberg 2022. <a href="#ref-fn6" role="doc-backlink">↑</a></li>
+<li id="fn7" value="7">Zur ‹Regionalgeschichte› vgl. Sonderegger 2011. Freitag 2018, S. 79−80. <a href="#ref-fn7" role="doc-backlink">↑</a></li>
+<li id="fn8" value="8">Zotz 2018b. <a href="#ref-fn8" role="doc-backlink">↑</a></li>
+<li id="fn9" value="9">Der Name ‹Elsass› würde den Breisgau ausschliessen. Die historische Raumforschung zum ‹Elsass› ist zudem historisch belastet, vgl. Bünz; Zeilinger 2018. <a href="#ref-fn9" role="doc-backlink">↑</a></li>
+<li id="fn10" value="10">Krieg 2008. Zeilinger 2018, S. 41−42. Kritik an der Kulturraumforschung bei Werner 2018, S. 11−12. <a href="#ref-fn10" role="doc-backlink">↑</a></li>
+<li id="fn11" value="11">Vgl. HLS, Art. ‹Jura›. <a href="#ref-fn11" role="doc-backlink">↑</a></li>
+<li id="fn12" value="12">Sieber-Lehmann 2012. <a href="#ref-fn12" role="doc-backlink">↑</a></li>
+</ol>
+</section>
+````

@@ -1,0 +1,60 @@
+---
+title: Schlussbetrachtung zur Basler Sattelzeit
+description: Kapitel 10 aus Band 5 «Hinter der Mauer, vor der Moderne. 1760 – 1859» von Stadt.Geschichte.Basel.
+lang: de
+categories:
+- Kapitel
+order: 10
+doi: 10.21255/sgb-05.10-850524
+license: CC BY-NC 4.0
+author:
+- name: André Salvisberg
+citation:
+  type: chapter
+  title: Schlussbetrachtung zur Basler Sattelzeit
+  container-title: Hinter der Mauer, vor der Moderne. 1760 – 1859
+  page: 313-316
+  publisher: Christoph Merian Verlag
+  publisher-place: Basel
+  issued: 2024
+  url: https://doi.org/10.21255/sgb-05.10-850524
+  editor:
+  - Marc Fehlmann
+appendix-cite-as: display
+other-links:
+- text: Verlagsseite (eMono)
+  icon: book
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band5/chapter/332
+- text: PDF herunterladen
+  icon: filetype-pdf
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band5/83/2005
+language:
+  section-title-footnotes: Anmerkungen
+date-modified: last-modified
+---
+
+::: {.callout-tip title="Lizenz" icon="false" }
+© Stadt.Geschichte.Basel / Christoph Merian Verlag. Text lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Quelle: [doi.org/10.21255/sgb-05.10-850524](https://doi.org/10.21255/sgb-05.10-850524)
+:::
+
+````{=html}
+<div class="sgb-chapter">
+<p>Das Wort ‹Sattel› im Geschichtskonzept ‹Sattelzeit› ist mehrdeutig.<sup id="ref-fn1"><a href="#fn1">1</a></sup> Eine Deutung ist die des Bergsattels, also der Passage über eine Höhe mit sanftem, breitem und langem Auf- und Abstieg zwischen noch höheren Erhebungen. Die Metapher ist nicht unproblematisch, tönt sie doch nach einem zielgerichteten Weg. Die Schwelle, die es hier zu überwinden gilt, hat nichts Unüberwindliches an sich und würde zur Erzählung der Menschheitsgeschichte als einem Modernisierungsprojekt passen. Band 5 der Stadt.Geschichte.Basel hat den Ansatz der Sattelzeit aber übernommen, um vom Wechsel weg von der üblichen Epochenzäsur 1789 zu profitieren und insbesondere die Geschichte mehr als ein Bündel von Prozessen und weniger als eine Folge von Brüchen zwischen Altem und Neuem zu verstehen.</p>
+<p>Den Zeitraum von 1760 bis 1859 charakterisiert eine grosse und sich weiter vergrössernde Akteursvielfalt: Stadt und Land, reformierte Orthodoxie, Pietismus und Aufklärung (beide wiederum übers Kreuz gemischt aufgrund zentralistischer und föderalistischer Überzeugungen), Konservative, Radikalliberale und ein changierendes ‹Juste Milieu›, Handelsfamilien und Kleingewerbe, dazu ein hochmobiles Proletariat, das selbst noch kaum für seine Interessen eintritt, aber das Bürgertum bereits sehr beunruhigt. Die Aufzählung ist nur eine Auswahl. Aus den Interaktionen der Männer und Frauen, die der Stadt ihr Gesicht geben, entspringen die Verschränkung und die Spannung von Innerlichkeit und Öffentlichkeit, Wirtschaftswachstum und Verarmung, technisch-infrastrukturellem Aufbruch, Abschottung und Stossen an alte und neu geschaffene Grenzen.</p>
+<p>Dies ist nichts grundsätzlich Baslerisch-Ausserordentliches. Jedoch bestand lange und besteht vielleicht immer noch eine gewisse Tendenz, die Geschichte Basels aufgrund der Kantonstrennung und der engen Grenzen seither in der Nabelschau wahrzunehmen. Diese Wahrnehmung begab sich selbst dann gleichsam hinter die Mauer, nachdem diese bereits abgebrochen war. Die Stadt blieb hier fest im Blick, Basel durfte nur aus sich heraus betrachtet werden.<sup id="ref-fn2"><a href="#fn2">2</a></sup> Ein eigensinniges Am-Rande-Stehen wurde gepflegt, das über die Geschichtsschreibung hinausreicht. Ab dem Jahr 2000 wurde im Stadtmarketing der Slogan ‹Basel tickt anders› eingeführt. Dieser Tendenz versucht dieser Band mit der punktuell verstärkten Untersuchung von Quellen mit Auswärtsbezug entgegenzuwirken. Eine weitere Form der Fremdwahrnehmung ist diejenige der frisch zugezogenen Bevölkerungsteile, die fernab von Integration oder Mitgestaltung stehen. Deren Sichtweisen und Erfahrungen sind ‹das Fremde› innerhalb der vertrauten Mauer. Sind Spuren davon sichtbar gemacht, fällt das Bild von der ‹Stadt der Bürger› (und mit dieser die Anknüpfungspunkte für die Folgebände) differenzierter aus als bisher.</p>
+<aside>
+<p>André Salvisberg</p>
+</aside>
+<p>Eine andere Deutung des Begriffs ‹Sattelzeit› ist die des Pferdesattels. Damit verbindet sich nicht das Bild des Bewegens darüber, sondern das des Sitzens und fest darin Sitzenbleibens.<sup id="ref-fn3"><a href="#fn3">3</a></sup> In der Sattelzeit sind viele Etikettierungen der Stadt angelegt, die ihr teilweise bis heute anhaften: das ‹reiche›, ‹sparsame›, ‹fromme Basel›; die Philanthropie des Grossbürgertums; Basel – unbesehen seiner politischen Ausrichtung – stets gegen den Strom der Zeit; eine ausgeprägte Elitekontinuität. Ein wirkungsmächtiger Zug der Basler Geschichtsschreibung hat eine ganz eigene urbane Kultur postuliert: Erst dank 1833 sei diese vom Bürgertum ohne ländlichen Einfluss entwickelt, bis zur Massenzuwanderung ab Mitte des 19. Jahrhunderts gefestigt und als Leitkultur durchgesetzt worden. Das Narrativ behauptet für Basel eine eigenständige Kultur aus einem rein urbanen Geist heraus und verneint dasselbe für die anderen Schweizer Städte.<sup id="ref-fn4"><a href="#fn4">4</a></sup> Band 5 schliesst sich diesem einengenden Selbstverständnis nicht an. Die Stadt Basel während der Sattelzeit soll in ihrer Vielfalt gesehen werden.<sup id="ref-fn5"><a href="#fn5">5</a></sup></p>
+</div>
+<section role="doc-endnotes">
+
+<ol>
+<li id="fn1" value="1">Jordan 2016, S. 530. <a href="#ref-fn1" role="doc-backlink">↑</a></li>
+<li id="fn2" value="2">Heusler 1917, S. 164. Heusler bricht seine Erzählung abrupt mit dem Jahr 1848 ab und weist darauf hin, dass Basel nun politisch im Bundesstaat aufgegangen ist. <a href="#ref-fn2" role="doc-backlink">↑</a></li>
+<li id="fn3" value="3">Vgl. die Kritik anhand des Pferdesattelbilds bei Loetz 2013 S. 90 ff. <a href="#ref-fn3" role="doc-backlink">↑</a></li>
+<li id="fn4" value="4">Zum Beispiel Dürr 1937, S. 39−40. Burckhardt 1942, S. 201–202. Teuteberg 1986, S. 306. <a href="#ref-fn4" role="doc-backlink">↑</a></li>
+<li id="fn5" value="5">Redigierter Auszug aus Salvisberg 2022. <a href="#ref-fn5" role="doc-backlink">↑</a></li>
+</ol>
+</section>
+````
