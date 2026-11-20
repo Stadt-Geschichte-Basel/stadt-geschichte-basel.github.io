@@ -27,7 +27,7 @@ Das Werkzeug wurde entwickelt, um die Qualität und Konsistenz der historischen 
 Der Validator bietet umfangreiche Prüf- und Analysemöglichkeiten:
 
 - **Schema-Validierung**: Nutzt Pydantic-Modelle für strukturierte Datenprüfung
-- **Kontrollierte Vokabulare**: Validiert Epochen, MIME-Typen, Lizenzen und Iconclass-Codes
+- **Kontrollierte Vokabulare**: Validiert Epochen, MIME-Typen, Lizenzen und Dublin-Core-Typen
 - **Sprachvalidierung**: Überprüft ISO 639-1 Sprachcodes für alle 184 Zwei-Buchstaben-Codes
 - **URI-Validierung**: Prüft URIs auf Erreichbarkeit und erkennt defekte Links
 - **CSV-Reports**: Erstellt übersichtliche Berichte für die Datenqualitätsprüfung
