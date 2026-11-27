@@ -9,12 +9,12 @@ doi: 10.21255/sgb-09.01-621452
 abstract: Ohne Grenzen keine Stadt – keine Stadt ohne Grenzen. Sie schaffen und definieren den Raum und ermöglichen erst die Unterscheidung der Stadt von ihrer Umgebung. Grenzen trennen das Innen und Aussen, Diesseits und Jenseits, Hier und Dort. Als elementare Form von Ordnung strukturieren Grenzen auch die städtischen Binnenräume als Räume mit eigenen Funktionen, Ordnungen oder Nutzungsszenarien, die sich wandeln, überlagern, auflösen oder verschieben können. Stadtraum ist dichter besiedelt als jede andere bekannte Siedlungsform. Menschen, Tiere und Dinge leben in enger Nachbarschaft und gemeinsamer Nutzung. Hier wirken Kontrolle, Verwaltung, Zonierung und Überwachung gegen die Unordnung, das Unübersichtliche und Überkommene, gegen Schmutz, Gestank, Lärm, Aufruhr und Revolte. Das Spannungsfeld Ordnung – Unordnung ist nirgends so ausgeprägt und zugleich so labil wie in der Stadt. Deshalb ist Stadt nie fertig und sind ihre Ordnungen nicht von Dauer.
 license: CC BY-NC 4.0
 author:
-- name: Lina Gafner
-- name: Daniel Hagmann
-- name: Yves Hänggi
 - name: Marcus Sandl
-- name: Gerhard Vinken
+- name: Daniel Hagmann
 - name: Jakob Weber
+- name: Lina Gafner
+- name: Gerhard Vinken
+- name: Yves Hänggi
 citation:
   type: chapter
   title: Raumordnungen

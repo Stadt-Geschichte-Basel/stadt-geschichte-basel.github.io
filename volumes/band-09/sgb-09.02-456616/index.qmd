@@ -9,14 +9,14 @@ doi: 10.21255/sgb-09.02-456616
 abstract: Öffentlicher Raum ist für alle da. Seine Verfügbarkeit und Zugänglichkeit ist jedoch beschränkt durch physische Gegebenheiten, geschriebene und ungeschriebene Gesetze, soziale oder symbolische Schranken, Regeln, Traditionen und Verbote. Wenn unterschiedliche Ansprüche auf ein begrenzt verfügbares Territorium oder den durchlässigen Klangraum der Stadt aufeinandertreffen, ist der Konflikt unvermeidbar. Städtischer Raum ist deshalb immer umkämpfter Raum. Gestritten wird um Deutungshoheit, Zugang, Nutzung, Rechte, Privilegien und Besitz, um die Strassen, den Boden und den Stadtwald. Die Stabilität und Kontinuität einer Stadt stehen in permanent hoher Spannung zum plötzlichen Bruch, zur Diskontinuität und zum Unerwarteten. Die latente Störung des Bestehenden, das Aufbegehren, Neudenken, Aneignen oder Verwerfen, ist konstitutiv für die Stadt.
 license: CC BY-NC 4.0
 author:
-- name: Markus Bardenheuer
-- name: Nathalie Baumann
-- name: Alexandra Binnenkade
-- name: Lisa Cronjäger
-- name: Martin Forter
 - name: Mirjam Hähnle
+- name: Lisa Cronjäger
+- name: Markus Bardenheuer
 - name: Stefan Koslowski
+- name: Alexandra Binnenkade
 - name: Dominique Stéphane Rudin
+- name: Nathalie Baumann
+- name: Martin Forter
 citation:
   type: chapter
   title: Konflikträume
