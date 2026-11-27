@@ -30,6 +30,7 @@ import argparse
 import re
 import sys
 import time
+import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
 from urllib.parse import urljoin
@@ -119,6 +120,26 @@ def fetch_datacite(client: httpx.Client, rec: Record) -> None:
             rec.license_id = rights["rightsIdentifier"]
 
 
+def order_creators(creators: list[Creator], book_order: list[str]) -> list[Creator]:
+    """Put the creators in the order printed in the book.
+
+    DataCite keeps the order it was registered with and can miss an author. The
+    minimal HTML lists the authors as printed. Names match after Unicode and
+    whitespace normalisation. Creators that the book does not list (editors)
+    stay last. A name only the book lists gets no ORCID.
+    """
+
+    def key(name: str) -> str:
+        return " ".join(unicodedata.normalize("NFC", name).casefold().split())
+
+    remaining = {key(c.name): c for c in creators}
+    ordered = [
+        remaining.pop(key(name), None) or Creator(name=" ".join(name.split()), orcid=None, is_editor=False)
+        for name in book_order
+    ]
+    return ordered + list(remaining.values())
+
+
 def fetch_minimal_html(client: httpx.Client, rec: Record, source: Path | None = None) -> None:
     if source is not None:
         local = source / "html" / f"volume-{rec.volume:02d}" / f"{rec.suffix}.html"
@@ -130,6 +151,13 @@ def fetch_minimal_html(client: httpx.Client, rec: Record, source: Path | None = 
         meta = soup.find("meta", attrs={"name": name})
         if meta and meta.get("content"):
             setattr(rec, name.removeprefix("citation_"), meta["content"])
+    book_order = [
+        meta["content"]
+        for meta in soup.find_all("meta", attrs={"name": "citation_author"})
+        if meta.get("content")
+    ]
+    if book_order:
+        rec.creators = order_creators(rec.creators, book_order)
     body = soup.body
     if body is None:
         raise ValueError(f"no <body> in minimal HTML for {rec.doi}")

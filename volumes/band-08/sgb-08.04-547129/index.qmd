@@ -9,9 +9,9 @@ doi: 10.21255/sgb-08.04-547129
 abstract: Im Basler Staatsarchiv liegt ein Fotoalbum, das die Szene der sogenannten Halbstarken dokumentiert. Die Bilder zeigen Jugendliche, die in Bars feiern, die sich modisch inszenieren, die leidenschaftlich gegen das Establishment sind. Was heutzutage gesellschaftlich akzeptiert ist, war um 1960 noch stigmatisiert. Damals dominierte ein konservatives Familienbild mit dem Vater als Alleinernährer und der Mutter, die für Kinder und Haushalt zuständig war. Seither hat sich die Gesellschaft liberalisiert, es entstanden Wohngemeinschaften, Kitas, die gleichgeschlechtliche Liebe gewann an Akzeptanz. Dabei verschoben sich auch die Grenzen zwischen privatem und öffentlichem Leben. Am Beginn dieser Verschiebungen standen häufig abweichende, subversive Lebensformen, beispielsweise der Konsum von harten Drogen, der nach grossen Widerständen zur gesellschaftlichen Verantwortung erklärt wurde. Doch Stigmatisierungen sind oft beharrlich, der Rückzug ins Private bietet auch Schutz vor Ablehnung. Nicht viele Menschen in Basel haben ihr eigenes Fotoalbum öffentlich gemacht.
 license: CC BY-NC 4.0
 author:
+- name: Tobias Ehrenbold
 - name: Silas Gusset
 - name: Anina Zahn
-- name: Tobias Ehrenbold
 citation:
   type: chapter
   title: 'Emotionen und Alltag: Das private Basel'

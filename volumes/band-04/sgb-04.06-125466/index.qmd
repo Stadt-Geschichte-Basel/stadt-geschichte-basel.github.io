@@ -9,8 +9,8 @@ doi: 10.21255/sgb-04.06-125466
 abstract: Dem zeitgenössischen Ideal entsprechend verstand sich Basel während der gesamten Frühen Neuzeit als konfessionelle und politische Einheit, in die alle Bewohnerinnen und Bewohner der Stadt integriert waren. Zugleich war die städtische Gesellschaft hochdifferenziert und durch Ungleichheit geprägt. Bürger, Bürgerinnen, Hintersassen und weitgehend rechtlose Untertanen, Männer und Frauen, Vermögende und Mittellose, Reformierte und Andersgläubige, Einheimische und Fremde lebten eng zusammen. Sie verfügten je nach Herkunft und Zugehörigkeit über je eigene Rechte und Pflichten, Werte, Umgangsformen und Handlungsmöglichkeiten. Die Gesellschaftsordnung wurde, vor allem seit dem 18. Jahrhundert, von unterschiedlichen wirtschaftlichen und religiösen Entwicklungen herausgefordert, ohne indes bis zur Zeit der Helvetik ihre Verbindlichkeit zu verlieren. Sie war in Mandaten festgeschrieben und wurde in Predigten immer wieder verkündet und aktualisiert. Auch in alltäglichen Begegnungen und gesellschaftlichen Ritualen wurden Gemeinsamkeiten und Unterschiede sichtbar gemacht und hergestellt.
 license: CC BY-NC 4.0
 author:
-- name: Marcus Sandl
 - name: Daniel Sidler
+- name: Marcus Sandl
 citation:
   type: chapter
   title: 'Unterschiede machen und Einheit herstellen: Die soziale Ordnung der städtischen Gesellschaft (1500–1800)'

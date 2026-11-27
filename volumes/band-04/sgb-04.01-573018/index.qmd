@@ -9,8 +9,8 @@ doi: 10.21255/sgb-04.01-573018
 abstract: 'Den Beginn des 16. Jahrhunderts erlebten die Baslerinnen und Basler als Zeit der Um- und Aufbrüche. Basel trat 1501 der Eidgenossenschaft bei und orientierte sich in den folgenden Jahrzehnten zunehmend in Richtung der neuen Bündnispartner. Gleichzeitig änderte sich das geistige Klima in der Stadt, die Teil einer intellektuell pulsierenden Region am Oberrhein war. An der Universität und in den Druckereien, in Briefwechseln und Publikationen versuchten Gelehrte das Verhältnis von Mensch, Gott und Welt neu zu bestimmen. In diesen Kreisen fielen seit den frühen 1520er-Jahren die reformatorischen Ideen von Martin Luther auf fruchtbaren Boden. Diese bewegten bald auch jenseits der Gelehrtenwelt die Gemüter und führten zu politischen und sozialen Spannungen, die 1529 in einem Bildersturm und dem Bekenntnis der Stadt zur Reformation kulminierten. Die Folgen dieses Umbruchs prägten Basel bis ans Ende des Jahrhunderts: Neue Frömmigkeitspraktiken bestimmten das religiöse Leben, in der städtischen Politik verschoben sich die Machtverhältnisse, und das soziale und wirtschaftliche Gefüge wurde neu austariert.'
 license: CC BY-NC 4.0
 author:
-- name: Marcus Sandl
 - name: Daniel Sidler
+- name: Marcus Sandl
 citation:
   type: chapter
   title: Politische Neuorientierung und reformatorischer Aufbruch (1510–1580)

@@ -9,13 +9,13 @@ doi: 10.21255/sgb-09.04-446968
 abstract: 'Stadt lebt von Begegnungen. Menschen treffen unverhofft aufeinander oder begegnen sich gewollt: auf Plätzen und Strassen, am Flussufer oder im Innenhof, im Kino oder Quartiercafé, in der Küche oder im Verein, in Kirche und Kloster. Mauern, Hecken und Zäune setzen Grenzen, wo Begegnung unerwünscht ist, Fenster, Türen und Tore schaffen Durchlässigkeit. Wer hat Zugang? Wer ist gerne gesehen? Wer muss sich vor Begegnungen fürchten? Nie begegnen sich Gleiche, vielmehr ist da immer eine Differenz in Interessen, Lebenslagen, Perspektiven: Ob Auto auf Fahrrad trifft, Kind auf Kutsche, Bettlerin auf Passantin, Mann auf Frau, Nachbarin auf Nachbarin, Bürger auf Migrant. So konfliktiv jede Begegnung sein kann, so vielversprechend ist sie auch. Die Nutzbarkeit von Räumen ist nicht voraussetzungslos. Bietet die Küche Platz zum Kochen oder auch zum Essen? Wo erleichtert Beleuchtung die nächtliche Begegnung? Die Gestaltung des städtischen Raumes schafft Voraussetzungen für Begegnungen und prägt das Zusammenleben in der Stadt.'
 license: CC BY-NC 4.0
 author:
+- name: Alexandra Binnenkade
+- name: Jennifer Burri
+- name: Lea Katharina Kasper
 - name: Daniel Krämer
 - name: Robert Labhardt
-- name: Alexandra Binnenkade
 - name: Sonja Matter
-- name: Jennifer Burri
 - name: Claudia Moddelmog
-- name: Lea Katharina Kasper
 - name: Niklaus Stettler
 citation:
   type: chapter

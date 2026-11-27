@@ -9,11 +9,11 @@ doi: 10.21255/sgb-05.09-314588
 abstract: Die Industrialisierung verändert die städtische Bevölkerung. Es ist die Zeit, in der die ständische Gesellschaft verschwindet und die Arbeiterklasse als neue Unterschicht erscheint. Es sind nicht nur die Arbeitsbedingungen, die den Wandel bringen. Das Wachstum der Stadt resultiert zu einem grossen Teil aus der Migration von arbeitsuchender Landbevölkerung. Für diese bedeutet die Arbeit in der Stadt, das eigene Leben einem ungewohnten Umfeld anzupassen. Die Zugezogenen finden Mittel und Wege der Geselligkeit, des Widerstands und der Selbsthilfe, die es erlauben, prekäre Lebenswelten und Lebensumstände zu festigen und zu sichern. Dem alteingesessenen Bürgertum bleiben diese Menschen fremd. In der sehr selektiven Einbürgerung zeigt sich eine Form des Wechsels von Ausschluss und Offenheit, die ohne Mauer auskommt.
 license: CC BY-NC 4.0
 author:
-- name: Regula Argast
-- name: Lena Heizmann
-  orcid: 0000-0003-3572-3586
 - name: Silvio Raciti
   orcid: 0000-0002-2977-729X
+- name: Lena Heizmann
+  orcid: 0000-0003-3572-3586
+- name: Regula Argast
 citation:
   type: chapter
   title: Anpassen und Widerstehen

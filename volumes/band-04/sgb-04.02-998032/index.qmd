@@ -9,8 +9,8 @@ doi: 10.21255/sgb-04.02-998032
 abstract: In den letzten Jahrzehnten des 16. Jahrhunderts verabschiedete sich Basel vom konfessionellen Taktieren und näherte sich der reformierten Orthodoxie der übrigen eidgenössischen Kirchen an. Die Stadt reagierte damit auf die Formierung und theologische Festigung der Konfessionskirchen in ganz Europa, welche das Einnehmen einer Mittelposition zunehmend erschwerte. Um die sittlich-moralischen Ideale der Reformation in der Gesellschaft zu verankern, setzte eine Regulierung ein, die bald sämtliche Bereiche des städtischen Alltags umfasste. Orchestriert wurde dieser Prozess von Theologen, Gelehrten sowie reichen Kaufmannsfamilien, die sich und ihren Angehörigen im Rat Macht und Einfluss sicherten. Die Angehörigen dieser Elite waren vielfach verwandt und verschwägert, standen aber auch in Konkurrenz zueinander. Gerade Geistliche und Ratsherren stritten in den Jahren um 1600 um die Vorherrschaft in der Stadt. Daraus resultierten Spannungen und Ambivalenzen, die sich in der Kunst ebenso manifestierten wie im sozialen Leben, wo Baslerinnen und Basler nach Freiräumen von den rigiden Moralvorstellungen suchten.
 license: CC BY-NC 4.0
 author:
-- name: Marcus Sandl
 - name: Daniel Sidler
+- name: Marcus Sandl
 citation:
   type: chapter
   title: Regulierter Alltag, vernetzte Elite und die Suche nach Freiräumen (1570–1620)

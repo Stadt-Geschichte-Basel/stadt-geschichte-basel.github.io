@@ -9,10 +9,10 @@ doi: 10.21255/sgb-05.06-612316
 abstract: Basel ist Teil der liberalen Weltwirtschaft. Die Stadt hat Beziehungen zum Osmanischen Reich, die sich ab den 1820er-Jahren verstärken. Seide wird aus der Levante günstig eingeführt und weiterverarbeitet. Dies trägt dazu bei, dass die lokale Textilproduktion sich im globalen Wettbewerb behauptet. Die Basler Finanzwelt ist eng verbunden mit dem badischen Raum und dem Südelsass. Im Elsass entsteht nahe der Stadt eine moderne Maschinenbauregion. Von dort aus wird Basel erstmals an die Eisenbahn angeschlossen. Eine wirtschaftliche Dimension hat auch die Basler Missionsgesellschaft. Der europäische Kolonialismus ist das Umfeld der Missionierung Westafrikas. Die Tätigkeit der Basler Mission im heutigen Ghana geschieht zwischen christlicher Glaubensverbreitung, Zurückdrängung der Sklaverei und Etablierung von Handelsbeziehungen.
 license: CC BY-NC 4.0
 author:
+- name: Yiğit Topkaya
+- name: Walter Hochreiter
 - name: Kevin Heiniger
   orcid: 0009-0004-1181-1543
-- name: Walter Hochreiter
-- name: Yiğit Topkaya
 citation:
   type: chapter
   title: Produzieren und Finanzieren

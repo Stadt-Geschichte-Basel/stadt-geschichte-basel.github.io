@@ -9,6 +9,7 @@ doi: 10.21255/sgb-09.00-167141
 license: CC BY-NC 4.0
 author:
 - name: Esther Baur
+- name: Lina Gafner
 citation:
   type: chapter
   title: Zur Einführung
