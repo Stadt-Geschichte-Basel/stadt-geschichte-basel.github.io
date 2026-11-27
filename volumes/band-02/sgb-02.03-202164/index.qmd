@@ -25,9 +25,12 @@ citation:
   - Claudius Sieber-Lehmann
 appendix-cite-as: display
 other-links:
-- text: Verlagsseite (eMono)
+- text: Open-Access-Ausgabe (UB Basel)
   icon: book
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band2/chapter/294
+- text: Druckausgabe (Christoph Merian Verlag)
+  icon: cart
+  href: https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/eine-bischofsstadt-zwischen-oberrhein-und-jura-800-1273/0a0fc8b8-792f-4271-a6f4-fbc916ef01fc.html
 - text: PDF herunterladen
   icon: filetype-pdf
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band2/79/2034

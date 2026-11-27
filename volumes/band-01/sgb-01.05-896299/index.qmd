@@ -24,9 +24,12 @@ citation:
   url: https://doi.org/10.21255/sgb-01.05-896299
 appendix-cite-as: display
 other-links:
-- text: Verlagsseite (eMono)
+- text: Open-Access-Ausgabe (UB Basel)
   icon: book
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band1/chapter/287
+- text: Druckausgabe (Christoph Merian Verlag)
+  icon: cart
+  href: https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/auf-dem-langen-weg-zur-stadt-50-000-v-chr-800-n-chr/66a60fa8-3a87-4c41-b4a1-e137762b399e.html
 - text: PDF herunterladen
   icon: filetype-pdf
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band1/87/2047

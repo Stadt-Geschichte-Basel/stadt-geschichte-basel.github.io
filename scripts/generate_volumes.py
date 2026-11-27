@@ -45,6 +45,19 @@ MINIMAL_HTML_URL = "https://raw.githubusercontent.com/Stadt-Geschichte-Basel/sgb
 LICENSE_LABELS = {"cc-by-nc-4.0": "CC BY-NC 4.0"}
 LICENSE_URLS = {"cc-by-nc-4.0": "https://creativecommons.org/licenses/by-nc/4.0/"}
 DEFAULT_LICENSE_URL = "https://creativecommons.org/licenses/by-nc/4.0/"
+# Print edition product pages (Christoph Merian Verlag), keyed by volume number.
+# The URLs contain UUIDs and cannot be derived from titles or DOIs.
+PRINT_URLS = {
+    1: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/auf-dem-langen-weg-zur-stadt-50-000-v-chr-800-n-chr/66a60fa8-3a87-4c41-b4a1-e137762b399e.html",
+    2: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/eine-bischofsstadt-zwischen-oberrhein-und-jura-800-1273/0a0fc8b8-792f-4271-a6f4-fbc916ef01fc.html",
+    3: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/stadt-in-verhandlung-1250-1530/75ebeb0d-0751-44b3-9cce-94ccba117b61.html",
+    4: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/aufbrueche-krisen-transformationen-1510-1790/96659a77-d5c3-4162-ae65-0c32dbaf80dd.html",
+    5: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/hinter-der-mauer-vor-der-moderne-1760-1859/03ba9d80-a3b6-4c74-95e7-2a0d75c4a23a.html",
+    6: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/die-beschleunigte-stadt-1856-1914/5d4fa1ba-403c-4de3-93ff-42a5f70cdb95.html",
+    7: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/stadt-an-der-grenze-in-einer-zeit-der-gefaehrdung-1912-1966/342dc86e-8482-428d-abe3-7c47e6cddade.html",
+    8: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/auf-dem-weg-ins-jetzt-seit-1960/acd833d4-b7da-4866-93c0-39d5f7413933.html",
+    9: "https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/stadtraeume-offen-und-begrenzt-gestaltet-und-umkaempft/69a65fde-cf04-4596-b264-c998f8dead6b.html",
+}
 DOI_RE = re.compile(r"^10\.21255/(sgb-(\d{2})(?:\.(\d{2}))?-\d+)$")
 
 
@@ -219,6 +232,20 @@ def existing_pdf_url(out_root: Path, rec: Record) -> str | None:
     return m.group(1) if m else None
 
 
+def other_links(rec: Record) -> list[dict]:
+    links = [
+        {"text": "Open-Access-Ausgabe (UB Basel)", "icon": "book", "href": rec.landing_url},
+        {
+            "text": "Druckausgabe (Christoph Merian Verlag)",
+            "icon": "cart",
+            "href": PRINT_URLS[rec.volume],
+        },
+    ]
+    if rec.pdf_url:
+        links.append({"text": "PDF herunterladen", "icon": "filetype-pdf", "href": rec.pdf_url})
+    return links
+
+
 def frontmatter(data: dict) -> str:
     dumped = yaml.safe_dump(
         data, sort_keys=False, allow_unicode=True, width=10_000, default_flow_style=False
@@ -285,14 +312,7 @@ def chapter_qmd(rec: Record, volume: Record) -> str:
     fm["author"] = author_block(rec.creators)
     fm["citation"] = citation
     fm["appendix-cite-as"] = "display"
-    other_links = [
-        {"text": "Verlagsseite (eMono)", "icon": "book", "href": rec.landing_url}
-    ]
-    if rec.pdf_url:
-        other_links.append(
-            {"text": "PDF herunterladen", "icon": "filetype-pdf", "href": rec.pdf_url}
-        )
-    fm["other-links"] = other_links
+    fm["other-links"] = other_links(rec)
     fm["language"] = {"section-title-footnotes": "Anmerkungen"}
     fm["date-modified"] = "last-modified"
     return (
@@ -331,9 +351,7 @@ def volume_qmd(rec: Record) -> str:
     fm["author"] = author_block(rec.creators)
     fm["citation"] = citation
     fm["appendix-cite-as"] = "display"
-    fm["other-links"] = [
-        {"text": "Verlagsseite (eMono)", "icon": "book", "href": rec.landing_url}
-    ]
+    fm["other-links"] = other_links(rec)
     fm["listing"] = [
         {
             "id": "chapters",

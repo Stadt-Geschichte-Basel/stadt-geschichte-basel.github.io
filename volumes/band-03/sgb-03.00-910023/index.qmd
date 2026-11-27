@@ -21,9 +21,12 @@ citation:
   url: https://doi.org/10.21255/sgb-03.00-910023
 appendix-cite-as: display
 other-links:
-- text: Verlagsseite (eMono)
+- text: Open-Access-Ausgabe (UB Basel)
   icon: book
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band3/chapter/301
+- text: Druckausgabe (Christoph Merian Verlag)
+  icon: cart
+  href: https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/stadt-in-verhandlung-1250-1530/75ebeb0d-0751-44b3-9cce-94ccba117b61.html
 - text: PDF herunterladen
   icon: filetype-pdf
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band3/81/2019
