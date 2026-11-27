@@ -1,0 +1,4 @@
+# Applies to every page under volumes/ (volume overviews and chapters).
+# German citation style so the «Zitieren als»/appendix reads in German
+# (e.g. «herausgegeben von» instead of «edited by») to match the lang: de pages.
+csl: sgb-de.csl
