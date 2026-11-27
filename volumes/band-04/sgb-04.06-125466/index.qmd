@@ -24,9 +24,12 @@ citation:
   - Susanna Burghartz
 appendix-cite-as: display
 other-links:
-- text: Verlagsseite (eMono)
+- text: Open-Access-Ausgabe (UB Basel)
   icon: book
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band4/chapter/318
+- text: Druckausgabe (Christoph Merian Verlag)
+  icon: cart
+  href: https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/aufbrueche-krisen-transformationen-1510-1790/96659a77-d5c3-4162-ae65-0c32dbaf80dd.html
 - text: PDF herunterladen
   icon: filetype-pdf
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band4/80/2014

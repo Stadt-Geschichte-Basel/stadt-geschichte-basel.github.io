@@ -23,9 +23,12 @@ citation:
   url: https://doi.org/10.21255/sgb-08.04-547129
 appendix-cite-as: display
 other-links:
-- text: Verlagsseite (eMono)
+- text: Open-Access-Ausgabe (UB Basel)
   icon: book
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band8/chapter/353
+- text: Druckausgabe (Christoph Merian Verlag)
+  icon: cart
+  href: https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/auf-dem-weg-ins-jetzt-seit-1960/acd833d4-b7da-4866-93c0-39d5f7413933.html
 - text: PDF herunterladen
   icon: filetype-pdf
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band8/85/1974

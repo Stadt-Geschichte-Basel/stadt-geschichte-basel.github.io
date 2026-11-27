@@ -23,9 +23,12 @@ citation:
   - Caroline Arni
 appendix-cite-as: display
 other-links:
-- text: Verlagsseite (eMono)
+- text: Open-Access-Ausgabe (UB Basel)
   icon: book
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band7/chapter/345
+- text: Druckausgabe (Christoph Merian Verlag)
+  icon: cart
+  href: https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/stadt-an-der-grenze-in-einer-zeit-der-gefaehrdung-1912-1966/342dc86e-8482-428d-abe3-7c47e6cddade.html
 - text: PDF herunterladen
   icon: filetype-pdf
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band7/82/1981

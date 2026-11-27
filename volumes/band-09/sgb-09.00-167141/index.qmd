@@ -24,9 +24,12 @@ citation:
   - Lina Gafner
 appendix-cite-as: display
 other-links:
-- text: Verlagsseite (eMono)
+- text: Open-Access-Ausgabe (UB Basel)
   icon: book
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band9/chapter/356
+- text: Druckausgabe (Christoph Merian Verlag)
+  icon: cart
+  href: https://www.merianverlag.ch/produkt/Stadtgeschichte-Basel/stadtraeume-offen-und-begrenzt-gestaltet-und-umkaempft/69a65fde-cf04-4596-b264-c998f8dead6b.html
 - text: PDF herunterladen
   icon: filetype-pdf
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band9/86/1963
