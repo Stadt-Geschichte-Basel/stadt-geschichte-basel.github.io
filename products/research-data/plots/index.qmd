@@ -226,7 +226,6 @@ classDiagram
         class media {
             id &lpar;m01313&rpar;
             title
-            [subject;subject]
             description
             [abstract] &lpar;alt attribute for alternative text&rpar;
             [creator] &lpar;incl. link to Wikidata&rpar;
@@ -246,7 +245,6 @@ classDiagram
     class metadata2 {
         id &lpar;abb01313&rpar;
         title
-        [subject;subject]
         description
         temporal
         language &lpar;ISO 639-1 code&rpar;

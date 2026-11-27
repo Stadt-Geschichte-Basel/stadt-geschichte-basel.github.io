@@ -46,6 +46,22 @@ This browser does not support PDFs. Please <a href="/assets/files/20251029-Morit
 
 ## Abstract
 
+::: {lang="de"}
+Wie lässt sich Regionalgeschichte im digitalen Zeitalter erforschen, publizieren und mit der Öffentlichkeit teilen? Wie balancieren Forschende Zugänglichkeit, wissenschaftliche Sorgfalt und Nachhaltigkeit beim Aufbau langfristiger digitaler Infrastrukturen?
+
+In diesem Vortrag stellt Dr. Moritz Mähr Stadt.Geschichte.Basel (2017–2026) vor, eines der grössten Public-History-Projekte der Schweiz. Mit zehn gedruckten Bänden und einem digitalen Portal, das sowohl der Öffentlichkeit als auch der Forschung dient, veranschaulicht das Projekt die Herausforderungen und Chancen grossangelegter historischer Zusammenarbeit.
+
+Themen sind unter anderem:
+
+-   Strategien zur Verbindung von Offline- und Online-Public-History
+-   Gestaltung digitaler Portale für verschiedene Zielgruppen
+-   Sensibilität im Umgang mit Metadaten und die Ethik historischer Quellen
+-   Langfristige Governance und Nachhaltigkeit digitaler Infrastrukturen
+
+Studierende und Lehrende mit Interesse an Public History, Digital History, Archivwissenschaft oder interdisziplinärer Zusammenarbeit sind besonders willkommen.
+:::
+
+::: {lang="en"}
 How can regional history be researched, published, and shared with the public in the digital age? How do scholars balance accessibility, rigor, and sustainability when building long-term digital infrastructures?
 
 In this lecture, Dr. Moritz Mähr will present Stadt.Geschichte.Basel (2017–2026), one of the largest public history projects in Switzerland. With ten volumes in print and a digital portal designed to serve both the public and researchers, the project exemplifies the challenges and opportunities of large-scale historical collaboration.
@@ -58,3 +74,4 @@ Topics will include:
 -   Long-term governance and sustainability of digital infrastructures
 
 Students and faculty interested in public history, digital history, archival studies, or interdisciplinary collaboration are especially encouraged to attend.
+:::

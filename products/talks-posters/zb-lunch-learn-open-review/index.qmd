@@ -1,0 +1,89 @@
+---
+title: 'Public Open Review in Practice'
+subtitle: "Experiences from the Living Handbook 'Discrimination-sensitive Metadata Practice'"
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+date: 2026-08-27
+doi: 10.5281/zenodo.22146957
+categories: Vortrag
+event: Zentralbibliothek Zürich, Lunch & Learn Open Science
+lang: en
+citation:
+  type: standard
+  title: "Public Open Review in Practice: Experiences from the Living Handbook 'Discrimination-sensitive Metadata Practice'"
+  container-title: 'Lunch & Learn Open Science, Zentralbibliothek Zürich'
+appendix-cite-as: display
+license: CC BY 4.0
+other-links:
+  - text: Event Website
+    icon: house
+    href: 'https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice'
+  - text: Slides (Zenodo)
+    icon: file-pdf
+    href: 'https://doi.org/10.5281/zenodo.22146957'
+  - text: Recording (Zenodo)
+    icon: camera-video
+    href: 'https://zenodo.org/records/22146957/files/20260827_LLOS_MM_Open_Review_1470x922_Preasentation_Audio.mp4'
+---
+
+## Vortrag
+
+::: {lang="de"}
+Eingeladener Vortrag in der Reihe [Lunch & Learn Open Science](https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice) der Zentralbibliothek Zürich (online, 27.08.2026).
+:::
+
+::: {lang="en"}
+Invited talk in the [Lunch & Learn Open Science](https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice) series at the Zentralbibliothek Zürich (online, 2026-08-27).
+:::
+
+:::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+
+<iframe src="/assets/files/20260827-Maehr-Public_Open_Review_in_Practice.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Public Open Review in Practice: Experiences from the Living Handbook 'Discrimination-sensitive Metadata Practice'">
+
+This browser does not support PDFs. Please <a href="/assets/files/20260827-Maehr-Public_Open_Review_in_Practice.pdf">download the PDF</a> to view it.
+
+</iframe>
+
+::: {lang="de"}
+[Präsentation als PDF herunterladen](/assets/files/20260827-Maehr-Public_Open_Review_in_Practice.pdf)
+:::
+
+::: {lang="en"}
+[Download the presentation as PDF](/assets/files/20260827-Maehr-Public_Open_Review_in_Practice.pdf)
+:::
+::::
+
+## Abstract
+
+::: {lang="de"}
+Der Beitrag untersucht, unter welchen praktischen Bedingungen ein Public Open Review eine wissenschaftliche Publikation verbessern kann. Er stützt sich auf die Überarbeitung von *[Diskriminierungssensible Metadatenpraxis](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/)*, einem Living Handbook, das aus der Arbeit des Public-History-Projekts Stadt.Geschichte.Basel hervorgegangen ist. Das Handbuch entstand aus einem konkreten kuratorischen Problem: Wie sollen historische Bilder, Objekte, Beschreibungen und Forschungsdaten publiziert werden, wenn sie rassistische oder sexistische Klassifikationen reproduzieren, vulnerable Personen abbilden oder Gewaltgeschichten dokumentieren? Da bestehende Leitlinien den Bedürfnissen des Projektteams nicht genügten, erarbeiteten Moritz Mähr und Noëlle Schnegg eine [erste Auflage](/products/publications/handbuch/index.qmd), liessen sie technisch und inhaltlich begutachten und publizierten sie als offen zugängliches Living Handbook.
+
+Das Modell des Living Handbook versprach eine kontinuierliche Verbesserung durch öffentliches Feedback. In der Praxis erzeugte es jedoch Spannungen zwischen Offenheit, Versionsstabilität, Zitierbarkeit und redaktioneller Verantwortung. Die erste Auflage blieb die stabile, mit einem DOI versehene Publikation, während eine weitgehend neu geschriebene zweite Auflage separat als Vorschau verfügbar gemacht wurde. Wechselseitige Hinweise führten die Lesenden zwischen den beiden Versionen. Diese Anordnung bewahrte eine zitierbare Auflage und öffnete die Überarbeitung zugleich für das Review, doch sie machte den Status der Publikation schwer vermittelbar. Der Fall zeigt, dass ein Living Handbook nicht bloss ein Dokumentformat ist. Es ist eine dauerhafte Publikations- und Pflegeverpflichtung, die Versionierung, Moderation, technische Infrastruktur, redaktionelle Entscheidungen und institutionelle Verantwortung umfasst.
+
+Das Review nutzte eine Kombination aus Quarto, GitHub, Hypothes.is und Zenodo. Zusammen machten diese Systeme Quelltextänderungen, Diskussionen, Annotationen und Releases sichtbar. Ein Review-Verfahren bildeten sie damit jedoch nicht. GitHub stellte für viele der angesprochenen Personen eine technische und soziale Hürde dar; Rückmeldungen kamen häufig per E-Mail, weil die Beitragenden zögerten, Fehler öffentlich zu benennen. Eine private Hypothes.is-Gruppe sollte eine geschützte Review-Umgebung bieten, doch die Gutachtenden konnten ihr nicht beitreten und annotierten stattdessen die öffentliche Seite. Der resultierende öffentliche Export enthielt 52 Annotationen von drei Personen, die alle persönlich eingeladen worden waren. Elias Zimmermann steuerte 38 Annotationen bei, Mario Kliewer 13 und Peggy Große eine. Damit stammten 51 der 52 Annotationen von zwei Gutachtenden. Das Review war inhaltlich produktiv, doch die erwartete breite, selbstorganisierte Beteiligung blieb aus.
+
+Die folgenreichste Phase war ein moderiertes Zoom-Gespräch am 7. November 2025 mit den drei Gutachtenden, Noëlle Schnegg und Moritz Mähr. Das Treffen erlaubte es den Beteiligten, über lokale Annotationen hinauszugehen und strukturelle Eingriffe zu diskutieren: Kapitelfolge, fehlendes Material, begriffliche Unterscheidungen und das Verhältnis von Theorie und Praxis. Es unterstützte zudem die Klärung und Priorisierung, bevor die Autor\*innen einen Zeitplan für die Überarbeitung festlegten. Dieser synchrone Austausch lieferte Kontext und persönliche Rückmeldungen, die öffentliche Annotationsstränge nicht bieten konnten. Er war besonders wichtig, weil das Handbuch Diskriminierung, Rassismus und Antisemitismus behandelt. Eine unmittelbare öffentliche Zuschreibung kann vorläufige oder kritische Kommentare hemmen, insbesondere wenn Beitragende in die verhandelten Themen persönlich verstrickt oder von ihnen direkt betroffen sind.
+
+Der Fall unterscheidet damit technische Offenheit von sozialer Zugänglichkeit. Öffentlich erreichbare Werkzeuge verteilen die Möglichkeit zur Beteiligung, doch sie schaffen weder Verantwortung noch Anerkennung, Vertrauen oder Zeit. Gutachtende brauchen eine gezielte Einladung, eine klar umrissene Aufgabe, relevante Fragen, realistische Fristen, zugängliche Werkzeuge und eine Einführung. Sie brauchen zudem die Erlaubnis, ihr Urteil zu entwickeln und zu revidieren. Ein System, das jeden vorläufigen Gedanken öffentlich festhält, kann Druck erzeugen, von Anfang an richtig zu liegen, obwohl Begutachtung selbst ein iterativer intellektueller Prozess ist.
+
+Für künftige Auflagen schlägt der Beitrag ein Modell des eingeladenen Reviews mit verzögerter Offenlegung vor: ein öffentlicher Aufruf für Gutachtende, Auswahl und persönliche Einladung nach einschlägiger Expertise, ein klar versioniertes Manuskript, eine zunächst geschützte Review-Umgebung und eine moderierte Diskussion, welche die grossen Fragen bündelt. Die Autor\*innen sollen dokumentieren, wie sie jede Empfehlung übernommen, verändert oder abgelehnt haben. Mit dem Einverständnis der Beteiligten sollen die abgeschlossenen Gutachten, die Antworten der Autor\*innen und die redaktionellen Entscheidungen anschliessend gemeinsam mit einer stabilen, mit DOI und klarer Zitierempfehlung versehenen Auflage publiziert werden. Öffentliche Kommentare nach der Publikation können weitergehen, sollen aber vom formellen Review unterschieden werden. Die zentrale Schlussfolgerung lautet nicht, dass das Public Open Review gescheitert ist. Es hat das Handbuch verbessert, doch es gelang durch Einladung, Befähigung, Moderation und redaktionelle Arbeit, nicht durch Offenheit allein.
+:::
+
+::: {lang="en"}
+This contribution examines the practical conditions under which public open review can improve a scholarly publication. It draws on the revision of *[Discrimination-Sensitive Metadata Practice](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/)*, a living handbook developed from the work of the public-history project Stadt.Geschichte.Basel. The handbook originated in a concrete curatorial problem: how should historical images, objects, descriptions, and research data be published when they reproduce racist or sexist classifications, depict vulnerable people, or document histories of violence? Because existing guidance did not adequately address the project team's needs, Moritz Mähr and Noëlle Schnegg produced a [first edition](/products/publications/handbuch/index.qmd), commissioned technical and content reviews, and published it as an openly accessible living handbook.
+
+The living-handbook model promised continuous improvement through public feedback. In practice, however, it created tensions among openness, version stability, citability, and editorial responsibility. The first edition remained the stable, DOI-bearing publication, while a substantially rewritten second edition was made available separately as a preview. Reciprocal notices directed readers between the two versions. This arrangement preserved a citable edition while exposing the revision to review, but it also made the status of the publication difficult to communicate. The case demonstrates that a living handbook is not simply a document format. It is an ongoing publication and maintenance commitment involving versioning, moderation, technical infrastructure, editorial decisions, and institutional responsibility.
+
+The review used a combination of Quarto, GitHub, Hypothes.is, and Zenodo. Together, these systems made source changes, discussions, annotations, and releases visible. Yet they did not constitute a review procedure. GitHub presented a technical and social barrier for many intended participants; feedback often arrived by email because contributors were reluctant to identify errors publicly. A private Hypothes.is group was established to provide a protected review environment, but reviewers were unable to join it and instead annotated the public page. The resulting public export contained 52 annotations from three people, all of whom had been invited personally. Elias Zimmermann contributed 38 annotations, Mario Kliewer 13, and Peggy Große one. Thus, 51 of the 52 annotations came from two reviewers. The review was substantively productive, but the anticipated broad, self-organizing participation did not materialize.
+
+The most consequential stage was a moderated Zoom conversation on 7 November 2025 involving the three reviewers, Noëlle Schnegg, and Moritz Mähr. The meeting allowed participants to move beyond local annotations and discuss structural interventions: chapter order, missing material, conceptual distinctions, and the balance between theory and practice. It also supported clarification and prioritization before the authors established a revision timetable. This synchronous exchange supplied context and interpersonal feedback that public annotation threads could not provide. It was especially important because the handbook addresses discrimination, racism, and antisemitism. Immediate public attribution may inhibit provisional or critical comments, particularly when contributors are personally implicated in, or directly affected by, the subjects under discussion.
+
+The case therefore distinguishes technical openness from social accessibility. Publicly reachable tools distribute the possibility of participation, but they do not create responsibility, recognition, confidence, or time. Reviewers require a specific invitation, a clearly bounded task, relevant questions, realistic deadlines, accessible tools, and onboarding. They also need permission to develop and revise their judgments. A system that records every preliminary thought publicly can create pressure to be correct from the outset, even though reviewing is itself an iterative intellectual process.
+
+For future editions, the contribution proposes a model of invited review with delayed disclosure: a public call for reviewers, selection and personal invitation based on relevant expertise, a clearly versioned manuscript, an initially protected review environment, and a moderated discussion that consolidates major questions. The authors should document how each recommendation was accepted, modified, or rejected. With the participants' consent, the completed reviews, author responses, and editorial decisions should then be published alongside a stable edition with a DOI and clear citation guidance. Public post-publication comments may continue, but they should be distinguished from the formal review. The central conclusion is not that public open review failed. It improved the handbook, but it succeeded through invitation, enablement, moderation, and editorial labor rather than through openness alone.
+:::

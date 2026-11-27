@@ -38,8 +38,19 @@ other-links:
     href: 'https://www.infoclio.ch/en/open-access-and-open-peer-review-digital-humanities'
 ---
 
-## Workshop Announcement
+## [Workshop-Ankündigung]{lang="de"} / [Workshop Announcement]{lang="en"}
 
+::: {lang="de"}
+Begleiten Sie die [DSI Communities Digital Humanities and Libraries](https://www.dsi.uzh.ch/de/research/communities/digital-humanities.html) beim *Workshop on Open Access, Open & Community Peer Review: Rethinking Scholarly Publishing in the Digital Humanities*, der neue Modelle des wissenschaftlichen Publizierens in den Digital Humanities erkundet. Traditionelles Publizieren stützt sich oft auf Intermediäre, was den Zugang verlangsamt und die Kosten erhöht. Dieser Workshop untersucht Wege, das Publizieren zu vereinfachen, die Transparenz zu erhöhen und die Zusammenarbeit zu fördern.
+
+Zu den Themen gehören universitätseigene Verlage, öffentlich-private Partnerschaften, Preprint-Infrastrukturen und Open-Access-Plattformen, die die Verbreitung von Forschungsergebnissen beschleunigen können. Zudem werden Community- und Open-Peer-Review diskutiert, um Inklusivität und geteilte Autorität in der wissenschaftlichen Kommunikation zu fördern.
+
+Schliesslich werden Open-Source-Werkzeuge wie Git, Quire und Quarto vorgestellt. Diese sollen Arbeitsabläufe im Publizieren und Peer-Review vereinfachen und sie anpassungsfähiger und forschungsfreundlicher machen.
+
+Das [Digital History Network Switzerland](/products/digital-history/digital-history-network/index.qmd), unter anderem mit Prof. Dr. Michael Piotrowski, Dr. Moritz Feichtinger und Dominic Weber, bringt seine Expertise in die Diskussionen ein.
+:::
+
+::: {lang="en"}
 Join the [DSI Communities Digital Humanities and Libraries](https://www.dsi.uzh.ch/de/research/communities/digital-humanities.html) for their *Workshop on Open Access, Open & Community Peer Review: Rethinking Scholarly Publishing in the Digital Humanities* exploring new models of scholarly publishing in the digital humanities. Traditional publishing often relies on intermediaries, slowing access and increasing costs. This workshop will explore ways to streamline publishing, increase transparency, and foster collaboration.
 
 The topics will include university presses, public-private partnerships, preprint infrastructures and open access platforms that can accelerate the dissemination of research results. In addition, community and open peer review will be discussed in order to promote inclusivity and shared authority in scientific communication.
@@ -47,7 +58,14 @@ The topics will include university presses, public-private partnerships, preprin
 Finally, open-source tools such as Git, Quire and Quarto will be presented. These are designed to simplify workflows in publishing and peer review and make them more adaptable and research-friendly.
 
 The [Digital History Network Switzerland](/products/digital-history/digital-history-network/index.qmd), including Prof. Dr. Michael Piotrowski, Dr. Moritz Feichtinger and Dominic Weber, will contribute their expertise to guide the discussions.
+:::
 
-::: {.callout-tip title="Workshop Report" icon="false"}
+:::: {.callout-tip title="Workshop-Bericht / Workshop Report" icon="false"}
+::: {lang="de"}
+Moritz Mähr und Moritz Twente haben einen [Bericht zum Workshop](/products/publications/oa-peer-review/index.qmd) veröffentlicht. Der Bericht ist Teil der [infoclio.ch-Blogserie](https://www.infoclio.ch/en/node/190093) zu aktuellen Entwicklungen bei offenen Daten in den Geistes- und Sozialwissenschaften der Schweiz, entstanden für die infoclio.ch-Tagung 2025 [Historicising Open Science](https://www.infoclio.ch/de/node/189964/).
+:::
+
+::: {lang="en"}
 Moritz Mähr and Moritz Twente published a [report on the workshop](/products/publications/oa-peer-review/index.qmd). The report has been included in the [infoclio.ch blog post series](https://www.infoclio.ch/en/node/190093) on current developments in open data in the humanities and social sciences in Switzerland, produced for the infoclio.ch 2025 conference [Historicising Open Science](https://www.infoclio.ch/de/node/189964/).
 :::
+::::

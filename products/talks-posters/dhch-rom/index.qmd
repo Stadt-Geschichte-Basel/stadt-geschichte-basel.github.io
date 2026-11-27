@@ -51,4 +51,10 @@ Ein Videomitschnitt ist [auf YouTube verfügbar](https://www.youtube.com/watch?v
 
 ## Abstract
 
+::: {lang="de"}
+Seit 2018 wird an der Universität Basel eine umfassende Geschichte der Stadt Basel erarbeitet. Mehr als 70 Autor\*innen erforschen die vergangenen 2200 Jahre und bereiten 10 Bände für den Druck vor. 2017 verpflichtete sich die das Projekt tragende Stiftung Stadt.Geschichte.Basel gegenüber dem Kanton Basel-Stadt, die Forschungsdaten der Öffentlichkeit über ein Online-Portal zugänglich zu machen. Wir verstehen diese Verpflichtung so, dass die Forschungsdaten in einem ersten Schritt gesammelt, aufbereitet und für die spätere Nutzung sowie die Langzeitarchivierung gesichert werden, bevor sie in einem zweiten Schritt der breiten Öffentlichkeit zugänglich gemacht werden. Damit stellt sich – ein allgemeines Problem der historischen Forschung – die Frage, was Forschungsdaten überhaupt sind, und daran anschliessend, wie sie zugänglich gemacht werden können. Ein Erfahrungsbericht, der bemüht ist, erkenntnistheoretische und methodische Konsequenzen mitzudenken.
+:::
+
+::: {lang="en"}
 The production of a comprehensive history of the city of Basel has been underway at the University of Basel since 2018. More than 70 authors are investigating the past 2200 years and preparing 10 volumes for print. In 2017, the Stadt.Geschichte.Basel Foundation, which is carrying out the project, made a commitment to the canton of Basel-Stadt to make the research data available to the public via an online portal. We interpret this commitment as meaning that the research data will be collected, processed and secured for later use and long-term archiving in a first step, before being made available to the general public in a second step. This raises the question - and this is a general problem in historical research - of what research data are and, following on from this, how they can be made accessible. A field report striving to think about epistemological and methodological consequences.
+:::

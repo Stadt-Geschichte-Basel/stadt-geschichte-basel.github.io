@@ -37,6 +37,17 @@ This browser does not support PDFs. Please download the PDF <a href="/assets/fil
 
 ## Abstract
 
+::: {lang="de"}
+Das Projekt Stadt.Geschichte.Basel veranschaulicht einen innovativen Ansatz für Public History durch sein robustes Forschungsdatenmanagement (FDM) und die öffentliche Einbindung über digitale Plattformen. Diese Präsentation skizziert den Aufbau eines Online-Portals, konzipiert als virtuelles Repositorium, um Basels historische Daten öffentlich zugänglich zu machen. Sie betont den Auftrag des Projekts, bereits während der Projektentwicklung fortlaufend öffentliche Sichtbarkeit und Dialog mit künftigen Nutzenden zu gewährleisten.
+
+Die Präsentation behandelt konkrete Arbeitspakete, darunter die Sicherung der historischen Forschungsdaten der Stadt sowie die Entwicklung von Showcases zur Datenpräsentation. Sie betont die zentrale Rolle des FDM für die Sicherstellung der Reproduzierbarkeit von Forschung mittels der FAIR-Prinzipien und thematisiert die Lücken bei disziplinspezifischen FDM-Richtlinien in den Geschichtswissenschaften.
+
+Darüber hinaus setzt die Initiative Stadt.Geschichte.Basel innovative Werkzeuge und Plattformen wie CollectionBuilder und SvelteKit ein, um die Verwaltung und Verbreitung von Forschungsdaten zu erleichtern. Die Public-History-Bemühungen des Projekts werden anhand seiner Vermittlungsstrategien beleuchtet, darunter die Zusammenarbeit mit Gedächtnisinstitutionen und weiteren Vermittlerinnen und Vermittlern, um Forschungsdaten in öffentlich verständliche Formate zu übersetzen.
+
+Der Vortrag zeigt das Potenzial digitaler Werkzeuge und kollaborativer Rahmenwerke auf, um Stadtgeschichtsforschung in eine dynamische Ressource für öffentliche Bildung und Beteiligung zu verwandeln, und setzt damit einen Massstab für künftige Digital-Humanities-Initiativen.
+:::
+
+::: {lang="en"}
 The Stadt.Geschichte.Basel project exemplifies an innovative approach to public history through its robust Research Data Management (RDM) strategies and public engagement via digital platforms. This presentation outlines the creation of an online portal, designed as a virtual repository, to make Basel's historical data publicly accessible. It emphasizes the project's mission to maintain continuous public visibility and dialogue with future users even during the project's development.
 
 The presentation discusses specific work packages, including securing the city's historical research data and developing showcases for data presentation. It emphasizes the critical role of RDM in ensuring reproducibility of research through FAIR principles and addresses the gaps in discipline-specific RDM guidelines within the historical sciences.
@@ -44,3 +55,4 @@ The presentation discusses specific work packages, including securing the city's
 In addition, the Stadt.Geschichte.Basel initiative incorporates innovative tools and platforms, such as CollectionBuilder and SvelteKit, to facilitate the management and dissemination of research data. The project's efforts in public history will be highlighted through its engagement strategies, which include working with memory institutions and other intermediaries to translate research data into publicly digestible formats.
 
 This talk demonstrates the potential of digital tools and collaborative frameworks to transform urban history research into a dynamic resource for public education and engagement, and sets a precedent for future digital humanities initiatives.
+:::

@@ -49,7 +49,6 @@ classDiagram
     class media {
         id &lpar;m01313&rpar;
         title
-        [subject;subject]
         description
         [abstract] &lpar;alt attribute for alternative text&rpar;
         [creator] &lpar;incl. link to Wikidata&rpar;
@@ -69,7 +68,6 @@ classDiagram
     class metadata {
         id &lpar;abb01313&rpar;
         title
-        [subject;subject]
         description
         temporal
         language &lpar;ISO 639-1 code&rpar;
@@ -81,6 +79,17 @@ style media fill:#FFFFFF,stroke:#777,color:#3A1E3E
 ```
 
 Ein modifiziertes Datenmodell gilt für die Datensätze, aus denen [Diagramme und Statistiken](/products/research-data/plots/index.qmd) erstellt wurden. In diesem Zusammenhang wurden tabellarische Daten inklusive Metadaten zusätzlich auf GitHub veröffentlicht. Für diese Datensätze wurde das Datenmodell von Stadt.Geschichte.Basel [geringfügig angepasst](/products/research-data/plots/index.qmd#datenmodell), um auf die abweichenden Anforderungen an die Veröffentlichung tabellarischer Daten im Internet gemäss [W3C-Standard](https://w3c.github.io/csvw/syntax/) eingehen zu können.
+
+### Keine Schlagwörter {#keine-schlagwoerter}
+
+Das aktuelle Datenmodell enthält kein Feld für Schlagwörter (`subject`). Stadt.Geschichte.Basel vergibt bewusst keine Schlagwörter für die Sammlungsobjekte. Dieser Entscheid ist methodisch begründet:
+
+1.  Zunächst wurden die Objekte manuell mit dem [GenderOpen Schlagwortindex](https://opengenderplatform.de/schlagwortindex) verschlagwortet.
+2.  Der Digitalausschuss kritisierte, dass der Index die heterogenen historischen Bestände nur unzureichend abdeckt. Zudem ist sein feministischer Schwerpunkt für die gesamte Sammlung nicht repräsentativ.
+3.  Der Digitalausschuss fand kein geeignetes alternatives Vokabular.
+4.  Ein Pilotversuch mit [Iconclass](/products/coding/iconclass-classification/index.qmd) ergab ebenfalls keine tragfähige Alternative.
+
+Deshalb verzichtet Stadt.Geschichte.Basel auf Schlagwörter, statt eine ungeeignete Klassifikation zu verwenden. Die Felder `title`, `description`, `type` und `temporal` bleiben davon unberührt.
 
 ### Temporal
 

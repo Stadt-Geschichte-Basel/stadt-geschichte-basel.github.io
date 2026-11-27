@@ -47,12 +47,18 @@ code-links:
     icon: github
 ---
 
-## Presentation
+## Vortrag
 
+::: {lang="de"}
+Dies ist ein Kurzbeitrag, präsentiert an der [Computational Humanities Research 2025](https://2025.computational-humanities-research.org/) am Luxembourg Centre for Contemporary and Digital History (C^2^DH) der University of Luxembourg. Der Beitrag ist Teil der [Session 8B: Information Retrieval](https://2025.computational-humanities-research.org/programme/#session8B) und wurde [im Rahmen der Konferenz-Proceedings publiziert](/products/publications/chr2025-seeing-history-unseen/index.qmd).
+:::
+
+::: {lang="en"}
 This is a short paper presented at [Computational Humanities Research 2025](https://2025.computational-humanities-research.org/) at the Luxembourg Centre for Contemporary and Digital History (C^2^DH) at the University of Luxembourg. The paper is part of [Session 8B: Information Retrieval](https://2025.computational-humanities-research.org/programme/#session8B) and has been [published as part of the conference proceedings](/products/publications/chr2025-seeing-history-unseen/index.qmd).
+:::
 
 <!--
-::: {.callout-tip title="Show Presentation" icon="false" collapse="true"}
+::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 <iframe src="FIXME" width="100%" height="600px" loading="lazy" allowfullscreen title="Seeing History Unseen: Evaluating Vision-Language Models for WCAG-Compliant Alt-Text in Digital Heritage Collections">
 
 This browser does not support PDFs. Please <a href="FIXME">download the PDF</a> to view it.
@@ -62,14 +68,32 @@ This browser does not support PDFs. Please <a href="FIXME">download the PDF</a> 
 
 ## Abstract
 
-::: {.callout-tip title="Full Abstract" icon="false"}
-Read the [full abstract](https://maehr.github.io/chr2025-seeing-history-unseen/abstract/) on the project documentation website.
+:::: {.callout-tip title="Vollständiges Abstract" icon="false"}
+::: {lang="de"}
+Lesen Sie das [vollständige Abstract](https://maehr.github.io/chr2025-seeing-history-unseen/abstract/) auf der Projektdokumentations-Website.
 :::
 
-Digitized heritage collections remain partially inaccessible because images often lack descriptive alternative text (alt-text). We evaluate whether contemporary Vision-Language Models (VLMs) can assist in producing WCAG-compliant alt-text for heterogeneous historical materials. 
+::: {lang="en"}
+Read the [full abstract](https://maehr.github.io/chr2025-seeing-history-unseen/abstract/) on the project documentation website.
+:::
+::::
+
+::: {lang="de"}
+Digitalisierte Kulturerbe-Sammlungen bleiben teilweise unzugänglich, da Bildern oft beschreibender Alternativtext (Alt-Text) fehlt. Wir untersuchen, ob aktuelle Vision-Language-Modelle (VLMs) dabei helfen können, WCAG-konformen Alt-Text für heterogenes historisches Material zu erstellen.
+
+Anhand eines aus der Stadt.Geschichte.Basel Open Research Data Platform kuratierten Datensatzes von 100 Objekten – Fotografien, Karten, Zeichnungen, Objekte, Diagramme und Druckwerke aus verschiedenen Epochen – generieren wir Beschreibungsvorschläge mit vier VLMs (Google Gemini 2.5 Flash Lite, Meta Llama 4 Maverick, OpenAI GPT-4o mini, Qwen 3 VL 8B Instruct). Unsere Pipeline legt WCAG- und Ausgabevorgaben im System-Prompt fest und fügt knappe, sammlungsspezifische Metadaten im User-Turn ein, um „Lost-in-the-Middle“-Effekte zu vermindern.
+
+Machbarkeits-Benchmarks an einer Teilstichprobe von 20 Objekten zeigen 100 % Abdeckung, Latenzen von ca. 2–4 s pro Objekt und Kosten im Subcent-Bereich pro Beschreibung. Eine Bewertungsstudie mit 21 geisteswissenschaftlichen Fachpersonen rangiert die Modell-Ausgaben pro Bild; Friedman- und Wilcoxon-Tests zeigen keine statistisch signifikanten Leistungsunterschiede, während qualitative Auswertungen wiederkehrende Fehler identifizieren: sachliche Fehlerkennungen, selektive Auslassungen und unkritische Reproduktion schädlicher historischer Terminologie.
+
+Wir argumentieren, dass VLMs operativ einsetzbar, aber epistemisch fragil im Kontext von Kulturerbe sind. Eine wirksame Einführung erfordert redaktionelle Richtlinien, Sensitivitätsfilterung und gezielte Human-in-the-Loop-Überprüfung, besonders bei sensiblen Inhalten und komplexen Abbildungen. Die Studie trägt einen transparenten, reproduzierbaren Workflow, ein kleines, aber repräsentatives Evaluationsset sowie eine erste Kosten-Qualitäts-Baseline bei, um GLAM-Institutionen bei der Erwägung KI-gestützter Barrierefreiheit im grossen Massstab zu unterstützen.
+:::
+
+::: {lang="en"}
+Digitized heritage collections remain partially inaccessible because images often lack descriptive alternative text (alt-text). We evaluate whether contemporary Vision-Language Models (VLMs) can assist in producing WCAG-compliant alt-text for heterogeneous historical materials.
 
 Using a 100-item dataset curated from the Stadt.Geschichte.Basel Open Research Data Platform -- covering photographs, maps, drawings, objects, diagrams, and print ephemera across multiple eras -- we generate candidate descriptions with four VLMs (Google Gemini 2.5 Flash Lite, Meta Llama 4 Maverick, OpenAI GPT-4o mini, Qwen 3 VL 8B Instruct). Our pipeline fixes WCAG and output constraints in the system prompt and injects concise, collection-specific metadata at the user turn to mitigate "lost-in-the-middle" effects.
 
 Feasibility benchmarks on a 20-item subset show 100% coverage, latencies of ~2--4 s per item, and sub-cent costs per description. A rater study with 21 humanities scholars ranks per-image model outputs; Friedman and Wilcoxon tests reveal no statistically significant performance differences, while qualitative audits identify recurring errors: factual misrecognition, selective omission, and uncritical reproduction of harmful historical terminology.
 
 We argue that VLMs are operationally viable but epistemically fragile in heritage contexts. Effective adoption requires editorial policies, sensitivity filtering, and targeted human-in-the-loop review, especially for sensitive content and complex figures. The study contributes a transparent, reproducible workflow, a small but representative evaluation set, and an initial cost–quality baseline to inform GLAM institutions considering AI-assisted accessibility at scale.
+:::

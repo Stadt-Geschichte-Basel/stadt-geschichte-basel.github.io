@@ -93,6 +93,11 @@ jobs:
           echo "RENV_CONFIG_PREFER_BINARY=true" >> $GITHUB_ENV
           echo "RENV_CONFIG_PACKAGE_CACHE=true" >> $GITHUB_ENV
 
+      - name: Select OpenSSL 3 for R packages
+        run: |
+          brew install openssl@3
+          echo "PKG_CONFIG_PATH=$(brew --prefix openssl@3)/lib/pkgconfig${PKG_CONFIG_PATH:+:$PKG_CONFIG_PATH}" >> "$GITHUB_ENV"
+
       - uses: r-lib/actions/setup-renv@v2
         with:
           cache-version: 1

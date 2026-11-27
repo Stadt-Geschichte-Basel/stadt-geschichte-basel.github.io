@@ -40,6 +40,14 @@ This browser does not support PDFs. Please download the PDF <a href="/assets/fil
 
 ## Abstract
 
+::: {lang="de"}
+Infrastruktur-Pitch am DARIAH-CH Study Day 2023 von Dr. sc. Moritz Mähr (Digital Lead) zu CollectionBuilder und dessen Anwendungsfall im Projekt Stadt.Geschichte.Basel.
+
+Das Problem mit Public History: Auch wer die eigene digitale Geschichte und die eigenen Daten teilen möchte, hat als Forschende\*r in der Regel weder das Geld für einen kostenpflichtigen Dienst noch die Infrastruktur für eine selbst gehostete Open-Source-Lösung wie Omeka, noch die Zeit oder technischen Kenntnisse, dies selbst zu programmieren. Die Lösung: Mit CollectionBuilder lassen sich digitale Sammlungen, Ausstellungen und Geschichten selbst hosten (mit sehr wenig technischem Know-how), nachhaltig betreiben (Open Source, langzeitarchivierbar) und das kostenlos. Es gibt eine umfangreiche Dokumentation und eine sehr unterstützende Open-Source-Community.
+:::
+
+::: {lang="en"}
 Infrastructure Pitch at the DARIAH-CH Study Day 2023 by Dr. sc. Moritz Mähr (Digital Lead) about CollectionBuilder and its use case in the project Stadt.Geschichte.Basel.
 
 The Problem with Public History: Even if you want to share your digital story and your data, as a researcher you typically don't have the money to use a paid service, the infrastructure for a self-hosted open source solution like Omeka, and the time or technical skills to code it yourself. The Solution: With CollectionBuilder, you can host digital collections, exhibits, and stories, by yourself (with very little technical skill), sustainable (open source, long time archivable), and free of charge. It has an extensive documentation and a very supportive open source community.
+:::

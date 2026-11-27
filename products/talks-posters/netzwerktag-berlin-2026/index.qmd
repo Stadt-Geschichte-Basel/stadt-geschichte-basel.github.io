@@ -1,0 +1,47 @@
+---
+title: Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten
+subtitle: Digitaler Vortrag und Praxisübung «Kritische Metadaten»
+description: Vortrag und Praxisübung von Moritz Mähr und Noëlle Schnegg zum Handbuch für diskriminierungssensible Metadaten am Netzwerktag zu kolonial geprägten Bildwelten in Sammlungen, Kulturforum Berlin.
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Bern
+  - name: Noëlle Schnegg
+    orcid: 0009-0008-5207-6652
+    affiliation: Sciences Po
+date: 2026-10-26
+categories: Workshop
+event: Kulturforum Berlin, Netzwerktag «Zum Umgang mit kolonial geprägten Bildwelten in Sammlungen»
+lang: de
+citation:
+  type: standard
+  title: 'Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten'
+  container-title: 'Netzwerktag: Zum Umgang mit kolonial geprägten Bildwelten in Sammlungen, Kunstbibliothek – Staatliche Museen zu Berlin, Kulturforum Berlin'
+appendix-cite-as: display
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://wissenschaftliche-sammlungen.de/de/termine/netzwerktag-zum-umgang-mit-kolonial-gepraegten-bildwelten-sammlungen'
+  - text: Programm (PDF)
+    icon: journal-richtext
+    href: 'https://wissenschaftliche-sammlungen.de/download_file/view/3192/'
+  - text: Kursmaterialien (OER)
+    icon: mortarboard
+    href: '/products/publications/oer-metadatenpraxis/index.html'
+---
+
+## Workshop
+
+Moritz Mähr und Noëlle Schnegg gestalten einen Programmteil des bundesweiten Netzwerktags *Zum Umgang mit kolonial geprägten Bildwelten in Sammlungen*. Die [Kunstbibliothek der Staatlichen Museen zu Berlin](https://www.smb.museum/museen-einrichtungen/kunstbibliothek/home/) richtet den Netzwerktag am 26. Oktober 2026 im Kulturforum Berlin aus. Er richtet sich an Fachleute aus Museen, Bibliotheken und Archiven.
+
+Der Beitrag gehört zum Programmteil *IV. Bestandsangst? Erschliessen, Dokumentieren, Beschreiben* (14:20–15:00 Uhr). Er verbindet zwei Formate:
+
+- **Input:** ein digitaler Vortrag zum [Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten](/products/publications/handbuch/index.qmd) aus dem Forschungsprojekt Stadt.Geschichte.Basel.
+- **Aktion:** die Praxisübung *Kritische Metadaten*. Die Teilnehmenden vertiefen einzelne Aspekte des Handbuchs mit Übungen, die Schnegg und Mähr erarbeitet haben. Die Übungen stammen aus der [Open Educational Resource zur diskriminierungssensiblen Metadatenpraxis](/products/publications/oer-metadatenpraxis/index.qmd).
+
+## Abstract
+
+Wer in einer öffentlichen Sammlung mit historischen Objekten der visuellen Kultur arbeitet, stösst früher oder später auf Bildwelten mit Spuren des Kolonialismus. Der Netzwerktag fragt, wie Sammlungen solche Objekte dokumentieren und erfassen, wem sie die Bilder in welcher Form zur Verfügung stellen und wie sie die Bilder vermitteln.
+
+Der Beitrag setzt bei der Erschliessung an. Metadaten beschreiben, ordnen und benennen Objekte. Sie können dabei diskriminierende Sichtweisen der Quellen übernehmen und weitertragen. Das Handbuch zeigt, wie Erschliessende Sprache, Beschreibung und Kontextualisierung bewusst gestalten können. Die Praxisübung überträgt diese Fragen auf konkrete Datensätze.

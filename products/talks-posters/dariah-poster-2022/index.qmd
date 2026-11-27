@@ -48,6 +48,14 @@ This browser does not support PDFs. Please download the PDF <a href="/assets/fil
 
 ## Abstract
 
+::: {lang="de"}
+Bei Stadt.Geschichte.Basel erforschen mehr als 70 Historiker\*innen die Geschichte Basels von den Kelten bis in die Gegenwart. Im Fokus stehen aktuelle und bislang wenig erforschte Themen wie die Industrie- und Wirtschaftsgeschichte des 19. und 20. Jahrhunderts oder die Migrationsgeschichte. Die Geschichte der Stadt wird nicht isoliert betrachtet, sondern regional und international auf wirtschaftlicher, politischer und kultureller Ebene verwoben dargestellt. Sie erscheint in 10 gedruckten Bänden. Ergänzend werden ausgewählte historische Aspekte in Form von Data Stories präsentiert.
+
+Um diesen Prozess zu erleichtern, hat das Team für Forschungsdatenmanagement von Stadt.Geschichte.Basel einen Leitfaden entwickelt. Er führt durch die Fragen, die zur Entwicklung, Produktion und Veröffentlichung der Data Story geführt haben.
+:::
+
+::: {lang="en"}
 At Stadt.Geschichte.Basel, more than 70 historians research the history of Basel from the Celts to the present. The focus is on current and little-researched topics such as the industrial and commercial history of the 19th and 20th centuries or the history of migration. The city's history is not viewed in isolation, but is interwoven regionally and internationally at the economic, political and cultural levels. It is published in 10 printed volumes. In addition, selected historical aspects are presented in the form of data stories.
 
 To facilitate this process, the Stadt.Geschichte.Basel research data management team has developed a guide. It walks through the questions that led to the development, production and publication of the data story.
+:::

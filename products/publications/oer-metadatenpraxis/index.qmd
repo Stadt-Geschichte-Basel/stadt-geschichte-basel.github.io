@@ -1,0 +1,57 @@
+---
+title: Diskriminierungssensible Metadatenpraxis
+subtitle: OER für einen Hands-on-Kurs
+description: Offene Lehrmaterialien für einen 60- bis 90-minütigen Hands-on-Kurs zu diskriminierungssensibler Metadatenpraxis, mit Facilitator Guide, Foliendeck, Metadaten-Audit und Fallkarten.
+categories: Lehrmittel
+author:
+  - name: Moritz Mähr
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Bern
+  - name: Noëlle Schnegg
+    orcid: 0009-0008-5207-6652
+    affiliation: Sciences Po
+date: 2026-10-06
+lang: de-CH
+other-links:
+  - text: Website der OER
+    icon: globe
+    href: 'https://maehr.github.io/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop/'
+  - text: Handbuch
+    icon: book
+    href: '/products/publications/handbuch/index.html'
+code-links:
+  - text: GitHub Code Repository
+    icon: github
+    href: 'https://github.com/maehr/diskriminierungssensible-metadatenpraxis-problembewusstsein-workshop'
+citation: true
+appendix-cite-as: display
+---
+
+## Lehrmittel
+
+Diese Open Educational Resource (OER) enthält alle Materialien für einen 60- bis 90-minütigen Hands-on-Kurs zu diskriminierungssensibler Metadatenpraxis. Kursleitende können den Kurs ohne die Autor:innen durchführen. Der Kurs schafft Problembewusstsein für Diskriminierung in und durch Daten und Metadaten. Die Teilnehmenden lernen, problematische Aspekte in bestehenden Datenpraktiken zu erkennen, zu diskutieren und begründete Handlungsoptionen für die eigene Praxis zu formulieren.
+
+Die OER richtet sich an Forschende in den Geistes- und Kulturwissenschaften, an Mitarbeitende von GLAM-Institutionen und an alle, die Daten oder Metadaten erstellen, erschliessen, kuratieren oder publizieren. Vorkenntnisse zu diskriminierungssensibler Datenpraxis sind nicht nötig.
+
+Die OER baut auf dem [Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten](/products/publications/handbuch/index.qmd) und seiner überarbeiteten Fassung [*Diskriminierungssensible Metadatenpraxis*](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) auf. Sie dupliziert das Handbuch nicht, sondern ergänzt es um eine didaktische Struktur.
+
+## Inhalt
+
+| Bereich          | Inhalt                                                                                         |
+| ---------------- | ---------------------------------------------------------------------------------------------- |
+| Kurs durchführen | Facilitator Guide mit Lernzielen, Vorbereitung, Abläufen für 60, 75 und 90 Minuten, Moderation |
+| Input            | Foliendeck, Video, Kernkonzepte                                                                |
+| Hands-on         | Metadaten-Audit, Anleitung für eigene Beispiele, fünf Fallkarten                               |
+| Arbeitshilfen    | Verweise auf die Checklisten des Handbuchs                                                     |
+| Nach dem Kurs    | Transfer-Karte, weiterführende Lektüre                                                         |
+
+## Einsatz
+
+Die Materialien kommen in folgenden Veranstaltungen zum Einsatz:
+
+- [Praxisübung «Kritische Metadaten»](/products/talks-posters/netzwerktag-berlin-2026/index.qmd), Netzwerktag *Zum Umgang mit kolonial geprägten Bildwelten in Sammlungen*, Kulturforum Berlin, 26. Oktober 2026
+- [Learning to See the Problem: Discrimination-Sensitive Metadata in Practice](/products/talks-posters/careing-for-data-bern/index.qmd), *CAREing for Data in Dialogue*, Universität Bern, 9. Dezember 2026
+
+## Lizenz
+
+Die Inhalte der OER stehen unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Der Code steht unter der AGPL-3.0. Screenshots von Datensätzen Dritter sind von diesen Lizenzen ausgenommen.

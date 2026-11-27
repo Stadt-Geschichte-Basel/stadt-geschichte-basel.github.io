@@ -60,6 +60,32 @@ This browser does not support PDFs. Please <a href="/assets/files/251015-Maehr_T
 
 ## Abstract
 
+::: {lang="de"}
+Die [Forschungsdatenplattform](/products/coding/plattform/index.qmd) von Stadt.Geschichte.Basel bietet offenen Zugang zu vielfältigem historischem Material zur Stadt Basel, darunter Texte, Bilder sowie statistische und geodätische Daten. Obschon technisch robust und öffentlich [über GitHub Pages verfügbar](https://forschung.stadtgeschichtebasel.ch) mittels CollectionBuilder-CSV, stösst unsere aktuelle Infrastruktur an kritische Grenzen bei Nachhaltigkeit und Skalierbarkeit.
+
+Gegenwärtig werden Metadaten und Dateien über die [von der Universität Bern bereitgestellte Omeka-S-Instanz](https://omeka.unibe.ch/) kuratiert und verwaltet, aus der wir die Daten für die Darstellung via CollectionBuilder extrahieren. Dieses Setup birgt jedoch erhebliche Risiken für die langfristige Verfügbarkeit:
+
+-   Omeka liegt nicht unter unserer institutionellen Kontrolle und ist möglicherweise nicht dauerhaft finanziert.
+-   GitHub Pages eignet sich nicht für grosse Dateien oder eine garantierte Persistenz.
+-   CollectionBuilder verfügt nicht über eingebaute Unterstützung für Versionierung und persistente Identifikatoren auf dem von Forschungsdateninfrastrukturen benötigten Niveau.
+
+Um diese Herausforderungen zu adressieren, implementieren wir eine [Übergangs-Pipeline](https://dokumentation.stadtgeschichtebasel.ch/omeka2dsp), um sämtliche Metadaten und zugehörige Dateien bei DaSCH zu archivieren und dessen Infrastruktur für versionierte, dauerhafte und FAIR-konforme Forschungsdatenpublikation zu nutzen. Die neue Pipeline umfasst:
+
+1.  Metadaten-Harvesting und -Transformation von Omeka in das DaSCH-Datenmodell.
+2.  Automatisierte Ablage- und Aktualisierungsroutinen über die DaSCH-REST-API, einschliesslich Unterstützung für die Versionierung bestehender Datensätze.
+3.  Rückschreiben stabiler DaSCH-Identifikatoren und Zugriffs-URLs in unsere öffentliche Plattform, um Transparenz und Zitierbarkeit sicherzustellen.
+4.  Erhaltung hierarchischer Beziehungen und Medien-Metadaten, abgestimmt auf unser eigenes Metadatenmodell, das Prinzipien einer diskriminierungssensiblen Beschreibungspraxis einbezieht.
+
+Dieser Übergang erlaubt es uns, das Archiv-Backend von der Frontend-Präsentation zu entkoppeln und so langfristige Datenzugänglichkeit, Zitierbarkeit und semantische Interoperabilität sicherzustellen. In unserer Präsentation teilen wir den architektonischen Überblick, Überlegungen auf Code-Ebene sowie unsere Reflexionen zur Arbeit mit den DaSCH-APIs im realen Praxiskontext, darunter:
+
+-   Erkenntnisse zu Metadaten-Crosswalks und Transformationslogik.
+-   Technische Fallstricke bei Versionskontrolle, Dateiübertragung und Identifikator-Verwaltung.
+-   Herausforderungen bei der Abstimmung von Minimal-Computing-Ansätzen (CollectionBuilder) mit robusten Backend-Infrastrukturen (DSP).
+
+Diese Fallstudie zeigt, wie sich schlanke digitale Publikationsumgebungen wirksam mit nationalen Forschungsinfrastrukturen kombinieren lassen, um nachhaltigen, standardbasierten Zugang zu historischen Forschungsdaten zu ermöglichen. Sie wirft zudem grundsätzlichere Fragen zu infrastruktureller Unabhängigkeit, Skalierbarkeit geisteswissenschaftlicher Plattformen und den praktischen Herausforderungen bei der Umsetzung von FAIR-Prinzipien in community-entwickelten Software-Ökosystemen auf.
+:::
+
+::: {lang="en"}
 The [Forschungsdatenplattform](/products/coding/plattform/index.qmd) by Stadt.Geschichte.Basel provides open access to diverse historical materials relating to the city of Basel, including texts, images, statistical, and geospatial data. While technically robust and publicly [available through GitHub Pages](https://forschung.stadtgeschichtebasel.ch) using the CollectionBuilder-CSV, our current infrastructure faces critical sustainability and scalability limitations.
 
 At present, metadata and files are curated and managed using the [Omeka-S instance provided by the University of Bern](https://omeka.unibe.ch/), from which we extract the data for display via CollectionBuilder. However, this setup introduces significant risks for long-term availability:
@@ -82,3 +108,4 @@ This transition allows us to decouple the archival backend from the front-end pr
 -   Challenges in aligning minimal computing approaches (CollectionBuilder) with robust backend infrastructures (DSP).
 
 This case study illustrates how lightweight digital publishing environments can be effectively combined with national research infrastructures to deliver sustainable, standards-based access to historical research data. It also raises broader questions about infrastructural independence, scalability of humanities platforms, and the practical challenges of implementing FAIR principles in community-developed software ecosystems.
+:::

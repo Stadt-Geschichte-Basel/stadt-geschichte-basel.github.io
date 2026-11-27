@@ -38,7 +38,7 @@ license: CC BY-SA 4.0
 ---
 
 ::: {.callout-note title="Überarbeitung in Arbeit"}
-Eine aktualisierte Fassung des Handbuchs ist unter dem Titel [Diskriminierungssensible Metadatenpraxis](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) in Vorbereitung.
+Eine aktualisierte Fassung des Handbuchs ist unter dem Titel [Diskriminierungssensible Metadatenpraxis](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/) in Vorbereitung. Für Kurse und Workshops steht eine [Open Educational Resource zur diskriminierungssensiblen Metadatenpraxis](/products/publications/oer-metadatenpraxis/index.qmd) bereit.
 :::
 
 ## Handbuch
@@ -68,3 +68,5 @@ Im Abstractverzeichnis des [Bibliothekskongress Österreich (2024/2025)](https:/
 In der Präsentation der [Berlin-Brandenburgischen Akademie der Wissenschaften (BBAW)](https://forschungsdatenmanagement.bbaw.de/fileadmin/Webdateien/Dateien/Metadaten_-_Workshop_zur_Einfuehrung.pdf) wird das Handbuch als Referenzdokument genannt. Es dient dort als Grundlage für eine siebenstufige Metadaten-Checkliste mit ethischen Leitlinien.
 
 Der Blogbeitrag *„[Grosse Anforderungen an kleine Textfelder](https://www.herder-institut.de/blog/2024/12/12/grosse-anforderungen-an-kleine-textfelder/)”* des Herder-Instituts (Dezember 2024) verweist auf das Handbuch als Hintergrunddokument zur Problematik normativer Begrifflichkeiten und zur Notwendigkeit diskriminierungssensibler Datenpraxis in Kulturerbeinstitutionen.
+
+In der Einleitung *„[Kulturarchive und Gender: Ein gemeinsamer Anfang](https://doi.org/10.15203/1027-5649-432024)“* (S. 147–158) zum Dossier „Kulturarchive und Gender“ in den *Mitteilungen aus dem Brenner-Archiv* (Heft 43/2024, Brenner-Archiv, Universität Innsbruck) zitieren Arnhilt Inguglia-Höfle, Verena Lorber und Ursula A. Schneider das Handbuch im Zusammenhang mit den FAIR-Prinzipien und der Bedeutung frei zugänglicher, maschinenlesbarer Metadaten für die geschlechterkritische Analyse und Sichtbarmachung von Beständen in Kulturarchiven.
