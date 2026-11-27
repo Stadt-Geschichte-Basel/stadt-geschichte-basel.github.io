@@ -1,0 +1,26 @@
+---
+title: Bände
+subtitle: Die neunbändige Buchreihe Stadt.Geschichte.Basel
+description: Alle neun Bände der Buchreihe Stadt.Geschichte.Basel mit sämtlichen Kapiteln als barrierearme HTML-Ausgaben.
+lang: de
+listing:
+- id: volumes
+  type: grid
+  grid-columns: 3
+  contents:
+  - band-*/index.qmd
+  sort: order
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  page-size: 9
+  fields:
+  - title
+  - subtitle
+date-modified: last-modified
+---
+
+Die Buchreihe [Stadt.Geschichte.Basel](https://stadtgeschichtebasel.ch/) erzählt die Geschichte Basels von den ersten Spuren menschlichen Lebens bis in die Gegenwart. Alle Bände erscheinen im Christoph Merian Verlag und sind Open Access auf [emono.unibas.ch](https://emono.unibas.ch/stadtgeschichtebasel/catalog) publiziert ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)). Hier finden Sie sämtliche Kapitel als barrierearme, textbasierte HTML-Ausgaben mit Zitierhinweisen und Links zu den PDF-Fassungen.
+
+::: {#volumes}
+:::
