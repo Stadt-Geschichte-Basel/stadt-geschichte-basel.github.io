@@ -114,7 +114,8 @@ date-modified: last-modified
 <p>Zeba Zentralwäscherei Basel</p>
 <p>ZHdK Zürcher Hochschule der Künste</p>
 <h2>Quellen- und Literaturverzeichnis</h2>
-<h3>Quellen Ungedruckte Quellen</h3>
+<h3>Quellen</h3>
+<h3>Ungedruckte Quellen</h3>
 <p><em>Novartis Archiv</em></p>
 <p>Novartis Archiv, Ciba-Geigy, Division Pharma, PH 4.04.08, Biotechnikum.</p>
 <p><em>Schweizerisches Wirtschaftsarchiv (SWA)</em></p>
@@ -133,38 +134,38 @@ date-modified: last-modified
 <p>StABS, PD-REG 8d (1) 5-1 6, Konkubinat.</p>
 <p>StABS, SK-REG 2-0-1-2 (4) 35, Basler Woche in New York, Einladung Swiss Institute, 1987.</p>
 <p><em>Archiv Kantonsblätter Basel-Stadt</em></p>
-<p>Archiv Kantonsblätter Basel-Stadt, SG 111.100, Verfassung des Kantons Basel-Stadt vom 23.03.2005. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/ 111.100, abgerufen am 30.06.2023.</p>
-<p>Archiv Kantonsblätter Basel-Stadt, SG 123.400, Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15.11.2007. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_ law/123.400, abgerufen am 27.06.2023.</p>
-<p>Archiv Kantonsblätter Basel-Stadt, SG 497.100, Gesetz über den Denkmalschutz vom 20.03.1980. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/497. 100/versions/2487, abgerufen am 27.06.2023.</p>
-<p>Archiv Kantonsblätter Basel-Stadt, SG 772.100: Energiegesetz vom 16.11.2016. Online: https://www.gesetzessammlung.bs.ch/ app/de/texts_of_law/772.100, abgerufen am 27.06.2023.</p>
-<p>Archiv Kantonsblätter Basel-Stadt, SG 789.700, Baumschutzgesetz vom 16.10.1980. Online: https://www.gesetzessammlung.bs.ch/ app/de/texts_of_law/789.700, abgerufen am 27.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 111.100, Verfassung des Kantons Basel-Stadt vom 23.03.2005. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/111.100, abgerufen am 30.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 123.400, Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15.11.2007. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/123.400, abgerufen am 27.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 497.100, Gesetz über den Denkmalschutz vom 20.03.1980. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/497.100/versions/2487, abgerufen am 27.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 772.100: Energiegesetz vom 16.11.2016. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.100, abgerufen am 27.06.2023.</p>
+<p>Archiv Kantonsblätter Basel-Stadt, SG 789.700, Baumschutzgesetz vom 16.10.1980. Online: https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/789.700, abgerufen am 27.06.2023.</p>
 <p><em>Fernsehsendungen, Filme, Audioaufnahmen</em></p>
-<p>«AKW-Gegner besetzen Kaiseraugst (1975)», SRF-Archiv, 11.06.2015. Online: https://www. youtube.com/watch?v=gHZt_xIab0E, abgerufen am 26.06.2023.</p>
-<p>«Arbeitslose in der Schweiz», Antenne, SRF, 20.11.1974. Online: https://www.srf.ch/play/ tv/antenne/video/arbeitslose-in-der-schweiz?urn=urn:srf:video:d3ff8006-b7c4-4a61-a58c-d5407e4fe47e, abgerufen am 27.06.2023.</p>
-<p>«Asylantenschiff Ursula», DRS aktuell, SRF, 14.12.1987. Online: https://www.srf.ch/play/ tv/drs-aktuell/video/asylantenschiff-ursula ?urn=urn:srf:video:27e3c03d-5f8c-49f0-94 bc-5bca4335b125, abgerufen am 30.03.2023.</p>
-<p>«Asylbewerber Basel», DRS aktuell, SRF, 01.11.1985. Online: https://www.srf.ch/play/tv/ drs-aktuell/video/asylbewerber-basel?urn= urn:srf:video:7bae5057-b309-42cc-bc0e-1e9f75288edc, abgerufen am 20.03.2023.</p>
-<p>«Basel will neue gesetzliche Grundlagen für WG’s [sic] erarbeiten», Antenne, SRF, 05.02.1973. Online: https://www.srf.ch/play/ tv/-/video/-?urn=urn:srf:video:822e21c8-fe4c-4a7a-8c16-1d3a3bdd7f2c, abgerufen am 27.06.2022.</p>
-<p>«Beuys, Basel und die Fasnacht», SRF Audio, 27.04.2021. Online: https://www.srf.ch/audio/ kontext/beuys-basel-und-die-fasnacht? partId=11970230, abgerufen am 27.06.2023.</p>
-<p>«Das Horburg-Quartier in Basel», Bericht vor 8, SRF, 10.02.1977. Online: https://www.srf.ch/ play/tv/bericht-vor-8/video/das-horburg-quartier-in-basel?urn=urn:srf:video:d875 b750-798e-4320-9b11-aa8cc74aabea, abgerufen am 27.06.2023.</p>
+<p>«AKW-Gegner besetzen Kaiseraugst (1975)», SRF-Archiv, 11.06.2015. Online: https://www.youtube.com/watch?v=gHZt_xIab0E, abgerufen am 26.06.2023.</p>
+<p>«Arbeitslose in der Schweiz», Antenne, SRF, 20.11.1974. Online: https://www.srf.ch/play/tv/antenne/video/arbeitslose-in-der-schweiz?urn=urn:srf:video:d3ff8006-b7c4-4a61-a58c-d5407e4fe47e, abgerufen am 27.06.2023.</p>
+<p>«Asylantenschiff Ursula», DRS aktuell, SRF, 14.12.1987. Online: https://www.srf.ch/play/tv/drs-aktuell/video/asylantenschiff-ursula ?urn=urn:srf:video:27e3c03d-5f8c-49f0-94 bc-5bca4335b125, abgerufen am 30.03.2023.</p>
+<p>«Asylbewerber Basel», DRS aktuell, SRF, 01.11.1985. Online: https://www.srf.ch/play/tv/drs-aktuell/video/asylbewerber-basel?urn=urn:srf:video:7bae5057-b309-42cc-bc0e-1e9f75288edc, abgerufen am 20.03.2023.</p>
+<p>«Basel will neue gesetzliche Grundlagen für WG’s [sic] erarbeiten», Antenne, SRF, 05.02.1973. Online: https://www.srf.ch/play/tv/-/video/-?urn=urn:srf:video:822e21c8-fe4c-4a7a-8c16-1d3a3bdd7f2c, abgerufen am 27.06.2022.</p>
+<p>«Beuys, Basel und die Fasnacht», SRF Audio, 27.04.2021. Online: https://www.srf.ch/audio/kontext/beuys-basel-und-die-fasnacht?partId=11970230, abgerufen am 27.06.2023.</p>
+<p>«Das Horburg-Quartier in Basel», Bericht vor 8, SRF, 10.02.1977. Online: https://www.srf.ch/play/tv/bericht-vor-8/video/das-horburg-quartier-in-basel?urn=urn:srf:video:d875 b750-798e-4320-9b11-aa8cc74aabea, abgerufen am 27.06.2023.</p>
 <p>«Das Picasso-Wunder von Basel», Film von Urs Kern, Sternstunde Kunst, SRF, 17.03.2013. Online: https://www.srf.ch/play/tv/sternstunde-kunst/video/das-picasso-wunder-von-basel?urn=urn:srf:video:470872bc-6b60-4713-9c92-b1ebdd67d59c, abgerufen am 27.06.2023.</p>
-<p>«Demonstration in Basel», Blickpunkt, SRF, 23.06.1980. Online: https://www.srf.ch/play/ tv/blickpunkt/video/demonstration-in-basel?urn=urn:srf:video:23bfdbfe-e120-4cff-bac4-6c937cd27b35, abgerufen am 23.03.2023.</p>
-<p>«Der Rest ist Risiko», Schweizerisches Sozialarchiv, Vid V_015. Online: https://www.bild-video-ton.ch/bestand/objekt/Sozarch_Vid_ V_015, abgerufen am 29.06.2023.</p>
+<p>«Demonstration in Basel», Blickpunkt, SRF, 23.06.1980. Online: https://www.srf.ch/play/tv/blickpunkt/video/demonstration-in-basel?urn=urn:srf:video:23bfdbfe-e120-4cff-bac4-6c937cd27b35, abgerufen am 23.03.2023.</p>
+<p>«Der Rest ist Risiko», Schweizerisches Sozialarchiv, Vid V_015. Online: https://www.bild-video-ton.ch/bestand/objekt/Sozarch_Vid_V_015, abgerufen am 29.06.2023.</p>
 <p>«Die Steinenvorstadt und ihr schlechter Ruf», Seismo Nachtschicht, SRF, 08.06.1989. Online: https://www.srf.ch/play/tv/archivperlen/video/steinenvorstadt-basel-und-ihr-schlechter-ruf-1989?urn=urn:srf:video:84d90d0b-f89c-4db3-89b8-7a2fa7abb895, abgerufen am 27.06.2023.</p>
-<p>«Drogenkette Basel», CH-Magazin, SRF, 21.05.1976. Online: https://www.srf.ch/play/ tv/ch-magazin/video/drogenkette-basel?urn=urn:srf:video:cc503aa9-209e-4bc3-bc6e-124fffdc5a79, abgerufen am 03.04.2023.</p>
-<p>«Familienplanung», Blickpunkt, SRF, 20.04.1977. Online: https://www.srf.ch/play/tv/blickpunkt/video/familienplanung?urn=urn: srf:video:fb694fdb-d929-450b-9e09-3d3ffa715272, abgerufen am 30.03.2023.</p>
-<p>«Fichen-Affaire in Basel», Schweiz aktuell, SRF, 25.06.2008. Online: https://www.srf.ch/ play/tv/schweiz-aktuell/video/fichen-affaire-in-basel?urn=urn:srf:video:949fc471-f54f-4dcb-b5ee-e6f82308e7f0, abgerufen am 28.12.2024.</p>
-<p>«Frauen - jetzt langt’s», Schweizerisches Sozialarchiv, Vid V_031, 1978/1979. Online: https://www.bild-video-ton.ch/bestand/ objekt/Sozarch_Vid_V_031, abgerufen am 24.03.2023.</p>
+<p>«Drogenkette Basel», CH-Magazin, SRF, 21.05.1976. Online: https://www.srf.ch/play/tv/ch-magazin/video/drogenkette-basel?urn=urn:srf:video:cc503aa9-209e-4bc3-bc6e-124fffdc5a79, abgerufen am 03.04.2023.</p>
+<p>«Familienplanung», Blickpunkt, SRF, 20.04.1977. Online: https://www.srf.ch/play/tv/blickpunkt/video/familienplanung?urn=urn:srf:video:fb694fdb-d929-450b-9e09-3d3ffa715272, abgerufen am 30.03.2023.</p>
+<p>«Fichen-Affaire in Basel», Schweiz aktuell, SRF, 25.06.2008. Online: https://www.srf.ch/play/tv/schweiz-aktuell/video/fichen-affaire-in-basel?urn=urn:srf:video:949fc471-f54f-4dcb-b5ee-e6f82308e7f0, abgerufen am 28.12.2024.</p>
+<p>«Frauen - jetzt langt’s», Schweizerisches Sozialarchiv, Vid V_031, 1978/1979. Online: https://www.bild-video-ton.ch/bestand/objekt/Sozarch_Vid_V_031, abgerufen am 24.03.2023.</p>
 <p>Godet, Alain: «Faustrecht – Dokumentation über die Basler Ultras» (1993), «Einmal Schläger, immer Schläger? Basler Fussball-Rowdies einst und heute» (1998), «Narben der Gewalt (Basler Hooligans)» (2012).</p>
-<p>«Immobilienmarkt, Überangebot an neuen Bürohäusern», Tagesschau, SRF, 11.01.1993. Online: https://www.srf.ch/play/tv/-/video/-? urn=urn:srf:video:58343a62-302c-4002-8d d3-30248761d033, abgerufen am 27.06.2023.</p>
+<p>«Immobilienmarkt, Überangebot an neuen Bürohäusern», Tagesschau, SRF, 11.01.1993. Online: https://www.srf.ch/play/tv/-/video/-?urn=urn:srf:video:58343a62-302c-4002-8d d3-30248761d033, abgerufen am 27.06.2023.</p>
 <p>«Kinderkrippe Basel», Antenne, SRF, 11.11.1971. Online: https://www.srf.ch/play/tv/antenne/video/kinderkrippe-basel?urn=urn:srf:v ideo:0c5db448-0a28-4860-9622-3c6223f 47885, angerufen am 03.04.2023.</p>
-<p>«Klein Istanbul», Schweiz aktuell, SRF, 10.06.1993. Online: https://www.srf.ch/play/tv/schweiz-aktuell/video/klein-istanbul?urn=urn:srf: video:b0843374-7174-4621-a457-58df0f5 e63cf, abgerufen am 30.03.2023.</p>
-<p>«Konzert Rolling Stones», Karussell, SRF, 21.05.1982. Online: https://www.srf.ch/play/ tv/karussell/video/konzert-rolling-stones? urn=urn:srf:video:abb63ce6-0c18-4cfb-ab9 2-9cdb8b1d3028, abgerufen am 27.06.2023.</p>
-<p>«Lohngleichheit», 10 vor 10, SRF, 02.11.1993. Online: https://www.srf.ch/play/tv/10-vor-10/ video/lohngleichheit?urn=urn:srf:video:cd b5d699-dcd7-4e0f-9fb9-81615278f8f5, abgerufen am 27.03.2023.</p>
-<p>«Prozess gegen Eric Weber», DRS aktuell, SRF, 10.09.1986. Online: https://www.srf.ch/play/ tv/drs-aktuell/video/prozess-gegen-eric-weber?urn=urn:srf:video:2d76e244-a22a-4b6f-9a92-1f720987cdde, abgerufen am 26.06.2023.</p>
+<p>«Klein Istanbul», Schweiz aktuell, SRF, 10.06.1993. Online: https://www.srf.ch/play/tv/schweiz-aktuell/video/klein-istanbul?urn=urn:srf:video:b0843374-7174-4621-a457-58df0f5 e63cf, abgerufen am 30.03.2023.</p>
+<p>«Konzert Rolling Stones», Karussell, SRF, 21.05.1982. Online: https://www.srf.ch/play/tv/karussell/video/konzert-rolling-stones?urn=urn:srf:video:abb63ce6-0c18-4cfb-ab9 2-9cdb8b1d3028, abgerufen am 27.06.2023.</p>
+<p>«Lohngleichheit», 10 vor 10, SRF, 02.11.1993. Online: https://www.srf.ch/play/tv/10-vor-10/video/lohngleichheit?urn=urn:srf:video:cd b5d699-dcd7-4e0f-9fb9-81615278f8f5, abgerufen am 27.03.2023.</p>
+<p>«Prozess gegen Eric Weber», DRS aktuell, SRF, 10.09.1986. Online: https://www.srf.ch/play/tv/drs-aktuell/video/prozess-gegen-eric-weber?urn=urn:srf:video:2d76e244-a22a-4b6f-9a92-1f720987cdde, abgerufen am 26.06.2023.</p>
 <p>«Sparpaket für die Sanierung der Kantons-Finanzen», Tagesschau, SRF, 13.10.1992. Online: https://www.srf.ch/play/tv/tagesschau/video/sparpaket-fuer-die-sanierung-der-kantons-finanzen?urn=urn:srf:video:4d233 e81-264e-4016-a680-34e8019d8bbf, abgerufen am 26.06.2023.</p>
-<p>«Sperrung der Innenstadt in Basel», Antenne, SRF, 22.03.1972. Online: https://www.srf.ch/ play/tv/antenne/video/blickpunkt-region-sperrung-der-innenstadt-in-basel?urn= urn:srf:video:47ca4154-f709-47b3-91d9-8b3182f268a7, abgerufen am 26.06.2023.</p>
-<p>«Vom Fussgänger zum Bussgänger», Antenne, SRF, 28.01.1966. Online: https://www.srf.ch/ play/tv/antenne/video/vom-fussgaenger-zum-bussgaenger?urn=urn:srf:video:91a 3c334-b6a5-4cae-a18d-145ca140a6b8, abgerufen am 26.06.2023.</p>
-<p>«Z. B. Ryffstrasse», Schweizerisches Sozialarchiv, Vid V_075. Online: https://www.bild-video-ton.ch/bestand/objekt/Sozarch_Vid_ V_075, abgerufen am 27.06.2023.</p>
+<p>«Sperrung der Innenstadt in Basel», Antenne, SRF, 22.03.1972. Online: https://www.srf.ch/play/tv/antenne/video/blickpunkt-region-sperrung-der-innenstadt-in-basel?urn=urn:srf:video:47ca4154-f709-47b3-91d9-8b3182f268a7, abgerufen am 26.06.2023.</p>
+<p>«Vom Fussgänger zum Bussgänger», Antenne, SRF, 28.01.1966. Online: https://www.srf.ch/play/tv/antenne/video/vom-fussgaenger-zum-bussgaenger?urn=urn:srf:video:91a 3c334-b6a5-4cae-a18d-145ca140a6b8, abgerufen am 26.06.2023.</p>
+<p>«Z. B. Ryffstrasse», Schweizerisches Sozialarchiv, Vid V_075. Online: https://www.bild-video-ton.ch/bestand/objekt/Sozarch_Vid_V_075, abgerufen am 27.06.2023.</p>
 <h3>Gedruckte Quellen</h3>
 <p><em>Zeitungs- und Zeitschriftenbeiträge</em></p>
 <p>«Abschaffung der Beihilfen: Die Hauptakteure kommen zu Wort», in: bz Basel, 11.04.1998.</p>
@@ -245,31 +246,31 @@ date-modified: last-modified
 <p>«17 Frauen mit Papas Segen», in: Emanzipation 15 (10), 1989, S. 21.</p>
 <p><em>Amtliche Schriften</em></p>
 <p>Abteilung Gleichstellung von Frauen und Männern: Gleichgestellt? Facts &amp; Figures 2019, Basel 2019.</p>
-<p>Amt für Umwelt und Energie Basel-Stadt: Abteilung Abfall und Rohstoffe. Online: https:// www.bs.ch/wsu/aue/abteilung-abfall-und-rohstoffe, abgerufen am 12.12.2024.</p>
+<p>Amt für Umwelt und Energie Basel-Stadt: Abteilung Abfall und Rohstoffe. Online: https://www.bs.ch/wsu/aue/abteilung-abfall-und-rohstoffe, abgerufen am 12.12.2024.</p>
 <p>Amt für Umwelt und Energie Basel-Stadt: Basel tickt anders – auch im Energiebereich, Basel 2001.</p>
 <p>Amt für Umwelt und Energie Basel-Stadt: Bericht über den Umsetzungsstand der Massnahmen zur Anpassung an den Klimawandel im Kanton Basel-Stadt, Basel 2017.</p>
 <p>Basel-Stadt Departement für Wirtschaft, Soziales und Umwelt; Basel-Landschaft Volkswirtschafts- und Gesundheitsdirektion; Kanton Jura Département de l’économie et de la santé: Gemeinsamer Wirtschaftsbericht der Kantone Basel-Stadt, Basel-Landschaft und Jura, Basel 2020.</p>
-<p>Bau- und Verkehrsdepartement Basel-Stadt: Parkplatzkataster. Online: https://www.bs. ch/bvd/mobilitaet/grundlagen-und-strategien/zahlen-und-fakten#parkplatzkataster, abgerufen am 12.12.2024.</p>
+<p>Bau- und Verkehrsdepartement Basel-Stadt: Parkplatzkataster. Online: https://www.bs.ch/bvd/mobilitaet/grundlagen-und-strategien/zahlen-und-fakten#parkplatzkataster, abgerufen am 12.12.2024.</p>
 <p>Bericht der Bildungs- und Kulturkommission des Grossen Rates zum Ratschlag und Entwurf zu einem Gesetz betreffend die Tagesbetreuung von Kindern sowie Bericht des Regierungsrates zu zwölf Anzügen, einer Petition und einer Initiative vom 18. August 2003.</p>
 <p>Bundesamt für Kultur, Schweizerische Akademie der Geistes- und Sozialwissenschaften: Lebendige Traditionen in der urbanen Gesellschaft, Baden 2015.</p>
-<p>Bundesamt für Statistik: Historischer Atlas der Eidgenössischen Volkszählungen, Grafische Darstellung nach Gemeinden. Online: https://www.atlas.bfs.admin.ch/maps/193/ de/14450_14904_14445_14426/23013.html, abgerufen am 27.06.2023.</p>
-<p>Bundesamt für Statistik: Mietwohnungen. Online: https://www.bfs.admin.ch/bfs/de/ home/statistiken/bau-wohnungswesen/ wohnungen/mietwohnungen.html, abgerufen am 28.06.2023.</p>
+<p>Bundesamt für Statistik: Historischer Atlas der Eidgenössischen Volkszählungen, Grafische Darstellung nach Gemeinden. Online: https://www.atlas.bfs.admin.ch/maps/193/de/14450_14904_14445_14426/23013.html, abgerufen am 27.06.2023.</p>
+<p>Bundesamt für Statistik: Mietwohnungen. Online: https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/wohnungen/mietwohnungen.html, abgerufen am 28.06.2023.</p>
 <p>Bundesamt für Statistik: Printmedien: Entwicklung der Titelzahl und der Auflage von Zeitungen, nach Daten des Verbands Schweizer Medien, WEMF, 13.07.2018.</p>
 <p>Bundesamt für Umwelt: Analyse klimabedingter Risiken und Chancen in der Schweiz: Regionale Fallstudie Kanton Basel-Stadt, Zürich 2015.</p>
 <p>Departement für Wirtschaft, Soziales und Umwelt, Kanton Basel-Stadt: Klimaschutzbericht. Auf dem Weg in eine ressourcenschonende und CO2-arme Zukunft, Basel 2019.</p>
 <p>Eidgenössische Expertenkommission für Fragen einer schweizerischen Kulturpolitik: Beiträge für eine Kulturpolitik in der Schweiz, August 1975. Online: http://www.kulturkonferenz.ch/Clottu_Bericht_Deutsch.pdf, abgerufen am 27.06.2023.</p>
 <p>Erziehungsdepartement Basel-Stadt: Basler Schulreform. Die Orientierungsschule im Kanton Basel-Stadt, Basel 1994.</p>
 <p>Erziehungsdepartement Basel-Stadt: Zahlenspiegel Bildung 2020/21. Schulen und Angebote im Kanton Basel-Stadt, Basel 2021.</p>
-<p>Fedlex: SR 444.1 Bundesgesetz vom 20. Juni 2003 über den internationalen Kulturgütertransfer (Kulturgütertransfergesetz). Online: https://www.fedlex.admin.ch/eli/cc/2005/ 317/de, abgerufen am 27.06.2023.</p>
-<p>Gesundheitsdepartement Basel-Stadt: Vision «Gut und gemeinsam älter werden im Kanton Basel-Stadt». Online: https://www.bs. ch/gd/alter, abgerufen am 12.12.2024.</p>
+<p>Fedlex: SR 444.1 Bundesgesetz vom 20. Juni 2003 über den internationalen Kulturgütertransfer (Kulturgütertransfergesetz). Online: https://www.fedlex.admin.ch/eli/cc/2005/317/de, abgerufen am 27.06.2023.</p>
+<p>Gesundheitsdepartement Basel-Stadt: Vision «Gut und gemeinsam älter werden im Kanton Basel-Stadt». Online: https://www.bs.ch/gd/alter, abgerufen am 12.12.2024.</p>
 <p>Grundlagen für die Gestaltung der Alterspolitik im Kanton Basel-Stadt. Bericht der Fachkommission Richtplan Alter, Oktober 1998.</p>
 <p>Kantonale Denkmalpflege: Zukunft Kirchenraum. Zur Neunutzung von Sakralbauten in Basel. Abendführungen der Kantonalen Denkmalpflege, April bis November 2012, Basel 2012.</p>
 <p>Medienmitteilung des Bundesrats: Bund bewilligt erstes Gesuch für einen Cannabis-Pilotversuch in Basel-Stadt, 19.04.2022. Online: https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-88047.html, abgerufen am 27.06.2023.</p>
-<p>Medienmitteilung Grosser Rat: Das Basler Parlament verabschiedet Resolution zum Klimawandel, 20.02.2019. Online: https://www. bs.ch/nm/2019-das-basler-parlament-verabschiedet-resolution-zum-klimawandel-gr. html, abgerufen am 27.06.2023.</p>
-<p>Präsidialdepartement Basel-Stadt: Die Initiative «Kultur divers gestalten» geht in die nächste Runde, 17.11.2022. Online: https://www.bs. ch/medienmitteilungen/pd/2022-die-initiative-kultur-divers-gestalten-geht-die-naechste-runde, abgerufen am 12.12.2024</p>
-<p>Präsidialdepartement Basel-Stadt: Entwicklungsgebiete. Online: https://www.bs.ch/ pd/kantons-und-stadtentwicklung/stadtteile/entwicklungsgebiete, abgerufen am 12.12.2024.</p>
-<p>Präsidialdepartement Basel-Stadt: Kultur divers gestalten. Online: https://www.bs.ch/ pd/kultur/engagements-initiativen/kultur-divers-gestalten, abgerufen am 12.12.2024.</p>
-<p>Präsidialdepartement Basel-Stadt: Provenienzforschung, 15.09.2022. Online: https:// www.bs.ch/medienmitteilungen/pd/2022-provenienzforschung-die-kantonalen-museen-durchleuchten-aktiv-und-gezielt-ihre-sammlungen, abgerufen am 12.12.2024.</p>
+<p>Medienmitteilung Grosser Rat: Das Basler Parlament verabschiedet Resolution zum Klimawandel, 20.02.2019. Online: https://www.bs.ch/nm/2019-das-basler-parlament-verabschiedet-resolution-zum-klimawandel-gr.html, abgerufen am 27.06.2023.</p>
+<p>Präsidialdepartement Basel-Stadt: Die Initiative «Kultur divers gestalten» geht in die nächste Runde, 17.11.2022. Online: https://www.bs.ch/medienmitteilungen/pd/2022-die-initiative-kultur-divers-gestalten-geht-die-naechste-runde, abgerufen am 12.12.2024</p>
+<p>Präsidialdepartement Basel-Stadt: Entwicklungsgebiete. Online: https://www.bs.ch/pd/kantons-und-stadtentwicklung/stadtteile/entwicklungsgebiete, abgerufen am 12.12.2024.</p>
+<p>Präsidialdepartement Basel-Stadt: Kultur divers gestalten. Online: https://www.bs.ch/pd/kultur/engagements-initiativen/kultur-divers-gestalten, abgerufen am 12.12.2024.</p>
+<p>Präsidialdepartement Basel-Stadt: Provenienzforschung, 15.09.2022. Online: https://www.bs.ch/medienmitteilungen/pd/2022-provenienzforschung-die-kantonalen-museen-durchleuchten-aktiv-und-gezielt-ihre-sammlungen, abgerufen am 12.12.2024.</p>
 <p>Präsidialdepartement Basel- Stadt: Vielfalt als Potential im Kulturbetrieb, 12.02.2021. Online: https://www.bs.ch/medienmitteilungen/pd/2021-vielfalt-als-potential-im-kulturbetrieb, abgerufen am 12.12.2024.</p>
 <p>Protokolle des Grossen Rats (StABS, Protokolle: Grosser Rat)</p>
 <p>Protokolle des Regierungsrates (StABS, Protokolle: Regierungsrat)</p>
@@ -278,17 +279,17 @@ date-modified: last-modified
 <p>Regierungsrat Basel-Stadt: Basel 75: Hauptziele eines Stadtkantons. Zielvorstellungen des Regierungsrats zu den wichtigsten grundlegenden Aspekten der baselstädtischen Entwicklung, Basel 1975.</p>
 <p>Regierungsrat Basel-Stadt: Bericht über die Folgen des Klimawandels im Kanton Basel-Stadt: Handlungsmöglichkeiten und Handlungsbedarf aufgrund der Klimaänderung in Basel-Stadt, Basel 2011.</p>
 <p>Regierungsrat Basel-Stadt: Ratschlag Erlenmatt Erschliessung Mitte und Parkanlagen an den Grossen Rat, 16.02.2007. Online: https://www.grosserrat.bs.ch/dokumente/100236/000000236214.pdf, abgerufen am 27.06.2023.</p>
-<p>Regierungsrat Basel-Stadt: Regierungsrat verabschiedet seine kulturpolitische Strategie bis 2025, 06.07.2020. Online: https://www. bs.ch/medienmitteilungen/2020-regierungsrat-verabschiedet-seine-kulturpolitische-strategie-bis-2025, abgerufen am 12.12.2024.</p>
-<p>Statistisches Amt des Kantons Basel-Stadt: CO2-Emissionen. Online: https://www. bs.ch/schwerpunkte/umweltbericht-beider-basel/indikatoren-uebersicht/indikator-0808, abgerufen am 12.12.2024.</p>
-<p>Statistisches Amt des Kantons Basel-Stadt: Energiestatistik. Online: https://statistik.bs. ch/indikatorenset/energiestatistik, abgerufen am 12.12.2024.</p>
+<p>Regierungsrat Basel-Stadt: Regierungsrat verabschiedet seine kulturpolitische Strategie bis 2025, 06.07.2020. Online: https://www.bs.ch/medienmitteilungen/2020-regierungsrat-verabschiedet-seine-kulturpolitische-strategie-bis-2025, abgerufen am 12.12.2024.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: CO2-Emissionen. Online: https://www.bs.ch/schwerpunkte/umweltbericht-beider-basel/indikatoren-uebersicht/indikator-0808, abgerufen am 12.12.2024.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Energiestatistik. Online: https://statistik.bs.ch/indikatorenset/energiestatistik, abgerufen am 12.12.2024.</p>
 <p>Statistisches Amt des Kantons Basel-Stadt: Geschlechterverhältnis im Grossen Rat. Online: https://statistik.bs.ch/indikatorenportal/8457, abgerufen am 12.12.2024.</p>
-<p>Statistisches Amt des Kantons Basel-Stadt: Sozialberichterstattung, 2019. Online: https:// statistik.bs.ch/files/berichte-analysen/Sozialberichterstattung-2019.pdf, abgerufen am 28.06.2023.</p>
+<p>Statistisches Amt des Kantons Basel-Stadt: Sozialberichterstattung, 2019. Online: https://statistik.bs.ch/files/berichte-analysen/Sozialberichterstattung-2019.pdf, abgerufen am 28.06.2023.</p>
 <p>Statistisches Amt des Kantons Basel-Stadt: Stromverbrauch pro Einwohner. Online: https://www.bs.ch/schwerpunkte/umweltbericht-beider-basel/indikatoren-uebersicht/indikator-0607, 12.12.2024.</p>
 <p>Statistisches Amt des Kantons Basel-Stadt: Studierende der Universität Basel nach Heimat und Geschlecht. Online: https://statistik.bs.ch/indikatorenportal/9475, abgerufen am 12.12.2024.</p>
 <p>Statistisches Amt des Kantons Basel-Stadt: Tabelle «Ordentlich Eingebürgerte nach bisheriger Staatsangehörigkeit und Geschlecht», 02.11.2020. Online: https://statistik.bs.ch, abgerufen am 13.12.2024.</p>
 <p>abgerufen am</p>
 <p>Statistisches Amt des Kantons Basel-Stadt: Tabelle «Wohnbevölkerung nach Staatsangehörigkeit und Ausländeranteil», 23.01.2024. Online: https://statistik.bs.ch/files/webtabellen/t01-1-04.xlsx, abgerufen am 12.12.2024.</p>
-<p>Statistisches Amt: Von den Anfängen der Telefonie. Online: https://www.statistik.bs.ch/ zahlen/statistisches-jahrbuch/daten-geschichte/telefon.html, abgerufen am 06.02.2023.</p>
+<p>Statistisches Amt: Von den Anfängen der Telefonie. Online: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/daten-geschichte/telefon.html, abgerufen am 06.02.2023.</p>
 <p>Statistisches Amt des Kantons Basel-Stadt: Jahresmitteltemperatur. Online: https://statistik.bs.ch/indikatorenportal/4301, abgerufen am 12.12.2024.</p>
 <p>Statistisches Jahrbuch des Kantons Basel-Stadt (StatJB)</p>
 <p>Unabhängige Expertenkommission Schweiz – Zweiter Weltkrieg (UEK): Die Schweiz, der Nationalsozialismus und der Zweite Weltkrieg. Schlussbericht, Zürich 2002. Online: https://www.uek.ch/de/schlussbericht/synthese/uekd.pdf, abgerufen am 27.06.2023.</p>
@@ -407,72 +408,72 @@ date-modified: last-modified
 <h3>Online-Quellen</h3>
 <p><em>Online-Artikel</em></p>
 <p>«11 Ranglisten zur Lebensqualität in Schweizer Städten», in: SRF News, 23.02.2023. Online: https://www.srf.ch/news/gesellschaft/lebensqualitaet-ranking-2023-11-ranglisten-zur-lebensqualitaet-in-schweizer-staedten, abgerufen am 03.05.2023.</p>
-<p>«Als Basel ein Hanfmekka war», in: TagesWoche, 10.11.2011. Online: https://tageswoche. ch/politik/als-basel-ein-hanfmekka-war/ index.html#comments, abgerufen am 27.06.2023.</p>
+<p>«Als Basel ein Hanfmekka war», in: TagesWoche, 10.11.2011. Online: https://tageswoche.ch/politik/als-basel-ein-hanfmekka-war/index.html#comments, abgerufen am 27.06.2023.</p>
 <p>«Basel macht Rheinschwimmer zu Werbebotschaftern», in: htr.ch, 29.07.2019. Online: https://www.htr.ch/story/tourismus/basel-macht-rheinschwimmer-zu-werbebotschaftern-24108.html, abgerufen am 27.06.2023.</p>
-<p>«Basel ruft als erste Schweizer Stadt den ‹Klimanotstand› aus. Was bedeutet das?», in: NZZ, 20.02.2019. Online: https://www.nzz.ch/ schweiz/schuelerstreik-zeigt-wirkung-basel-ruft-klimanotstand-aus-ld.1461370?reduced=true, abgerufen am 26.06.2023.</p>
-<p>«Basler Raucherverein ‹Fümoar› wird aufgelöst», in: bz Basel, 29.10.2015. Online: https:// www.bzbasel.ch/basel/basel-stadt/basler-raucherverein-fumoar-wird-aufgelost-ld.1728447, abgerufen am 27.06.2023.</p>
-<p>Baumann, Nathalie: Basel in der Corona-Krise (I), in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www.baslerstadtbuch. ch/dossier/2020/2020-03.html, abgerufen am 30.06.2023.</p>
-<p>«Beat Jans: Diese Schwerpunkte will der Basler Regierungspräsident setzen», in: bz Basel, 10.05.2021. Online: https://www.bzbasel.ch/ basel/100-tage-im-amt-beat-jans-diese-schwerpunkte-will-der-basler-regierungspraesident-setzen-ld.2135270, abgerufen am 26.06.2023.</p>
+<p>«Basel ruft als erste Schweizer Stadt den ‹Klimanotstand› aus. Was bedeutet das?», in: NZZ, 20.02.2019. Online: https://www.nzz.ch/schweiz/schuelerstreik-zeigt-wirkung-basel-ruft-klimanotstand-aus-ld.1461370?reduced=true, abgerufen am 26.06.2023.</p>
+<p>«Basler Raucherverein ‹Fümoar› wird aufgelöst», in: bz Basel, 29.10.2015. Online: https://www.bzbasel.ch/basel/basel-stadt/basler-raucherverein-fumoar-wird-aufgelost-ld.1728447, abgerufen am 27.06.2023.</p>
+<p>Baumann, Nathalie: Basel in der Corona-Krise (I), in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www.baslerstadtbuch.ch/dossier/2020/2020-03.html, abgerufen am 30.06.2023.</p>
+<p>«Beat Jans: Diese Schwerpunkte will der Basler Regierungspräsident setzen», in: bz Basel, 10.05.2021. Online: https://www.bzbasel.ch/basel/100-tage-im-amt-beat-jans-diese-schwerpunkte-will-der-basler-regierungspraesident-setzen-ld.2135270, abgerufen am 26.06.2023.</p>
 <p>Brunner, Dagmar: Frauenstreik – Widerstand und Solidarität, in: Basler Stadtbuch, Online-Dossier 2019. Online: http://www.baslerstadtbuch.ch/dossier/2019/2019-08.html, abgerufen am 30.06.2023.</p>
-<p>«Coop wächst im Onlinehandel», in: Handelszeitung, 06.01.2020. Online: https://www. handelszeitung.ch/unternehmen/coop-wachst-im-onlinehandel, abgerufen am 27.06.2023.</p>
-<p>«Das Basler Rotlicht wird grün eingegrenzt», in: bz Basel, 27.06.2016. Online: https://www. bzbasel.ch/basel/basel-stadt/das-basler-rotlicht-wird-grun-eingegrenzt-ld.1565301, abgerufen am 03.04.2023.</p>
-<p>«Das Frauenhaus beider Basel baut sein Angebot aus: Nimmt die häusliche Gewalt zu?», in: bz Basel, 21.01.2020. Online: https://www. bzbasel.ch/basel/basel-stadt/das-frauenhaus-beider-basel-baut-sein-angebot-aus-nimmt-die-hausliche-gewalt-zu-ld.1406284, abgerufen am 27.03.2023.</p>
+<p>«Coop wächst im Onlinehandel», in: Handelszeitung, 06.01.2020. Online: https://www.handelszeitung.ch/unternehmen/coop-wachst-im-onlinehandel, abgerufen am 27.06.2023.</p>
+<p>«Das Basler Rotlicht wird grün eingegrenzt», in: bz Basel, 27.06.2016. Online: https://www.bzbasel.ch/basel/basel-stadt/das-basler-rotlicht-wird-grun-eingegrenzt-ld.1565301, abgerufen am 03.04.2023.</p>
+<p>«Das Frauenhaus beider Basel baut sein Angebot aus: Nimmt die häusliche Gewalt zu?», in: bz Basel, 21.01.2020. Online: https://www.bzbasel.ch/basel/basel-stadt/das-frauenhaus-beider-basel-baut-sein-angebot-aus-nimmt-die-hausliche-gewalt-zu-ld.1406284, abgerufen am 27.03.2023.</p>
 <p>«Das Problem mit Picasso», in: SRF News, 08.04.2023. Online: https://www.srf.ch/kultur/kunst/die-dunkle-seite-des-genies-das-problem-mit-picasso, abgerufen am 27.06.2023.</p>
-<p>«Das Tor zur Welt am Rheinknie», in: Swissinfo, 26.07.2003. Online: https://www.swissinfo. ch/ger/das-tor-zur-welt-am-rheinknie/ 3429528, abgerufen am 27.06.2023.</p>
-<p>Davies, Catherine: Gegen die Sprachlosigkeit. Als häusliche Gewalt einen Namen bekam: zur Geschichte der Frauenhaus-Bewegung, Geschichte der Gegenwart, 11.12.2019. Online: https://geschichtedergegenwart.ch/ gegen-die-sprachlosigkeit-als-haeusliche-gewalt-einen-namen-bekam-zur-geschichte-der-frauenhaus-bewegung/, abgerufen am 24.03.2023.</p>
-<p>«Der Turm, der Basels Stadtbild in Schieflage brachte», in: TagesWoche, 14.09.2015. Online: https://tageswoche.ch/gesellschaft/ der-turm-der-basels-stadtbild-in-schieflage-brachte/index.html, abgerufen am 27.06.2023.</p>
-<p>«Die Unkonventionelle – die Offene Kirche Elisabethen bricht seit 25 Jahren kirchliche Traditionen», in: bz Basel, 26.04.2019. Online: https://www.bzbasel.ch/basel/basel-stadt/ die-unkonventionelle-die-offene-kirche-elisabethen-bricht-seit-25-jahren-kirchliche-traditionen-ld.1359555, abgerufen am 27.06.2023.</p>
-<p>Diener &amp; Diener Architekten: Wohnhäuser Hammerstrasse, Basel, 1978–1981. Online: http://www.dienerdiener.ch/de/project/ apartment-buildings-hammerstrasse, abgerufen am 27.06.2023.</p>
+<p>«Das Tor zur Welt am Rheinknie», in: Swissinfo, 26.07.2003. Online: https://www.swissinfo.ch/ger/das-tor-zur-welt-am-rheinknie/3429528, abgerufen am 27.06.2023.</p>
+<p>Davies, Catherine: Gegen die Sprachlosigkeit. Als häusliche Gewalt einen Namen bekam: zur Geschichte der Frauenhaus-Bewegung, Geschichte der Gegenwart, 11.12.2019. Online: https://geschichtedergegenwart.ch/gegen-die-sprachlosigkeit-als-haeusliche-gewalt-einen-namen-bekam-zur-geschichte-der-frauenhaus-bewegung/, abgerufen am 24.03.2023.</p>
+<p>«Der Turm, der Basels Stadtbild in Schieflage brachte», in: TagesWoche, 14.09.2015. Online: https://tageswoche.ch/gesellschaft/der-turm-der-basels-stadtbild-in-schieflage-brachte/index.html, abgerufen am 27.06.2023.</p>
+<p>«Die Unkonventionelle – die Offene Kirche Elisabethen bricht seit 25 Jahren kirchliche Traditionen», in: bz Basel, 26.04.2019. Online: https://www.bzbasel.ch/basel/basel-stadt/die-unkonventionelle-die-offene-kirche-elisabethen-bricht-seit-25-jahren-kirchliche-traditionen-ld.1359555, abgerufen am 27.06.2023.</p>
+<p>Diener &amp; Diener Architekten: Wohnhäuser Hammerstrasse, Basel, 1978–1981. Online: http://www.dienerdiener.ch/de/project/apartment-buildings-hammerstrasse, abgerufen am 27.06.2023.</p>
 <p>Eigenmann, Laura: Warum viele Lesben die Ehe für alle lange ablehnten. Vom «Macht-Instrument der Männer» zum Zeichen der Gleichstellung, Mannschaft, 29.06.2022. Online: https://mannschaft.com/warum-lesben-die-ehe-fuer-alle-lange-ablehnten/, abgerufen am 09.02.2023.</p>
-<p>«Eine Frage der Grundwerte und Weitsicht», in: bajour, 05.04.2023. Online: https://bajour. ch/a/clg0zv90c48266054ixntr2800v/basler-festivals-foerdern-genderdiversitaet-unterschiedlich-wenig-frauen-im-lineup-auch-2023, abgerufen am 27.06.2023</p>
+<p>«Eine Frage der Grundwerte und Weitsicht», in: bajour, 05.04.2023. Online: https://bajour.ch/a/clg0zv90c48266054ixntr2800v/basler-festivals-foerdern-genderdiversitaet-unterschiedlich-wenig-frauen-im-lineup-auch-2023, abgerufen am 27.06.2023</p>
 <p>Eurostat: Municipal waste generated 2006 and 2021. Online: https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Municipal_waste_statistics, abgerufen am 30.06.2023</p>
 <p>Fasciati, Oriana; Rohrmann, Aurelia; Suter, Tamara: Die Stärke der Frauen ist ihre Zahl und ihre Unentbehrlichkeit, Stadtgeschichte Basel, 2019. Online: https://www.stadtgeschichtebasel.ch/index/geschichten/2019-2022/01/frauenstreik.html, abgerufen am 27.03.2023.</p>
-<p>Faulhaber, Daniel: TANGRAM 43, Ein seifiges Terrain. Online: https://www.ekr.admin.ch/ publikationen/d825.html#, abgerufen am 27.06.2023.</p>
+<p>Faulhaber, Daniel: TANGRAM 43, Ein seifiges Terrain. Online: https://www.ekr.admin.ch/publikationen/d825.html#, abgerufen am 27.06.2023.</p>
 <p>«Frauen auf der Bühne? ‹Eine Frage des Willens›», in: bz Basel, 05.06.2023. Online: https://www.bzbasel.ch/basel/basel-stadt/festivalsommer-frauen-auf-der-buehne-eine-frage-des-willens-die-openair-saison-in-der-region-basel-ist-eroeffnet-ld.2457540?reduced=true, abgerufen am 27.06.2023.</p>
-<p>«Grossbaustelle im Fluss: Jetzt wird der Rhein tiefer gelegt», in: bz Basel, 19.07.2018. Online: https://www.bzbasel.ch/basel/basel-stadt/ grossbaustelle-im-fluss-jetzt-wird-der-rhein-tiefer-gelegt-ld.1518754, abgerufen am 26.06.2023.</p>
-<p>«Grosser Rat vervierfacht Beiträge an die Provenienzforschung», in: bz Basel, 10.05.2023. Online: https://www.bzbasel.ch/kultur/basel/museen-grosser-rat-vervierfacht-beitraege-an-die-provenienzforschung-ld. 2456056, abgerufen am 27.06.2023.</p>
-<p>Gschwind, Eva: 50 Jahre Frauen im Basler Parlament, in: Basler Stadtbuch, Online-Dossier 2018. Online: http://www.baslerstadtbuch. ch/dossier/2018/2018-01.html, abgerufen am 20.03.2023.</p>
-<p>House of Switzerland: «Zurich vitaparcours» – mehr als ein sportliches Konzept, eine Institution. Online: https://houseofswitzerland. org/de/swissstories/gesellschaft/zurich-vitaparcours-mehr-als-ein-sportliches-konzept-eine-institution, abgerufen am 27.06.2023.</p>
-<p>«Kanton benennt neun Strassen und Plätze in Basel nach Pionierinnen», in: bz Basel, 07.04.2022. Online: https://www.bzbasel. ch/basel/basel-stadt/nomenklaturkommission-kanton-benennt-neun-strassen-und-plaetze-in-basel-nach-pionierinnen-ld. 2273640, abgerufen am 27.06.2023.</p>
-<p>Koch, Béatrice: Gescheiterte Spitalfusion, in: Basler Stadtbuch, Online-Dossier 2019. Online: https://www.baslerstadtbuch.ch/ dossier/2019/2019-06.html, abgerufen am 30.06.2023.</p>
+<p>«Grossbaustelle im Fluss: Jetzt wird der Rhein tiefer gelegt», in: bz Basel, 19.07.2018. Online: https://www.bzbasel.ch/basel/basel-stadt/grossbaustelle-im-fluss-jetzt-wird-der-rhein-tiefer-gelegt-ld.1518754, abgerufen am 26.06.2023.</p>
+<p>«Grosser Rat vervierfacht Beiträge an die Provenienzforschung», in: bz Basel, 10.05.2023. Online: https://www.bzbasel.ch/kultur/basel/museen-grosser-rat-vervierfacht-beitraege-an-die-provenienzforschung-ld.2456056, abgerufen am 27.06.2023.</p>
+<p>Gschwind, Eva: 50 Jahre Frauen im Basler Parlament, in: Basler Stadtbuch, Online-Dossier 2018. Online: http://www.baslerstadtbuch.ch/dossier/2018/2018-01.html, abgerufen am 20.03.2023.</p>
+<p>House of Switzerland: «Zurich vitaparcours» – mehr als ein sportliches Konzept, eine Institution. Online: https://houseofswitzerland.org/de/swissstories/gesellschaft/zurich-vitaparcours-mehr-als-ein-sportliches-konzept-eine-institution, abgerufen am 27.06.2023.</p>
+<p>«Kanton benennt neun Strassen und Plätze in Basel nach Pionierinnen», in: bz Basel, 07.04.2022. Online: https://www.bzbasel.ch/basel/basel-stadt/nomenklaturkommission-kanton-benennt-neun-strassen-und-plaetze-in-basel-nach-pionierinnen-ld.2273640, abgerufen am 27.06.2023.</p>
+<p>Koch, Béatrice: Gescheiterte Spitalfusion, in: Basler Stadtbuch, Online-Dossier 2019. Online: https://www.baslerstadtbuch.ch/dossier/2019/2019-06.html, abgerufen am 30.06.2023.</p>
 <p>Kunstmuseum Basel: Fun Feminism. Online: https://kunstmuseumbasel.ch/de/ausstellungen/2022/fun-feminism, abgerufen am 27.06.2023.</p>
 <p>Kunstmuseum Basel: Rückschau. Online: https://kunstmuseumbasel.ch/de/ausstellungen/rueckschau, 27.06.2023.</p>
 <p>Loser, Philipp: Parkplätze. Kleine Fläche, grosser Streit, in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www.baslerstadtbuch.ch/dossier/2020/2020-01.html, abgerufen am 20.03.2023.</p>
 <p>«Lumpenlieder und andere Fiesheiten», in: TagesWoche, 11.10.2012. Online: https://tageswoche.ch/sport/lumpenlieder-und-andere-fiesheiten/, abgerufen am 27.06.2023</p>
 <p>Mangold, Thilo: Basel in der Corona-Krise (II), in: Basler Stadtbuch, Online-Dossier 2020.</p>
-<p>abgerufen am Online: https://www.baslerstadtbuch.ch/ dossier/2020/2020-09.html, abgerufen am 30.06.2023.</p>
-<p>«Market talk: anger and sadness as Panalpina sign falls at Basel HQ», in: The Load Star, 08.06.2020. Online: https://theloadstar. com/market-talk-anger-and-sadness-as-panalpina-sign-falls-at-basel-hq/, abgerufen am 27.06.2023.</p>
-<p>«Mitbestimmen auch ohne Schweizer Pass», SRF News, 27.10.2018. Online: https://www. srf.ch/news/regional/basel-baselland/migrantensession-in-basel-mitbestimmen-auch-ohne-schweizer-pass, abgerufen am 30.03.2023.</p>
-<p>«Neues Gleichstellungsgesetz sorgt für Zwist unter Feministinnen», in: SRF News, 05.02.2023. Online: https://www.srf.ch/ news/schweiz/basel-will-lgbtqi-einbinden-neues-gleichstellungsgesetz-sorgt-fuer-zwist-unter-feministinnen, abgerufen am 27.06.2023.</p>
-<p>«Ohne Chemie wäre Basel bloss eine Provinzstadt», in: TagesWoche, 13.12.2016. Online: https://tageswoche.ch/politik/ohne-chemie-waere-basel-bloss-eine-provinzstadt/ index.html, abgerufen am 27.06.2023.</p>
-<p>Pro Infirmis: Wildwuchs. Online: https://www. kulturinklusiv.ch/it/rete/membri/detail/ news/wildwuchs.html, 27.06.2023.</p>
-<p>RFV Basel: Vorstudie «Frauenanteil in Basler Bands», Basel 2018. Online: https://www. musikbuerobasel.ch/dam/jcr:2946f621-56fc-47bf-95f4-6513152fa331/RFV%20 Basel%20Vorstudie%20Frauenanteil%20 in%20Basler%20Bands.pdf, abgerufen am 27.06.2023.</p>
+<p>abgerufen am Online: https://www.baslerstadtbuch.ch/dossier/2020/2020-09.html, abgerufen am 30.06.2023.</p>
+<p>«Market talk: anger and sadness as Panalpina sign falls at Basel HQ», in: The Load Star, 08.06.2020. Online: https://theloadstar.com/market-talk-anger-and-sadness-as-panalpina-sign-falls-at-basel-hq/, abgerufen am 27.06.2023.</p>
+<p>«Mitbestimmen auch ohne Schweizer Pass», SRF News, 27.10.2018. Online: https://www.srf.ch/news/regional/basel-baselland/migrantensession-in-basel-mitbestimmen-auch-ohne-schweizer-pass, abgerufen am 30.03.2023.</p>
+<p>«Neues Gleichstellungsgesetz sorgt für Zwist unter Feministinnen», in: SRF News, 05.02.2023. Online: https://www.srf.ch/news/schweiz/basel-will-lgbtqi-einbinden-neues-gleichstellungsgesetz-sorgt-fuer-zwist-unter-feministinnen, abgerufen am 27.06.2023.</p>
+<p>«Ohne Chemie wäre Basel bloss eine Provinzstadt», in: TagesWoche, 13.12.2016. Online: https://tageswoche.ch/politik/ohne-chemie-waere-basel-bloss-eine-provinzstadt/index.html, abgerufen am 27.06.2023.</p>
+<p>Pro Infirmis: Wildwuchs. Online: https://www.kulturinklusiv.ch/it/rete/membri/detail/news/wildwuchs.html, 27.06.2023.</p>
+<p>RFV Basel: Vorstudie «Frauenanteil in Basler Bands», Basel 2018. Online: https://www.musikbuerobasel.ch/dam/jcr:2946f621-56fc-47bf-95f4-6513152fa331/RFV%20 Basel%20Vorstudie%20Frauenanteil%20 in%20Basler%20Bands.pdf, abgerufen am 27.06.2023.</p>
 <p>Stahlhut, Heinz: 50 Jahre Art Basel, in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www.baslerstadtbuch.ch/dossier/2020/2020-04.html abgerufen am 30.06.2023.</p>
 <p>Stibler, Linda: Fünfzig Jahre nach 1968 – ein Jubiläum?, in: Basler Stadtbuch, Online-Dossier 2018. Online https://www.baslerstadtbuch.ch/dossier/2018/2018-06.html, abgerufen am 30.06.2023.</p>
-<p>Stiftung Frauenhaus beider Basel: Gemeinsam gegen Gewalt gegen Frauen – 35 Jahre Frauenhaus beider Basel. Jahresbericht 2015, 2016. Online: https://frauenhaus-basel.ch/ wp-content/uploads/2016/04/Frauenhaus_ JB15.pdf, abgerufen am 24.03.2023.</p>
+<p>Stiftung Frauenhaus beider Basel: Gemeinsam gegen Gewalt gegen Frauen – 35 Jahre Frauenhaus beider Basel. Jahresbericht 2015, 2016. Online: https://frauenhaus-basel.ch/wp-content/uploads/2016/04/Frauenhaus_JB15.pdf, abgerufen am 24.03.2023.</p>
 <p>«Verkehrte Welt: So reden Messe und Kanton das Baselworld-Fiasko schön», in: TagesWoche, 09.11.2017. Online: https://www.tageswoche.ch/wirtschaft/verkehrte-welt-reden-messe-und-kanton-das-baselworld-fiasko-schoen/index.html, abgerufen am 27.06.2023.</p>
 <p>«Warum Schweizer Städte immer häufiger links regiert werden», in: NZZ, 13.02.2018. Online: https://www.nzz.ch/zuerich/warum-schweizer-staedte-immer-haeufiger-links-</p>
 <p>abgerufen am regiert-werden-ld.1356569, abgerufen am 30.06.2023.</p>
-<p>Werkstadt Basel: Konsens zum Thema: Auf zu neuen (Rhein-)Ufern, 1999. Online: http:// www.werkstadt-basel.ch/aktion/Konsenskonferenzen/ergebnisse/kk_rhein.php, abgerufen am 05.12.2022.</p>
-<p>Werkstadt Basel: Die Zielsetzungen des Regierungsrats, 1999. Online: http://www.werkstadt-basel.ch/information/zielsetzungen. php, abgerufen am 26.06.2023.</p>
-<p>«Wie weit dürfen Fasnächtler gehen?», in: SRF News, 12.03.2019. Online: https://www.srf.ch/ news/schweiz/rassismus-und-fasnacht-wie-weit-duerfen-fasnaechtler-gehen, abgerufen am 27.06.2023.</p>
-<p>Zehnder, Matthias: Wahlüberraschungen: Legislatur 2021–2024, in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www. baslerstadtbuch.ch/dossier/2020/2020-10. html, abgerufen am 30.06.2023.</p>
+<p>Werkstadt Basel: Konsens zum Thema: Auf zu neuen (Rhein-)Ufern, 1999. Online: http://www.werkstadt-basel.ch/aktion/Konsenskonferenzen/ergebnisse/kk_rhein.php, abgerufen am 05.12.2022.</p>
+<p>Werkstadt Basel: Die Zielsetzungen des Regierungsrats, 1999. Online: http://www.werkstadt-basel.ch/information/zielsetzungen.php, abgerufen am 26.06.2023.</p>
+<p>«Wie weit dürfen Fasnächtler gehen?», in: SRF News, 12.03.2019. Online: https://www.srf.ch/news/schweiz/rassismus-und-fasnacht-wie-weit-duerfen-fasnaechtler-gehen, abgerufen am 27.06.2023.</p>
+<p>Zehnder, Matthias: Wahlüberraschungen: Legislatur 2021–2024, in: Basler Stadtbuch, Online-Dossier 2020. Online: https://www.baslerstadtbuch.ch/dossier/2020/2020-10.html, abgerufen am 30.06.2023.</p>
 <p>«Zum Gedenken an Alfred E. Sarasin», in: NZZ, 11.05.2005. Online: https://www.nzz.ch/articleCT092-ld.344089, abgerufen am 02.08.2024.</p>
 <p><em>Webseiten</em></p>
 <p>Basel Area, https://baselarea.swiss/de/about-us/, abgerufen am 27.06.2023.</p>
 <p>Gesellschaft zum Bären, https://www.baerengesellschaft.ch/gruendung/, abgerufen am 27.06.2023.</p>
-<p>Helvetia: Helvetia Campus Basel, https://www. helvetia.com/ch/web/de/ueber-uns/informationen/campus-basel.html?rid=campus, abgerufen am 27.06.2023.</p>
+<p>Helvetia: Helvetia Campus Basel, https://www.helvetia.com/ch/web/de/ueber-uns/informationen/campus-basel.html?rid=campus, abgerufen am 27.06.2023.</p>
 <p>Historische Statistik der Schweiz (HSSO). Online: https://hsso.ch/de/2012/n/27, abgerufen am 27.06.2023.</p>
-<p>Historisches Lexikon der Schweiz (HLS), https:// hls-dhs-dss.ch/, abgerufen am 23.06.2023.</p>
+<p>Historisches Lexikon der Schweiz (HLS), https://hls-dhs-dss.ch/, abgerufen am 23.06.2023.</p>
 <p>Inforel, https://www.inforel.ch/, abgerufen am 27.06.2023.</p>
-<p>Museen Basel: Museen. Online: https://www. museenbasel.ch/de/museen, abgerufen am 27.06.2023.</p>
+<p>Museen Basel: Museen. Online: https://www.museenbasel.ch/de/museen, abgerufen am 27.06.2023.</p>
 <p>Offene Kirche Elisabethen, https://offenekirche.ch/, abgerufen am 27.06.2023.</p>
-<p>Sotheby’s: Zurich. https://www.sothebys.com/ ch/%C3%BCber/adressen/zurich, abgerufen am 27.06.2023.</p>
+<p>Sotheby’s: Zurich. https://www.sothebys.com/ch/%C3%BCber/adressen/zurich, abgerufen am 27.06.2023.</p>
 <p>Statistisches Amt, https://www.statistik.bs.ch/, abgerufen am 30.06.2023.</p>
 <p>Skyscraper Source Media, https://skyscraperpage.com/diagrams/links/, abgerufen am 30.06.2023.</p>
 <p>Sinfonieorchester Basel, https://www.sinfonieorchesterbasel.ch/de/orchester/orchesterchronik/1876-bis-1988.html, abgerufen am 27.06.2023.</p>
-<p>UNESCO: Basel Carnival. Online: https://ich. unesco.org/en/RL/basel-carnival-01262, abgerufen am 27.06.2023.</p>
-<p>UNESCO: Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property. Online: https://www.unesco.org/en/ legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural, abgerufen am 27.06.2023.</p>
+<p>UNESCO: Basel Carnival. Online: https://ich.unesco.org/en/RL/basel-carnival-01262, abgerufen am 27.06.2023.</p>
+<p>UNESCO: Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property. Online: https://www.unesco.org/en/legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural, abgerufen am 27.06.2023.</p>
 <p>Universität Basel: Unigeschichte seit 1460. Online: https://www.unigeschichte.unibas.ch/, abgerufen am 26.06.2023.</p>
 <p>Verein Mitstimme, https://www.mitstimme.ch/, abgerufen am 26.06.2023.</p>
 <h3>Literatur</h3>
@@ -758,7 +759,7 @@ date-modified: last-modified
 <p>Schoch, Lukas: Muslime in der Integrationspolitik der Städte Zürich, Basel und Bern, unveröff. Masterarbeit, Universität Basel, Basel 2011.</p>
 <p>Schubert, Axel: habs. Geschichte, Ereignisse und Neues aus 40 Jahren habs, Basel 2012.</p>
 <p>Schumacher, Beatrice: Coolness (at) home. Der Kühlschrank und die eiskalte Revolution am heimischen Herd, in: Buomberger, Thomas; Pfrunder, Peter (Hg.): Schöner leben, mehr haben. Die 50er Jahre in der Schweiz im Geiste des Konsums, Zürich 2012, S. 69–83.</p>
-<p>Schürch, Franziska; Baumeister, Miriam: Schwimmen im Rhein, Lebendige Traditionen, Juni 2018. Online: https://www.lebendige-traditionen.ch/dam/tradition/de/dokumente/tradition/bs/schwimmen_im_rhein. pdf.download.pdf/schwimmen_im_rhein. pdf, abgerufen am 30.06.2023.</p>
+<p>Schürch, Franziska; Baumeister, Miriam: Schwimmen im Rhein, Lebendige Traditionen, Juni 2018. Online: https://www.lebendige-traditionen.ch/dam/tradition/de/dokumente/tradition/bs/schwimmen_im_rhein.pdf.download.pdf/schwimmen_im_rhein.pdf, abgerufen am 30.06.2023.</p>
 <p>Schuster, Meinhard: Ausländerinnen und Ausländer in Kleinbasel: türkisch-kurdische Läden, in: Meles; Brigitte; von Wartburg, Beat: Leben in Kleinbasel 1392, 1892, 1992. Das Buch zum Jubiläum ‹600 Joor Glai- und Grossbasel zämme›, Basel 1992, S. 168–179.</p>
 <p>Schütz, Dirk: Herr der UBS. Der unaufhaltsame Aufstieg des Marcel Ospel, Zürich 2008.</p>
 <p>Senn, Tobias: Hochkonjunktur, «Überfremdung» und Föderalismus. Kantonalisierte Schweizer Arbeitsmigrationspolitik am Beispiel Basel-Landschaft 1945–1975, Zürich 2017.</p>
@@ -831,7 +832,7 @@ date-modified: last-modified
 <p>Oben links: 44242990/Keystone, Foto Michael Kupferschmidt</p>
 <p>Oben rechts: Roche Ltd, Foto Beat Ernst</p>
 <p>Unten links: Schweizerisches Sozialarchiv, F Pd-0841, Foto Claude Giger 1 Privatarchiv Kurt Wyss 2 Quelle: https://statistik.bs.ch/apps/jahrbuch; https://statistik.bs.ch/files/webtabellen/t11-1-01.xlsx. Bearbeitung: Nico Görlich / Moritz Twente 3 Aus: BIA, BSA, FSAI 1963, S. 254–255, Tafel 23</p>
-<p>4 Privatsammlung, courtesy Galerie Mueller, Basel 5 StABS, BSL 1022 KA 6143 57, Foto Peter Moeschlin 6 StABS, BSL 1013 1-5540-1, Foto Hans Bertolf 7 StABS, BSL 1045h 2-3-13, Foto Hoffmann 8 Quelle: https://statistik.bs.ch/apps/jahrbuch; Moll; Sandtner; Saner 2002, Anhang 2.1; https://www.statistik.bl.ch/web_portal/1_9; https://www.statistik.bl.ch/web_ portal/1_1_3?sheet=6&amp;Jahr=34. Bearbeitung: Nico Görlich / Moritz Twente 9 StABS, BSL 1013 1-1558 3, Foto Hans Bertolf</p>
+<p>4 Privatsammlung, courtesy Galerie Mueller, Basel 5 StABS, BSL 1022 KA 6143 57, Foto Peter Moeschlin 6 StABS, BSL 1013 1-5540-1, Foto Hans Bertolf 7 StABS, BSL 1045h 2-3-13, Foto Hoffmann 8 Quelle: https://statistik.bs.ch/apps/jahrbuch; Moll; Sandtner; Saner 2002, Anhang 2.1; https://www.statistik.bl.ch/web_portal/1_9; https://www.statistik.bl.ch/web_portal/1_1_3?sheet=6&amp;Jahr=34. Bearbeitung: Nico Görlich / Moritz Twente 9 StABS, BSL 1013 1-1558 3, Foto Hans Bertolf</p>
 <p>10 Links: StABS, NEG 1472, Foto Wolf; Mitte: StABS, NEG 2100, Foto Wolf; rechts: Foto Hans Lobsiger</p>
 <p>11 119619131/Keystone</p>
 <p>12 ETH Zürich, Bildarchiv, Com_FC04-4000-007, Foto Jules Vogt</p>
@@ -850,10 +851,10 @@ date-modified: last-modified
 <p>25 Privatarchiv Kurt Wyss</p>
 <p>26 338974413/Keystone, Foto Josef Zimmermann</p>
 <p>27 Plakatsammlung der SfG Basel, CH-000 957-X:6450, Foto Ludwig Bernauer</p>
-<p>28 Quelle: https://www.bs.ch/regierungsrat/ alt-regierungsraete. Bearbeitung: Nico Görlich / Moritz Twente</p>
-<p>29 Quelle: Statistisches Amt Basel-Stadt, https://statistik.bs.ch/files/webtabellen/ t17-3-06.xlsx; https://statistik.bs.ch/files/ webtabellen/t17-1-01.xlsx; Bundesamt für Statistik, https://www.bfs.admin.ch/asset/ de/14836245. Bearbeitung: Nico Görlich / Moritz Twente</p>
-<p>30 Quelle: Bundesamt für Statistik, https:// www.bfs.admin.ch/asset/de/je-d-17.02. 01_12BS. Bearbeitung: Nico Görlich / Moritz Twente</p>
-<p>31 Quelle: Bundesamt für Statistik, https:// www.bfs.admin.ch/asset/de/je-d-17.02. 01_12BS. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>28 Quelle: https://www.bs.ch/regierungsrat/alt-regierungsraete. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>29 Quelle: Statistisches Amt Basel-Stadt, https://statistik.bs.ch/files/webtabellen/t17-3-06.xlsx; https://statistik.bs.ch/files/webtabellen/t17-1-01.xlsx; Bundesamt für Statistik, https://www.bfs.admin.ch/asset/de/14836245. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>30 Quelle: Bundesamt für Statistik, https://www.bfs.admin.ch/asset/de/je-d-17.02.01_12BS. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>31 Quelle: Bundesamt für Statistik, https://www.bfs.admin.ch/asset/de/je-d-17.02.01_12BS. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>32 101251014/Keystone, Foto Kurt Baumli</p>
 <p>33 Quelle: WEMF-Archiv: Auflagebulletins. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>34 StABS, BSL 1013 1-3026 4, Foto Hans Bertolf</p>
@@ -874,7 +875,7 @@ date-modified: last-modified
 <p>49 225952344/Keystone, Foto Georgios Kefalas</p>
 <p>50 Foto Roland Schmid</p>
 <p>51 Plakatsammlung der SfG Basel, CH-000 957-X:9747, Edi Hauri</p>
-<p>52 Quelle: https://www.bfs.admin.ch/asset/ de/30245369. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>52 Quelle: https://www.bfs.admin.ch/asset/de/30245369. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>53 StABS, BSL 1022 KT 983, Foto Peter Moeschlin</p>
 <p>54 Surprise Strassenmagazin, Foto Ruben Hollinger</p>
 <p>55 Aus: ETH-Studio Basel (Hg.): MetroBasel. Ein Modell einer europäischen Metropolitan-Region, Basel 2009, S. 86–87</p>
@@ -883,7 +884,7 @@ date-modified: last-modified
 <p>58 Foto Kathrin Schulthess</p>
 <p>59 Foto Hans-Joerg Walter</p>
 <p>60–74 Novartis Archiv, CG_059-D3_1-3</p>
-<p>75 Quelle: Interpharma Verband der forschenden pharmazeutischen Firmen der Schweiz, https://www.interpharma.ch/wp-content/ uploads/2022/05/Booklet_BSL_DE.pdf, S. 14–15. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>75 Quelle: Interpharma Verband der forschenden pharmazeutischen Firmen der Schweiz, https://www.interpharma.ch/wp-content/uploads/2022/05/Booklet_BSL_DE.pdf, S. 14–15. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>76 Privatarchiv Kurt Wyss</p>
 <p>77 Privatarchiv Kurt Wyss</p>
 <p>78 Plakatsammlung, ZHdK, Foto Richard Avedon</p>
@@ -928,7 +929,7 @@ date-modified: last-modified
 <p>117 Sammlung Clubkultur in der Schweiz, CCCH_APL_043, Foto Andy Pal</p>
 <p>118 https://www.festzeit.ch/</p>
 <p>119 338974494, Keystone, Foto Jaques Gardin</p>
-<p>120 Quelle: Kanton Basel-Stadt: Jahresbericht Abteilung Kultur 2014; Bundesamt für Statistik: https://www.bfs.admin.ch/asset/ de/30145093. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>120 Quelle: Kanton Basel-Stadt: Jahresbericht Abteilung Kultur 2014; Bundesamt für Statistik: https://www.bfs.admin.ch/asset/de/30145093. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>121 Foto Peter Armbruster, aus: Genossenschaft Stadion St. Jakob-Park (Hg.): Kraft der Visionen. Die Genossenschaft Stadion St. Jakob-Park Basel, 1953–2003, Basel 2004, S. 79</p>
 <p>122 Quelle: https://www.fcb-archiv.ch/auswertungen/zuschauerschnitt; Genossenschaft Stadion St. Jakob-Park, Basel 2004, S. 275. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>123 LkL/joggeli.ch</p>
@@ -1484,27 +1485,13 @@ date-modified: last-modified
 <p>Zwischennutzung 63, 274</p>
 <h2>Autorin und Autoren</h2>
 <h3>Tobias Ehrenbold</h3>
-<p>Geboren 1982. Studium der Geschichte und der Kulturwissenschaften an den Universitäten Basel</p>
-<p>und Luzern sowie an der Northeastern University, Boston, USA. Internationale Vermittlungs- und</p>
-<p>Archivprojekte im Bereich der Wirtschafts- und Kulturgeschichte, Verfasser diverser Publikatio</p>
-<p>nen, unter anderem über die Geschichte der Basler Pharmaindustrie und ihre globalen Verflech</p>
-<p>tungen.</p>
+<p>Geboren 1982. Studium der Geschichte und der Kulturwissenschaften an den Universitäten Basel und Luzern sowie an der Northeastern University, Boston, USA. Internationale Vermittlungs- und Archivprojekte im Bereich der Wirtschafts- und Kulturgeschichte, Verfasser diverser Publikationen, unter anderem über die Geschichte der Basler Pharmaindustrie und ihre globalen Verflechtungen.</p>
 <h3>Silas Gusset</h3>
-<p>Geboren 1992. Studium der Geschichte und der Deutschen Philologie an der Universität Basel.</p>
-<p>Forschungs- und Vermittlungsprojekte in der Sozial- und Medizingeschichte, insbesondere zur</p>
-<p>Geschichte der Psychiatrie in der Schweiz. Seit 2020 Mitarbeiter in einer Agentur für Kulturma</p>
-<p>nagement und Kommunikation in der Region Basel.</p>
+<p>Geboren 1992. Studium der Geschichte und der Deutschen Philologie an der Universität Basel. Forschungs- und Vermittlungsprojekte in der Sozial- und Medizingeschichte, insbesondere zur Geschichte der Psychiatrie in der Schweiz. Seit 2020 Mitarbeiter in einer Agentur für Kulturmanagement und Kommunikation in der Region Basel.</p>
 <h3>Martin Lengwiler</h3>
-<p>Geboren 1965. Seit 2009 Professor für Neuere Allgemeine Geschichte an der Universität Basel.</p>
-<p>Forscht und lehrt zur Wirtschafts- und Sozialgeschichte, zur Geschichte des Sozialstaats und zur</p>
-<p>Wissenschaftsgeschichte. Forschungsaufenthalte in Paris, Irvine (USA) und Berlin. Er war Mitglied</p>
-<p>der Unabhängigen Expertenkommission zur Aufarbeitung der administrativen Versorgung und</p>
-<p>des Leitungsgremiums des Nationalen Forschungsprogramms 76 «Fürsorge und Zwang».</p>
+<p>Geboren 1965. Seit 2009 Professor für Neuere Allgemeine Geschichte an der Universität Basel. Forscht und lehrt zur Wirtschafts- und Sozialgeschichte, zur Geschichte des Sozialstaats und zur Wissenschaftsgeschichte. Forschungsaufenthalte in Paris, Irvine (USA) und Berlin. Er war Mitglied der Unabhängigen Expertenkommission zur Aufarbeitung der administrativen Versorgung und des Leitungsgremiums des Nationalen Forschungsprogramms 76 «Fürsorge und Zwang».</p>
 <h3>Anina Zahn</h3>
-<p>Geboren 1987. Studium der Geschichte und Philosophie in Fribourg und Zürich. Promotion an der</p>
-<p>Universität Basel zur Geschichte von Arbeitslosenbewegungen in der Schweiz, 1975–2002. Wei</p>
-<p>tere Forschungs- und Vermittlungsarbeiten zur Geschichte des Sozialstaates und zu sozialen Be</p>
-<p>wegungen. Seit 2023 Geschichts- und Philosophielehrerin am Gymnasium Muttenz.</p>
+<p>Geboren 1987. Studium der Geschichte und Philosophie in Fribourg und Zürich. Promotion an der Universität Basel zur Geschichte von Arbeitslosenbewegungen in der Schweiz, 1975–2002. Weitere Forschungs- und Vermittlungsarbeiten zur Geschichte des Sozialstaates und zu sozialen Bewegungen. Seit 2023 Geschichts- und Philosophielehrerin am Gymnasium Muttenz.</p>
 <h2>Dank</h2>
 <p>Im Sommer 1992, als Basel mit finanziellen Schwierigkeiten zu kämpfen hatte, stimmte die Bevölkerung gegen das Projekt einer neuen Basler Stadtgeschichte. Erst im zweiten Anlauf klappte es – dieser Band ist eines der Ergebnisse davon. In erster Linie wollen wir uns also bei allen bedanken, die das Projekt Stadt.Geschichte.Basel ermöglicht haben: dem Verein Basler Geschichte, dem Kanton und seinen Bewohnerinnen und Bewohnern sowie allen privaten Geldgebern. Dieser Band profitierte von der Begleitung durch einen Beirat, dem Georg Kreis, Philipp Loser und Stefanie Mahrer angehörten. Ihnen gilt unser besonderer Dank für die sorgfältige Lektüre verschiedener Textfassungen. Wir möchten uns auch bei den früheren Mitarbeiterinnen und Mitarbeitern dieses Bandes bedanken, die einen wichtigen Anteil an der Konzeption hatten: Ina Serif, Eric Decker und Lukas Hartmann. Zudem danken wir Anna Wolf für die Überarbeitung der Endnoten. Unser Dank gilt auch dem Team von Stadt.Geschichte.Basel, insbesondere den Mitarbeiterinnen und Mitarbeitern von Band 7 und Band 9, der Projektleitung und dem Stiftungsrat für die gute und stets anregende Zusammenarbeit. Herzlich danken wir all jenen, die uns Einblicke in ihre Forschung gewährten oder Teile des Manuskripts gelesen und kritisch kommentiert haben: Benjamin Adler, Miriam Baumeister, Alexander Bieri, Jennifer Burri, Walter Dettwiler, Laura Eigenmann, Flavio Häner, Mirjam Janett, Verena Labhardt, Flavia Grossmann, Jonathan Pärli, Nicholas Schaffner, Tobias Straumann, Daniel Zürcher. Wichtig für diesen Band waren viele kürzere und längere Gespräche mit Zeitzeuginnen und Zeitzeugen, die wir nicht alle namentlich erwähnen können: Mitarbeiterinnen und Mitarbeiter des Projekts, Familie, Freundinnen und Freunde, Bekannte, flüchtige Begegnungen mit Unbekannten. Ausführlicher durften wir mit folgenden Personen sprechen, bei denen wir uns herzlich bedanken: Maria Caminati, Peter Flubacher, René L. Frey, Ernst Jost, Eva Keller, Robert Labhardt, Jörg Reinhardt, Markus Ritter, Evelyne Rudin, Ingrid Rusterholtz, Christine Stingelin, Katharina Stoll, Leila Straumann, Daniel Weissberg. Weiter danken wir allen Mitarbeiterinnen und Mitarbeitern von Archiven und Dokumentationsstellen, die uns beraten und Materialien zur Verfügung gestellt haben: allen Mitarbeitern und Mitarbeiterinnen des Staatsarchivs Basel-Stadt und des Schweizerischen Wirtschaftsarchivs, insbesondere Irene Amstutz, Sabine Strebel und Hermann Wichers, sowie Patrick Moser und Gudrun Piller (Historisches Museum Basel), Marcel Bitter (Plakatsammlung der Schule für Gestaltung Basel), Irene Kühler (WEMF AG für Werbemedienforschung) und Nathalie Grillon sowie Christa Moll (Statistisches Amt Basel-Stadt). Dem Fotografen Roland Schmid danken wir für die Hilfe beim Finden geeigneter zeitgenössischer Fotografien, den Fotografen Claude Giger und Kurt Wyss für den Zugang zu ihren Privatarchiven, Dieter Ehrlich und Lukas Müller für die Mithilfe bei der Identifizierung von abgebildeten Personen. Für das sorgfältige Korrektorat danken wir Katharina Böhmer, für die gelungene Buchgestaltung Christoph Gysin und Katharina Marti von icona basel und für die Erstellung der Infografiken Nico Görlich und Moritz Twente. An Iris Becher und Oliver Bolanz vom Christoph Merian Verlag geht unser Dank für die gute Zusammenarbeit bei der Buchproduktion.</p>
 </div>

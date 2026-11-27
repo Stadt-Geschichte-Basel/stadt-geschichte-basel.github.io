@@ -41,7 +41,8 @@ date-modified: last-modified
 ````{=html}
 <div class="sgb-chapter">
 <h2>Quellen- und Literaturverzeichnis</h2>
-<h3>Quellen Ungedruckte Quellen</h3>
+<h3>Quellen</h3>
+<h3>Ungedruckte Quellen</h3>
 <p><em>Staatsarchiv Basel-Stadt</em></p>
 <p>StABS, Auswanderung A 3.</p>
 <p>StABS, Protokolle Kleiner Rat, 49, 108.</p>
@@ -518,7 +519,7 @@ date-modified: last-modified
 <p>Wetter, Oliver; Pfister, Christian: An underestimated record breaking event. Why summer 1540 was likely warmer than 2003. 2013. &lt;https://cp.copernicus.org/articles/9/41/2013/.&gt; (Stand: 30.08.2022).</p>
 <p>Wetter, Oliver; Pfister, Christian: Spring–summer Temperatures Reconstructed for Northern Switzerland and Southwestern Germany from Winter Rye Harvest Dates, 1454–1970, in: Climate of the Past 7 (4), 2011, S. 1307–1326.</p>
 <p>Wetter, Oliver; Pfister, Christian; Werner, Johannes P. u. a.: The year-long unprecedented Eurpean heat and drought of 1540 – a worst case. Climatic Change. Dordrecht 2014. &lt;https://link.springer.com/article/10.1007/s10584-014-1184-2&gt; (Stand: 30.08.2022).</p>
-<p>Wetter, Oliver: The Potential of Historical Hydrology in Switzerland. Hydrology and Earth 5194/hess-2017-410/&gt; (Stand: 30.08.2022).</p>
+<p>Wetter, Oliver: The Potential of Historical Hydrology in Switzerland. Hydrology and Earth System Sciences. 2017. &lt;https://doi.org/10.5194/hess-2017-410/&gt; (Stand: 30.08.2022).</p>
 <p>Wunder, Bernd: Der rechtsrheinische Chausseebau zwischen Basel und Frankfurt (1717–1764). Zollkrieg und Techniktransfer zwischen Frankreich und Österreich, in: Zeitschrift für die Geschichte des Oberrheins 163, 2015, S. 143–169.</p>
 <p>Würgler, Andreas: Die Tagsatzung der Eidgenossen, in: Blickle, Peter (Hg.): Landschaften und Landstände in Oberschwaben, Tübingen 2000, S. 99–117.</p>
 <p>Würgler, Andreas: Aushandeln statt prozessieren. Zur Konfliktkultur der alten Eidgenossenschaft im Vergleich mit Frankreich und dem Deutschen Reich (1500–1800), in: Traverse. Zeitschrift für Geschichte 8, 2001, S. 25–38.</p>
@@ -556,7 +557,7 @@ date-modified: last-modified
 <p>27 HMB, Inv. 1977.292.</p>
 <p>28 HMB, Inv. 1876.13., Foto Maurice Babey</p>
 <p>29 Quelle: Gliederung des Stadtstaats Basel 1988; Marco Zanoli / Wikimedia Commons. Bearbeitung: Nico Görlich / Moritz Twente</p>
-<p>30 Quelle: https://hls-dhs-dss.ch/de/articles/ 007478/2017-05-30/. Bearbeitung: Superdot Studio Basel</p>
+<p>30 Quelle: https://hls-dhs-dss.ch/de/articles/007478/2017-05-30/. Bearbeitung: Superdot Studio Basel</p>
 <p>31 Quelle: Schweizer 1910, S. 177–357; Terrain: Esri Inc., USA. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>32 HMB, Inv. 1880.103., Foto Maurice Babey</p>
 <p>33 StABS, Stammbäume 53</p>
@@ -1402,34 +1403,15 @@ date-modified: last-modified
 <p>Zucht- und Waisenhaus 213–214, 244</p>
 <p>Zunft 13, 27–29, 43–45, 50–51, 73, 75–76, 100, 102, 105–106, 116, 128, 134, 139–141, 144, 176, 194–196, 212–213, 224, 231, 240, 243, 245–246, 249–250, 280, 284–285, 301 – Safranzunft 153, 228, 244, 266, 269 – Spinnwetternzunft 44 – Webernzunft 43–44 – Weinleutenzunft 88–89 – Zunft zu Rebleuten 283</p>
 <h2>Autorinnen und Autoren</h2>
-<p>Susanna Burghartz war von 2005 bis 2023 Professorin für die Geschichte der Renaissance und</p>
-<p>Frühen Neuzeit am Departement Geschichte der Universität Basel. Sie hat u. a. zur historischen</p>
-<p>Kriminalitätsforschung, zur Frauen- und Geschlechtergeschichte, zur Geschichte städtischer</p>
-<p>Gesellschaften im Spätmittelalter und in der Frühen Neuzeit, zu materieller Kultur und zur euro</p>
-<p>päischen Expansion und frühen Globalgeschichte publiziert.</p>
-<p>Marcus Sandl studierte Geschichte in Regensburg und promovierte in Giessen mit einer Arbeit</p>
-<p>zum ökonomischen Wissen im 18. Jahrhundert. In der Habilitationsschrift, die er in Konstanz</p>
-<p>einreichte, beschäftigte er sich mit der Reformationsgeschichte. Nach seiner Zeit als Assistenz</p>
-<p>professor in Zürich war er Lehrbeauftragter an den Universitäten Basel und Konstanz und Mit</p>
-<p>arbeiter bei Stadt.Geschichte.Basel. Er arbeitet als freiberuflicher Historiker.</p>
-<p>Daniel Sidler studierte Geschichte und Politikwissenschaft in Bern und Paris. Er promovierte in</p>
-<p>Bern mit einer Arbeit zum Katholizismus in der frühneuzeitlichen Eidgenossenschaft und war</p>
-<p>anschliessend von 2018 bis 2022 Mitarbeiter bei Stadt.Geschichte.Basel. Er arbeitet in der Kultur-</p>
-<p>und Geschichtsvermittlung, in der Erwachsenenbildung und als Lehrer.</p>
-<p>Tina Asmussen, Prof. Dr., ehemalige Mitarbeiterin am Departement Geschichte der Universität</p>
-<p>Basel. Juniorprofessorin für frühneuzeitliche Bergbaugeschichte an der Ruhr-Universität Bochum</p>
-<p>und Leiterin des Forschungsbereichs Bergbaugeschichte des Deutschen Bergbau-Museums</p>
-<p>Bochum.</p>
-<p>Alexander Engel, PD Dr., Anna Reimann, M. A., und Lars Dickmann, M. A., wissenschaftliche</p>
-<p>Mitarbeiter:innen im SNF-Projekt ‹Märkte auf Papier. Informationen, Daten und Nachrichten im</p>
-<p>Basler Avis-Blatt, 1729–1845› am Departement Geschichte der Universität Basel.</p>
+<p>Susanna Burghartz war von 2005 bis 2023 Professorin für die Geschichte der Renaissance und Frühen Neuzeit am Departement Geschichte der Universität Basel. Sie hat u. a. zur historischen Kriminalitätsforschung, zur Frauen- und Geschlechtergeschichte, zur Geschichte städtischer Gesellschaften im Spätmittelalter und in der Frühen Neuzeit, zu materieller Kultur und zur europäischen Expansion und frühen Globalgeschichte publiziert.</p>
+<p>Marcus Sandl studierte Geschichte in Regensburg und promovierte in Giessen mit einer Arbeit zum ökonomischen Wissen im 18. Jahrhundert. In der Habilitationsschrift, die er in Konstanz einreichte, beschäftigte er sich mit der Reformationsgeschichte. Nach seiner Zeit als Assistenzprofessor in Zürich war er Lehrbeauftragter an den Universitäten Basel und Konstanz und Mitarbeiter bei Stadt.Geschichte.Basel. Er arbeitet als freiberuflicher Historiker.</p>
+<p>Daniel Sidler studierte Geschichte und Politikwissenschaft in Bern und Paris. Er promovierte in Bern mit einer Arbeit zum Katholizismus in der frühneuzeitlichen Eidgenossenschaft und war anschliessend von 2018 bis 2022 Mitarbeiter bei Stadt.Geschichte.Basel. Er arbeitet in der Kultur- und Geschichtsvermittlung, in der Erwachsenenbildung und als Lehrer.</p>
+<p>Tina Asmussen, Prof. Dr., ehemalige Mitarbeiterin am Departement Geschichte der Universität Basel. Juniorprofessorin für frühneuzeitliche Bergbaugeschichte an der Ruhr-Universität Bochum und Leiterin des Forschungsbereichs Bergbaugeschichte des Deutschen Bergbau-Museums Bochum.</p>
+<p>Alexander Engel, PD Dr., Anna Reimann, M. A., und Lars Dickmann, M. A., wissenschaftliche Mitarbeiter:innen im SNF-Projekt ‹Märkte auf Papier. Informationen, Daten und Nachrichten im Basler Avis-Blatt, 1729–1845› am Departement Geschichte der Universität Basel.</p>
 <p>Lorenz Heiligensetzer, Dr., wissenschaftlicher Mitarbeiter an der Universitätsbibliothek Basel.</p>
-<p>Carla Roth, Dr., ehemalige Mitarbeiterin am Departement Geschichte der Universität Basel.</p>
-<p>Wissenschaftliche Mitarbeiterin am Staatsarchiv Obwalden und freiberufliche Historikerin.</p>
-<p>Michael Schaffner, lic. phil., wissenschaftlicher Mitarbeiter im Staatsarchiv Zürich und Doktorand</p>
-<p>am Departement Geschichte der Universität Basel.</p>
-<p>Oliver Wetter, Dr., assoziierter Forscher an der Abteilung Wirtschafts-, Sozial- und Umwelt</p>
-<p>geschichte der Universität Bern.</p>
+<p>Carla Roth, Dr., ehemalige Mitarbeiterin am Departement Geschichte der Universität Basel. Wissenschaftliche Mitarbeiterin am Staatsarchiv Obwalden und freiberufliche Historikerin.</p>
+<p>Michael Schaffner, lic. phil., wissenschaftlicher Mitarbeiter im Staatsarchiv Zürich und Doktorand am Departement Geschichte der Universität Basel.</p>
+<p>Oliver Wetter, Dr., assoziierter Forscher an der Abteilung Wirtschafts-, Sozial- und Umweltgeschichte der Universität Bern.</p>
 <h2>Dank</h2>
 <p>Wir möchten uns bei allen Personen bedanken, die uns mit ihrem Wissen in vielfältiger Art und Weise bei der Arbeit an diesem Band unterstützt und damit wesentlich zum Gelingen des Projekts beigetragen haben. Herzlich danken wir all jenen, die uns bei der Konzeption des Buches und beim Auffinden von Quellen und Literatur zur Seite gestanden, uns ihre Expertise zur Verfügung gestellt und einzelne Kapitel des Manuskripts gelesen und kritisch kommentiert haben: Céline Angehrn, Esther Baur, Hans Berner, Lucas Burkart, Tim Buser, Christine Christ-von Wedel, Lars Dickmann, Joachim Eibach, Alexander Engel, Lina Gafner, Lorenz Heiligensetzer, Stefan Hess, Benjamin Hitz, André Holenstein, Lars Kury, Patrick Kury, Claudia Moddelmog, Anna Reimann, Carla Roth, Michael Schaffner, Sarah-Maria Schober, Ina Serif, Dominik Sieber, Claudius Sieber-Lehmann und Philippe Wanner. Ein besonderer Dank geht an André Salvisberg, der das gesamte Manuskript gelesen und kenntnisreich kommentiert hat. Dem ganzen Team von Stadt. Geschichte.Basel danken wir für den anregenden, epochenübergreifenden Austausch und für Rat und Hilfe bei den vielfältigen Herausforderungen des Recherche- und Schreibprozesses, dem Stiftungsrat für die stets angenehme Zusammenarbeit und die wertvollen Anregungen zum Konzept. Weiter danken wir allen Mitarbeiterinnen und Mitarbeitern von Archiven, Bibliotheken, Museen und anderen Institutionen, die uns kompetent beraten und uns die Materialien ihrer Institutionen auf stets unkomplizierte Art und Weise zur Verfügung gestellt haben: Esther Baur und dem Team des Staatsarchivs Basel-Stadt, Ueli Dill und Lorenz Heiligensetzer (Universitätsbibliothek Basel), Ariane Mensger (Kunstmuseum Basel), Martin Möhle (Kantonale Denkmalpflege Basel-Stadt), Gudrun Piller, Margret Ribbert und Daniel Suter (Historisches Museum Basel), Jurriaan de Vos (Herbarien Basel) und Irene Amstutz (Schweizerisches Wirtschaftsarchiv). Für ihr ausgezeichnetes Sprachlektorat danken wir Rosmarie Anzenberger. Iris Becher vom Christoph Merian Verlag und das Grafikbüro icona basel haben mit ihrem unermüdlichen Engagement viel für das Erscheinen des Bandes geleistet. Schliesslich geht ein ganz besonderer Dank an die Projektleitung und vor allem an Cristina Münch und das Digital-Team der Stadt.Geschichte.Basel, Nico Görlich, Moritz Mähr und Moritz Twente.</p>
 </div>

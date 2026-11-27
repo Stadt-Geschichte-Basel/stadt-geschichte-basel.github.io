@@ -40,7 +40,8 @@ date-modified: last-modified
 ````{=html}
 <div class="sgb-chapter">
 <h2>Quellen- und Literaturverzeichnis</h2>
-<h3>Quellen Ungedruckte Quellen</h3>
+<h3>Quellen</h3>
+<h3>Ungedruckte Quellen</h3>
 <p><em>GLA: Generallandesarchiv Karlsruhe</em></p>
 <p>GLAK, 238 Kriegsministerium – Militärsachen, Nr. 210: Detachierung eines Commandos des Infanterie-Regiments Erbgroßherzog in Freiburg nach Lörrach zur Bewachung der diesseitigen Grenze wegen der im Canton Basel ausgebrochenen Unruhen und die zur Sicherung der diesseitigen Grenze wegen der im Canton Schaffhausen ausgebrochenen Unruhen getroffenen Maßregeln.</p>
 <p>GLAK, 49 Gesandtschaften – Gesandtschaften in die Schweiz, Nr. 2366: Verletzung des Großherzoglichen Gebiets durch den Durchmarsch Baseler Truppen und desfallsige Beschwerde; und Trennung des Kantons Basel in Basel-Stadt und Basel-Landschaft und die Anerkennung der Regierung der letzteren.</p>
@@ -241,7 +242,7 @@ date-modified: last-modified
 <p>Bergier, Jean-François: Wirtschaftsgeschichte der Schweiz. Von den Anfängen bis zur Gegenwart, Zürich 1990.</p>
 <p>Birkner, Othmar; Rebsamen, Hanspeter: Basel (Gesellschaft für Schweizerische Kunstgeschichte [Hg.]: INSA. Inventar der neueren Schweizer Architektur 2), Basel 1986.</p>
 <p>Blum, Roger: Für Volkssouveränität und Fortschritt. Die Volksbewegungen der Jahre 1830–1833, in: Baselland vor 150 Jahren. Wende und Aufbruch. Neun Beiträge mit Chronologie der Basler Wirren und der Eidgenössischen Regenerationszeit sowie vielen historischen Bildern, Liestal 1983, S. 11–28.</p>
-<p>Boerlin-Brodbeck, Yvonne: Hieronymus Hess, in: Historisches Lexikon der Schweiz (HLS), Version vom 7.5.2020. https://hls-dhs-dss. ch/de/articles/022030/2020-05-07/, abgerufen am 29.7.2021.</p>
+<p>Boerlin-Brodbeck, Yvonne: Hieronymus Hess, in: Historisches Lexikon der Schweiz (HLS), Version vom 7.5.2020. https://hls-dhs-dss.ch/de/articles/022030/2020-05-07/, abgerufen am 29.7.2021.</p>
 <p>Bolliger, Markus: Protoindustrialisierung und Industrialisierung in Mülhausen und im Elsass (1746–1870). Von Koechlin, Schmaltzer &amp; Cie. zum Manchester Frankreichs und der wirtschaftliche Austausch zwischen Basel und Mülhausen, Kapitel 1–13, unveröffentlichtes Manuskript [Schweizerisches Wirtschaftsarchiv PA 638A], Basel 2011.</p>
 <p>Bonjour, Edgar; Bruckner, Albert: Basel und die Eidgenossen. Geschichte ihrer Beziehungen zur Erinnerung an Basels Eintritt in den Schweizerbund 1501, Basel 1951.</p>
 <p>Bonjour, Edgar: Die Universität Basel von den Anfängen bis zur Gegenwart 1460−1960, Basel 1960.</p>
@@ -282,8 +283,8 @@ date-modified: last-modified
 <p>Cottier, Maurice; Raciti, Silvio: From Honour to Subjectivity. Interpersonal Violence in Basel 1750–1868 and Berne 1861–1944, in: Crime, Histoire &amp; Sociétés / Crime, History &amp; Societies 17/2, 2013, S. 71–100.</p>
 <p>Décultot, Elisabeth; Fulda, Daniel (Hg.): Sattelzeit. Historiographiegeschichtliche Revisionen, Berlin 2016.</p>
 <p>Degen, Bernard: Consumer Societies in Switzerland: From Local Self-help Organizations to a Single National Co-operative, in: Hilson, Mary; Neunsinger, Silke; Patmore, Greg (Hg.): A Global History of Consumer Co-operation since 1850. Movements and Businesses (Studies in Global Social History 28), Leiden/Boston 2017, S. 614–641.</p>
-<p>Degen, Bernard; Sarasin, Philipp: Kultur und Bildung, Kirchen und religiöses Leben, in: Degen, Bernard u. a.: Basel-Stadt, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.5.2017. https://hls-dhs-dss.ch/ de/articles/007478/2017-05-30/, abgerufen am 10.10.2023.</p>
-<p>Degen, Bernard u. a.: Basel-Stadt, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.5.2017. https://hls-dhs-dss.ch/ de/articles/007478/2017-05-30/, abgerufen am 10.10.2023.</p>
+<p>Degen, Bernard; Sarasin, Philipp: Kultur und Bildung, Kirchen und religiöses Leben, in: Degen, Bernard u. a.: Basel-Stadt, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.5.2017. https://hls-dhs-dss.ch/de/articles/007478/2017-05-30/, abgerufen am 10.10.2023.</p>
+<p>Degen, Bernard u. a.: Basel-Stadt, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.5.2017. https://hls-dhs-dss.ch/de/articles/007478/2017-05-30/, abgerufen am 10.10.2023.</p>
 <p>Dejung, Christof: Die Fäden des globalen Marktes. Eine Sozial- und Kulturgeschichte des Welthandels am Beispiel der Handelsfirma Gebrüder Volkart 1851−1999, Köln/Weimar/Wien 2013.</p>
 <p>De Koster, Margo; Deruytter, Barbara; Vrints, Antoon: Police-Public Relations in Transition in Antwerp, 1840s–1914, in: European Review of History 25/1, 2017, S. 147–165.</p>
 <p>Doppler, Paul: Organisation und Aufgabenkreis der Stadtgemeinde Basel (1803–1876), Basel 1933.</p>
@@ -298,7 +299,7 @@ date-modified: last-modified
 <p>Epple, Ruedi; Schnyder, Albert: Wandel und Anpassung. Die Landwirtschaft des Baselbiets im 19. Jahrhundert, Liestal 1996.</p>
 <p>Erne, Emil: Die schweizerischen Sozietäten. Lexikalische Darstellung der Reformgesellschaften des 18. Jahrhunderts in der Schweiz, Zürich 1988.</p>
 <p>Etter, Hansueli F.: Armut, Krankheit, Tod im frühindustriellen Basel. Der Spitalfriedhof St. Johann in Basel (Veröffentlichungen aus dem Naturhistorischen Museum Basel), Basel 1993.</p>
-<p>Fankhauser, Andreas: Kontinentalsperre, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.10.2008. https://hls-dhs-dss.ch/ de/articles/013928/2008-10-30/, abgerufen am 20.10.2023.</p>
+<p>Fankhauser, Andreas: Kontinentalsperre, in: Historisches Lexikon der Schweiz (HLS), Version vom 30.10.2008. https://hls-dhs-dss.ch/de/articles/013928/2008-10-30/, abgerufen am 20.10.2023.</p>
 <p>Fink, Paul: Vom Passementerhandwerk zur Bandindustrie. Ein Beitrag zur Geschichte des alten Basel (157. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1979.</p>
 <p>Fink, Paul: Geschichte der Basler Bandindustrie 1550–1800 (Basler Beiträge zur Geschichtswissenschaft 147), Basel/Frankfurt am Main 1983.</p>
 <p>Fischer, Andreas: Mauern, Schanzen, Tore. Basels Befestigungen im Wandel der Zeit, Basel 2007.</p>
@@ -306,8 +307,8 @@ date-modified: last-modified
 <p>Frei, Heinrich: Das Theologische Alumneum in Basel 1894–1944, Basel 1944.</p>
 <p>Frey, Hans: Die Staatsumwälzung des Cantons Basel im Jahre 1798 (54. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1876.</p>
 <p>Frey, Hans: Basel während der Helvetik (1798–1803) (55. Neujahrsblatt der Gesellschaft für das Gute und Gemeinnützige), Basel 1877.</p>
-<p>Frey, Hans Peter (Red.): Index Typographorum Editorumque Basiliensium: Johann Georg Neukirch (1787–1857). https://ub.unibas.ch/ itb/druckerverleger/johann-georg-neukirch/, abgerufen am 24.8.2024.</p>
-<p>Fridrich, Anna C.: Industriegesellschaft für Schappe, in: Historisches Lexikon der Schweiz (HLS), Version vom 19.1.2007. https:// hls-dhs-dss.ch/de/articles/043013/2007-01-19/, abgerufen am 31.1.2024.</p>
+<p>Frey, Hans Peter (Red.): Index Typographorum Editorumque Basiliensium: Johann Georg Neukirch (1787–1857). https://ub.unibas.ch/itb/druckerverleger/johann-georg-neukirch/, abgerufen am 24.8.2024.</p>
+<p>Fridrich, Anna C.: Industriegesellschaft für Schappe, in: Historisches Lexikon der Schweiz (HLS), Version vom 19.1.2007. https://hls-dhs-dss.ch/de/articles/043013/2007-01-19/, abgerufen am 31.1.2024.</p>
 <p>Fritzsche, Bruno: Das Quartier als Lebensraum, in: Conze, Werner; Engelhardt, Ulrich (Hg.): Arbeiterexistenz im 19. Jahrhundert. Lebensstandard und Lebensgestaltung deutscher Handwerker (Industrielle Welt 33), Stuttgart 1981, S. 92–113.</p>
 <p>Füllberg-Stollberg, Katja: «Ein Sauerteig christlichen Lebens in der Masse afrikanischen Heidentums.» Westindische Konvertiten an der Goldküste (1843−1850), in: Habermas, Rebekka; Hölzl, Richard (Hg.): Mission global. Eine Verflechtungsgeschichte seit dem 19. Jahrhundert, Köln/Weimar/Wien 2014, S. 31−57.</p>
 <p>Gäbler, Ulrich: «Auferstehungszeit». Erweckungsprediger des 19. Jahrhunderts. Sechs Porträts, München 1991.</p>
@@ -367,7 +368,7 @@ date-modified: last-modified
 <p>Hoffmann, Georg: Die grossbritannische Schweizer-Legion im Krimkrieg: Werbung und Schicksal, in: Zeitschrift für schweizerische Geschichte 22/4, 1942, S. 573–595.</p>
 <p>Hofmeier, Thomas: Der Mähly-Plan. Ein Abbild der Stadt Basel (Basler Kostbarkeiten 38), Basel 2017.</p>
 <p>Holenstein, André: Die Helvetik als reformabsolutistische Republik, in: Schläppi, Daniel (Hg.): Umbruch und Beständigkeit. Kontinuitäten in der Helvetischen Revolution von 1798, Basel 2009, S. 83–104.</p>
-<p>Holenstein, André: Hintersassen, in: Historisches Lexikon der Schweiz (HLS), Version vom 5.12.2014. https://hls-dhs-dss.ch/de/ articles/015998/2014-12-05/, abgerufen am 23.8.2021.</p>
+<p>Holenstein, André: Hintersassen, in: Historisches Lexikon der Schweiz (HLS), Version vom 5.12.2014. https://hls-dhs-dss.ch/de/articles/015998/2014-12-05/, abgerufen am 23.8.2021.</p>
 <p>Hotz, Gerhard; Gianola, Angelo; Huppenbauer, Hanns Walter; Meyer, Liselotte: Kranksein in Basel – der Anfang vom Ende, in: Hotz, Gerhard; Greyerz, Kaspar von; Burkart, Lucas (Hg.): Theo der Pfeifenraucher. Leben in Kleinbasel um 1800, Basel 2010, S. 200–209.</p>
 <p>Huber, Dorothee: Architekturführer Basel. Die Baugeschichte der Stadt und ihrer Umgebung, Basel 2014.</p>
 <p>Hug, Wolfgang: Kleine Geschichte Badens, Stuttgart 2006.</p>
@@ -385,11 +386,11 @@ date-modified: last-modified
 <p>Jecker, Hanspeter: «Und ob es schon nicht in Kana wäre…». Die Rückkehr des Täufertums nach Basel und die Anfänge einer «unteren» und «oberen» Gemeinde 1770–1800, in: Mennonitica Helvetica 26/27, Biel 2004, S. 7–91.</p>
 <p>Jenkins, Paul: Die Basler Mission im kolonialen Spannungsfeld Indien: eine Einladung zu Imperialismus- und Nationalismusforschung im Archiv der Basler Mission, in: Traverse, Zeitschrift für Geschichte 5/2, 1998, S. 41−55.</p>
 <p>Jenny, Ernst: Basel zur Biedermeierzeit, in: Basler Jahrbuch 1949, S. 21–58.</p>
-<p>Jensen, Uffa: Können Eltern zu viel lieben? Adolf Matthias’ Ratgeber ‹Wie erziehen wir unsern Sohn Benjamin› (1897), in: Max-Planck-Institut für Bildungsforschung: Geschichte der Gefühle – Einblicke in die Forschung, Oktober 2013. https://hdl.handle. net/11858/00-001M-0000-0027-782F-3, abgerufen am 1.12.2021.</p>
+<p>Jensen, Uffa: Können Eltern zu viel lieben? Adolf Matthias’ Ratgeber ‹Wie erziehen wir unsern Sohn Benjamin› (1897), in: Max-Planck-Institut für Bildungsforschung: Geschichte der Gefühle – Einblicke in die Forschung, Oktober 2013. https://hdl.handle.net/11858/00-001M-0000-0027-782F-3, abgerufen am 1.12.2021.</p>
 <p>Jessen, Ralph: Gewaltkriminalität im Ruhrgebiet zwischen bürgerlicher Panik und proletarischer Subkultur (1870–1914), in: Kift, Dagmar (Hg.): Kirmes – Kneipe – Kino. Arbeiterkultur im Ruhrgebiet zwischen Kommerz und Kontrolle (1850–1914) (Forschungen zur Regionalgeschichte 6), Paderborn 1992, S. 226–255.</p>
 <p>Jordan, Stefan: Die Sattelzeit – eine Epoche für die Theologiegeschichte?, in: Schweizerische Zeitschrift für Religions- und Kulturgeschichte 105, 2011;</p>
 <p>Joris, Elisabeth: «Der Himmel hat uns dagegen mit Gütern entschädigt…». Geschlechter- und Familienkonzeptionen in der Korrespondenz einer Schweizer Pfarrfamilie (1. Hälfte des 19. Jahrhunderts), in: Hämmerle, Christa; Saurer, Edith (Hg.): Briefkulturen und ihr Geschlecht. Zur Geschichte der privaten Korrespondenz vom 16. Jahrhundert bis heute, Wien/Köln/Weimar 2003, S. 89−112.</p>
-<p>Jütte, Daniel: Die Augen der Stadt, in: Neue Zürcher Zeitung, 27.2.2015. https://www.nzz. ch/feuilleton/die-augen-der-stadt-1.18 491900, abgerufen am 27.2.2021.</p>
+<p>Jütte, Daniel: Die Augen der Stadt, in: Neue Zürcher Zeitung, 27.2.2015. https://www.nzz.ch/feuilleton/die-augen-der-stadt-1.18 491900, abgerufen am 27.2.2021.</p>
 <p>Kaegi, Werner: Jacob Burckhardt. Eine Biographie. Band 2: Das Erlebnis der geschichtlichen Welt, Basel 1950.</p>
 <p>Kästli, Tobias: Die Schweiz – eine Republik in Europa. Geschichte des Nationalstaats seit 1798, Zürich 1998.</p>
 <p>Kahlbaum, Georg W. A.: Christian Friedrich Schönbein 1799–1868, Düsseldorf 1899.</p>
@@ -958,57 +959,23 @@ date-modified: last-modified
 <p>Zwilchenbart, Andreas (1786–1866) 276</p>
 <p>Zwinger, Friedrich (1707–1766) 30</p>
 <h2>Autorinnen und Autoren</h2>
-<p>Regula Argast, Studium der Geschichte, Germanistik und Philosophie an der Universität Basel,</p>
-<p>1995 Lizentiat, 2005 Promotion an der Universität Zürich. Leiterin Professur für Didaktik der Ge</p>
-<p>sellschaftswissenschaften und ihre Disziplinen, Pädagogische Hochschule, Fachhochschule</p>
-<p>Nordwestschweiz (FHNW).</p>
-<p>Susanne Bennewitz, geboren 1968, 1995 Magister in Literaturwissenschaft, Judaistik und Informa</p>
-<p>tik, Freie Universität Berlin, 2005 Promotion in Jüdische Studien, Universität Basel. Professorin für</p>
-<p>Kulturwissenschaften, Hochschule Trier.</p>
-<p>Sabine Braunschweig, geboren 1961, Dr. phil., Historikerin und Erwachsenenbildnerin im eigenen</p>
-<p>Büro für Sozialgeschichte Basel. Diverse Publikationen und Ausstellungen zur Basler Geschichte.</p>
-<p>Flavio Häner, geboren 1983, Studium der Kulturanthropologie und Geschichte an der Universität</p>
-<p>Basel, Promotion mit einer Dissertation zur Basler Museumsgeschichte. 2017−2023 Fachstelle</p>
-<p>Kulturgüterschutz Basel-Stadt. Seit 2023 Kantonale Krisenorganisation Basel-Stadt.</p>
-<p>Kevin Heiniger, geboren 1979, Studium der Geschichte und Germanistik in Basel und Berlin, 2015</p>
-<p>Promotion mit einer Dissertation zur Geschichte der Erziehungsanstalt Aarburg. Postdoc an der</p>
-<p>Hochschule für Soziale Arbeit FHNW. Forschungen zu Fürsorgeregimen und Sozialstaat.</p>
-<p>Lena Heizmann, geboren 1989, Studium der Geschichte an der Universität Basel, 2016 Master.</p>
-<p>Forschungen zur Basler Geschichte und Geschichtsvermittlung im Verein Frauenstadtrundgang</p>
-<p>Basel.</p>
-<p>Stefan Hess, geboren 1965, Studium der Geschichte, der Deutschen Literaturwissenschaft und</p>
-<p>der Kunstgeschichte an der Universität Basel, 2007 Promotion in Kunstgeschichte. Diverse Pub</p>
-<p>likationen zur Basler Geschichte.</p>
-<p>Walter Hochreiter, geboren 1955, Studium der Geschichte in Darmstadt und Frankfurt, 1992 Pro</p>
-<p>motion. Geschäftsführer des ifu-Instituts für Unternehmensgeschichte. Diverse Publikationen zur</p>
-<p>NS-Geschichte, Stadt-, Wirtschafts- und Kulturgeschichte.</p>
-<p>Janine Jakob, Studium der Medien- und Kommunikationswissenschaften sowie der Wirtschafts-</p>
-<p>und Sozialgeschichte an der Universität Zürich (Lizentiat und M. A.). Forschungsfokus Materiel</p>
-<p>le Kultur und Modegeschichte der Frühen Neuzeit. Doktorandin am Departement Geschichte der</p>
-<p>Universität Basel, freie Journalistin.</p>
-<p>Daniel Kriemler, geboren 1970, Studium der Geschichte in Basel und der Pädagogik in Zürich, 2016</p>
-<p>Promotion mit einer Kollektivbiografie der Basler Lesegesellschaft. Diverse Publikationen zur</p>
-<p>Lokalgeschichte sowie zur Pharmaziegeschichte.</p>
-<p>Thomas K. Kuhn, geboren 1963, Studium der Theologie, Dissertation, Habilitation und Assistenz</p>
-<p>professor an der Universität Basel. Seit 2010 Professor für Kirchengeschichte an der Universität</p>
-<p>Greifswald. Diverse Publikationen zur Kirchengeschichte Basels und der Schweiz.</p>
-<p>Silvio Raciti, geboren 1976, Studium der Geschichte an der Universität Bern, 2006 Lizentiat, 2013</p>
-<p>Promotion mit einer Dissertation zur Kriminalitätsgeschichte Basels in der Sattelzeit. Seit 2015</p>
-<p>wissenschaftlicher Mitarbeiter der Forschungsstelle Jeremias Gotthelf an der Universität Bern.</p>
-<p>André Salvisberg, geboren 1965, Studium der Geschichte an der Universität Basel, 1992 Lizentiat.</p>
-<p>Diverse Publikationen zur Basler Geschichte (u. a. ‹Historischer Atlas der Region Basel›, 2010).</p>
-<p>David Tréfás, geboren 1974, Studium der Geschichte an der Universität Basel, 2001 Lizentiat, 2006</p>
-<p>Promotion. Diverse Publikationen zur Basler Geschichte (u. a. ‹Kleine Basler Pressegeschichte›,</p>
-<p>2016).</p>
-<p>Elise Voerkel, geboren 1985, Studium der Kulturwissenschaften in Leipzig und Lyon, 2014 Master.</p>
-<p>Seit 2019 Stadthistorikerin in Lahr/Schwarzwald. Forschungen und diverse Publikationen zu Bas</p>
-<p>ler Bürgerfamilien und Kindererziehung im 18. und 19. Jahrhundert.</p>
-<p>Yiğit Topkaya, geboren 1977, Studium der Geschichte und Philosophie unter anderem in Basel, 2011</p>
-<p>Promotion. Diverse Publikationen zur Basler und Schweizer Textilindustrie, zu Urbanisierung und</p>
-<p>Raumplanung sowie zur Religions- und Reformationsgeschichte.</p>
-<p>Patricia Zihlmann, geboren 1978, 2008 Promotion an der Universität Basel mit einer kulturge</p>
-<p>schichtlichen Untersuchung des Todes in Basel. Seit 2015 stellvertretende Leiterin der Forschungs</p>
-<p>stelle Jeremias Gotthelf an der Universität Bern.</p>
+<p>Regula Argast, Studium der Geschichte, Germanistik und Philosophie an der Universität Basel, 1995 Lizentiat, 2005 Promotion an der Universität Zürich. Leiterin Professur für Didaktik der Gesellschaftswissenschaften und ihre Disziplinen, Pädagogische Hochschule, Fachhochschule Nordwestschweiz (FHNW).</p>
+<p>Susanne Bennewitz, geboren 1968, 1995 Magister in Literaturwissenschaft, Judaistik und Informatik, Freie Universität Berlin, 2005 Promotion in Jüdische Studien, Universität Basel. Professorin für Kulturwissenschaften, Hochschule Trier.</p>
+<p>Sabine Braunschweig, geboren 1961, Dr. phil., Historikerin und Erwachsenenbildnerin im eigenen Büro für Sozialgeschichte Basel. Diverse Publikationen und Ausstellungen zur Basler Geschichte.</p>
+<p>Flavio Häner, geboren 1983, Studium der Kulturanthropologie und Geschichte an der Universität Basel, Promotion mit einer Dissertation zur Basler Museumsgeschichte. 2017−2023 Fachstelle Kulturgüterschutz Basel-Stadt. Seit 2023 Kantonale Krisenorganisation Basel-Stadt.</p>
+<p>Kevin Heiniger, geboren 1979, Studium der Geschichte und Germanistik in Basel und Berlin, 2015 Promotion mit einer Dissertation zur Geschichte der Erziehungsanstalt Aarburg. Postdoc an der Hochschule für Soziale Arbeit FHNW. Forschungen zu Fürsorgeregimen und Sozialstaat.</p>
+<p>Lena Heizmann, geboren 1989, Studium der Geschichte an der Universität Basel, 2016 Master. Forschungen zur Basler Geschichte und Geschichtsvermittlung im Verein Frauenstadtrundgang Basel.</p>
+<p>Stefan Hess, geboren 1965, Studium der Geschichte, der Deutschen Literaturwissenschaft und der Kunstgeschichte an der Universität Basel, 2007 Promotion in Kunstgeschichte. Diverse Publikationen zur Basler Geschichte.</p>
+<p>Walter Hochreiter, geboren 1955, Studium der Geschichte in Darmstadt und Frankfurt, 1992 Promotion. Geschäftsführer des ifu-Instituts für Unternehmensgeschichte. Diverse Publikationen zur NS-Geschichte, Stadt-, Wirtschafts- und Kulturgeschichte.</p>
+<p>Janine Jakob, Studium der Medien- und Kommunikationswissenschaften sowie der Wirtschafts- und Sozialgeschichte an der Universität Zürich (Lizentiat und M. A.). Forschungsfokus Materielle Kultur und Modegeschichte der Frühen Neuzeit. Doktorandin am Departement Geschichte der Universität Basel, freie Journalistin.</p>
+<p>Daniel Kriemler, geboren 1970, Studium der Geschichte in Basel und der Pädagogik in Zürich, 2016 Promotion mit einer Kollektivbiografie der Basler Lesegesellschaft. Diverse Publikationen zur Lokalgeschichte sowie zur Pharmaziegeschichte.</p>
+<p>Thomas K. Kuhn, geboren 1963, Studium der Theologie, Dissertation, Habilitation und Assistenzprofessor an der Universität Basel. Seit 2010 Professor für Kirchengeschichte an der Universität Greifswald. Diverse Publikationen zur Kirchengeschichte Basels und der Schweiz.</p>
+<p>Silvio Raciti, geboren 1976, Studium der Geschichte an der Universität Bern, 2006 Lizentiat, 2013 Promotion mit einer Dissertation zur Kriminalitätsgeschichte Basels in der Sattelzeit. Seit 2015 wissenschaftlicher Mitarbeiter der Forschungsstelle Jeremias Gotthelf an der Universität Bern.</p>
+<p>André Salvisberg, geboren 1965, Studium der Geschichte an der Universität Basel, 1992 Lizentiat. Diverse Publikationen zur Basler Geschichte (u. a. ‹Historischer Atlas der Region Basel›, 2010).</p>
+<p>David Tréfás, geboren 1974, Studium der Geschichte an der Universität Basel, 2001 Lizentiat, 2006 Promotion. Diverse Publikationen zur Basler Geschichte (u. a. ‹Kleine Basler Pressegeschichte›, 2016).</p>
+<p>Elise Voerkel, geboren 1985, Studium der Kulturwissenschaften in Leipzig und Lyon, 2014 Master. Seit 2019 Stadthistorikerin in Lahr/Schwarzwald. Forschungen und diverse Publikationen zu Basler Bürgerfamilien und Kindererziehung im 18. und 19. Jahrhundert.</p>
+<p>Yiğit Topkaya, geboren 1977, Studium der Geschichte und Philosophie unter anderem in Basel, 2011 Promotion. Diverse Publikationen zur Basler und Schweizer Textilindustrie, zu Urbanisierung und Raumplanung sowie zur Religions- und Reformationsgeschichte.</p>
+<p>Patricia Zihlmann, geboren 1978, 2008 Promotion an der Universität Basel mit einer kulturgeschichtlichen Untersuchung des Todes in Basel. Seit 2015 stellvertretende Leiterin der Forschungsstelle Jeremias Gotthelf an der Universität Bern.</p>
 <h2>Dank</h2>
 <p>‹Hinter der Mauer, vor der Moderne› ist in jeder Hinsicht ein Gemeinschaftswerk. Die folgenden Verdankungen richten sich neben den namentlich Erwähnten auch an die vielen anderen, die unermüdlich mitwirkten. In erster Linie existiert der Band dank der Autorinnen und Autoren, die geforscht und geschrieben haben: Regula Argast, Susanne Bennewitz, Sabine Braunschweig, Flavio Häner, Kevin Heiniger, Lena Heizmann, Stefan Hess, Walter Hochreiter, Janine Jakob, Daniel Kriemler, Thomas K. Kuhn, Silvio Raciti, Yiğit Topkaya, David Tréfás, Elise Voerkel, Patricia Zihlmann. Sie alle stehen für ein hervorragendes Netzwerk an Wissen, für Neugier, Einsatz und Vermittlung. Marc Fehlmann hat für diesen Band bis 2023 als Herausgeber gewirkt. Er übernahm die grundsätzliche Planung sowie die Auswahl der Autorinnen und Autoren. In dieser Phase begann auch die Arbeit von Dominik Sieber, die für die Detailstruktur wesentlich war und bis 2022 dauerte. Unterstützt wurden die redaktionellen Belange im Jahr 2020, als die Pandemie alles erschwerte, durch Kevin Heiniger. Mit den Nachbarbänden der Stadt.Geschichte.Basel wurde eng zusammengearbeitet. Die Gemeinsamkeiten und Abgrenzungen definierten wir mit Susanna Burghartz, Daniel Sidler und Markus Sandl von Band 4 sowie mit Patrick Kury, Isabel Koellreuter und Franziska Schürch von Band 6. Von ihnen und von den anderen Band-Teams kamen immer wieder wichtige Hinweise und Meinungen. Stellvertretend sei dafür Céline Angehrn, Eva Gschwind und Claudius Sieber-Lehmann gedankt. Die Autorinnen und Autoren konnten stets auf die Unterstützung der Institutionen vor Ort und auswärts zählen. Besonders seien erwähnt: Staatsarchiv Basel-Stadt, Universitätsbibliothek Basel, Historisches Museum Basel, Schweizerisches Wirtschaftsarchiv, Basler Mission, Generallandesarchiv Karlsruhe. Grosser Dank geht an Doris Tranter für ihr unverzichtbares Korrektorat und das weit darüber hinausgehende inhaltliche Feedback. Iris Becher und der Christoph Merian Verlag, Cristina Münch und die Projektleitung Stadt.Geschichte. Basel, Katharina Marti und das Grafikbüro icona basel haben den Produktionsprozess voller Umsicht begleitet. Der abschliessende Dank geht an das Departement Geschichte der Universität Basel, die Stiftung Stadt.Geschichte.Basel und an den Verein Basler Geschichte, insbesondere an den Vereinspräsidenten Robert Labhardt für die Anteilnahme am Werkprozess und seine stetige persönliche Unterstützung.</p>
 </div>

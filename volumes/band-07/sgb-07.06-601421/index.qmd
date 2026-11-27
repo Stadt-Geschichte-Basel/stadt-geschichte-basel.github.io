@@ -81,13 +81,14 @@ date-modified: last-modified
 <p>WWF World Wildlife Fund</p>
 <p>ZHdK Zürcher Hochschule der Künste</p>
 <h2>Quellen- und Literaturverzeichnis</h2>
-<h3>Quellen Ungedruckte Quellen</h3>
+<h3>Quellen</h3>
+<h3>Ungedruckte Quellen</h3>
 <p><em>Archiv der Basler Mission</em></p>
 <p>BMArchives, E-04.1 I, Kriegserlebnisse der Missionsgeschwister in Kamerun, 1914–1916.</p>
 <p><em>Archiv Schnitzelbank-Comité</em></p>
-<p>«Alti A. B. C.-Clique», 1926. Online: https://www. schnitzelbankbasel.ch/view/year-bank. html?bank=4&amp;year=1926, abgerufen am 23.11.2022.</p>
-<p>«Alti Fasnächtler», 1922. Online: https://www. schnitzelbankbasel.ch/view/year-bank. html?bank=15&amp;year=1922, abgerufen am 22.11.2022.</p>
-<p>«Birsigratte», 1965. Online: https://www.schnitzelbankbasel.ch/view/year-bank.html? bank=272&amp;year=1965, abgerufen am 22.11. 2022.</p>
+<p>«Alti A. B. C.-Clique», 1926. Online: https://www.schnitzelbankbasel.ch/view/year-bank.html?bank=4&amp;year=1926, abgerufen am 23.11.2022.</p>
+<p>«Alti Fasnächtler», 1922. Online: https://www.schnitzelbankbasel.ch/view/year-bank.html?bank=15&amp;year=1922, abgerufen am 22.11.2022.</p>
+<p>«Birsigratte», 1965. Online: https://www.schnitzelbankbasel.ch/view/year-bank.html?bank=272&amp;year=1965, abgerufen am 22.11. 2022.</p>
 <p>Comité-Schnitzelbänke: An Basels Gesellschaften und Vereine sowie an alle Freunde fasnächtlichen Humors!, Basel 1921.</p>
 <p><em>Bundesarchiv (BAR)</em></p>
 <p>BAR, E4320B#1990/266#6233*, Alfred Rasser (1947–1964).</p>
@@ -181,8 +182,8 @@ date-modified: last-modified
 <p><em>Yad Vashem, Central Database of Shoa Victims’ Name</em></p>
 <p>Online: https://yvng.yadvashem.org, abgerufen am 08.01.2023.</p>
 <p><em>Fernsehsendungen, Filme, Audioaufnahmen</em></p>
-<p>Clavel, Alexander: Die Durchreise der französischen Evakuierten durch die Schweiz, CH 1918. Imperial War Museum, London, IWM 454, La Suisse joue parmi les nations le rôle du bon samaritain. Online: www.iwm.org.uk/ collections/item/object/1060022920, abgerufen am 22.11.2022</p>
-<p>Radioansprache von General Guisan vom 30. August 1939. Online: www.srf.ch/play/tv/ archivperlen/video/vereidigung-general-guisan-1939?urn=urn:srf:video:0043dc24-692c-468f-b8e6-c44866782bc9, abgerufen am 22.11.2022.</p>
+<p>Clavel, Alexander: Die Durchreise der französischen Evakuierten durch die Schweiz, CH 1918. Imperial War Museum, London, IWM 454, La Suisse joue parmi les nations le rôle du bon samaritain. Online: www.iwm.org.uk/collections/item/object/1060022920, abgerufen am 22.11.2022</p>
+<p>Radioansprache von General Guisan vom 30. August 1939. Online: www.srf.ch/play/tv/archivperlen/video/vereidigung-general-guisan-1939?urn=urn:srf:video:0043dc24-692c-468f-b8e6-c44866782bc9, abgerufen am 22.11.2022.</p>
 <p>«Rationalisierung in Industrie», Antenne, Schweizer Fernsehen, 19.01.1966. Online: https://memobase.ch/de/object/srf-029-232c2eea-4f67-4ab3-8f16-e101187181 84_04?term=Rationalisierung%20in%20 Industrie&amp;filter%5Baccess%5D%5B0%5D= Online&amp;position=2, abgerufen am 23.11.2022.</p>
 <p>«Sandoz Medikamente», Antenne, Schweizer Fernsehen, 19.6.1969. Online: https://memobase.ch/de/object/srf-029-b597e62d-762f-47a6-a566-59d355ea0a0a_01, abgerufen am 23.11.2022.</p>
 <p>Seiler, Alexander J.; Gnat, Rob; Kovach, June (Reg.): Siamo Italiani – Die Italiener, Seiler + Gnat, 1964.</p>
@@ -833,16 +834,16 @@ date-modified: last-modified
 <p>Zürcher, Regula: Von Apfelsaft bis Zollifilm. Frauen für die Volksgesundheit, Hünibach 1997.</p>
 <p>Zwicker, Josef: Zur Universitätsgeschichte in den 1930er Jahren, in: 50 Jahre Kollegienhaus der Universität Basel. Vorträge gehalten am 10. Juni 1989, Basel 1991, S. 10–19.</p>
 <h3>Webseiten und Online-Publikationen</h3>
-<p>Abplanalp, Andrej: Der erste Fussgängerstreifen, Blog Nationalmuseum, 15.11.2021, https://blog.nationalmuseum.ch/2021/11/ der-erste-fussgaengerstreifen, abgerufen am 30.11.2022.</p>
+<p>Abplanalp, Andrej: Der erste Fussgängerstreifen, Blog Nationalmuseum, 15.11.2021, https://blog.nationalmuseum.ch/2021/11/der-erste-fussgaengerstreifen, abgerufen am 30.11.2022.</p>
 <p>Bozsa, Isabella: Geschenkt, gekauft, erbeutet – Missionarisches Sammeln in Kamerun und Indien. Museum der Kulturen Basel, Basel 2019, https://www.mkb.ch/de/museum/forschung/publikationen/publikationen-im-pdf-format.html, abgerufen am 01.02.2023.</p>
-<p>Cladders, Lukas: Das Basler Museum für Völkerkunde. Grundzüge einer Sammlungsgeschichte 1914–1945. Museum der Kulturen Basel, Basel 2015, https://www.mkb.ch/ de/museum/forschung/publikationen/ publikationen-im-pdf-format.html, abgerufen am 01.02.2023.</p>
-<p>«Die Frage der Gästeliste in der Presse», 550 Jahre Universität Basel, https:// unigeschichte.unibas.ch/die-universitaet-jubiliert/1960-500-jahre-ein-halbes-jahrtausend/jubilieren-im-kalten-krieg/ die-frage-der-gaesteliste-in-der-presse, abgerufen am 30.11.2022.</p>
-<p>Küsterling, Sophie: Grenzen der Humanität. NS-Opfer aus Basel, Stadt.Geschichte.Basel, abgerufen am 21.04.2024.</p>
-<p>Maehle, Andreas-Holger: Tierversuche, Historisches Lexikon der Schweiz, 12.10.2012, https://hls-dhs-dss.ch/de/articles/027815/ 2012-10-12/, abgerufen am 15.11.2022.</p>
-<p>«Plakate von Theo Ballmer», https://plakatarchiv. ch/gestalter/Ballmer_Theo/documents/ doc1//pdf/full.pdf, abgerufen am 22.11.2022.</p>
-<p>Simon, Christian: Universität und Gesellschaft. Thesen zur Basler Universitätsgeschichte vor dem Hintergrund internationaler hochschulpolitischer Diskurse, Basel 2011, https:// unigeschichte.unibas.ch/fileadmin/user_ upload/pdf/Simon_Thesen.pdf, abgerufen am 30.11.2022.</p>
-<p>Stirnimann, Charles: Vom Sputnik-Schock zum Stipendienkonkordat. Anmerkungen zur schweizerischen Politik der Ausbildungsförderung, Basel 2010, https://unigeschichte. unibas.ch/fileadmin/user_upload/pdf/ Stirnimann_Stipendien.pdf, abgerufen am 30.11.2022.</p>
-<p>Universität Basel: 550 Jahre Universität Basel, Webseite zur Universitätsgeschichte seit 1460, Basel 2010, https://unigeschichte. unibas.ch, abgerufen am 30.11.2022.</p>
+<p>Cladders, Lukas: Das Basler Museum für Völkerkunde. Grundzüge einer Sammlungsgeschichte 1914–1945. Museum der Kulturen Basel, Basel 2015, https://www.mkb.ch/de/museum/forschung/publikationen/publikationen-im-pdf-format.html, abgerufen am 01.02.2023.</p>
+<p>«Die Frage der Gästeliste in der Presse», 550 Jahre Universität Basel, https://unigeschichte.unibas.ch/die-universitaet-jubiliert/1960-500-jahre-ein-halbes-jahrtausend/jubilieren-im-kalten-krieg/die-frage-der-gaesteliste-in-der-presse, abgerufen am 30.11.2022.</p>
+<p>Küsterling, Sophie: Grenzen der Humanität. NS-Opfer aus Basel, Stadt.Geschichte.Basel, 09.03.2022, https://doi.org/10.58079/vx9i, abgerufen am 21.04.2024.</p>
+<p>Maehle, Andreas-Holger: Tierversuche, Historisches Lexikon der Schweiz, 12.10.2012, https://hls-dhs-dss.ch/de/articles/027815/2012-10-12/, abgerufen am 15.11.2022.</p>
+<p>«Plakate von Theo Ballmer», https://plakatarchiv.ch/gestalter/Ballmer_Theo/documents/doc1//pdf/full.pdf, abgerufen am 22.11.2022.</p>
+<p>Simon, Christian: Universität und Gesellschaft. Thesen zur Basler Universitätsgeschichte vor dem Hintergrund internationaler hochschulpolitischer Diskurse, Basel 2011, https://unigeschichte.unibas.ch/fileadmin/user_upload/pdf/Simon_Thesen.pdf, abgerufen am 30.11.2022.</p>
+<p>Stirnimann, Charles: Vom Sputnik-Schock zum Stipendienkonkordat. Anmerkungen zur schweizerischen Politik der Ausbildungsförderung, Basel 2010, https://unigeschichte.unibas.ch/fileadmin/user_upload/pdf/Stirnimann_Stipendien.pdf, abgerufen am 30.11.2022.</p>
+<p>Universität Basel: 550 Jahre Universität Basel, Webseite zur Universitätsgeschichte seit 1460, Basel 2010, https://unigeschichte.unibas.ch, abgerufen am 30.11.2022.</p>
 <h2>Bildnachweis</h2>
 <h3>Umschlagabbildung:</h3>
 <p>Detail Deckenkonstruktion der Antoniuskirche</p>
@@ -866,15 +867,15 @@ date-modified: last-modified
 <p>25 Schweizerisches Sozialarchiv, Foto Unbekannt</p>
 <p>26 StABS, BSL 1045i 13-3 1</p>
 <p>27 Privatbesitz</p>
-<p>28 Quelle: https://www.statistik.bs.ch/zahlen/ statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>28 Quelle: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>29 Privatbesitz Sasha Mazzotti, Foto icona basel, Christoph Gysin</p>
-<p>30 Quelle: https://www.statistik.bs.ch/zahlen/ statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>30 Quelle: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>31 StABS, ÖR-REG 4e 4-2-1</p>
 <p>32 StABS, BSL 1013 1-2130 2</p>
 <p>33 Plakatsammlung der SfG Basel, CH-000957-X:10832, Wikimedia Commons</p>
 <p>34 StABS, Basel Conv. Nr. 1156</p>
-<p>35 Quelle: https://www.statistik.bs.ch/zahlen/ statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
-<p>36 Quelle: https://www.statistik.bs.ch/zahlen/ statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>35 Quelle: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>36 Quelle: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>37 StABS, BSL 1013 1-3530 1</p>
 <p>38 Plakatsammlung, ZHdK, 39-0611, Foto Museum für Gestaltung Zürich</p>
 <p>39 UB Basel, UBH EM 139:3bis</p>
@@ -882,8 +883,8 @@ date-modified: last-modified
 <p>41 StABS, BILD 2, 2372</p>
 <p>42 Kunstkredit Basel-Stadt</p>
 <p>43 Plakatsammlung der SfG Basel, CH-000 957-X:7716</p>
-<p>44 Quelle: https://www.statistik.bs.ch/zahlen/ statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
-<p>45 Quelle: https://www.statistik.bs.ch/zahlen/ statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>44 Quelle: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>45 Quelle: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>46 Plakatsammlung, ZHdK, CH-23-0032, Foto Museum für Gestaltung Zürich</p>
 <p>47 StABS, BILD 100, 93</p>
 <p>48 StABS, BILD 28, 48</p>
@@ -913,12 +914,12 @@ date-modified: last-modified
 <p>72 Historisches Archiv Roche, HAR BU.04 -200252</p>
 <p>73 Historisches Archiv Roche, HAR PH.1.1.2 -502569</p>
 <p>74 SWA, A100, Foto icona basel, Christoph Gysin</p>
-<p>75 Quelle: Mooser 2000, S. 226–263; https:// www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>75 Quelle: Mooser 2000, S. 226–263; https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>76 Verkehrshaus der Schweiz, VA-65894</p>
 <p>77 StABS, NEG 22910</p>
 <p>78 Quelle: Böhner 1968, S. 66 f. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>79 SWA, PA 493 Cb 9</p>
-<p>80 Quelle: Böhner 1968, S. 66 f.; https://www. statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>80 Quelle: Böhner 1968, S. 66 f.; https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>81 StABS, Hö A 18264</p>
 <p>82 Quelle: Banz 1964. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>83 SWA, PA 491 C, Foto icona basel, Christoph Gysin</p>
@@ -929,7 +930,7 @@ date-modified: last-modified
 <p>88 StABS, BSL 1013 1-42 1</p>
 <p>89 StABS, BSL 1045b 2-14 80422 7</p>
 <p>90 StABS, BD-REG 3b 1 (1) 256 1</p>
-<p>91 Quelle: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/ d3b21424-70a4-4984-a693-aa7f11813c53; https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>91 Quelle: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/d3b21424-70a4-4984-a693-aa7f11813c53; https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>92 StABS, BALAIR 3594</p>
 <p>93 StABS, BALAIR 3964</p>
 <p>94 StABS, NEG A 4733</p>
@@ -942,7 +943,7 @@ date-modified: last-modified
 <p>101 Kantonale Denkmalpflege Basel-Stadt, Stephan Tramèr, 2010/2018; Kartengrundlage: Grundbuchplan Basler Innerstadt 1865-72 von R. Falkner (Geodaten Kanton Basel-Stadt)</p>
 <p>102 StABS, BSL 1040, F38/23</p>
 <p>103 StABS, BSL 1040, F38/21</p>
-<p>104 Quelle: https://www.statistik.bs.ch/zahlen/ statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>104 Quelle: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>105 StABS, PD-REG 12e 3 (1) 43</p>
 <p>106 StABS, BSL 1013 1-2905 1</p>
 <p>107 StABS, NEG 3116</p>
@@ -964,9 +965,9 @@ date-modified: last-modified
 <p>123 Plakatsammlung, ZHdK, 08-0146, Eidenbenz CH-4102 Binningen, Foto Museum für Gestaltung Zürich</p>
 <p>124 StABS, BSL 1013 1-2155 1</p>
 <p>125 StABS, BSL 1013 1-2473 1</p>
-<p>126 Quelle: Basler Nachrichten, 17.03.1959; https://opendata.swiss/de/dataset/ stadtplan-1967. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>126 Quelle: Basler Nachrichten, 17.03.1959; https://opendata.swiss/de/dataset/stadtplan-1967. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>127 StABS, BSL 1016 1-10 Franco-Suisse, Edition photo, Bern</p>
-<p>128 Quelle: https://www.statistik.bs.ch/zahlen/ statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>128 Quelle: https://www.statistik.bs.ch/zahlen/statistisches-jahrbuch/pdf-archiv.html. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>129 StABS, BSL 1045i 12-31</p>
 <p>130 108623184/Keystone</p>
 <p>131 MKB, VI 15186.03, Bild 1385</p>
@@ -1919,55 +1920,21 @@ date-modified: last-modified
 <p>Zweiter Weltkrieg 47–62, 67, 69, 83, 98, 110, 129, 140–142, 144, 145, 150, 154, 156, 158, 165, 167, 174, 183, 184, 196, 214, 223, 228, 232, 282, 283, 287</p>
 <h2>Autorinnen und Autoren</h2>
 <h3>Céline Angehrn</h3>
-<p>Geboren 1986. Studium der Geschichte und Deutschen Philologie in Basel und Bielefeld. Promo</p>
-<p>tion 2017 zum Thema Feminismus und Berufsberatung. Visiting Scholar an der Rutgers University</p>
-<p>in New Jersey, USA. Berufliche Tätigkeit in den Bereichen Lektorat, Korrektorat und Kommunika</p>
-<p>tion, Assistentin und Dozentin im Bereich Neuere und Neueste Geschichte an der Universität</p>
-<p>Basel, Mitarbeiterin bei und Koordinatorin für Stadt.Geschichte.Basel. Seit 2023 Leitung Abtei</p>
-<p>lung Benutzung Staatsarchiv Basel-Stadt.</p>
+<p>Geboren 1986. Studium der Geschichte und Deutschen Philologie in Basel und Bielefeld. Promotion 2017 zum Thema Feminismus und Berufsberatung. Visiting Scholar an der Rutgers University in New Jersey, USA. Berufliche Tätigkeit in den Bereichen Lektorat, Korrektorat und Kommunikation, Assistentin und Dozentin im Bereich Neuere und Neueste Geschichte an der Universität Basel, Mitarbeiterin bei und Koordinatorin für Stadt.Geschichte.Basel. Seit 2023 Leitung Abteilung Benutzung Staatsarchiv Basel-Stadt.</p>
 <h3>Caroline Arni</h3>
-<p>Geboren 1970. Seit 2012 Professorin für Allgemeine Geschichte des 19. und 20. Jahrhunderts an der</p>
-<p>Universität Basel. Forscht und lehrt in der Sozial- und Kulturgeschichte, Frauen- und Geschlechter</p>
-<p>geschichte, Wissenschaftsgeschichte und Schweizer Geschichte. Forschungsaufenthalte in Paris,</p>
-<p>Princeton, Essen, Konstanz und Bielefeld. Autorin mehrerer Bücher, zuletzt: ‹Lauter Frauen. Zwölf</p>
-<p>historische Porträts› (Echtzeit Verlag, 2021) und ‹Of Human Born. Fetal Lives, 1800–1950› (Zone</p>
-<p>Books, 2024).</p>
+<p>Geboren 1970. Seit 2012 Professorin für Allgemeine Geschichte des 19. und 20. Jahrhunderts an der Universität Basel. Forscht und lehrt in der Sozial- und Kulturgeschichte, Frauen- und Geschlechtergeschichte, Wissenschaftsgeschichte und Schweizer Geschichte. Forschungsaufenthalte in Paris, Princeton, Essen, Konstanz und Bielefeld. Autorin mehrerer Bücher, zuletzt: ‹Lauter Frauen. Zwölf historische Porträts› (Echtzeit Verlag, 2021) und ‹Of Human Born. Fetal Lives, 1800–1950› (Zone Books, 2024).</p>
 <h3>Jennifer Burri</h3>
-<p>Geboren 1988. Studium der Geschichte und Geschlechterforschung in Basel und Wien. Promotion</p>
-<p>zur Geschichte der migrantischen Hausangestellten in Basel, 1930–1980. Weitere Forschungs</p>
-<p>arbeiten zur Geschichte der Prostitution und der Familie in der Schweiz.</p>
+<p>Geboren 1988. Studium der Geschichte und Geschlechterforschung in Basel und Wien. Promotion zur Geschichte der migrantischen Hausangestellten in Basel, 1930–1980. Weitere Forschungsarbeiten zur Geschichte der Prostitution und der Familie in der Schweiz.</p>
 <h3>Noëmi Crain Merz</h3>
-<p>Geboren 1976. Studium der Geschichte, Volkswirtschaft und Politikwissenschaft in Basel, Zürich</p>
-<p>und Bologna, Promotion zur Geschichte der Frauen im Widerstand gegen den italienischen Fa</p>
-<p>schismus. Bis 2022 wissenschaftliche Mitarbeiterin und Kuratorin am Schweizerischen National</p>
-<p>museum. Autorin und Mitherausgeberin mehrerer Ausstellungskataloge zur Schweizer Kultur- und</p>
-<p>Politikgeschichte. Dozentin im Bereich Neuere und Neueste Geschichte an der Universität Basel.</p>
+<p>Geboren 1976. Studium der Geschichte, Volkswirtschaft und Politikwissenschaft in Basel, Zürich und Bologna, Promotion zur Geschichte der Frauen im Widerstand gegen den italienischen Faschismus. Bis 2022 wissenschaftliche Mitarbeiterin und Kuratorin am Schweizerischen Nationalmuseum. Autorin und Mitherausgeberin mehrerer Ausstellungskataloge zur Schweizer Kultur- und Politikgeschichte. Dozentin im Bereich Neuere und Neueste Geschichte an der Universität Basel.</p>
 <h3>Flavio Häner</h3>
-<p>Geboren 1983. Studierte Kulturwissenschaft/Volkskunde und Geschichte in Basel und Maynooth</p>
-<p>(Irland). Promotion zur Museums- und Wissenschaftsgeschichte in Basel im 18. und 19. Jahrhundert.</p>
-<p>Von 2010 bis 2017 wissenschaftlicher Mitarbeiter im Pharmaziemuseum der Universität Basel. Von</p>
-<p>2017 bis 2023 Verantwortlicher Kulturgüterschutz in der Abteilung Kultur des Kantons Basel-Stadt.</p>
-<p>Seit 2023 in der Kantonalen Krisenorganisation Basel-Stadt zuständig für den Schutz kritischer</p>
-<p>Infrastrukturen.</p>
+<p>Geboren 1983. Studierte Kulturwissenschaft/Volkskunde und Geschichte in Basel und Maynooth (Irland). Promotion zur Museums- und Wissenschaftsgeschichte in Basel im 18. und 19. Jahrhundert. Von 2010 bis 2017 wissenschaftlicher Mitarbeiter im Pharmaziemuseum der Universität Basel. Von 2017 bis 2023 Verantwortlicher Kulturgüterschutz in der Abteilung Kultur des Kantons Basel-Stadt. Seit 2023 in der Kantonalen Krisenorganisation Basel-Stadt zuständig für den Schutz kritischer Infrastrukturen.</p>
 <h3>Isabel Koellreuter</h3>
-<p>Geboren 1974. Studierte Geschichte, Kunstgeschichte und Volkswirtschaft in Basel und Sala</p>
-<p>manca. Seit 2004 freischaffende Historikerin, seit 2010 Partnerin im Büro ‹Schürch &amp; Koellreuter,</p>
-<p>Kulturwissenschaft und Geschichte›. Entwicklung einer Vielzahl von Projekten im Bereich der</p>
-<p>Geschichtsvermittlung (Bücher, Spiele, Kulturstadtpläne, Online-Projekte und Filme); insbeson</p>
-<p>dere zur Geschichte Basels im 20. Jahrhundert.</p>
+<p>Geboren 1974. Studierte Geschichte, Kunstgeschichte und Volkswirtschaft in Basel und Salamanca. Seit 2004 freischaffende Historikerin, seit 2010 Partnerin im Büro ‹Schürch &amp; Koellreuter, Kulturwissenschaft und Geschichte›. Entwicklung einer Vielzahl von Projekten im Bereich der Geschichtsvermittlung (Bücher, Spiele, Kulturstadtpläne, Online-Projekte und Filme); insbesondere zur Geschichte Basels im 20. Jahrhundert.</p>
 <h3>Patrick Kury</h3>
-<p>Geboren 1962. Lehrt seit 2012 Neuere und Allgemeine Geschichte sowie Schweizer Geschichte</p>
-<p>des 19. und 20. Jahrhunderts an der Universität Luzern und seit 2014 an den Universitären Fern</p>
-<p>studien der Schweiz. Seit 2017 ist er zugleich Projektleiter von Stadt.Geschichte.Basel. Zahlreiche</p>
-<p>Publikationen, unter anderem zur Schweizer Geschichte und zur Regionalgeschichte Basels,</p>
-<p>zuletzt: ‹Storia svizzera delle migrazioni› (Dadò, 2022, zusammen mit André Holenstein und</p>
-<p>Kristina Schulz).</p>
+<p>Geboren 1962. Lehrt seit 2012 Neuere und Allgemeine Geschichte sowie Schweizer Geschichte des 19. und 20. Jahrhunderts an der Universität Luzern und seit 2014 an den Universitären Fernstudien der Schweiz. Seit 2017 ist er zugleich Projektleiter von Stadt.Geschichte.Basel. Zahlreiche Publikationen, unter anderem zur Schweizer Geschichte und zur Regionalgeschichte Basels, zuletzt: ‹Storia svizzera delle migrazioni› (Dadò, 2022, zusammen mit André Holenstein und Kristina Schulz).</p>
 <h3>Franziska Schürch</h3>
-<p>Geboren 1972. Studium der Theaterwissenschaft, Kulturwissenschaft/Volkskunde und Musikwis</p>
-<p>senschaft; Promotion im Fach Kulturwissenschaft. Seit 2010 Partnerin im Büro ‹Schürch &amp; Koell</p>
-<p>reuter, Kulturwissenschaft und Geschichte›. Entwicklung einer Vielzahl von Projekten im Bereich</p>
-<p>der Geschichtsvermittlung (Bücher, Spiele, Kulturstadtpläne, Online-Projekte und Filme); insbe</p>
-<p>sondere zur Geschichte Basels im 20. Jahrhundert.</p>
+<p>Geboren 1972. Studium der Theaterwissenschaft, Kulturwissenschaft/Volkskunde und Musikwissenschaft; Promotion im Fach Kulturwissenschaft. Seit 2010 Partnerin im Büro ‹Schürch &amp; Koellreuter, Kulturwissenschaft und Geschichte›. Entwicklung einer Vielzahl von Projekten im Bereich der Geschichtsvermittlung (Bücher, Spiele, Kulturstadtpläne, Online-Projekte und Filme); insbesondere zur Geschichte Basels im 20. Jahrhundert.</p>
 <h2>Dank</h2>
 <p>Dieser Band hat von der freundlichen Unterstützung und den wertvollen Hinweisen vieler fachkundiger Personen profitiert. Herzlich danken wir all jenen, die uns bei der Konzeption des Buches, bei der Sammlung und beim Abwägen von Ideen sowie beim Auffinden historischer Quellen mit Rat zur Seite standen und Teile des Manuskripts gelesen und kritisch kommentiert haben: Louanne Burkhardt, Esther Baur, Ina Boesch, Carlo Clivio, Bernard Degen, Tobias Ehrenbold, Hans Fässler, Andrea Franc, Lina Gafner, Claude Giger, Flavia Grossmann, Silas Gusset, Peter Habicht, Urs Hafner, Daniel Hagmann, Heiko Haumann, Mirco Kaempf, Yves Kugelmann, Robert Labhardt, Eva Locher, Stephanie Lovász, Christoph Manasse, Lukas Meier, Claudia Moddelmog, Beat Münch, Martin Möhle, Robert Neisen, Judit Pechr, Benedikt Pfister, Tilo Richter, Rolf Rieben, Markus Ritter, André Salvisberg, Martin Schaffner, Rolf Schlebach, Willi Schneider, Daniel Sidler, Claudius Sieber-Lehmann, Tobias Straumann, Nadine Stampfli, Sabine Strebel, Stephan Jon Tramèr, Urs Vogelbacher, Christian Weber, Hermann Wichers und Anina Zahn. Besonderer Dank geht an Irene Amstutz, Dorothee Huber, Georg Kreis, Patrick Kury, Martin Lüpold und Christian Simon für die sorgfältige Lektüre grosser Teile des Manuskripts sowie an Regina Wecker, die das gesamte Manuskript gelesen und kenntnisreich kommentiert hat. Unser Dank gilt auch dem Team von Stadt.Geschichte.Basel, der Projektleitung und dem Stiftungsrat für die gute und stets anregende Zusammenarbeit. Weiter danken wir allen Mitarbeiterinnen und Mitarbeitern von Archiven, Dokumentationsstellen und Organisationen, die uns kompetent beraten und uns die Materialien ihrer Institutionen zur Verfügung gestellt haben: allen Mitarbeitern und Mitarbeiterinnen des Staatsarchivs Basel-Stadt und des Schweizerischen Wirtschaftsarchivs, David Andreetti (Archiv Schnitzelbank-Comité), Regine Arakov (Steiner Schule Basel), Nana Badenberg (Rudolf Steiner Archiv), Alexander Bieri (Roche), Rolf Biondi (Basler Kantonalbank), Marcel Bitter (Plakatsammlung der Schule für Gestaltung Basel), Tabea Buri (Museum der Kulturen Basel), Walter Dettwiler (Novartis), Madeleine Girard (Museum.BL), David Marc Hoffmann (Rudolf Steiner Archiv), Andreas Kettner (Grundbuch- und Vermessungsamt Basel-Stadt), Philipp Messner (Plakatsammlung der Schule für Gestaltung Basel), Patrick Moser (Historisches Museum Basel), Patrick Moser (Basler Mission), Stefan Ospel (Archiv Rätz), Gudrun Piller (Historisches Museum Basel), Andrea Rhyn (Basler Mission), Margret Rippert (Historisches Museum Basel), Florence Roth (Museum der Kulturen Basel), Florence Wicker (Novartis). Als Zeitzeugen und Zeitzeuginnen standen uns folgende Personen für Auskünfte zur Verfügung, denen wir herzlich danken: René Bolliger, Bruno Mazzotti, Matthias Rapp, Margrit Spörri, Rolf Stöcklin. Für das sorgfältige Korrektorat danken wir Katharina Böhmer, für die gelungene Buchgestaltung Christoph Gysin und Katharina Marti von icona basel, für die Bildbeschaffung Cristina Münch und für die Erstellung der Infografiken Nico Görlich und Moritz Twente. An Iris Becher und Oliver Bolanz vom Christoph Merian Verlag geht unser Dank für die gute Zusammenarbeit bei der Buchproduktion.</p>
 </div>

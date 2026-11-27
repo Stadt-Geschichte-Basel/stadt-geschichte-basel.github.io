@@ -29,7 +29,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band9/chapter/361
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band9/86/973
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band9/86/1968
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -42,20 +42,21 @@ date-modified: last-modified
 ````{=html}
 <div class="sgb-chapter">
 <h2>Quellen- und Literaturverzeichnis</h2>
-<h3>Quellen Ungedruckte Quellen</h3>
+<h3>Quellen</h3>
+<h3>Ungedruckte Quellen</h3>
 <p><em>Amt für Umwelt und Energie, Basel-Stadt</em></p>
 <p>Umweltlabor: Probenahme Daten Klybeck seit 2019 (bis 2021, Forter), Excel-Datei, undatiert.</p>
 <p><em>Fernsehsendungen, Filme, Audioaufnahmen</em></p>
 <p>Berger, Urs (Reg.): Im Juni 1977 wurde den Mietern am unteren Rheinweg 44, 46, 48 und an der Florastrasse 36, 38, 40, 42, 44 die Wohnung gekündigt, Quartierfilmgruppe Kleinbasel, Basel 1977. Privatarchiv Berger.</p>
 <p>Berger, Urs (Reg.): Mir Bsetze – Die Geschichte eines Kampfes, Quartierfilmgruppe Kleinbasel, Basel 1979. Privatarchiv Berger.</p>
 <p>Dossier Gegenwart, Schweizer Fernsehen, 01.12.1972. Archiv SRG.</p>
-<p>«Eigennutz gegen Allgemeininteresse», Antenne, SRF, 30.05.1972, https://memobase.ch/ de/object/srf-029-3c8fd0b3-418d-444b-bb69-51703013aeb4_03, abgerufen am 25.03.2024.</p>
+<p>«Eigennutz gegen Allgemeininteresse», Antenne, SRF, 30.05.1972, https://memobase.ch/de/object/srf-029-3c8fd0b3-418d-444b-bb69-51703013aeb4_03, abgerufen am 25.03.2024.</p>
 <p>Köchlin, Michael (Prod.): Die Alte Stadtgärtnerei, Südwestfunk 1988.</p>
 <p>Manz, Reinhard; Gaçon, Claude (Videogenossenschaft Basel) (Reg.): Es herrscht wieder Frieden im Land, Basel 1981, Schweizerisches Sozialarchiv, Vid V 019.</p>
-<p>«Mit Gewalt oder Geschenken gegen illegale Besetzer?», Arena, SRF, 12.11.1993, https:// www.srf.ch/play/tv/arena/video/mit-gewalt-oder-geschenken-gegen-illegale-besetzer?urn=urn:srf:video:35675fa9-79d9-4151-85ed-649d2a1bd77b, abgerufen am 25.03.2024.</p>
+<p>«Mit Gewalt oder Geschenken gegen illegale Besetzer?», Arena, SRF, 12.11.1993, https://www.srf.ch/play/tv/arena/video/mit-gewalt-oder-geschenken-gegen-illegale-besetzer?urn=urn:srf:video:35675fa9-79d9-4151-85ed-649d2a1bd77b, abgerufen am 25.03.2024.</p>
 <p>N.N. (Reg.): Kurt Fahrner – Shinto Bérénice, 22. Mai 1965, Produktion unbekannt, Basel 1965, Privatarchiv Fahrner.</p>
 <p>«Pharmakonzern Novartis verkauft seinen Teil des Klybeckareals», Radio SRF, Regionaljournal Basel Basel-Land, Basel, 22.05.2019, https://www.srf.ch/news/industriebrache-entwickeln-pharmakonzern-novartis-verkauft-seinen-teil-des-klybeckareals, abgerufen am 23.12.2023.</p>
-<p>Zwick, Sus (Reg.): «Der Rest ist Risiko», 1987, Produktion: Videogenossenschaft Basel, u-matic low band, Farbe, Auszüge 7 Min., Originalfassung 28 Min, Videosammlung Stadt in Bewegung, Schweizerisches Sozialarchiv und Memoriav, https://www.rebelvideo.ch/ portraits/sus-zwick/der-rest-ist-risiko/, abgerufen am 31.12.2023.</p>
+<p>Zwick, Sus (Reg.): «Der Rest ist Risiko», 1987, Produktion: Videogenossenschaft Basel, u-matic low band, Farbe, Auszüge 7 Min., Originalfassung 28 Min, Videosammlung Stadt in Bewegung, Schweizerisches Sozialarchiv und Memoriav, https://www.rebelvideo.ch/portraits/sus-zwick/der-rest-ist-risiko/, abgerufen am 31.12.2023.</p>
 <p><em>Gesellschaft für das Gute und Gemeinnützige (GGG)</em></p>
 <p>Unterlagen zu Spectro-Machie, Unterlagen ohne Signaturen.</p>
 <p><em>Historisches Archiv der Settelen AG (Archiv Settelen)</em></p>
@@ -68,7 +69,7 @@ date-modified: last-modified
 <p>Atici, Mustafa: Interview geführt von Robert Labhardt und Niklaus Stettler, Basel, 22.01.2023.</p>
 <p>Demir, Yeter und Mahmut: Interview geführt von Robert Labhardt und Niklaus Stettler, Basel, 13.06.2023.</p>
 <p>Donath, Peter (ehemaliger Umweltchef bei Ciba SC): ‹Schweizerhalle› hatte keine nachhaltige Wirkung, Interview geführt von Martin Forter anlässlich 25 Jahre Grossbrand ‹Schweizerhalle›, Basel, 27.10.2011, https://martinforter.ch/#a27_10_2011, abgerufen am 23.12.2023.</p>
-<p>Gürtler, Pierre, Interview geführt von Ilona Genoni, in: Das Oral History Archiv der zeitgenössischen Kunst und Architektur (OHA), Institut für Geschichte und Theorie der Architektur, https://www.oralhistoryarchiv.ch/ assets/docs/interviews/Pierre_Guertler_ 17072007.pdf, abgerufen am 25.03.2024.</p>
+<p>Gürtler, Pierre, Interview geführt von Ilona Genoni, in: Das Oral History Archiv der zeitgenössischen Kunst und Architektur (OHA), Institut für Geschichte und Theorie der Architektur, https://www.oralhistoryarchiv.ch/assets/docs/interviews/Pierre_Guertler_17072007.pdf, abgerufen am 25.03.2024.</p>
 <p>Mercan, Mahmut und Andrea: Interview geführt von Robert Labhardt und Niklaus Stettler, Basel, 24.02.2023.</p>
 <p><em>Landesarchiv Baden-Württemberg</em></p>
 <p>Landesarchiv Baden-Württemberg, Hauptstaatsarchiv Stuttgart, N 100 Nr. 326, Bild 2.</p>
@@ -83,7 +84,7 @@ date-modified: last-modified
 <p>SWA, H+I H 6, Süddeutsche Immobilien-Gesellschaft, Mainz, Basler Terrain-Geschäft (Gundeldinger-Quartier, Dokumentensammlung), 1874–1886.</p>
 <p>SWA, H+I H 9, Dokumentensammlung Neue Gundoldinger Terrain-Gesellschaft, 1886–1901.</p>
 <p>SWA, HS 198 G, Firmenarchiv Compagnie des Eaux de Skutari et Kadi-Keui Société Anonyme à Bâle, Geschäftsberichte, 1894–1902.</p>
-<p>SWA, PA 575 a C 1, Jahresberichte Basler Handelskammer (BHK JB), 1919–1923, https://doi. org/10.7891/e-manuscripta-100634.</p>
+<p>SWA, PA 575 a C 1, Jahresberichte Basler Handelskammer (BHK JB), 1919–1923, https://doi.org/10.7891/e-manuscripta-100634.</p>
 <p>SWA, PA 575 a D 1, BHK PB 1876–1904, Statut Handels- und Industrieverein Basel, 1874.</p>
 <p><em>Staatsarchiv Basel-Landschaft (StABL)</em></p>
 <p>StABL, NA 2067, Aviatik C 5 Flugplatzprojekt Hard C, 1935–1942.</p>
@@ -189,7 +190,7 @@ date-modified: last-modified
 <p>SAB, 1099 0 19, 13.07.1887.</p>
 <p><em>Umwelt-, Verkehrs- und Energiekommission des Grossen Rates Basel-Stadt (UVEK)</em></p>
 <p>Bericht der UVEK zum Bericht zur kantonalen Volksinitiative «für ein gesundes Stadtklima (Gute-Luft-Initiative)», 02.06.2023 und Ratschlag zum Gegenvorschlag, https://grosserrat.bs.ch/medien/news/web-mitteilungen/1467-stadtklima-initiativen-uvek-je-mit-mehr-und-minderheitsantrag, abgerufen am 13.09.2024.</p>
-<p>UVEK, Bericht der Kommissionsminderheit, 21.1249.03, 31.05.2023, https://grosserrat.bs. ch/dokumente/100404/000000404879.pdf.</p>
+<p>UVEK, Bericht der Kommissionsminderheit, 21.1249.03, 31.05.2023, https://grosserrat.bs.ch/dokumente/100404/000000404879.pdf.</p>
 <p><em>Universitätsbibliothek Basel</em></p>
 <p>Meyer, Daniel: Gründtliche und actenmaessige Beschreibung der innerlichen Unruhen welche in den Jahren 1690 u. 1691 in einer lobl. Stadt Basel gewütet, nebst Dr. Jakob Henric Petri Basel Babel und sein hernach wieder die Stadt geführter Process, Basel 1773, S. 452, UBH, H IV 3, https://www.e-manuscripta.ch/bau/content/pagetext/407 1396, abgerufen am 01.05.2024.</p>
 <h3>Gedruckte Quellen</h3>
@@ -258,13 +259,13 @@ date-modified: last-modified
 <p>Pettenkofer, Max von: Verbreitung der Cholera in Indien. Ergebnisse der neuesten aetiologischen Untersuchungen in Indien, Braunschweig 1871.</p>
 <p>Reese, Heinrich: Die bauliche Entwicklung Basels von 1881–1897. Vortrag gehalten am 26. Sept. 1897 an der Hauptversammlung des schweizerischen Ingenieur- und Architekten-Vereins zu Basel, Zürich 1897.</p>
 <p>Salathin, Hubert E.: Boden- und Wohnverhältnisse in Basel. Eine Untersuchung über die Entwicklung der modernen Stadterweiterung unter dem liberalen Wirtschaftssystem und im Übergang zur planmässig gestaltenden Stadtbaupolitik, Basel 1942.</p>
-<p>Schuhmacher, A.: Der Basler Korrektionsplan, in: Das Werk 20 (11), 1933, S. 345–350, https:// www.e-periodica.ch/digbib/view?pid= wbw-002%3A1933%3A20%3A%3A3 #879, abgerufen am 09.09.2024.</p>
+<p>Schuhmacher, A.: Der Basler Korrektionsplan, in: Das Werk 20 (11), 1933, S. 345–350, https://www.e-periodica.ch/digbib/view?pid=wbw-002%3A1933%3A20%3A%3A3 #879, abgerufen am 09.09.2024.</p>
 <p>Siegfried, Traugott: Das Wirtshaus. Von der Gemeinnützigen Gesellschaft der Stadt Basel ausgeschriebene und gekrönte Preisschrift, Basel 1881.</p>
 <p>Simmel, Georg: Soziologie des Raums, in: Jahrbuch für Gesetzgebung, Verwaltung und Volkswirtschaft im Deutschen Reich 27, Bd. 1, Leipzig 1903, S. 27–71 (zit. nach: Georg Simmel online, Soziologisches Institut der Universität, Zürich, S. 3).</p>
 <p>Speiser-Sarasin, Paul: Erinnerungen aus meiner öffentlichen Tätigkeit von 1875–1919, Basel 1935.</p>
 <p>Stadler, Beat; Bohren, Ueli; Steiner, Klaus u. a.: Gegen die Zerstörung von günstigem Wohnraum in Basel, Diplomarbeitsgruppe der Schule für Sozialarbeit Basel, Basel 1980.</p>
 <p>Stibler, Linda: Fünfzig Jahre nach 1968 – ein Jubiläum?, in: Basler Stadtbuch, Dossier 2018, http://www.baslerstadtbuch.ch/dossier/2018/2018-06.html.</p>
-<p>Stockmeyer, Immanuel: Glockenstimmen. Predigten über die Inschriften der 6 neuen 10.3931/e-rara-77459.</p>
+<p>Stockmeyer, Immanuel: Glockenstimmen. Predigten über die Inschriften der 6 neuen Münsterglocken, Basel 1873, https://doi.org/10.3931/e-rara-77459.</p>
 <p>Streckeisen, Karl: Bericht an E. E. Sanitäts-Collegium von Baselstadt über einige statistische Verhältnisse der in den Jahren 1865 und 1866 die Stadt Basel durchseuchenden Typhus-Epidemie, Basel 1868.</p>
 <p>Suter, Kurt (Hg.): Brand in Pratteln. Ausstellung &amp; Theater am Originalschauplatz, Ausstellungskatalog, Pratteln 2008.</p>
 <p>Vetter, Johann: Die Schiffart, Flötzerei und Fischerei auf dem Oberrhein (Schaffhausen-Basel) sowie: Geschichte der alten Schiffergesellschaften genannt «Rhein-Genossenschaft» und «Laufenknechte», mit Beigabe der darauf bezüglichen Urkunden, Karlsruhe 1864.</p>
@@ -296,13 +297,13 @@ date-modified: last-modified
 <p>Handelszeitung.</p>
 <p>Heitz, Dominik; Holenstein, Stefan: Türkische Bazars mit Videos und Gondeln, in: BaZ, 28.12.1991.</p>
 <p>Janett, Jachen; Platz, Christian: Raumschiff Schlotterbeck, in: Basler Magazin. Politisch-kulturelle Wochenend-Beilage der BaZ 102 (18), 02.05.1992.</p>
-<p>Jirát, Jan: Und plötzlich war die Villa ganz weg, in: WoZ, 21.02.2013, https://www.woz.ch/ 1308/basel/und-ploetzlich-war-die-villa-ganz-weg, abgerufen am 25.03.2024.</p>
+<p>Jirát, Jan: Und plötzlich war die Villa ganz weg, in: WoZ, 21.02.2013, https://www.woz.ch/1308/basel/und-ploetzlich-war-die-villa-ganz-weg, abgerufen am 25.03.2024.</p>
 <p>Maaran, Jeannine: Mütter im Schatten, in: Schweizer Illustrierte Zeitung 24 (19), 08.05.1935, S. 599.</p>
 <p>-minu [Hans-Peter Hammel]: Spectro neu eröffnet, in: NZ, 18.01.1971.</p>
 <p>National-Zeitung (NZ).</p>
 <p>Neue Zürcher Zeitung (NZZ).</p>
 <p>Reese, Heinrich: Die bauliche Entwickelung Basels von 1881–1897, in: Schweizerische Bauzeitung 1897, Heft 14, 15, 16, 17.</p>
-<p>Rosch, Benjamin: Wagenplatz-Räumung: Vertraulicher Vertrag zeigt Taktik der Stadt, in: bz Basel, 25.03.2015. https://www.bzbasel. ch/basel/basel-stadt/wagenplatz-raumung-vertraulicher-vertrag-zeigt-taktik-der-stadt-ld.1682486, abgerufen am 25.03.2024.</p>
+<p>Rosch, Benjamin: Wagenplatz-Räumung: Vertraulicher Vertrag zeigt Taktik der Stadt, in: bz Basel, 25.03.2015. https://www.bzbasel.ch/basel/basel-stadt/wagenplatz-raumung-vertraulicher-vertrag-zeigt-taktik-der-stadt-ld.1682486, abgerufen am 25.03.2024.</p>
 <p>Schweizerische Bauzeitung.</p>
 <p>Schweizer Grenzpost und Tagblatt der Stadt Basel.</p>
 <p>Schweizer Volksfreund und Anzeigenblatt der Stadt Basel.</p>
@@ -315,21 +316,21 @@ date-modified: last-modified
 <p>Verein Informationsstelle Türkei: Merhaba. Zeitschrift über die Migration aus der Türkei, Basel 1984–1992.</p>
 <p>Vock, Anna (Hg.): Schweizerisches Freundschafts-Banner, in: Zürich 2 (13), 1934.</p>
 <p>Vonmont, Anita: Was das untere Kleinbasel am meisten belastet, in: BaZ, 16.09.1998.</p>
-<p>Walter, Hans-Jörg: Im Schlotterbeck bestimmten jene, die was unternehmen wollten, in: TagesWoche, 05.10.2015, https://www. tageswoche.ch/gesellschaft/im-schlotterbeck-bestimmten-jene-die-was-unternehmen-wollten/index.html, abgerufen am 25.03.2024.</p>
+<p>Walter, Hans-Jörg: Im Schlotterbeck bestimmten jene, die was unternehmen wollten, in: TagesWoche, 05.10.2015, https://www.tageswoche.ch/gesellschaft/im-schlotterbeck-bestimmten-jene-die-was-unternehmen-wollten/index.html, abgerufen am 25.03.2024.</p>
 <p>Die Wochenzeitung (WoZ).</p>
 <p>Wunderle, Karl: Was Basler Frauen von ihrer Küche halten. Eine Umfrage der Wirtschaftskommission der Basler Frauenzentrale, in: Wirtschaft und Verwaltung 22 (1), 1963, S. 7–38.</p>
 <p>Z.: Vom dunklen Basel, in: NZ, 22.09.1916.</p>
 <h3>Online-Quellen</h3>
 <p>Baldner, Leonhard: Vogel-, Fisch- und Thierbuch, Strassburg 1666, https://orka.bibliothek.uni-kassel.de/viewer/image/1343 227732549/1/, abgerufen am 10.10.2023.</p>
 <p>Chronik, Basler Jahrbuch (ab 1960: Basler Stadtbuch), www.baslerstadtbuch.ch.</p>
-<p>Glatt, Anita: Über den Beitrag der Stadtplanung an einen gleichberechtigten und sicheren Zugang zum öffentlichen Raum. Vortrag zum 10-jährigen Jubiläum des Frauenstadtrundgangs Basel, Basel 22.01.1999, https:// www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc= s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved =2ahUKEwiT0-rVk7ODAxXZiv0HHRRhBFs QFnoECBEQAQ&amp;url=https%3A%2F%2Fzenodo.org%2Frecord%2F321634%2Ffiles%2FReferat_FemmesTour_221099.pdf% 3Fdownload%3D1&amp;usg=AOvVaw054ECseVGSxqw-mEc_91Pl&amp;opi=89978449, abgerufen am 30.11.2024.</p>
-<p>Grammatisch-Kritisches Wörterbuch der Hochdeutschen Mundart, Bd. 3, Leipzig 1793–1801, https://www.woerterbuchnetz. de/Adelung?lemid=O00201, abgerufen am 25.04.2024.</p>
+<p>Glatt, Anita: Über den Beitrag der Stadtplanung an einen gleichberechtigten und sicheren Zugang zum öffentlichen Raum. Vortrag zum 10-jährigen Jubiläum des Frauenstadtrundgangs Basel, Basel 22.01.1999, https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved =2ahUKEwiT0-rVk7ODAxXZiv0HHRRhBFs QFnoECBEQAQ&amp;url=https%3A%2F%2Fzenodo.org%2Frecord%2F321634%2Ffiles%2FReferat_FemmesTour_221099.pdf% 3Fdownload%3D1&amp;usg=AOvVaw054ECseVGSxqw-mEc_91Pl&amp;opi=89978449, abgerufen am 30.11.2024.</p>
+<p>Grammatisch-Kritisches Wörterbuch der Hochdeutschen Mundart, Bd. 3, Leipzig 1793–1801, https://www.woerterbuchnetz.de/Adelung?lemid=O00201, abgerufen am 25.04.2024.</p>
 <p>Grosser Rat BS, Petition P429 betreffend «Glocken Nachtruhe – für einen ruhigen Schlaf in Basel», Kommissionsbeschluss 14.06.2021, https://grosserrat.bs.ch/ratsbetrieb/geschaefte/200110689, 28.08.2024.</p>
-<p>Helvetia Sacra (HS), Basel 1972–2007, https:// www.helvetiasacra.ch.</p>
+<p>Helvetia Sacra (HS), Basel 1972–2007, https://www.helvetiasacra.ch.</p>
 <p>Idiotikon, Schweizerisches, https://www.idiotikon.ch.</p>
-<p>Koellreuter, Isabel: «Oben Schweiz und der Rest Ausland». Ein Arbeitsleben im Zollfreilager, https://www.dreispitz.ch/de/entdecken/firmenportraets/basler_freilager_ ag.html, abgerufen am 22.04.2024, und https://www.dreispitz.ch/de/entdecken/ historisches.html.</p>
-<p>Lexer, Matthias: Mittelhochdeutsches Handwörterbuch, Bd. 1, Leipzig 1872, https://www. woerterbuchnetz.de/Lexer.</p>
-<p>Systematische Gesetzessammlung Basel-Stadt, https://www.gesetzessammlung.bs.ch/app/ de/texts_of_law.</p>
+<p>Koellreuter, Isabel: «Oben Schweiz und der Rest Ausland». Ein Arbeitsleben im Zollfreilager, https://www.dreispitz.ch/de/entdecken/firmenportraets/basler_freilager_ag.html, abgerufen am 22.04.2024, und https://www.dreispitz.ch/de/entdecken/historisches.html.</p>
+<p>Lexer, Matthias: Mittelhochdeutsches Handwörterbuch, Bd. 1, Leipzig 1872, https://www.woerterbuchnetz.de/Lexer.</p>
+<p>Systematische Gesetzessammlung Basel-Stadt, https://www.gesetzessammlung.bs.ch/app/de/texts_of_law.</p>
 <p>abgerufen am</p>
 <h3>Literatur</h3>
 <p>Aeberhard, Beat: Die Basler Kulturmeile, in: Keller, Esther; Schibli, Sigfried: Stadt-Casino Basel. Gesellschaft, Musik und Kultur, Basel 2020, S. 144–161.</p>
@@ -339,7 +340,7 @@ date-modified: last-modified
 <p>Andersen, Arne (Hg.): Perlon, Petticoats und Pestizide, Basel 1994.</p>
 <p>Angenendt, Arnold: Heilige und Reliquien. Die Geschichte ihres Kultes vom frühen Christentum bis zur Gegenwart, 2. Auflage, Hamburg 2007.</p>
 <p>Appenzeller, Stephan: Basel und sein Tram. Die Geschichte der Basler Verkehrs-Betriebe, Basel 1995.</p>
-<p>Aregger, Hans: Wie möchte der Industriearbeiter wohnen?, in: Plan. Zeitschrift für Planen, Energie, Kommunalwesen und Umwelttechnik = revue suisse d’urbanisme 12 (9–10), 1955, 783195.</p>
+<p>Aregger, Hans: Wie möchte der Industriearbeiter wohnen?, in: Plan. Zeitschrift für Planen, Energie, Kommunalwesen und Umwelttechnik = revue suisse d’urbanisme 12 (9–10), 1955, S. 169–187, https://doi.org/10.5169/seals-783195.</p>
 <p>Argast, Regula: Von Dörräpfeln und Netzwerken. 80 Jahre Frauenzentrale Basel – 1916–1996, Basel 1997.</p>
 <p>Arnold, John H.; Goodson, Caroline: Resounding Community. The History and Meaning of Medieval Church Bells, in: Viator 43, 2012, S. 99–130.</p>
 <p>Asligül, Aysel: Vom ‹Gastarbeiter› zum ‹Deutschtürken›? Studien zum Wandel türkischer Lebenswelten in Duisburg, Baden-Baden 2018.</p>
@@ -372,14 +373,14 @@ date-modified: last-modified
 <p>Boerlin-Brodbeck, Yvonne: Vermessene Landschaft? Zur Landschaft in Zeichnung und Malerei um 1800, in: Gugerli, David (Hg.): Vermessene Landschaften. Kulturgeschichte und technische Praxis im 19. und 20. Jahrhundert, Zürich 1999, S. 113–124.</p>
 <p>Boerlin-Brodbeck, Yvonne: Öffentliche Kunstförderung in Basel vom 16. bis zum 20. Jahrhundert, in: Kreis; von Wartburg 2000, S. 395–404.</p>
 <p>Boerlin-Brodbeck, Yvonne: Zur Rezeption der Chinoiserie in der deutschsprachigen Schweiz des Ancien Régime, in: Basler Zeitschrift für Geschichte und Altertumskunde 106, 2006, S. 155–198.</p>
-<p>Boerlin-Brodbeck, Yvonne: «Angenehme Veränderung». Zu den Phantasielandschaften Emanuel Büchels (1705–1775), in: Zeitschrift für schweizerische Archäologie und KunstSEALS-169778.</p>
+<p>Boerlin-Brodbeck, Yvonne: «Angenehme Veränderung». Zu den Phantasielandschaften Emanuel Büchels (1705–1775), in: Zeitschrift für schweizerische Archäologie und Kunstgeschichte 64, 2007, https://doi.org/10.5169/SEALS-169778.</p>
 <p>Briese, Olaf: Angst in den Zeiten der Cholera. Über kulturelle Ursprünge des Bakteriums, Seuchen-Cordon I, Berlin 2003.</p>
 <p>Brönnimann, David; Rentzel, Philippe: Naturraum, in: Lassau, Guido; Schwarz, Peter-Andrew (Hg.): Auf dem langen Weg zur Stadt. 50 000 v. Chr.–800 n. Chr. Stadt.Geschichte. Basel, Bd. 1, Basel 2024, S. 20–35.</p>
 <p>Brönnimann, Rolf: Basler Bauten 1860–1910, Basel; Stuttgart 1973.</p>
 <p>Bronfen, Elisabeth: Tiefer als der Tag gedacht. Eine Kulturgeschichte der Nacht, München 2008.</p>
 <p>Bühler, Theodor: Stadtautobahn oder Umfahrungsstrasse. Grundsätzliche Erörterungen zur zukünftigen Führung der Autobahnen im Raume Basel, Basel 1963.</p>
 <p>Bürgin, Alfred: Geschichte des Geigy-Unternehmens von 1758 bis 1939, Basel 1958.</p>
-<p>Bürgin, Edi: Lachs à la Bâloise, in: Basler Stadtbuch 1966, S. 155–163, https://www.baslerstadtbuch.ch/stadtbuch/1966/1966_1207. html.</p>
+<p>Bürgin, Edi: Lachs à la Bâloise, in: Basler Stadtbuch 1966, S. 155–163, https://www.baslerstadtbuch.ch/stadtbuch/1966/1966_1207.html.</p>
 <p>Bürgin, Matthias; Cabane, Philippe: Akupunktur für Basel. Zwischennutzung als Standortentwicklung auf dem Areal des DB-Güterbahnhofs in Basel, Basel 1999.</p>
 <p>Burckhardt, Gottlieb: Die Stadt Basel und ihre Nachbarstädte, Basler Heimatkunde, Bd. 2, Basel 1927.</p>
 <p>Burckhardt, Lucius: Die Altstadt in Gefahr in: Basler Studentenschaft 31 (1), Oktober 1949, S. 9–15.</p>
@@ -400,7 +401,7 @@ date-modified: last-modified
 <p>Corbin, Alain: Die Sprache der Glocken. Ländliche Gefühlskultur und symbolische Ordnung im Frankreich des 19. Jahrhunderts, Frankfurt a. M. 1995.</p>
 <p>Crampton, Jeremy W.: Cartographic calculations of territory, in: Progress in Human Geography 35 (1), 2010, S. 92–103.</p>
 <p>Cronjäger, Lisa: Umtriebszeiten. Forsteinrichtungskarten und die Umwandlung von Wäldern im 19. Jahrhundert, Göttingen 2025 (im Erscheinen).</p>
-<p>Cuénod, Tim: Das kurze «goldene Jahrzehnt» der Basler Baugenossenschaften und die politischen Auseinandersetzungen um die Wohnraumspolitik 1943–1950, Lizentiatsarbeit, Universität Basel 2012, https://www. wbg-nordwestschweiz.ch/site/assets/files/ 8431/bluetezeit_der_wohnbaugenossenschaften_tim_cuenod.pdf, abgerufen am 05.09.2024.</p>
+<p>Cuénod, Tim: Das kurze «goldene Jahrzehnt» der Basler Baugenossenschaften und die politischen Auseinandersetzungen um die Wohnraumspolitik 1943–1950, Lizentiatsarbeit, Universität Basel 2012, https://www.wbg-nordwestschweiz.ch/site/assets/files/8431/bluetezeit_der_wohnbaugenossenschaften_tim_cuenod.pdf, abgerufen am 05.09.2024.</p>
 <p>Degen, Bernard: Arbeitsbeschaffung, sozialer Frieden und Denkmalpflege. Der Basler Arbeitsrappen (1936–1984), in: Traverse. Zeitschrift für Geschichte 3 (2), 1996, S. 64–83.</p>
 <p>Degler-Spengler, Brigitte; Christ, Dorothea A.: Basel, Klingental, in: Amacher, Urs; Andenmatten, Bernard; Arnet, Hélène u. a. (Bearb.): Die Dominikaner und Dominikanerinnen in der Schweiz, Basel 1999 (HS IV, 5/1), S. 530–583.</p>
 <p>Dinçkal, Noyan: Istanbul und das Wasser. Zur Geschichte der Wasserversorgung und Abwasserentsorgung von der Mitte des 19. Jahrhunderts bis 1966, München 2004.</p>
@@ -410,7 +411,7 @@ date-modified: last-modified
 <p>Egger, Franz: Zünfte und Gesellschaften in Basel, Historisches Museum Basel, Basel 2005.</p>
 <p>Ehret, Rebekka: Leitbild und Handlungskonzept des Regierungsrates zur Integrationspolitik des Kantons Basel-Stadt, Polizei und Militärdepartement des Kantons Basel-Stadt, Basel 1999.</p>
 <p>Elden, Stuart: Secure the volume. Vertical geopolitics and the depth of power, in: Political Geography, Vol. 34, 2013, S. 35–51.</p>
-<p>Engel, Alexander: Vom verdorbenen Spieler zum verdienstvollen Spekulanten. Ökonomisches Denken über Börsenspekulation im 19. Jahrhundert, in: Jahrbuch für Wirtschaftsgeschichte 54 (2), Berlin 2013, S. 49–2.49.</p>
+<p>Engel, Alexander: Vom verdorbenen Spieler zum verdienstvollen Spekulanten. Ökonomisches Denken über Börsenspekulation im 19. Jahrhundert, in: Jahrbuch für Wirtschaftsgeschichte 54 (2), Berlin 2013, S. 49–69, https://doi.org/10.1524/jbwg.2013.54.2.49.</p>
 <p>Enss, Carmen M.; Vinken, Gerhard (Hg.): Produkt Altstadt. Historische Stadtzentren in Städtebau und Denkmalpflege, Bielefeld 2016.</p>
 <p>Espahangizi, Kijan: Der Migration-Integration-Komplex: Wissenschaft und Politik in einem (Nicht-)Einwanderungsland, 1960–2010, Konstanz 2022.</p>
 <p>Evans, Richard J.: Tod in Hamburg. Stadt, Gesellschaft und Politik in den Cholera-Jahren 1830–1910, München 2022.</p>
@@ -431,7 +432,7 @@ date-modified: last-modified
 <p>Frei, August: Sechshundert Jahre E. E. Zunft zu Fischern in Basel 1354–1954 zur 600-Jahr-Feier der Zunft, Basel 1954.</p>
 <p>Freitag, Werner: Städtische Märkte in der mittelalterlichen und frühneuzeitlichen Stadt. Topographie, Funktionalität und symbolische Kommunikation, in: Morscher, Lukas; Scheutz, Martin; Schuster, Walter (Hg.): Orte der Stadt im Wandel vom Mittelalter zur Gegenwart. Treffpunkte, Verkehr und Fürsorge, Innsbruck u. a. 2013, S. 39–58.</p>
 <p>Frey, Robert: Das Fuhrwesen in Basel von 1682 bis 1848 mit besonderer Berücksichtigung der schweizerischen Fuhren. Ein Beitrag zur Verkehrsgeschichte der Schweiz, Basel 1932.</p>
-<p>Führer, Karl Christian: Der «Bodenspekulant» als Feindfigur der bundesdeutschen Gesellschaft. Steigende Bodenpreise und ihre Skandalisierung in den 1960er und 1970er Jahren, in: Jahrbuch für Wirtschaftsgeschichte 54 (2), Berlin 2013, S. 111–132, https:// doi.org/10.1524/jbwg.2013.54.2.111.</p>
+<p>Führer, Karl Christian: Der «Bodenspekulant» als Feindfigur der bundesdeutschen Gesellschaft. Steigende Bodenpreise und ihre Skandalisierung in den 1960er und 1970er Jahren, in: Jahrbuch für Wirtschaftsgeschichte 54 (2), Berlin 2013, S. 111–132, https://doi.org/10.1524/jbwg.2013.54.2.111.</p>
 <p>Führer, Karl Christian: Die Stadt, das Geld und der Markt. Immobilienspekulation in der Bundesrepublik 1960–1985, Berlin; Boston 2016.</p>
 <p>Gallusser, Werner A: Naturräumliche Struktur des rechtsrheinischen Nahbereiches von Basel, Mainz 1981.</p>
 <p>Gasser, Bruno: 40 Basler Künstler im Gespräch, Basel 1984.</p>
@@ -442,7 +443,7 @@ date-modified: last-modified
 <p>Giger, Claude: Wohnhilfe, in: Karlen, Rudolf (Hg.): Fluchtpunkte. Menschen im Exil, Basel 1986, S. 241–249.</p>
 <p>Gilomen, Hans-Jörg: Die Grundherrschaft des Basler Cluniazenser-Priorates St. Alban im Mittelalter. Ein Beitrag zur Wirtschaftsgeschichte am Oberrhein, Basel 1977.</p>
 <p>Gilomen-Schenkel, Elsanne; Christ, Dorothea A.: Basel, Klingental, in: Begrich, Ursula; Brunier, Isabelle; Brunold, Ursus u. a. (Bearb.): Die Augustiner-Chorherren und die Chorfrauen-Gemeinschaften in der Schweiz, Basel 2004 (HS IV/2), S. 61–72.</p>
-<p>Glauser, Fritz: Fluss und Siedlung, in: Geographica Helvetica 46 (2), 1991, S. 67–70, https:// doi.org/10.5194/gh-46-67-1991.</p>
+<p>Glauser, Fritz: Fluss und Siedlung, in: Geographica Helvetica 46 (2), 1991, S. 67–70, https://doi.org/10.5194/gh-46-67-1991.</p>
 <p>Gojan, Simone: Spielstätten der Schweiz. Historisches Handbuch. Zürich 1998.</p>
 <p>Golder, Eduard: Die Wiese, ein Fluss und seine Geschichte, Basel 1991.</p>
 <p>Graham, Stephen; Marvin, Simon: Splintering Urbanism. Networked Infrastructures, Technological Mobilities and the Urban Condition, London 2001.</p>
@@ -450,7 +451,7 @@ date-modified: last-modified
 <p>Groys, Boris: Über das Neue. Versuch einer Kulturökonomie, München 1992.</p>
 <p>Gruner, Georg: Die Basler Gewerbekanäle und ihre Geschichte, in: Basler Stadtbuch 1978, S. 23–42.</p>
 <p>Gruner, Georg: 125 Jahre Ingenieure Gruner in Basel, in: Schweizer Ingenieur und Architekt 125, 1987, S. 602–605.</p>
-<p>Gschwend, Lukas; Sutter, Pascale: Recht, Fischerei und Nachhaltigkeit im 15.–18. Jahrhundert = Droit, pêche et durabilité du XVe au XVIIIe siècle, Zürich 2023.</p>
+<p>Gschwend, Lukas; Sutter, Pascale: Recht, Fischerei und Nachhaltigkeit im 15.–18. Jahrhundert = Droit, pêche et durabilité du XVe au XVIII e siècle, Zürich 2023.</p>
 <p>Gschwind, Eva: Auf zur Urne! Direkte Demokratie in Basel von den Anfängen bis heute, Basel 2022.</p>
 <p>Gschwind, Franz: Bevölkerungsentwicklung und Wirtschaftsstruktur der Landschaft Basel im 18. Jahrhundert: Ein historisch-demographischer Beitrag zur Sozial- und Wirtschaftsgeschichte mit besonderer Berücksichtigung der langfristigen Bevölkerungsentwicklung von Stadt (seit 1100) und Landschaft (seit 1500) Basel, Liestal 1977.</p>
 <p>Gugerli, David: Redeströme. Zur Elektrifizierung der Schweiz, 1880–1914, Zürich 1996.</p>
@@ -503,8 +504,8 @@ date-modified: last-modified
 <p>Koschorke, Albrecht: Das Panorama. Die Anfänge der modernen Sensomotorik um 1800, in: Segeberg, Harro (Hg.): Die Mobilisierung des Sehens. Zur Vor- und Frühgeschichte des Films in Literatur und Kunst, München 1996, S. 147–168.</p>
 <p>Koslowski, Stefan: Stadttheater contra Schausteller. Zur Basler Theatergeschichte im 19. Jahrhundert, Zürich 1998.</p>
 <p>Koslowski, Stefan: Einleitung, in: Nationaler Kulturdialog (Hg.): Handbuch Kulturelle Teilhabe. Zürich; Genf 2019, S. 13–18.</p>
-<p>Kouril, Jana: Offspaces – Räume für Kunst, in: Basler Stadtbuch, Dossier 2019, https://www. baslerstadtbuch.ch/dossier/2019/2019-05. html.</p>
-<p>Kraushaar, Wolfgang: 1968 und Massenmedien, in: Archiv für Sozialgeschichte 41, 2001, S. 317–347, https://library.fes.de/jportal/ servlets/MCRFileNodeServlet/jportal_derivate_00023623/afs-2001-317.pdf, abgerufen am 25.03.2024.</p>
+<p>Kouril, Jana: Offspaces – Räume für Kunst, in: Basler Stadtbuch, Dossier 2019, https://www.baslerstadtbuch.ch/dossier/2019/2019-05.html.</p>
+<p>Kraushaar, Wolfgang: 1968 und Massenmedien, in: Archiv für Sozialgeschichte 41, 2001, S. 317–347, https://library.fes.de/jportal/servlets/MCRFileNodeServlet/jportal_derivate_00023623/afs-2001-317.pdf, abgerufen am 25.03.2024.</p>
 <p>Krebs, Marc: PopBasel. Musik und Subkultur, Basel 2009.</p>
 <p>Kreis, Georg: Aufbruch und Abbruch. Die ‹Entfestigung› der Stadt Basel, in: Gyr, Ueli (Hg.): Soll und Haben. Alltag und Lebensformen bürgerlicher Kultur, Zürich 1995, S. 213–228.</p>
 <p>Kreis, Georg: Die zweite Hälfte des 20. Jahrhunderts, in: Ders.; von Wartburg 2000, S. 267–312.</p>
@@ -516,7 +517,7 @@ date-modified: last-modified
 <p>Kümin, Beat (Hg.): Political Space in Pre-industrial Europe, Aldershot 2009.</p>
 <p>Kümin, Beat; Usborne, Cornelie: At Home and in the Workplace. A Historical Introduction to the ‹Spatial Turn›, in: History and Theory 52 (2), 2013, S. 305–318.</p>
 <p>Kuhn, Götz: Die Fischerei am Oberrhein. Geschichtliche Entwicklung und gegenwärtiger Stand, Stuttgart 1976.</p>
-<p>Kutter, Markus: 1691. Ergebnislos, aber folgenschwer, in: Basler Stadtbuch 1991, S. 45–48, http://www.baslerstadtbuch.ch/stadtbuch/ 1991/1991_2160.html.</p>
+<p>Kutter, Markus: 1691. Ergebnislos, aber folgenschwer, in: Basler Stadtbuch 1991, S. 45–48, http://www.baslerstadtbuch.ch/stadtbuch/1991/1991_2160.html.</p>
 <p>Lachenmeier, Dominik: Die Arena – Eine Gruppierung der Basler ‹68er-Bewegung› zwischen ‹etablierter› und ‹alternativer› Öffentlichkeit, Lizentiatsarbeit, Universität Basel 2002.</p>
 <p>Lampugnani, Vittorio Magnago; Albrecht, Katrin; Bihlmaier, Helene u. a. (Hg.): Manuale zum Städtebau. Die Systematisierung des Wissens von der Stadt 1870–1950, Berlin 2017.</p>
 <p>Lefebvre, Henri: Le droit à la ville, Paris 1968.</p>
@@ -556,7 +557,7 @@ date-modified: last-modified
 <p>Piñeiro, Esteban; Winzeler, Sereina: Gefährliche Kommunen, Mieterkampf und Autonome Jugendzentren. Dem professionellen betreuten Wohnen genealogisch auf der Spur, in: Dies. (Hg.): Wohnungsnot als gesellschaftlicher Konflikt. Alfred Kunz und die Gemeinnützige Stiftung Wohnhilfe Basel, Basel 2017, S. 23–143.</p>
 <p>Platz, Christian: Sommercasino am Ende? Das älteste Jugendhaus der Schweiz muss neu gedacht werden, in: JuAr Basel Magazin 2014, S. 30–35.</p>
 <p>Pliley, Jessica R.: Protecting the Young and the Innocent. Age, Consent, and the Enforcement of the White Slave Traffic Act, in: Duane, Anne Mae (Hg.): Childhood Slavery Before and After Emancipation, Cambridge 2017, S. 156–176.</p>
-<p>Priemel, Kim Christian: Spekulation als Gegenstand Historischer Forschung, in: Jahrbuch für Wirtschaftsgeschichte 54 (2), Berlin 2013, 54.2.9.</p>
+<p>Priemel, Kim Christian: Spekulation als Gegenstand Historischer Forschung, in: Jahrbuch für Wirtschaftsgeschichte 54 (2), Berlin 2013, S. 9–26, https://doi.org/10.1524/jbwg.2013.54.2.9.</p>
 <p>Raciti, Silvio: Konfliktgeladene Geselligkeit im Wirtshaus. Gewalt und Freizeitaktivitäten in Basler Gerichtsakten aus der ersten Hälfte des 19. Jahrhunderts, in: Hotz, Gerhard; Greyerz, Kaspar von; Burkart, Lucas (Hg.): Theo, der Pfeifenraucher. Leben in Kleinbasel um 1800, Basel 2010, S. 140–151.</p>
 <p>Radkau, Joachim, unter Mitarbeit von Ingrid Schäfer: Holz. Wie ein Naturstoff Geschichte schreibt, München 2018.</p>
 <p>Rau, Susanne: Das Wirtshaus. Zur Konstitution eines öffentlichen Raumes in der Frühen Neuzeit, in: Emmelius, Caroline (Hg.): Offen und Verborgen. Vorstellungen und Praktiken des Öffentlichen und Privaten in Mittalelter und Früher Neuzeit, Göttingen 2004, S. 211–227.</p>
@@ -578,7 +579,7 @@ date-modified: last-modified
 <p>Rosebrock, Tessa: «Wenn dat man gut geit». Wie Georg Schmidt die Moderne ans Kunstmuseum Basel holte, in: Kunstmuseum Basel (Hg.): Zerrissene Moderne. Die Basler Ankäufe ‹entarteter Kunst›, Berlin 2022, S. 139–157.</p>
 <p>Roskamm, Nikolai: Die unbesetzte Stadt. Postfundamentalistisches Denken und das urbanistische Feld, Basel; Berlin 2017.</p>
 <p>Rotzler, Willy: Erinnerungen an die ‹Gruppe 33›: Die Freunde, der ‹Club› und andere legendäre Treffpunkte, in: Höfliger-Griesser, Yvonne und Mitautoren: Gruppe 33, Basel 1983, S. 145–148.</p>
-<p>Rudin, Dominique: Video Heterotopia, Linksalternativer Videoaktivismus in der Schweiz 1970–1995, Dissertation, Universität Basel 4807.</p>
+<p>Rudin, Dominique: Video Heterotopia, Linksalternativer Videoaktivismus in der Schweiz 1970–1995, Dissertation, Universität Basel 2019, https://doi.org/10.5451/unibas-00710 4807.</p>
 <p>Ruhne, Renate: Raum Macht Geschlecht. Zur Soziologie eines Wirkungsgefüges am Beispiel von (Un)Sicherheiten im öffentlichen Raum, 2. Auflage, Wiesbaden 2011.</p>
 <p>Sarasin, Philipp: Stadt der Bürger. Bürgerliche Macht und städtische Gesellschaft. Basel 1846–1914, 2. Auflage, Göttingen 1997.</p>
 <p>Sarasin, Philipp: Reich, elitär und bescheiden, in: Kreis; von Wartburg 2000, S. 349–354.</p>
@@ -608,7 +609,7 @@ date-modified: last-modified
 <p>Schulz, Kristina; Schmitter, Leena; Kiani, Sarah: Frauenbewegung. Die Schweiz seit 1968 – Analysen, Dokumente, Archive, Baden 2014.</p>
 <p>Schuster, Meinrad: Ausländerinnen und Ausländer in Kleinbasel. Türkisch-kurdische Läden, in: Meles, Brigitte; Wartburg, Beat von (Red.): Leben in Kleinbasel 1392, 1892, 1992. Das Buch zum Jubiläum ‹600 Joor Glai- und Groossbasel zämme›, Basel 1992.</p>
 <p>Schutzbach, Franziska: Wider die weibliche Verfügbarkeit, München 2021.</p>
-<p>Schweizer, Eduard: Die Gewerbe am Kleinbasler Teich. 1. Teil, Die älteste Zeit bis zur Reformation, in: Basler Zeitschrift für Geschichte und Altertumskunde 26, 1927, S. 1–72, https:// doi.org/10.5169/SEALS-113861.</p>
+<p>Schweizer, Eduard: Die Gewerbe am Kleinbasler Teich. 1. Teil, Die älteste Zeit bis zur Reformation, in: Basler Zeitschrift für Geschichte und Altertumskunde 26, 1927, S. 1–72, https://doi.org/10.5169/SEALS-113861.</p>
 <p>Siebenhüner, Kim: The Art of Making Indienne. Knowing How to Dye in Eighteenth-Century Switzerland, in: Dies.; Jordon, John; Schopf, Gabi (Hg.): Cotton in Context. Manufacturing, Marketing, and Consuming Textiles in the German-Speaking World (1500–1900), Böhlau 2019, S. 145–170.</p>
 <p>Sieber-Lehmann, Claudius: Grenzen im spätmittelalterlichen Basel, in: Slanicka, Simona (Hg.): Begegnungen mit dem Mittelalter in Basel, Basel 2000, S. 185–207.</p>
 <p>Sieber-Lehmann, Claudius: Die Stadt Basel kauft 1522 Riehen – ein einfacher Satz, ein komplizierter Vorgang, in: Hess, Stefan (Hg.): Basel und Riehen, eine gemeinsame Geschichte, Basel 2021, S. 23–38.</p>
@@ -657,7 +658,7 @@ date-modified: last-modified
 <p>Wackernagel, Rudolf; Thommen, Rudolf (Hg.): Urkundenbuch der Stadt Basel (BUB), Bd. 2, Basel 1893.</p>
 <p>Wanner, Gustaf Adolf: Zunftkraft und Zunftstolz: [750 Jahre Basler Zünfte und Gesellschaften], Basel 1976.</p>
 <p>Weber, Alfred R.: Im Basler Münster 1650, Basel 1994.</p>
-<p>Weber, Dominic: Klassifizieren – Verknüpfen – Abbilden. Herausforderungen der digitalen Repräsentation hypertextueller Systeme am Beispiel des Klingentaler Jahrzeitenbuchs H, Masterarbeit, Universität Basel 2009, https:// github.com/DominicWeber/jahrzeitenbuch-h, abgerufen am 15.04.2024.</p>
+<p>Weber, Dominic: Klassifizieren – Verknüpfen – Abbilden. Herausforderungen der digitalen Repräsentation hypertextueller Systeme am Beispiel des Klingentaler Jahrzeitenbuchs H, Masterarbeit, Universität Basel 2009, https://github.com/DominicWeber/jahrzeitenbuch-h, abgerufen am 15.04.2024.</p>
 <p>Weber, Jakob: Der Gebruch des Wassers. Sozio-naturale Konstellationen mit dem Wasser der Wiese vor der minderen Stadt Basel im 15. Jhd., Masterarbeit, Universität Basel 2021.</p>
 <p>Wecker, Regina; Studer, Brigitte; Sutter, Gaby: Die «schutzbedürftige Frau». Zur Konstruktion von Geschlecht durch Mutterschaftsversicherung, Nachtarbeitsverbot und Sonderschutzgesetzgebungen, Zürich 2002.</p>
 <p>Weichler, Kurt: Die anderen Medien. Theorie und Praxis alternativer Kommunikation, Berlin 1987.</p>
@@ -668,7 +669,7 @@ date-modified: last-modified
 <p>Wielgohs, Jan: DDR – Regimekritische und politisch-alternative Akteure (1949–1990), in: Roth, Roland; Rucht, Dieter (Hg.): Die sozialen Bewegungen in Deutschland seit 1945. Ein Handbuch, Frankfurt a. M. 2008, S. 109–131.</p>
 <p>Wischermann, Clemens (Hg.): Tiere in der Stadt, Berlin 2009.</p>
 <p>Wolbert, Barbara: Der getötete Pass. Rückkehr in die Türkei, Berlin 1995.</p>
-<p>Würmli, Peter: Basler Wohngenossenschaften. Vorreiter und Pioniere, in: Akzent, Magazin für Kultur und Gesellschaft (5), 2013, S. 22–27,</p>
+<p>Würmli, Peter: Basler Wohngenossenschaften. Vorreiter und Pioniere, in: Akzent, Magazin für Kultur und Gesellschaft (5), 2013, S. 22–27, https://doi.org/10.5169/seals-843098.</p>
 <p>Wyss, Alfred: Basler Spuren zum Thema, in: Bauen in historisch wertvollen Bereichen – Kontinuität und Wagnis. ICOMOS-Kolloquium 86 vom 25. und 26. September 1986 in Basel, Winterthur 1987.</p>
 <p>Wyss, Alfred: Denkmalpflege in Basel. Zum 75jährigen Bestehen der Freiwilligen Basler Denkmalpflege, in: Jahresbericht der Freiwilligen Basler Denkmalpflege 1984–1987, Basel 1988, S. 23–37.</p>
 <p>Yesildeniz, Mustafa: Erwartungen, Wünsche und Träume der türkisch-kurdischen Migranten und ihre Realität, in: Wicker, Hans-Rudolf (Hg.): Türkei in der Schweiz? Beiträge zur Lebenssituation von türkischen und kurdischen Migranten und Flüchtlingen in der Fremde, Luzern 1993, S. 83–94.</p>
@@ -678,42 +679,42 @@ date-modified: last-modified
 <p>Zschokke, Friedrich: Der Lachs und seine Wanderungen, Stuttgart 1905.</p>
 <p>Zutavern, Julia: Politik des Bewegungsfilms, Marburg 2015.</p>
 <p><em>Webseiten und Online-Publikationen</em></p>
-<p>Basel-Stadt, Amt für Umwelt und Energie (AUE): Altlasten Klybeck – Historische Fakten im Überblick, Webpage des AUE, https:// www.aue.bs.ch/altlasten/klybeck/historische-fakten.html, abgerufen am 23.12.2023.</p>
+<p>Basel-Stadt, Amt für Umwelt und Energie (AUE): Altlasten Klybeck – Historische Fakten im Überblick, Webpage des AUE, https://www.aue.bs.ch/altlasten/klybeck/historische-fakten.html, abgerufen am 23.12.2023.</p>
 <p>Basler Muslim Kommission, Islamische Bestattung, http://www.bmk-online.ch/bestattungen.html, abgerufen am 04.12.2023.</p>
-<p>Baumeister, Miriam: Gammler, Rocker, Kommunarden – Notschlafstellen für Jugendliche in Basel, Webseite stadt.geschichte. basel, 28.08.2019, https://www.stadtgeschichtebasel.ch/index/geschichten/2019-2022/01/gammler_rocker_kommunarden. html, abgerufen am 11.07.2024.</p>
+<p>Baumeister, Miriam: Gammler, Rocker, Kommunarden – Notschlafstellen für Jugendliche in Basel, Webseite stadt.geschichte. basel, 28.08.2019, https://www.stadtgeschichtebasel.ch/index/geschichten/2019-2022/01/gammler_rocker_kommunarden.html, abgerufen am 11.07.2024.</p>
 <p>Ciba SC: Abschätzung der Abwasser-Mengen/ lnhaltsstoffe Areal 3, Ciba SC-interner Bericht, Basel, 1999, https://www.aefu.ch/cibasc_versickerungen, abgerufen am 23.12.2023.</p>
-<p>Ciba-Geigy: Werk Klybeck Basel, Situation Kanalisation WAI (später WAR), Sanierungen Areal 3/6, firmeninterner Plan, 8.1982, https:// www.aefu.ch/cigy_karte_kanalisation, abgerufen am 23.12.2023.</p>
-<p>Ciba-Geigy; CSD: Figur 71: Altlasten, firmen-interner Plan, aus: Werk Klybeck Basel, Grundwasser, hydrogeologischer und hydrochemischer Bericht, Kompilation, 1988, https:// www.aefu.ch/cigy_altlasten_klybeck, abgerufen am 23.12.2023.</p>
+<p>Ciba-Geigy: Werk Klybeck Basel, Situation Kanalisation WAI (später WAR), Sanierungen Areal 3/6, firmeninterner Plan, 8.1982, https://www.aefu.ch/cigy_karte_kanalisation, abgerufen am 23.12.2023.</p>
+<p>Ciba-Geigy; CSD: Figur 71: Altlasten, firmen-interner Plan, aus: Werk Klybeck Basel, Grundwasser, hydrogeologischer und hydrochemischer Bericht, Kompilation, 1988, https://www.aefu.ch/cigy_altlasten_klybeck, abgerufen am 23.12.2023.</p>
 <p>Degen, Bernard: Thomi + Franck, Historisches Lexikon der Schweiz, 29.10.2013, https://hls-dhs-dss.ch/de/articles/041901/2013-10-29/, abgerufen am 28.07.2024.</p>
 <p>Degen, Bernard; d’Aujourd’hui, Rolf; Meyer, Werner u. a.: Basel-Stadt, Historisches Lexikon der Schweiz, 30.05.2017, https://hls-dhs-dss.ch/de/articles/007478/2017-05-30/, abgerufen am 28.06.2022.</p>
-<p>Degen, Bernard; Tauber, Jürg; Meyer, Werner u. a.: Basel (Kanton), Historisches Lexikon der Schweiz, 13.01.2016, https://hls-dhs-dss. ch/de/articles/007387/2016-01-13/, abgerufen am 04.01.2024.</p>
-<p>EspaceSuisse. Schweizer Verband für Raumplanung (Hg.): densipedia.ch – Die Schweizer Plattform für Innenentwicklung und Verdichtung, https://www.densipedia.ch/ zwischennutzung-ntareal-basel-aktiv, abgerufen am 11.07.2024.</p>
-<p>Forter, Martin: Die BASF- und Novartis-Areale sowie Chemiemüll auf Allmend im Basler Stadtteil Klybeck: Stand der Untersuchung (historische und technische Untersuchungen 2000, 2003 und 2005 der BASF/Novartis-Fabrikareale 1, 2, 3/6 sowie Stand des Wissens zum Kinderspielplatz Ackermätteli, im Auftrag der Ärztinnen und Ärzte für Umweltschutz (AefU), Basel 21.05.2019, https:// www.aefu.ch/gutachten-klybeck, abgerufen am 23.12.2023.</p>
-<p>Forter, Martin: Benzidin: Wie Kantone das Ultragift aus den Augen verlieren, im Auftrag der Ärztinnen und Ärzte für Umweltschutz (AefU), Basel 22.03.2023, https://www.aefu. ch/benzidin_studie, 23.12.2023.</p>
-<p>‹50 Jahre habs›, in: Newsletter 151, Juli 2022, https://schwulengeschichte.ch/ueber-uns/ newsletter/2022/151-50-jahre-habs/, abgerufen am 11.07.2024.</p>
-<p>Furger, Andres: Carrosserie Heimburger in Basel, 2014a, https://independent.academia. edu/AndresFurger, abgerufen am 21.11.2023.</p>
-<p>Furger, Andres: Die Basler Carrosserie Kauffmann, Reinbolt, 2014b, https://independent. academia.edu/AndresFurger, abgerufen am 21.11.2023.</p>
+<p>Degen, Bernard; Tauber, Jürg; Meyer, Werner u. a.: Basel (Kanton), Historisches Lexikon der Schweiz, 13.01.2016, https://hls-dhs-dss.ch/de/articles/007387/2016-01-13/, abgerufen am 04.01.2024.</p>
+<p>EspaceSuisse. Schweizer Verband für Raumplanung (Hg.): densipedia.ch – Die Schweizer Plattform für Innenentwicklung und Verdichtung, https://www.densipedia.ch/zwischennutzung-ntareal-basel-aktiv, abgerufen am 11.07.2024.</p>
+<p>Forter, Martin: Die BASF- und Novartis-Areale sowie Chemiemüll auf Allmend im Basler Stadtteil Klybeck: Stand der Untersuchung (historische und technische Untersuchungen 2000, 2003 und 2005 der BASF/Novartis-Fabrikareale 1, 2, 3/6 sowie Stand des Wissens zum Kinderspielplatz Ackermätteli, im Auftrag der Ärztinnen und Ärzte für Umweltschutz (AefU), Basel 21.05.2019, https://www.aefu.ch/gutachten-klybeck, abgerufen am 23.12.2023.</p>
+<p>Forter, Martin: Benzidin: Wie Kantone das Ultragift aus den Augen verlieren, im Auftrag der Ärztinnen und Ärzte für Umweltschutz (AefU), Basel 22.03.2023, https://www.aefu.ch/benzidin_studie, 23.12.2023.</p>
+<p>‹50 Jahre habs›, in: Newsletter 151, Juli 2022, https://schwulengeschichte.ch/ueber-uns/newsletter/2022/151-50-jahre-habs/, abgerufen am 11.07.2024.</p>
+<p>Furger, Andres: Carrosserie Heimburger in Basel, 2014a, https://independent.academia.edu/AndresFurger, abgerufen am 21.11.2023.</p>
+<p>Furger, Andres: Die Basler Carrosserie Kauffmann, Reinbolt, 2014b, https://independent.academia.edu/AndresFurger, abgerufen am 21.11.2023.</p>
 <p>Furger, Andres: Wagenbau Kölz in Basel, 2014c, https://independent.academia.edu/AndresFurger, abgerufen am 21.11.2023.</p>
-<p>Furger, Andres: Kutschenbau in Basel im frühen 19. Jahrhundert. Die Zeichnungen von Samuel Fininger, 2014d, https://independent. academia.edu/AndresFurger, abgerufen am 21.11.2023.</p>
+<p>Furger, Andres: Kutschenbau in Basel im frühen 19. Jahrhundert. Die Zeichnungen von Samuel Fininger, 2014d, https://independent.academia.edu/AndresFurger, abgerufen am 21.11.2023.</p>
 <p>Gruner AG: https://www.gruner.ch/de/ueber-gruner/standorte, abgerufen am 25.08.2024.</p>
 <p>Hagmann, Daniel: Vom Suchen und Finden: Zuviel Lachs in Basel?, in: Blog des Staatsarchivs Basel-Stadt, 9. November 2015, https://blog.staatsarchiv-bs.ch/vom-suchen-und-finden-zuviel-lachs-in-basel/, abgerufen am 18.12.2023.</p>
-<p>Knechtli, Peter: Migranten sind Wahlerfolgs-Treiber der Basler Sozialdemokraten, in: OnlineReports, Basel, 11.05.2016, https://www. onlinereports.ch/News.109+M5c3ab19a2b 2.0.html, abgerufen am 11.04.24.</p>
+<p>Knechtli, Peter: Migranten sind Wahlerfolgs-Treiber der Basler Sozialdemokraten, in: OnlineReports, Basel, 11.05.2016, https://www.onlinereports.ch/News.109+M5c3ab19a2b 2.0.html, abgerufen am 11.04.24.</p>
 <p>‹Nein zum Rheintunnel›, https://neinzumrheintunnel.ch/, abgerufen am 25.04.2024.</p>
 <p>abgerufen am</p>
-<p>Novartis Live Magazin: Aufstieg und Niedergang der Farbenchemie, https://www.live. novartis.com/article/aufstieg-und-niedergang-der-farbenchemie1/aufstieg-und--niedergang-der--farbenchemie-1--1, abgerufen am 23.12.2023.</p>
-<p>Perler, André: «Rüti» und «Schwand» berichten vom historischen Kahlschlag, Blog zur Schweizer Geschichte – Schweizerisches Nationalmuseum, 01.07.2022, https://blog. nationalmuseum.ch/2022/07/rueti-und-schwand-berichten-vom-historischen-kahlschlag/, abgerufen am 14.07.2024.</p>
-<p>Rebmann, Roger Jean: Mythos Hülftenschanze – der 3. August 1833, https://altbasel.ch/ dossier/huelftenschanz_intro.html, abgerufen am 14.07.2024.</p>
+<p>Novartis Live Magazin: Aufstieg und Niedergang der Farbenchemie, https://www.live.novartis.com/article/aufstieg-und-niedergang-der-farbenchemie1/aufstieg-und--niedergang-der--farbenchemie-1--1, abgerufen am 23.12.2023.</p>
+<p>Perler, André: «Rüti» und «Schwand» berichten vom historischen Kahlschlag, Blog zur Schweizer Geschichte – Schweizerisches Nationalmuseum, 01.07.2022, https://blog.nationalmuseum.ch/2022/07/rueti-und-schwand-berichten-vom-historischen-kahlschlag/, abgerufen am 14.07.2024.</p>
+<p>Rebmann, Roger Jean: Mythos Hülftenschanze – der 3. August 1833, https://altbasel.ch/dossier/huelftenschanz_intro.html, abgerufen am 14.07.2024.</p>
 <p>Reflekt.ch: https://reflekt.ch/recherchen/wem-gehoert-basel/ (publ. 22.08.2021), abgerufen am 13.04.2024.</p>
-<p>Rosental Mitte; Immobilien Basel-Stadt: Startseite der Webpage, https://rosentalmitte. ch/, abgerufen am 23.12.2023.</p>
+<p>Rosental Mitte; Immobilien Basel-Stadt: Startseite der Webpage, https://rosentalmitte.ch/, abgerufen am 23.12.2023.</p>
 <p>Sarasin, Philipp: Prostitution, Historisches Lexikon der Schweiz, 14.12.2011, https://hls-dhs-dss.ch/de/articles/016559/2011-12-14/, abgerufen am 28.07.2024.</p>
 <p>Schenk, Britta-Marie: Eine Geschichte der Obdachlosigkeit im 19. und 20. Jahrhundert (2018), in: Aus Politik und Zeitgeschichte, https://www.bpb.de/apuz/270884/eine-geschichte-der-obdachlosigkeit-im-19-und-20-jahrhundert, abgerufen am 22.01.2022.</p>
-<p>Schweizerische Stiftung Pro Mente Sana (Hg.): Zwischen hier und dort – Migration und Psyche. In: Pro mente sana Aktuell 3, Zürich 2016, S. 26, https://promentesana.ch/assets/publications/PMS-aktuell/16_3_pms_ aktuell.pdf, abgerufen am 02.12.2023.</p>
+<p>Schweizerische Stiftung Pro Mente Sana (Hg.): Zwischen hier und dort – Migration und Psyche. In: Pro mente sana Aktuell 3, Zürich 2016, S. 26, https://promentesana.ch/assets/publications/PMS-aktuell/16_3_pms_aktuell.pdf, abgerufen am 02.12.2023.</p>
 <p>Tagungsbericht: Spekulation und Spekulanten in wissenschaftlicher Perspektive. Dimensionen eines umstrittenen Phänomens, 26.11.2010–27.11.2010 Hannover, in: H-Soz-Kult, 11.01.2011, www.hsozkult.de/conferencereport/id/tagungsberichte-3478, abgerufen am 13.04.2024.</p>
-<p>Wanner, Gustav Adolf: 50 Jahre Basler Zollfreilager 1922–1972, Basel 1972, https://www. dreispitz.ch/dreispitz/de/entdecken/historisches.html, abgerufen am 02.12.2024.</p>
+<p>Wanner, Gustav Adolf: 50 Jahre Basler Zollfreilager 1922–1972, Basel 1972, https://www.dreispitz.ch/dreispitz/de/entdecken/historisches.html, abgerufen am 02.12.2024.</p>
 <p>Watson (‹Umweltexperte›): Die Chemie-Branche hat nach dem Schweizerhalle-Brand wenig gelernt, 01.11.2016, https://www.watson.ch/schweiz/basel/340813965-umweltmanager-die-chemie-branche-hat-nach-dem-schweizerhalle-brand-wenig-gelernt, abgerufen am 23.12.2023.</p>
 <p>Wichers, Hermann: Sarasin, Karl, Historisches Lexikon der Schweiz, 08.12.2017, https://hls-dhs-dss.ch/de/articles/005911/2017-12-08/, abgerufen am 25.08.2024.</p>
-<p>Wunderlin, Dominik: Schweizerhalle, Historisches Lexikon der Schweiz, 14.11.2011, https:// hls-dhs-dss.ch/de/articles/007549/2011-11-14/, abgerufen am 08.07.2024.</p>
-<p>Yavas, Ayse; Fierz, Gaby: «Und dann fing das Leben an». Ausstellung (2022/23), https:// unddannfingdaslebenan.ch/, abgerufen am 29.10.2023.</p>
+<p>Wunderlin, Dominik: Schweizerhalle, Historisches Lexikon der Schweiz, 14.11.2011, https://hls-dhs-dss.ch/de/articles/007549/2011-11-14/, abgerufen am 08.07.2024.</p>
+<p>Yavas, Ayse; Fierz, Gaby: «Und dann fing das Leben an». Ausstellung (2022/23), https://unddannfingdaslebenan.ch/, abgerufen am 29.10.2023.</p>
 <h2>Bildnachweis</h2>
 <p>HMB Historisches Museum Basel</p>
 <p>HStAS Hauptstaatsarchiv Stuttgart</p>
@@ -1071,91 +1072,33 @@ date-modified: last-modified
 <p>Zurkinden, Irène (1909–1987) 135, 139</p>
 <p>Zwinger, Theodor (1597–1654) 32</p>
 <h2>Autorinnen und Autoren</h2>
-<p>Juri Auderset, geboren 1982, Dozent am Historischen Institut der Universität Bern und Co-Leiter</p>
-<p>Forschung im Archiv für Agrargeschichte in Bern. Publikationen unter anderem zum transatlanti</p>
-<p>schen Föderalismus 1787–1848 und zur Agrarfrage in der Industriegesellschaft.</p>
-<p>Markus Bardenheuer, geboren 1990, Studium der Geschichte in München und Leiden, Promotion</p>
-<p>in Basel zur frühmodernen Eidgenossenschaft. Gewerkschaftssekretär.</p>
-<p>Nathalie Baumann, geboren 1976, Studium der Geschichte und Germanistik in Basel. Arbeits</p>
-<p>felder Journalismus, Kulturprojekte, Ausstellungen und (Wissenschafts-)Kommunikation. Seit</p>
-<p>2020 Öffentlichkeitsarbeit und Programmkoordination an der Universitätsbibliothek Basel.</p>
-<p>Esther Baur, geboren 1959, Studium der Geschichte und Kunstgeschichte, seit 2007 Staatsarchi</p>
-<p>varin des Kantons Basel-Stadt. Publikationen zur historischen Fotografie und zur Geschichte</p>
-<p>des autobiografischen Schreibens von Frauen. Zusammen mit Lina Gafner Herausgeberin des</p>
-<p>vorliegenden Bandes.</p>
-<p>Alexandra Binnenkade, geboren 1969, PD Dr. für Neuere Allgemeine Geschichte an der Universität</p>
-<p>Basel.</p>
-<p>Jennifer Burri, geboren 1988, Studium der Geschichte und Genderforschung in Basel und Wien,</p>
-<p>Dissertation zu den migrantischen Hausangestellten in Basel, 1930–1980. Forschungen zur</p>
-<p>Geschichte der Familie und der Hausfrauen in der Schweiz. Freischaffende Historikerin (Burri</p>
-<p>Kuster Geschichte).</p>
-<p>Lisa Cronjäger, geboren 1992, Studium der Kultur- und Medienwissenschaften in Berlin und</p>
-<p>Helsinki, 2017–2023 Lehrauftrag am Seminar für Medienwissenschaft der Universität Basel, seit</p>
-<p>2024 Universität Lausanne. Dissertation zur Umwandlung von Wäldern im 19. Jahrhundert (Wall</p>
-<p>stein 2025).</p>
-<p>Martin Forter, geboren 1963, Dr. Geograf, dipl. Kommunikationswissenschaftler, Journalist BR</p>
-<p>und Autor, Geschäftsleiter der Ärztinnen und Ärzte für Umweltschutz sowie selbstständiger Alt</p>
-<p>lastenexperte, speziell der chemischen Industrie, insbesondere der Basler Chemie- und Pharma</p>
-<p>konzerne.</p>
-<p>Lina Gafner, geboren 1982, Studium der Geschichte, Philosophie und Deutschen Literatur sowie</p>
-<p>Promotion an der Universität Bern. 2017–2022 operative Co-Leitung der Stadt.Geschichte.Basel,</p>
-<p>ab 2022 Co-Direktion des Gosteli-Archivs zur Geschichte schweizerischer Frauenbewegungen.</p>
-<p>Zusammen mit Esther Baur Herausgeberin des vorliegenden Bandes.</p>
-<p>Mirjam Hähnle, geboren 1987, 2014–2022 wissenschaftliche Mitarbeit am Departement Ge</p>
-<p>schichte, 2021 Promotion an der Universität Basel. Seit 2022 am Deutschen Historischen Institut</p>
-<p>London, Habilitationsprojekt über urbane Natur in utopischen Projekten der Frühen Neuzeit.</p>
-<p>Yves Hänggi, geboren 1988, Dr. des., Mitarbeit am Departement Geschichte der Universität Basel</p>
-<p>und in der Abteilung Gleichstellung und Diversität des Kantons Basel-Stadt, wissenschaftliche</p>
-<p>Mitarbeit beim Schweizerischen Nationalfonds.</p>
-<p>Daniel Hagmann, geboren 1966, Dr. phil., Historiker und Erinnerungspfleger, Leiter Kommunika</p>
-<p>tion und Vermittlung am Staatsarchiv Basel-Stadt.</p>
-<p>Lea Katharina Kasper, geboren 1994, Studium der Geschichte und European Global Studies in</p>
-<p>Zürich und Basel, Doktorandin am Europainstitut der Universität Basel zum British Chamber of</p>
-<p>Commerce for Switzerland, 1920–1950, Doc.CH-Stipendiatin des SNF.</p>
-<p>Stefan Koslowski, geboren 1963, Promotion an der Universität Bern über Stadttheater und Schau</p>
-<p>stellungen im Basel des 19. Jahrhunderts. Unterricht an Universitäten und Fachhochschulen, seit</p>
-<p>2012 im Bundesamt für Kultur. Publikationen zu kulturgeschichtlichen und -politischen Themen.</p>
-<p>Daniel Krämer, geboren 1977, Studium der Geschichte, Medienwissenschaften und Politikwissen</p>
-<p>schaften an der Universität Bern, Dissertation zur Hungerkrise von 1816/17. Unter anderem Mit</p>
-<p>arbeit im Oeschger-Zentrum für Klimaforschung (OCCR) und in der Redaktion von ‹traverse›.</p>
-<p>Robert Labhardt, geboren 1947, Studium der Germanistik, Geschichte und Kunstgeschichte und</p>
-<p>Promotion. 35 Jahre Gymnasiallehrer, 2002–2010 Dozent für Fachdidaktik Geschichte. Diverse</p>
-<p>Publikationen zur Basler Geschichte, Mit-Initiator des Projekts Stadt.Geschichte.Basel.</p>
-<p>Sonja Matter, geboren 1976, PD Dr., Habilitation an der Universität Freiburg zur Geschichte des</p>
-<p>sexuellen Schutzalters. Forschungsschwerpunkte unter anderem Sozial- und Geschlechter</p>
-<p>geschichte des 19. und 20. Jahrhunderts, Direktorin des ‹Historischen Lexikons der Schweiz›.</p>
-<p>Claudia Moddelmog, geboren 1971, Promotion an der HU Berlin. Freie Historikerin, Publikationen</p>
-<p>unter anderem ‹Zürich 1218 – ferner Anfang der Gegenwart› (2018, https://www.stadt-zuerich.ch/</p>
-<p>de/aktuell/publikationen/2018/kl-schrift-12_zuerich-1218.html) und ‹Königsfelden. Königsmord,</p>
-<p>Kloster, Klinik› (Hier und Jetzt 2012).</p>
-<p>Barbara Orland, geboren 1955, bis 2022 Privatdozentin für Wissenschaftsforschung und Wissen</p>
-<p>schaftsgeschichte an der Universität Basel sowie Mitarbeiterin des Pharmaziemuseums. For</p>
-<p>schungen und Publikationen zur Geschichte der Life Sciences vom 17. Jahrhundert bis heute.</p>
-<p>Markus Ritter, geboren 1954, Biologe und freiberuflicher Historiker. 1986 Gründung der Grünen</p>
-<p>Partei (GAB) mit Lucius Burckhardt, 1987–2001 Bürgergemeinderat und Grossrat, 2000 Grossrats</p>
-<p>präsident, 2005–2018 Mitarbeit im Generalsekretariat des Justiz- und des Präsidialdepartements</p>
-<p>Basel-Stadt.</p>
-<p>Dominique Stéphane Rudin, geboren 1977, Studium der Geschichte und Germanistik in Basel,</p>
-<p>Promotion in Basel und Berlin zum linksalternativen urbanen Videoaktivismus der 1970er- und</p>
-<p>1980er-Jahre. Freiberuflicher Historiker und Co-Geschäftsführer einer Kulturagentur.</p>
-<p>Marcus Sandl, geboren 1967, Studium der Geschichte in Regensburg, Promotion in Giessen mit</p>
-<p>einer Arbeit zum ökonomischen Wissen im 18. Jahrhundert, Habilitation an der Universität Kons</p>
-<p>tanz. Assistenzprofessur in Zürich, Lehraufträge in Basel und Konstanz, freiberuflicher Historiker.</p>
-<p>Hans-Ulrich Schiedt, geboren 1958, Dr. phil. I, Historisches Institut der Universität Bern, Abt. Wirt</p>
-<p>schafts-, Sozial- und Umweltgeschichte; Archiv für Agrargeschichte, Bern; Stiftung für Verkehrs</p>
-<p>geschichte ViaStoria. Publikationen zur Agrargeschichte und zur historischen Raumforschung.</p>
-<p>Niklaus Stettler, geboren 1957, Studium der Geschichte und Soziologie mit Promotion, 2003–2022</p>
-<p>Professor, ab 2009 Leiter des Schweizerischen Instituts für Informationswissenschaft der FH Grau</p>
-<p>bünden. Co-Autor von ‹Baumwolle, Sklaven und Kredite› (Merian Verlag 2004).</p>
-<p>Yiğit Topkaya, geboren 1977, Studium der Geschichte und Philosophie unter anderem in Basel, 2011</p>
-<p>Promotion. Publikationen zur Basler und Schweizer Textilindustrie, zu Urbanisierung und Raum</p>
-<p>planung sowie zur Religions- und Reformationsgeschichte.</p>
-<p>Gerhard Vinken, geboren 1961, Prof. Dr., Kunsthistoriker, seit 2012 Inhaber des Lehrstuhls für</p>
-<p>Denkmalpflege an der Otto-Friedrich-Universität Bamberg. Gründungsmitglied des Bamberger</p>
-<p>Kompetenzzentrums für Denkmalpflege und Denkmalwissenschaften (KDWT).</p>
-<p>Jakob Weber, geboren 1992, Studium der Soziologie und Geschichte an der Universität Basel und</p>
-<p>der University of Warwick. Laufende Dissertation an der Universität Bern im Rahmen des SNF-</p>
-<p>Projekts ‹The Inheritance of Looting: Medieval Trophies to Modern Museums›.</p>
+<p>Juri Auderset, geboren 1982, Dozent am Historischen Institut der Universität Bern und Co-Leiter Forschung im Archiv für Agrargeschichte in Bern. Publikationen unter anderem zum transatlantischen Föderalismus 1787–1848 und zur Agrarfrage in der Industriegesellschaft.</p>
+<p>Markus Bardenheuer, geboren 1990, Studium der Geschichte in München und Leiden, Promotion in Basel zur frühmodernen Eidgenossenschaft. Gewerkschaftssekretär.</p>
+<p>Nathalie Baumann, geboren 1976, Studium der Geschichte und Germanistik in Basel. Arbeitsfelder Journalismus, Kulturprojekte, Ausstellungen und (Wissenschafts-)Kommunikation. Seit 2020 Öffentlichkeitsarbeit und Programmkoordination an der Universitätsbibliothek Basel.</p>
+<p>Esther Baur, geboren 1959, Studium der Geschichte und Kunstgeschichte, seit 2007 Staatsarchivarin des Kantons Basel-Stadt. Publikationen zur historischen Fotografie und zur Geschichte des autobiografischen Schreibens von Frauen. Zusammen mit Lina Gafner Herausgeberin des vorliegenden Bandes.</p>
+<p>Alexandra Binnenkade, geboren 1969, PD Dr. für Neuere Allgemeine Geschichte an der Universität Basel.</p>
+<p>Jennifer Burri, geboren 1988, Studium der Geschichte und Genderforschung in Basel und Wien, Dissertation zu den migrantischen Hausangestellten in Basel, 1930–1980. Forschungen zur Geschichte der Familie und der Hausfrauen in der Schweiz. Freischaffende Historikerin (Burri Kuster Geschichte).</p>
+<p>Lisa Cronjäger, geboren 1992, Studium der Kultur- und Medienwissenschaften in Berlin und Helsinki, 2017–2023 Lehrauftrag am Seminar für Medienwissenschaft der Universität Basel, seit 2024 Universität Lausanne. Dissertation zur Umwandlung von Wäldern im 19. Jahrhundert (Wallstein 2025).</p>
+<p>Martin Forter, geboren 1963, Dr. Geograf, dipl. Kommunikationswissenschaftler, Journalist BR und Autor, Geschäftsleiter der Ärztinnen und Ärzte für Umweltschutz sowie selbstständiger Altlastenexperte, speziell der chemischen Industrie, insbesondere der Basler Chemie- und Pharmakonzerne.</p>
+<p>Lina Gafner, geboren 1982, Studium der Geschichte, Philosophie und Deutschen Literatur sowie Promotion an der Universität Bern. 2017–2022 operative Co-Leitung der Stadt.Geschichte.Basel, ab 2022 Co-Direktion des Gosteli-Archivs zur Geschichte schweizerischer Frauenbewegungen. Zusammen mit Esther Baur Herausgeberin des vorliegenden Bandes.</p>
+<p>Mirjam Hähnle, geboren 1987, 2014–2022 wissenschaftliche Mitarbeit am Departement Geschichte, 2021 Promotion an der Universität Basel. Seit 2022 am Deutschen Historischen Institut London, Habilitationsprojekt über urbane Natur in utopischen Projekten der Frühen Neuzeit.</p>
+<p>Yves Hänggi, geboren 1988, Dr. des., Mitarbeit am Departement Geschichte der Universität Basel und in der Abteilung Gleichstellung und Diversität des Kantons Basel-Stadt, wissenschaftliche Mitarbeit beim Schweizerischen Nationalfonds.</p>
+<p>Daniel Hagmann, geboren 1966, Dr. phil., Historiker und Erinnerungspfleger, Leiter Kommunikation und Vermittlung am Staatsarchiv Basel-Stadt.</p>
+<p>Lea Katharina Kasper, geboren 1994, Studium der Geschichte und European Global Studies in Zürich und Basel, Doktorandin am Europainstitut der Universität Basel zum British Chamber of Commerce for Switzerland, 1920–1950, Doc.CH-Stipendiatin des SNF.</p>
+<p>Stefan Koslowski, geboren 1963, Promotion an der Universität Bern über Stadttheater und Schaustellungen im Basel des 19. Jahrhunderts. Unterricht an Universitäten und Fachhochschulen, seit 2012 im Bundesamt für Kultur. Publikationen zu kulturgeschichtlichen und -politischen Themen.</p>
+<p>Daniel Krämer, geboren 1977, Studium der Geschichte, Medienwissenschaften und Politikwissenschaften an der Universität Bern, Dissertation zur Hungerkrise von 1816/17. Unter anderem Mitarbeit im Oeschger-Zentrum für Klimaforschung (OCCR) und in der Redaktion von ‹traverse›.</p>
+<p>Robert Labhardt, geboren 1947, Studium der Germanistik, Geschichte und Kunstgeschichte und Promotion. 35 Jahre Gymnasiallehrer, 2002–2010 Dozent für Fachdidaktik Geschichte. Diverse Publikationen zur Basler Geschichte, Mit-Initiator des Projekts Stadt.Geschichte.Basel.</p>
+<p>Sonja Matter, geboren 1976, PD Dr., Habilitation an der Universität Freiburg zur Geschichte des sexuellen Schutzalters. Forschungsschwerpunkte unter anderem Sozial- und Geschlechtergeschichte des 19. und 20. Jahrhunderts, Direktorin des ‹Historischen Lexikons der Schweiz›.</p>
+<p>Claudia Moddelmog, geboren 1971, Promotion an der HU Berlin. Freie Historikerin, Publikationen unter anderem ‹Zürich 1218 – ferner Anfang der Gegenwart› (2018, https://www.stadt-zuerich.ch/de/aktuell/publikationen/2018/kl-schrift-12_zuerich-1218.html) und ‹Königsfelden. Königsmord, Kloster, Klinik› (Hier und Jetzt 2012).</p>
+<p>Barbara Orland, geboren 1955, bis 2022 Privatdozentin für Wissenschaftsforschung und Wissenschaftsgeschichte an der Universität Basel sowie Mitarbeiterin des Pharmaziemuseums. Forschungen und Publikationen zur Geschichte der Life Sciences vom 17. Jahrhundert bis heute.</p>
+<p>Markus Ritter, geboren 1954, Biologe und freiberuflicher Historiker. 1986 Gründung der Grünen Partei (GAB) mit Lucius Burckhardt, 1987–2001 Bürgergemeinderat und Grossrat, 2000 Grossratspräsident, 2005–2018 Mitarbeit im Generalsekretariat des Justiz- und des Präsidialdepartements Basel-Stadt.</p>
+<p>Dominique Stéphane Rudin, geboren 1977, Studium der Geschichte und Germanistik in Basel, Promotion in Basel und Berlin zum linksalternativen urbanen Videoaktivismus der 1970er- und 1980er-Jahre. Freiberuflicher Historiker und Co-Geschäftsführer einer Kulturagentur.</p>
+<p>Marcus Sandl, geboren 1967, Studium der Geschichte in Regensburg, Promotion in Giessen mit einer Arbeit zum ökonomischen Wissen im 18. Jahrhundert, Habilitation an der Universität Konstanz. Assistenzprofessur in Zürich, Lehraufträge in Basel und Konstanz, freiberuflicher Historiker.</p>
+<p>Hans-Ulrich Schiedt, geboren 1958, Dr. phil. I, Historisches Institut der Universität Bern, Abt. Wirtschafts-, Sozial- und Umweltgeschichte; Archiv für Agrargeschichte, Bern; Stiftung für Verkehrsgeschichte ViaStoria. Publikationen zur Agrargeschichte und zur historischen Raumforschung.</p>
+<p>Niklaus Stettler, geboren 1957, Studium der Geschichte und Soziologie mit Promotion, 2003–2022 Professor, ab 2009 Leiter des Schweizerischen Instituts für Informationswissenschaft der FH Graubünden. Co-Autor von ‹Baumwolle, Sklaven und Kredite› (Merian Verlag 2004).</p>
+<p>Yiğit Topkaya, geboren 1977, Studium der Geschichte und Philosophie unter anderem in Basel, 2011 Promotion. Publikationen zur Basler und Schweizer Textilindustrie, zu Urbanisierung und Raumplanung sowie zur Religions- und Reformationsgeschichte.</p>
+<p>Gerhard Vinken, geboren 1961, Prof. Dr., Kunsthistoriker, seit 2012 Inhaber des Lehrstuhls für Denkmalpflege an der Otto-Friedrich-Universität Bamberg. Gründungsmitglied des Bamberger Kompetenzzentrums für Denkmalpflege und Denkmalwissenschaften (KDWT).</p>
+<p>Jakob Weber, geboren 1992, Studium der Soziologie und Geschichte an der Universität Basel und der University of Warwick. Laufende Dissertation an der Universität Bern im Rahmen des SNF-Projekts ‹The Inheritance of Looting: Medieval Trophies to Modern Museums›.</p>
 <h2>Dank</h2>
 <p>Wir bedanken uns herzlich bei allen, die diesen Band inhaltlich bereichert, kritisch begleitet und wohlwollend gefördert haben. Bei den ersten Überlegungen zur Konzeption und Anlage des Bandes haben Benjamin Schenk und Barbara Piatti uns einen inspirierenden Input geschenkt. Einen ebenfalls frühen Beitrag zur Gesamtkonzeption hat Patrick Marcolli geleistet. Mit seiner Expertise zur Vormoderne, zur Mediengeschichte und zum Konzept Raum hat Marcus Sandl in einer ersten Phase der Überarbeitung einen wichtigen Beitrag zum Bandkonzept geleistet. Am Ende der inhaltlichen Produktionsphase steuerten Alexandra Binnenkade und erneut Benjamin Schenk ihr kritisch-gehaltvolles Feedback bei. Sehr wertvoll für uns war ferner die Unterstützung bei der Organisation und Koordination durch Nathalie Baumann. Ihnen allen möchten wir unseren herzlichen Dank aussprechen. Für wichtige Inputs zu Inhalt, Konzeption und Methodik danken wir Ruth Ammann, Caroline Arni, Yvonne Boerlin-Brodbeck, Dorothee Huber, Madeleine Imhof, Isabel Koellreuter, Patrick Kury, Martin Möhle, Lukas Ott, Noah Regenass, André Salvisberg, Franziska Schürch, Dominik Sieber, Claudius Sieber-Lehmann und Klaus Spechtenhauser. Nicole Lachenmeier und Darjan Hil von Superdot Studio danken wir für den Austausch zu Infografik und der Binnenstrukturierung des Buchs. Für die wissenschaftliche Begutachtung, die alle Texte noch einmal bereichert hat, danken wir herzlichst allen internen und externen Fachreferent:innen: Céline Angehrn, Silvia Berger Ziauddin, Tobias Ehrenbold, Gisela Hürlimann, Hans-Jörg Gilomen, Silas Gusset, Carola Jäggi, Robert Labhardt, Anna Leyrer, Jan-Friedrich Missfelder, Maurus Reinkowski, Tilo Richter, Markus Ritter, Carla Roth, Marcus Sandl, Joachim Schlör, Franziska Schürch, Daniel Sidler, Yiğit Topkaya und Christian Zumbrägel. Der Projektleitung von Stadt-Geschichte.Basel danken wir für die durchwegs wohlwollende Begleitung des Bandes. Patrick Kury hat uns seit Projektbeginn nach Kräften unterstützt. Der direkte Draht und der kurze Weg zur Projektleitung mit Lina Gafner (bis Juli 2022 mit Patrick Kury als Co-Projektleiterin tätig) war für uns gerade in der Anfangsphase sehr hilfreich. In der Produktionsphase sorgte Cristina Münch an der Schnittstelle zwischen Grafik, Verlag und Herausgeberschaft für das Gelingen des Bandes. Weiter geht unser Dank auch an das ganze erweiterte Team von Stadt.Geschichte.Basel, namentlich Nico Görlich, Sabina Lutz, Moritz Mähr und Moritz Twente sowie an Agnes Weidkuhn am Departement Geschichte für die Unterstützung bei der Finanzadministration. Auch im Namen aller Autor:innen danken wir den kompetenten Mitarbeitenden der Archive, Museen und Bibliotheken für ihre unverzichtbare Hilfe bei der Recherche, der Ausleihe oder Reproduktion von Unterlagen, insbesondere den Mitarbeitenden des Staatsarchivs Basel-Stadt, des Historischen Museums und der Universitätsbibliothek Basel. Den Mitherausgeber:innen der Stadt.Geschichte.Basel danken wir für die langjährige und kollegiale Zusammenarbeit und den fruchtbaren Austausch. Sie haben den Band kritisch, neugierig, aber stets wohlwollend begleitet. Ebenso danken wir dem Stiftungsrat für die vertrauensvolle Zusammenarbeit und das anhaltende Interesse für diesen etwas anders ausgerichteten Band. Für das erste Korrektorat, die Erstellung des Personenregisters und die sorgfältige Vorbereitung des Bildmaterials in Hinblick auf die Bildredaktion danken wir Marion Benz. Ihr Sinn für die Übersicht bei einer irrwitzigen Anzahl von Details ist unübertroffen. Für das ausgezeichnete und gehaltvolle Lektorat sowie das Schlusskorrektorat danken wir unserer Lektorin Rosmarie Anzenberger. Der Produktionsleiterin des Christoph Merian Verlag, Iris Becher, danken wir für ihre tatkräftige und umsichtige Unterstützung bei der Produktion des Bandes und dem Grafikbüro icona basel für die gelungene grafische Umsetzung, speziell die Bereitschaft, für diesen etwas anders ausgerichteten Band das Layout entsprechend anzupassen und weiterzuentwickeln.</p>
 </div>

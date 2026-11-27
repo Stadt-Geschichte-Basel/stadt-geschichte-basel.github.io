@@ -857,7 +857,8 @@ date-modified: last-modified
 <p>66 Bildarchiv Foto Marburg</p>
 <p>67 KHM-Museumsverband, Weltliche Schatzkammer, Inv. WS XIII 1</p>
 <p>68 ABBS, T22884, Foto Philippe Saurbeck</p>
-<p>69 Quelle: Matt/Rentzel 2002, S. 131–253 10.12685/jbab.2002.5-35; Andreas Kettner (GVA). Bearbeitung: Nico Görlich / Moritz Twente</p>
+<p>69 Quelle: Matt/Rentzel 2002, S. 131–253</p>
+<p>70 Quelle: OpenStreetMap, https://doi.org/10.12685/jbab.2002.5-35; Andreas Kettner (GVA). Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>71 ABBS, Christian Bing</p>
 <p>72 ABBS, T80059, Foto Christian Bing</p>
 <p>73 ABBS, T1939, Foto Philippe Saurbeck</p>
@@ -911,7 +912,7 @@ date-modified: last-modified
 <p>121 ABBS, T22935, Marco Bernasconi, archaeolab.ch</p>
 <p>122 UB Basel, UBH Schw Ml 4</p>
 <p>123 UB Basel, UBH C I 3, fol. 111v</p>
-<p>124 Quelle: NASA, SRTM, 2013; Bundesamt für Landestopografie swisstopo; OpenStreetBearbeitung: Nico Görlich / Moritz Twente</p>
+<p>124 Quelle: NASA, SRTM, 2013; Bundesamt für Landestopografie swisstopo; OpenStreetMap; https://doi.org/10.5169/seals-787278. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>125 Archäologie Werkstatt, Freiburg, Foto Christel Bücker</p>
 <p>126 Atelier van Akkeren für Kunst &amp; Geschichte, Kenzingen, Foto Hans-Jürgen van Akkeren</p>
 <p>127 Generallandesarchiv Karlsruhe, Hfk-Hs, Nr. 133, fol. 27r</p>
@@ -1341,99 +1342,23 @@ date-modified: last-modified
 <p>Zunzgen/BL 140</p>
 <p>Zurzach/AG 193</p>
 <h2>Autorinnen und Autoren</h2>
-<p>Marco Bernasconi, geboren 1978, lic. phil. I, Archäologe. Studium der Mittelalterarchäologie, Ge</p>
-<p>schichte und Kunstgeschichte des Mittelalters in Zürich. 2009−2018 Grabungs- und Projektleiter,</p>
-<p>seit 2019 Abteilungsleiter Ausgrabung in der Archäologischen Bodenforschung Basel-Stadt. For</p>
-<p>schungsschwerpunkte Stadtarchäologie und Sakralbauten, daneben diverse Arbeiten im Bereich</p>
-<p>digitale Rekonstruktionen für Museen unter anderem in Zürich, Aachen und Basel.</p>
-<p>Sven Billo, geboren 1988. Matur mit Schwerpunkt Latein am Gymnasium Muttenz 2007, Abschluss</p>
-<p>des Masterstudiums Archäologie und Geschichte an der Universität Basel 2016. Archäologe und</p>
-<p>stellvertretender Abteilungsleiter bei der Archäologischen Bodenforschung Basel-Stadt.</p>
-<p>Andrea Casoli, geboren 1983 in Locarno. Maturität 2003, Abschluss des Studiums der Altertums</p>
-<p>wissenschaften, Alten Geschichte und klassischen Archäologie an der Universität Basel 2011. Seit</p>
-<p>2013 immatrikuliert an der Universität Wien, Promotionsvorhaben zur Münzprägung unter Kaiser</p>
-<p>Nero, betreut von Prof. R. Wolters. Seit April 2020 Kurator des Münzkabinetts am Historischen</p>
-<p>Museum Basel. Verheiratet und Vater von zwei Kindern.</p>
-<p>Jürgen Dendorfer, geboren 1971 in Roding. 1992/93−1999 Studium der Geschichte und Germanis</p>
-<p>tik an den Universitäten Regensburg, München und Wien; 2002 Promotion (Prof. Dr. Stefan Wein</p>
-<p>furter), 2008 Habilitation (beides in München). Stipendiat der Studienstiftung des dt. Volkes (Pro</p>
-<p>motionsförderung); Wissenschaftlicher Mitarbeiter an der Ruprecht-Karls-Universität Heidelberg</p>
-<p>(1999/2000) und an der LMU München (2001−2004); im SFB 573 ‹Pluralisierung und Autorität in</p>
-<p>der Frühen Neuzeit›; an der LMU München; Lehrstuhl Spätmittelalter Prof. Dr. Claudia Märtl</p>
-<p>(2007−2008). Lehrstuhlvertretungen an der Ruprecht-Karls-Universität Heidelberg (WS 2008/09)</p>
-<p>und an der LMU München (SS 2009); Gastdozent am DHI in Rom (2009−2010); 2010−2011 Inhaber</p>
-<p>des Lehrstuhls (W 3) für Mittelalterliche Geschichte an der KU Eichstätt-Ingolstadt; ab 2010/11</p>
-<p>Inhaber des Lehrstuhls für Mittelalterliche Geschichte I und Direktor der Abteilung Landes</p>
-<p>geschichte an der Albert-Ludwigs-Universität Freiburg.</p>
-<p>Simon Erlanger, geboren 1965. Dr. phil. I, Historiker und Journalist. Studium der Geschichte des</p>
-<p>Mittelalters und der Neuzeit sowie Soziologie an der Universität Basel. Von 1993 bis 1996 Studium</p>
-<p>der jüdischen Geschichte an der Hebräischen Universität in Jerusalem und dort wissenschaft</p>
-<p>licher Mitarbeiter für jüdische Geschichte des Mittelalters am Forschungsprojekt ‹Germania</p>
-<p>Judaica›. Gleichzeitig Mitarbeiter von Yad Vashem. 1996−1999 Chefredaktor der schweizerisch-</p>
-<p>jüdischen Wochenzeitung ‹Jüdische Rundschau›. 1999−2006 Promotion an der Universität Basel</p>
-<p>bei Prof. Dr. Heiko Haumann mit einer im Archiv von Yad Vashem begonnenen Forschungsarbeit</p>
-<p>über Schweizer Arbeitslager von 1940 bis 1949. Lehr- und Forschungsbeauftragter für Judaistik</p>
-<p>und jüdische Geschichte am Institut für jüdisch-christliche Studien der Universität Luzern.</p>
-<p>Hans-Jörg Gilomen, geboren 1945. Studium der Geschichte, der Kunstgeschichte und der Histo</p>
-<p>rischen Hilfswissenschaften an der Universität Basel. Postgraduate Studies an der École des</p>
-<p>Hautes Études en Sciences Sociales in Paris (élève libre de Jacques Le Goff). 1988−2010 ordent</p>
-<p>licher Professor für Allgemeine und Schweizer Geschichte des Mittelalters sowie für mittelalter</p>
-<p>liche Wirtschafts- und Sozialgeschichte an der Universität Zürich.</p>
-<p>Roger Harmon, geboren 1953. Studium von Musikwissenschaft, Griechisch und Lateinisch. Unter</p>
-<p>richt am Peabody Conservatory, Baltimore, und an der Musikschule Luzern. Forschungsschwer</p>
-<p>punkte: Musikwissenschaft, Klassische Philologie, Kunstwissenschaft, Epigrafik (Dokumentation</p>
-<p>von jüdischen Grabsteinen und Friedhöfen von Mittelalter bis Neuzeit in der Schweiz und im</p>
-<p>Elsass).</p>
-<p>Stefan Hess, geboren 1965 in Basel. Maturität an der Kantonsschule Beromünster 1985. Studium</p>
-<p>der Geschichte, der Deutschen Literaturwissenschaft und der Kunstgeschichte an der Universität</p>
-<p>Basel. Promotion in Kunstgeschichte 2007. Leiter der Historischen Sammlung des Museums</p>
-<p>Aargau 2009−2012, Leiter des DISTL − Dichter:innen- und Stadtmuseums Liestal seit 2012.</p>
-<p>Sophie Hüglin, geboren 1965. Studium der Frühgeschichte, Keltologie und Geologie in Freiburg im</p>
-<p>Breisgau und Galway (Irland). Promotion zur Geschichte des Kachelofens. Langjährig Grabungs</p>
-<p>leiterin für die Archäologische Bodenforschung Basel-Stadt. Forschungen zur Mörtelherstellung</p>
-<p>im Mittelalter als Marie Curie-Fellow in Newcastle upon Tyne (GB) und mit SNF-Projekt im Kloster</p>
-<p>Müstair. Derzeit Vorbereitung eines Sammelbandes zu Inselklöstern im SFB RessourcenKulturen</p>
-<p>an der Universität Tübingen sowie Forschungen zur Geschichte der Basler Mission in Südindien.</p>
-<p>Heinz Krieg, geboren 1966. Abitur 1985, Studium von Mittelalterlicher sowie Neuerer und Neuester</p>
-<p>Geschichte und Philosophie. Promotion 1999. Akademischer Oberrat an der Abteilung Landes</p>
-<p>geschichte des Historischen Seminars der Albert-Ludwigs-Universität Freiburg im Breisgau.</p>
-<p>Reto Marti, geboren 1962. Altsprachliche Matur 1981, Studium von Ur- und Frühgeschichte, Mittel</p>
-<p>alterarchäologie und historischen Hilfswissenschaften an der Universität Basel. Promotion 1998.</p>
-<p>Kantonsarchäologe, Leiter von Archäologie und Museum und stellvertretender Leiter des Amts</p>
-<p>für Kultur des Kantons Basel-Landschaft. Zahlreiche Publikationen namentlich zur Archäologie</p>
-<p>der Spätantike und des Mittelalters.</p>
-<p>Christoph Matt, geboren 1953, aufgewachsen und wohnhaft in Basel/Birsfelden. Studium der</p>
-<p>ur- und frühgeschichtlichen Archäologie, Schweizer Geschichte (mit Mittelalterarchäologie) und</p>
-<p>Volkskunde in Basel. Ein Jahr Assistenz am Römermuseum Augst, langjährige Tätigkeit bei der</p>
-<p>Archäologischen Bodenforschung Basel-Stadt insbes. in den Bereichen Stadt und Mittelalter/</p>
-<p>Neuzeit.</p>
-<p>Jean-Claude Rebetez, geboren 1963. Studium an der Universität Neuenburg/Neuchâtel und an</p>
-<p>der École Nationale des Chartes (Paris). Lehrbeauftragter an der Universität Neuenburg</p>
-<p>1992−1993. Direktor der Archives de l’Ancien Évêché de Bâle (AAEB) seit 1993. Lehrbeauftragter</p>
-<p>für mittelalterliche Paläografie an der Universität Basel seit 2007. Veröffentlichungen zur Ge</p>
-<p>schichte des Jurabogens, des Oberrheins und der Basler Region, mit den Schwerpunkten Religi</p>
-<p>onsgeschichte, Politikgeschichte, Institutionengeschichte und Historische Hilfswissenschaften.</p>
-<p>Peter-Andrew Schwarz, geboren 1960. Seit 2010 Inhaber der vom Kanton Aargau mitfinanzierten</p>
-<p>Vindonissa-Professur für Provinzialrömische Archäologie an der Universität Basel. Zu den Schwer</p>
-<p>punkten in Forschung und Lehre gehören unter anderem die spätrepublikanischen und früh</p>
-<p>augusteischen Alpenfeldzüge Roms, die spätantike Grenzwehr am Hochrhein, die römischen Nek</p>
-<p>ropolen von Augusta Raurica (Augst/BL, Kaiseraugst/AG), Vindonissa (Brugg/AG, Windisch/AG)</p>
-<p>und die Gräberfelder im spätantiken Basilia beziehungsweise im frühmittelalterlichen Bazela.</p>
-<p>Claudius Sieber-Lehmann, geboren 1956. Altsprachliche Maturität 1975, Studium von Griechisch,</p>
-<p>Lateinisch, Deutsch und Geschichte. Promotion 1992, Habilitation 2002. Ausbildung zum Lehrer</p>
-<p>auf der Oberstufe, Unterricht in Teilzeit am Gymnasium Liestal von 1995 bis 2019. Professor eme</p>
-<p>ritus für Allgemeine Geschichte des Mittelalters und Schweizer Geschichte an der Universität</p>
-<p>Basel.</p>
-<p>Sabine Söll-Tauchert, geboren 1970. Studium der Kunstgeschichte, Französisch und Spanisch in</p>
-<p>Bonn, Marburg und Montpellier. Promotion 2006. 2002−2006 Volontariat und Projektleitung im</p>
-<p>Museum Kunstpalast Düsseldorf, seit 2007 im Historischen Museum Basel (HMB), Kuratorin der</p>
-<p>Kunsthistorischen Abteilung. Leitende Ausstellungskuratorin von ‹Gold &amp; Ruhm. Geschenke für</p>
-<p>die Ewigkeit› in Kooperation mit dem Musée de Cluny, Paris.</p>
-<p>Thomas Zotz, geboren 1944. Professor emeritus für Mittelalterliche Geschichte und Mittelalterli</p>
-<p>che Landesgeschichte des deutschsprachigen Südwestens an der Universität Freiburg im Breis</p>
-<p>gau. Abitur 1963, Studium von Geschichte, Latein, Geografie und Ur- und Frühgeschichte, Staats</p>
-<p>examen 1969, Promotion 1972, Wissenschaftlicher Mitarbeiter am Max-Planck-Institut für</p>
-<p>Geschichte in Göttingen von 1973 bis 1989.</p>
+<p>Marco Bernasconi, geboren 1978, lic. phil. I, Archäologe. Studium der Mittelalterarchäologie, Geschichte und Kunstgeschichte des Mittelalters in Zürich. 2009−2018 Grabungs- und Projektleiter, seit 2019 Abteilungsleiter Ausgrabung in der Archäologischen Bodenforschung Basel-Stadt. Forschungsschwerpunkte Stadtarchäologie und Sakralbauten, daneben diverse Arbeiten im Bereich digitale Rekonstruktionen für Museen unter anderem in Zürich, Aachen und Basel.</p>
+<p>Sven Billo, geboren 1988. Matur mit Schwerpunkt Latein am Gymnasium Muttenz 2007, Abschluss des Masterstudiums Archäologie und Geschichte an der Universität Basel 2016. Archäologe und stellvertretender Abteilungsleiter bei der Archäologischen Bodenforschung Basel-Stadt.</p>
+<p>Andrea Casoli, geboren 1983 in Locarno. Maturität 2003, Abschluss des Studiums der Altertumswissenschaften, Alten Geschichte und klassischen Archäologie an der Universität Basel 2011. Seit 2013 immatrikuliert an der Universität Wien, Promotionsvorhaben zur Münzprägung unter Kaiser Nero, betreut von Prof. R. Wolters. Seit April 2020 Kurator des Münzkabinetts am Historischen Museum Basel. Verheiratet und Vater von zwei Kindern.</p>
+<p>Jürgen Dendorfer, geboren 1971 in Roding. 1992/93−1999 Studium der Geschichte und Germanistik an den Universitäten Regensburg, München und Wien; 2002 Promotion (Prof. Dr. Stefan Weinfurter), 2008 Habilitation (beides in München). Stipendiat der Studienstiftung des dt. Volkes (Promotionsförderung); Wissenschaftlicher Mitarbeiter an der Ruprecht-Karls-Universität Heidelberg (1999/2000) und an der LMU München (2001−2004); im SFB 573 ‹Pluralisierung und Autorität in der Frühen Neuzeit›; an der LMU München; Lehrstuhl Spätmittelalter Prof. Dr. Claudia Märtl (2007−2008). Lehrstuhlvertretungen an der Ruprecht-Karls-Universität Heidelberg (WS 2008/09) und an der LMU München (SS 2009); Gastdozent am DHI in Rom (2009−2010); 2010−2011 Inhaber des Lehrstuhls (W 3) für Mittelalterliche Geschichte an der KU Eichstätt-Ingolstadt; ab 2010/11 Inhaber des Lehrstuhls für Mittelalterliche Geschichte I und Direktor der Abteilung Landesgeschichte an der Albert-Ludwigs-Universität Freiburg.</p>
+<p>Simon Erlanger, geboren 1965. Dr. phil. I, Historiker und Journalist. Studium der Geschichte des Mittelalters und der Neuzeit sowie Soziologie an der Universität Basel. Von 1993 bis 1996 Studium der jüdischen Geschichte an der Hebräischen Universität in Jerusalem und dort wissenschaftlicher Mitarbeiter für jüdische Geschichte des Mittelalters am Forschungsprojekt ‹Germania Judaica›. Gleichzeitig Mitarbeiter von Yad Vashem. 1996−1999 Chefredaktor der schweizerisch-jüdischen Wochenzeitung ‹Jüdische Rundschau›. 1999−2006 Promotion an der Universität Basel bei Prof. Dr. Heiko Haumann mit einer im Archiv von Yad Vashem begonnenen Forschungsarbeit über Schweizer Arbeitslager von 1940 bis 1949. Lehr- und Forschungsbeauftragter für Judaistik und jüdische Geschichte am Institut für jüdisch-christliche Studien der Universität Luzern.</p>
+<p>Hans-Jörg Gilomen, geboren 1945. Studium der Geschichte, der Kunstgeschichte und der Historischen Hilfswissenschaften an der Universität Basel. Postgraduate Studies an der École des Hautes Études en Sciences Sociales in Paris (élève libre de Jacques Le Goff). 1988−2010 ordentlicher Professor für Allgemeine und Schweizer Geschichte des Mittelalters sowie für mittelalterliche Wirtschafts- und Sozialgeschichte an der Universität Zürich.</p>
+<p>Roger Harmon, geboren 1953. Studium von Musikwissenschaft, Griechisch und Lateinisch. Unterricht am Peabody Conservatory, Baltimore, und an der Musikschule Luzern. Forschungsschwerpunkte: Musikwissenschaft, Klassische Philologie, Kunstwissenschaft, Epigrafik (Dokumentation von jüdischen Grabsteinen und Friedhöfen von Mittelalter bis Neuzeit in der Schweiz und im Elsass).</p>
+<p>Stefan Hess, geboren 1965 in Basel. Maturität an der Kantonsschule Beromünster 1985. Studium der Geschichte, der Deutschen Literaturwissenschaft und der Kunstgeschichte an der Universität Basel. Promotion in Kunstgeschichte 2007. Leiter der Historischen Sammlung des Museums Aargau 2009−2012, Leiter des DISTL − Dichter:innen- und Stadtmuseums Liestal seit 2012.</p>
+<p>Sophie Hüglin, geboren 1965. Studium der Frühgeschichte, Keltologie und Geologie in Freiburg im Breisgau und Galway (Irland). Promotion zur Geschichte des Kachelofens. Langjährig Grabungsleiterin für die Archäologische Bodenforschung Basel-Stadt. Forschungen zur Mörtelherstellung im Mittelalter als Marie Curie-Fellow in Newcastle upon Tyne (GB) und mit SNF-Projekt im Kloster Müstair. Derzeit Vorbereitung eines Sammelbandes zu Inselklöstern im SFB RessourcenKulturen an der Universität Tübingen sowie Forschungen zur Geschichte der Basler Mission in Südindien.</p>
+<p>Heinz Krieg, geboren 1966. Abitur 1985, Studium von Mittelalterlicher sowie Neuerer und Neuester Geschichte und Philosophie. Promotion 1999. Akademischer Oberrat an der Abteilung Landesgeschichte des Historischen Seminars der Albert-Ludwigs-Universität Freiburg im Breisgau.</p>
+<p>Reto Marti, geboren 1962. Altsprachliche Matur 1981, Studium von Ur- und Frühgeschichte, Mittelalterarchäologie und historischen Hilfswissenschaften an der Universität Basel. Promotion 1998. Kantonsarchäologe, Leiter von Archäologie und Museum und stellvertretender Leiter des Amts für Kultur des Kantons Basel-Landschaft. Zahlreiche Publikationen namentlich zur Archäologie der Spätantike und des Mittelalters.</p>
+<p>Christoph Matt, geboren 1953, aufgewachsen und wohnhaft in Basel/Birsfelden. Studium der ur- und frühgeschichtlichen Archäologie, Schweizer Geschichte (mit Mittelalterarchäologie) und Volkskunde in Basel. Ein Jahr Assistenz am Römermuseum Augst, langjährige Tätigkeit bei der Archäologischen Bodenforschung Basel-Stadt insbes. in den Bereichen Stadt und Mittelalter/ Neuzeit.</p>
+<p>Jean-Claude Rebetez, geboren 1963. Studium an der Universität Neuenburg/Neuchâtel und an der École Nationale des Chartes (Paris). Lehrbeauftragter an der Universität Neuenburg 1992−1993. Direktor der Archives de l’Ancien Évêché de Bâle (AAEB) seit 1993. Lehrbeauftragter für mittelalterliche Paläografie an der Universität Basel seit 2007. Veröffentlichungen zur Geschichte des Jurabogens, des Oberrheins und der Basler Region, mit den Schwerpunkten Religionsgeschichte, Politikgeschichte, Institutionengeschichte und Historische Hilfswissenschaften.</p>
+<p>Peter-Andrew Schwarz, geboren 1960. Seit 2010 Inhaber der vom Kanton Aargau mitfinanzierten Vindonissa-Professur für Provinzialrömische Archäologie an der Universität Basel. Zu den Schwerpunkten in Forschung und Lehre gehören unter anderem die spätrepublikanischen und frühaugusteischen Alpenfeldzüge Roms, die spätantike Grenzwehr am Hochrhein, die römischen Nekropolen von Augusta Raurica (Augst/BL, Kaiseraugst/AG), Vindonissa (Brugg/AG, Windisch/AG) und die Gräberfelder im spätantiken Basilia beziehungsweise im frühmittelalterlichen Bazela.</p>
+<p>Claudius Sieber-Lehmann, geboren 1956. Altsprachliche Maturität 1975, Studium von Griechisch, Lateinisch, Deutsch und Geschichte. Promotion 1992, Habilitation 2002. Ausbildung zum Lehrer auf der Oberstufe, Unterricht in Teilzeit am Gymnasium Liestal von 1995 bis 2019. Professor emeritus für Allgemeine Geschichte des Mittelalters und Schweizer Geschichte an der Universität Basel.</p>
+<p>Sabine Söll-Tauchert, geboren 1970. Studium der Kunstgeschichte, Französisch und Spanisch in Bonn, Marburg und Montpellier. Promotion 2006. 2002−2006 Volontariat und Projektleitung im Museum Kunstpalast Düsseldorf, seit 2007 im Historischen Museum Basel (HMB), Kuratorin der Kunsthistorischen Abteilung. Leitende Ausstellungskuratorin von ‹Gold &amp; Ruhm. Geschenke für die Ewigkeit› in Kooperation mit dem Musée de Cluny, Paris.</p>
+<p>Thomas Zotz, geboren 1944. Professor emeritus für Mittelalterliche Geschichte und Mittelalterliche Landesgeschichte des deutschsprachigen Südwestens an der Universität Freiburg im Breisgau. Abitur 1963, Studium von Geschichte, Latein, Geografie und Ur- und Frühgeschichte, Staatsexamen 1969, Promotion 1972, Wissenschaftlicher Mitarbeiter am Max-Planck-Institut für Geschichte in Göttingen von 1973 bis 1989.</p>
 <h2>Dank</h2>
 <p>Der vorliegende Band ist das Ergebnis einer mehrjährigen Teamarbeit, für die wir vorab allen beteiligten Autor:innen danken möchten, namentlich Marco Bernasconi, Sven Billo, Andrea Casoli, Jürgen Dendorfer, Simon Erlanger, Hans-Jörg Gilomen, Roger Harmon, Stefan Hess, Sophie Hüglin, Heinz Krieg, Reto Marti, Christoph Matt, Jean-Claude Rebetez, Sabine Söll-Tauchert und Thomas Zotz. Ihr herausragendes Fachwissen erweiterte unsere Kenntnisse über die Basler Frühzeit entscheidend und ermöglichte einen vielgestaltigen, multidisziplinären Zugang zum Zeitraum zwischen 800 und dem Einzug König Rudolfs von Habsburg in Basel im Jahr 1273. Grossen Dank schulden wir aber auch verschiedenen anderen Personen, welche die Entstehung des vorliegenden Textes nicht nur begleiteten, sondern auch mit Rat und Tat unterstützten, so etwa Martin Allemann und Guido Lassau (Archäologische Bodenforschung des Kantons Basel-Stadt), Martin Möhle (Kantonale Denkmalpflege Basel-Stadt), Noah Regenass (Universitätsbibliothek Basel), Martin Sauter (Historisches Museum Basel), der Germanistin Johanna Thali (Solothurn) und Lucia Wick (Integrative Prähistorische und Naturwissenschaftliche Archäologie). In numismatischen Fragen berieten uns Rahel C. Ackermann (Inventar der Fundmünzen der Schweiz Bern), Claudia Gamma (Departement Altertumswissenschaften) und Benedikt Zäch (Münzkabinett Winterthur). Nico Görlich und Moritz Twente verdanken wir die umsichtig gestalteten Karten und Pläne, Katharina Marti und Christoph Gysin (icona basel) das ansprechende Layout. Iris Becher und das Team des Christoph Merian Verlags haben uns in allen Phasen der Entstehung des Bandes unterstützt. Cristina Münch, Co-Projektleiterin von Stadt.Geschichte.Basel, sicherte die Schnittstelle zwischen Band 2 und der Projektleitung, dem Herausgebergremium, dem Stiftungsrat, dem Christoph Merian Verlag sowie den Institutionen, die uns Bildmaterial zur Verfügung gestellt haben. Sabina Lutz entlastete uns von verschiedenen administrativen Aufgaben und bildete die Schnittstelle zu Band 1. Das Lektorat und vor allem auch die Schlussredaktion lagen in den Händen von Doris Tranter. Ihre engagierte Mitarbeit war von unschätzbarem Wert und hat entscheidend dazu beigetragen, dass alle mit der Drucklegung zusammenhängenden Arbeiten rechtzeitig abgeschlossen werden konnten. Die Reise durch rund 500 Jahre Basler Geschichte hat uns viele schöne Überraschungen beschert und zahlreiche neue und unerwartete Perspektiven eröffnet. Wir hoffen, dass die Ergebnisse unseres mehrjährigen intensiven Austausches auch unsere Leser:innen erfreuen werden.</p>
 </div>

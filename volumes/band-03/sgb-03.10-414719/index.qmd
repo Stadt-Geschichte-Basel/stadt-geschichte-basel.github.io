@@ -26,7 +26,7 @@ other-links:
   href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/book/band3/chapter/311
 - text: PDF herunterladen
   icon: filetype-pdf
-  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band3/81/866
+  href: https://emono.unibas.ch/stadtgeschichtebasel/catalog/download/band3/81/2029
 language:
   section-title-footnotes: Anmerkungen
 date-modified: last-modified
@@ -513,7 +513,7 @@ date-modified: last-modified
 <p>54 HMB, Inv. 1981.88., Foto Peter Portner</p>
 <p>55 HMB, Inv. 1882.87., Foto Peter Portner</p>
 <p>56 KMB, Inv. 1676</p>
-<p>57 Quelle: https://opendata.swiss/de/dataset/ situationsplan-1862. Bearbeitung: Roger Harmon / Nico Görlich / Moritz Twente</p>
+<p>57 Quelle: https://opendata.swiss/de/dataset/situationsplan-1862. Bearbeitung: Roger Harmon / Nico Görlich / Moritz Twente</p>
 <p>58 Bayerische Staatsbibliothek, Rar. 855#Beibd.1, B.I, fol. 56v</p>
 <p>59 Stadt Zürich, Amt für Städtebau, Stadtarchäologie</p>
 <p>60 HMB, Inv. 1939.374–384., Foto Natascha Jansen</p>
@@ -566,7 +566,7 @@ date-modified: last-modified
 <p>107 Quelle: NASA, SRTM, 2013; Rippmann 2001, S. 199. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>108 Generallandesarchiv Karlsruhe, Hfk-Hs Nr. 133, 6, fol. 27r</p>
 <p>109 Kantonale Denkmalpflege Basel-Stadt, Foto Peter Schulthess</p>
-<p>110 Luzern, Korporation Luzern, S 23 fol., p. 427 – Illustrated Chronicle by Diebold Schilling of Lucerne (Luzerner Schillling), http:// www.e-codices.ch/en/kol/S0023-2/427/0</p>
+<p>110 Luzern, Korporation Luzern, S 23 fol., p. 427 – Illustrated Chronicle by Diebold Schilling of Lucerne (Luzerner Schillling), http://www.e-codices.ch/en/kol/S0023-2/427/0</p>
 <p>111 StABS, St. Urk. 329</p>
 <p>112 Quelle: https://srtm.csi.cgiar.org/; BUB, Bde. 4, 6, 8; Trouillat 1852–1867. Bearbeitung: Nico Görlich / Moritz Twente</p>
 <p>113 KMB, Inv. 1923.140</p>
@@ -1130,50 +1130,13 @@ date-modified: last-modified
 <p>Zurzach 203, 205, 216</p>
 <p>Zwingen 205</p>
 <h2>Autorinnen und Autoren</h2>
-<p>Andreas Berger studierte Geschichte und Englisch und promovierte an der Universität Basel zu</p>
-<p>einer Arbeit über die Präsenz des Jüdischen in seiner physischen Absenz im frühneuzeitlichen</p>
-<p>Basel. Als SNF-Stipendiat war er von 2022 bis 2023 als Visiting Fellow an der Yale University tätig.</p>
-<p>Seit 2024 forscht er an der Universität Bern zur indirekten Selbsttötung in der Frühen Neuzeit</p>
-<p>sowie zum humanistischen Interesse an jüdischen und hebräischen Inschriften. Jüngste Publika</p>
-<p>tionen: ‹Stadt ohne Juden? Präsenz und Absenz in der Frühen Neuzeit› (Basel 2023) sowie ‹Bodies</p>
-<p>in Pain. Early Modern Suicide by Proxy› (Oxford 2024).</p>
-<p>Lucas Burkart ist seit 2012 Professor für Geschichte an der Universität Basel. Forschungsinteres</p>
-<p>sen umfassen die Kultur- und Verflechtungsgeschichte in Mittelalter und Renaissance, die Ge</p>
-<p>schichte materieller Kulturen sowie der Renaissancehistoriografie. Derzeit betreut er die kritische</p>
-<p>Ausgabe der Werke von Jacob Burckhardt. Jüngste Publikationen: ‹Materialized Identities. Ob</p>
-<p>jects, Affects and Effects in Early Modern Culture, 1450–1750› (Amsterdam 2021) sowie ‹Burck</p>
-<p>hardt. Renaissance. Erkundungen und Relektüren eines Klassikers› (Göttingen 2021). Laufende</p>
-<p>Forschungsprojekte: ‹Ökonomien des Raums. Praktiken, Diskurse und Akteure auf dem Basler</p>
-<p>Immobilienmarkt (1400–1700)› sowie ‹Digitales Schaudepot. #Digitale Kuration #Technologien</p>
-<p>#Storytelling›.</p>
-<p>Benjamin Hitz studierte Geschichte in Lausanne und promovierte in Luzern mit einer Arbeit zum</p>
-<p>eidgenössischen Solddienst im 16. Jahrhundert. In seiner in Basel eingereichten Habilitations</p>
-<p>schrift beschäftigte er sich mit Schuldennetzwerken und städtischer Ökonomie im Basel des</p>
-<p>15. Jahrhunderts. Seit 2021 ist er Privatdozent und wissenschaftlicher Mitarbeiter an der Universi</p>
-<p>tät Basel. Jüngste Publikationen: ‹Ein Netz von Schulden. Schuldbeziehungen und Gerichtsnut</p>
-<p>zung im spätmittelalterlichen Basel› (Stuttgart 2022) sowie ‹Risikokapital und Schuldenberge.</p>
-<p>Drucker und Papiermacher im spätmittelalterlichen Basel als Handwerker und Unternehmer›, in:</p>
-<p>‹Sebastian Brant, das «Narrenschiff» und der frühe Buchdruck in Basel› (Basel 2023).</p>
-<p>Pia Kamber arbeitet als Kuratorin der Archäologischen Abteilung im Historischen Museum Basel.</p>
-<p>Neben der wissenschaftlichen Betreuung einer umfangreichen Sammlung konzipiert sie Ausstel</p>
-<p>lungen und Ausstellungskataloge zur Stadtgeschichte Basels. Sie hat Ur- und Frühgeschichte und</p>
-<p>Mittelalterarchäologie an der Universität Basel studiert und dort auch das Nachdiplomstudium</p>
-<p>Kulturmanagement abgeschlossen.</p>
-<p>Christoph Philipp Matt, geboren 1953, ist aufgewachsen und lebt in Basel/Birsfelden. Studium</p>
-<p>der ur- und frühgeschichtlichen Archäologie, Schweizer Geschichte (mit Mittelalterarchäologie)</p>
-<p>und Volkskunde in Basel. Ein Jahr Assistenz am Römermuseum Augst, langjährige Tätigkeit bei</p>
-<p>der Archäologischen Bodenforschung Basel-Stadt insbesondere in den Bereichen Stadt und Mit</p>
-<p>telalter/Neuzeit.</p>
-<p>Claudia Moddelmog hat Mittelalterliche Geschichte und Philosophie in Berlin studiert und mit</p>
-<p>einer Arbeit über ‹Königliche Stiftungen des Mittelalters und ihre Wirklichkeiten› promoviert.</p>
-<p>Nach Forschungen zur Weitergabe von Erb- und Ehegütern in der adlig-eidgenössischen Aristo</p>
-<p>kratie im 14. Jahrhundert ist sie zu Stadt.Geschichte.Basel gestossen und arbeitet inzwischen als</p>
-<p>freie Historikerin. Ausgewählte Publikationen: ‹Zürich 1218 – Ferner Anfang der Gegenwart› (2018,</p>
-<p>https://www.stadt-zuerich.ch/zuerich1218) und ‹Königsfelden. Königsmord, Kloster, Klinik› (Zürich</p>
-<p>2012).</p>
-<p>Oliver Wetter, assoziierter Forscher an der Abteilung Wirtschafts-, Sozial- und Umweltgeschichte</p>
-<p>der Universität Bern. Arbeitsschwerpunkte sind historische Klimatologie und Risikoanalyse im</p>
-<p>Zusammenhang mit dem aktuellen Klimawandel.</p>
+<p>Andreas Berger studierte Geschichte und Englisch und promovierte an der Universität Basel zu einer Arbeit über die Präsenz des Jüdischen in seiner physischen Absenz im frühneuzeitlichen Basel. Als SNF-Stipendiat war er von 2022 bis 2023 als Visiting Fellow an der Yale University tätig. Seit 2024 forscht er an der Universität Bern zur indirekten Selbsttötung in der Frühen Neuzeit sowie zum humanistischen Interesse an jüdischen und hebräischen Inschriften. Jüngste Publikationen: ‹Stadt ohne Juden? Präsenz und Absenz in der Frühen Neuzeit› (Basel 2023) sowie ‹Bodies in Pain. Early Modern Suicide by Proxy› (Oxford 2024).</p>
+<p>Lucas Burkart ist seit 2012 Professor für Geschichte an der Universität Basel. Forschungsinteressen umfassen die Kultur- und Verflechtungsgeschichte in Mittelalter und Renaissance, die Geschichte materieller Kulturen sowie der Renaissancehistoriografie. Derzeit betreut er die kritische Ausgabe der Werke von Jacob Burckhardt. Jüngste Publikationen: ‹Materialized Identities. Objects, Affects and Effects in Early Modern Culture, 1450–1750› (Amsterdam 2021) sowie ‹Burckhardt. Renaissance. Erkundungen und Relektüren eines Klassikers› (Göttingen 2021). Laufende Forschungsprojekte: ‹Ökonomien des Raums. Praktiken, Diskurse und Akteure auf dem Basler Immobilienmarkt (1400–1700)› sowie ‹Digitales Schaudepot. #Digitale Kuration #Technologien #Storytelling›.</p>
+<p>Benjamin Hitz studierte Geschichte in Lausanne und promovierte in Luzern mit einer Arbeit zum eidgenössischen Solddienst im 16. Jahrhundert. In seiner in Basel eingereichten Habilitationsschrift beschäftigte er sich mit Schuldennetzwerken und städtischer Ökonomie im Basel des 15. Jahrhunderts. Seit 2021 ist er Privatdozent und wissenschaftlicher Mitarbeiter an der Universität Basel. Jüngste Publikationen: ‹Ein Netz von Schulden. Schuldbeziehungen und Gerichtsnutzung im spätmittelalterlichen Basel› (Stuttgart 2022) sowie ‹Risikokapital und Schuldenberge. Drucker und Papiermacher im spätmittelalterlichen Basel als Handwerker und Unternehmer›, in: ‹Sebastian Brant, das «Narrenschiff» und der frühe Buchdruck in Basel› (Basel 2023).</p>
+<p>Pia Kamber arbeitet als Kuratorin der Archäologischen Abteilung im Historischen Museum Basel. Neben der wissenschaftlichen Betreuung einer umfangreichen Sammlung konzipiert sie Ausstellungen und Ausstellungskataloge zur Stadtgeschichte Basels. Sie hat Ur- und Frühgeschichte und Mittelalterarchäologie an der Universität Basel studiert und dort auch das Nachdiplomstudium Kulturmanagement abgeschlossen.</p>
+<p>Christoph Philipp Matt, geboren 1953, ist aufgewachsen und lebt in Basel/Birsfelden. Studium der ur- und frühgeschichtlichen Archäologie, Schweizer Geschichte (mit Mittelalterarchäologie) und Volkskunde in Basel. Ein Jahr Assistenz am Römermuseum Augst, langjährige Tätigkeit bei der Archäologischen Bodenforschung Basel-Stadt insbesondere in den Bereichen Stadt und Mittelalter/Neuzeit.</p>
+<p>Claudia Moddelmog hat Mittelalterliche Geschichte und Philosophie in Berlin studiert und mit einer Arbeit über ‹Königliche Stiftungen des Mittelalters und ihre Wirklichkeiten› promoviert. Nach Forschungen zur Weitergabe von Erb- und Ehegütern in der adlig-eidgenössischen Aristokratie im 14. Jahrhundert ist sie zu Stadt.Geschichte.Basel gestossen und arbeitet inzwischen als freie Historikerin. Ausgewählte Publikationen: ‹Zürich 1218 – Ferner Anfang der Gegenwart› (2018, https://www.stadt-zuerich.ch/zuerich1218) und ‹Königsfelden. Königsmord, Kloster, Klinik› (Zürich 2012).</p>
+<p>Oliver Wetter, assoziierter Forscher an der Abteilung Wirtschafts-, Sozial- und Umweltgeschichte der Universität Bern. Arbeitsschwerpunkte sind historische Klimatologie und Risikoanalyse im Zusammenhang mit dem aktuellen Klimawandel.</p>
 <h2>Dank</h2>
 <p>Bei der Arbeit an diesem Band haben wir von sehr vielen Menschen Unterstützung erhalten. Über ein Jahr lang hat Michael Jucker als Mitarbeiter des Teams von Band 3 massgeblich an der Konzeption des Bandes mitgearbeitet, viele Vorarbeiten geleistet und auch noch Rückmeldung zu Entwürfen gegeben, nachdem er das Team verlassen hatte. Sehr wichtig für uns war auch Christoph Matt, der sich immer wieder mit uns zusammengesetzt und seine archäologische Expertise eingebracht hat. Für Gespräche über die Anlage des Bandes, für die kritische Lektüre einzelner Passagen oder Kapitel, für Hinweise auf Literatur, uns überlassene Daten und technische Unterstützung danken wir: Nathalie Büsser, Lina Gafner, Hans-Jörg Gilomen, Elsanne Gilomen-Schenkel, Roger Harmon, Iris Holzwart-Schäfer, Ludolf Kuchenbuch, Frank Löbbecke, Jeremias Moddelmog, Martin Möhle, Marcel Müllerburg, Alexandra Nørgaard, Conradin von Planta, Thomas Raoseta, Marcus Sandl, Daniel Sidler, Claudius Sieber-Lehmann, Beat von Scarpatetti, Martin Steinmann und Stefan Jon Tramèr. Für viele kollegiale Gespräche danken wir dem gesamten Team von Stadt. Geschichte.Basel. Die Mitglieder der Projektleitung, Lina Gafner, Patrick Kury, Moritz Mähr und Cristina Münch, haben uns beständig im Hintergrund unterstützt und den Austausch im Gesamtprojekt mit guten Gesprächsformaten am Laufen gehalten. Die Herausgeber:innen haben uns über den Tellerrand unseres Bandes sowie des darin untersuchten Zeitraums blicken lassen, uns inspiriert und auf Kurs gehalten. Unverzichtbar waren uns Rat und Hilfe, die uns die Mitarbeiterinnen und Mitarbeiter von Archiven, Bibliotheken, Museen und anderen Institutionen gewährt haben – mit Gesprächen, Recherchen und der Bereitstellung von Materialien. Wir danken: Esther Baur und dem Team des Staatsarchivs Basel, Ueli Dill für die Universitätsbibliothek Basel, Andrea Casoli, Pia Kamber, Gudrun Piller, Margret Ribbert, Sabine Söll und Daniel Suter (Historisches Museum Basel), Marco Bernasconi, Guido Lassau, Norbert Spichtig (Archäologische Bodenforschung), Frank Löbbecke und Martin Möhle (Kantonale Denkmalpflege Basel-Stadt). Wir danken Rosmarie Anzenberger für ihr treffsicheres Lektorat, Iris Becher und dem Christoph Merian Verlag für die umsichtige Unterstützung bei der Gestaltung und Drucklegung des Bandes. Seitens der Projektleitung hat Cristina Münch die Produktion des Bandes mit grosser Sorgfalt begleitet. Nico Görlich und Moritz Twente haben uns bei der Erstellung der Karten und Infografiken unterstützt. Ihnen allen möchten wir herzlich danken.</p>
 </div>
